@@ -22,4 +22,4 @@ if __name__ == "__main__":
     wget_files(sys.argv[1], sys.argv[2], sys.argv[3])
     
     subprocess.call(['chmod', 'a+x', 'pullFiles.sh'])
-    subprocess.call(['./pullFiles.sh', sys.argv[1]])
+    subprocess.call(['./extractFiles.sh', sys.argv[1]])
