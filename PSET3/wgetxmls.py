@@ -21,5 +21,5 @@ if __name__ == "__main__":
     subprocess.call(['mkdir', 'baileyfiles/trialzips'])
     wget_files(sys.argv[1], sys.argv[2], sys.argv[3])
     
-    subprocess.call(['chmod', 'a+x', 'pullFiles.sh'])
+    subprocess.call(['chmod', 'a+x', 'extractFiles.sh'])
     subprocess.call(['./extractFiles.sh', sys.argv[1]])
