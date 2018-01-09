@@ -10,6 +10,8 @@ import time
 
 mainoutdirname = './baileyfiles/'
 
+# This function pulls all xml files for the date range specified by the user
+# into a directory headed by that decade name, e.g. baileyfiles/1750s-trialxmls/ 
 def get_xmls(start, end, outdirname, num_files=100, timeout=None):
     if os.path.exists(outdirname) == 0:
         os.mkdir(outdirname)
@@ -22,24 +24,31 @@ def get_xmls(start, end, outdirname, num_files=100, timeout=None):
                         + '0114&term1=todate_' + end + '1216&count=10&start=' \
                         + str(x+1) + '&return=zip\n'
         wgets.append(geturl)
+    
+    # old way - wget files from txt file, BAD
     #filename = mainoutdirname + 'wget' + start + 's.txt'
     #with open(filename,'w') as f:
     #   f.write(wgets)
     
+    #broken -> not recognizing zip file
     for url in wgets:
-        r = requests.get(url)
-        z = zipfile.ZipFile(io.BytesIO(r.content))
-        z.extractall(indirname)
-        time.sleep(0.1)
-        
+        response = urlopen(url)
+        with open("temp.zip", "wb") as f:
+            f.write(response.read())
+            
+        with open("temp.zip", "rb") as f:
+            z = zipfile.ZipFile(f)
+            z.extractall(indirname)
+            time.sleep(0.1)
 
-def extract_files(decade, outdirname):
+def natural_sort_key(s, _nsre=re.compile('([0-9]+)')):
+    return [int(text) if text.isdigit() else text.lower()
+            for text in re.split(_nsre, s)]
+
+def process_xmls(decade, outdirname):
     #mainoutdirname = '../baileyfiles/'
-    #indirname = outdirname + decade + 's-trialxmls/'
-    
-    if os.path.exists(outdirname) == 0:
-        os.mkdir(mainoutdirname)
-    
+    indirname = outdirname + decade + 's-trialxmls/'
+   
     indvtrialdirname = outdirname + '/'+ decade +'s-trialtxts/'
     if os.path.exists(indvtrialdirname) == 0:
         os.mkdir(indvtrialdirname)

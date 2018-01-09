@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-9">
+               <interp inst="t17500117-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-9" type="year" value="1750"></interp>
+               <interp inst="t17500117-9" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-9" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-9-off36-c66" targOrder="Y" targets="t17500117-9-defend85 t17500117-9-off36 t17500117-9-verdict38"></join>
+         
+               <p>120. 
+               
+                  <persName id="t17500117-9-defend85" type="defendantName">
+                     Thomas 
+                     Chessam 
+                  <interp inst="t17500117-9-defend85" type="surname" value="Chessam"></interp>
+                     <interp inst="t17500117-9-defend85" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-9-defend85" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-9-off36" type="offenceDescription">
+                     <interp inst="t17500117-9-off36" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-9-off36" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three iron hoops, val. 2 s.
+            </rs> the goods of 
+               
+                  <persName id="t17500117-9-victim87" type="victimName">
+                     Benjamin 
+                     Freeman 
+                  <interp inst="t17500117-9-victim87" type="surname" value="Freeman"></interp>
+                     <interp inst="t17500117-9-victim87" type="given" value="Benjamin"></interp>
+                     <interp inst="t17500117-9-victim87" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17500117-9-victim89" type="victimName">
+                     Francis 
+                     Cooper 
+                  <interp inst="t17500117-9-victim89" type="surname" value="Cooper"></interp>
+                     <interp inst="t17500117-9-victim89" type="given" value="Francis"></interp>
+                     <interp inst="t17500117-9-victim89" type="gender" value="male"></interp>
+                  </persName>
+                
+            .</p>
+               <p>
+                  <rs id="t17500117-9-cd37" type="crimeDate">December 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-9-off36 t17500117-9-cd37"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-9-person90">
+                  Thomas 
+                  Sevil 
+               <interp inst="t17500117-9-person90" type="surname" value="Sevil"></interp>
+                     <interp inst="t17500117-9-person90" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-9-person90" type="gender" value="male"></interp>
+                  </persName>
+             deposed he met the Prisoner coming out of the prosecutor's yard with the three hoops upon him, and also that he confessed the fact, and that he had stole two there the day before.</p>
+               <p>
+                  <rs id="t17500117-9-verdict38" type="verdictDescription">
+                     <interp inst="t17500117-9-verdict38" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-9-verdict38" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-9-punish39" type="punishmentDescription">
+                     <interp inst="t17500117-9-punish39" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-9-defend85 t17500117-9-punish39"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

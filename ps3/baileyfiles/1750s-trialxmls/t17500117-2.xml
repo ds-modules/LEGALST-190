@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-2">
+               <interp inst="t17500117-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-2" type="year" value="1750"></interp>
+               <interp inst="t17500117-2" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-2" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-2-off5-c36" targOrder="Y" targets="t17500117-2-defend39 t17500117-2-off5 t17500117-2-verdict8"></join>
+               <join result="criminalCharge" id="t17500117-2-off5-c37" targOrder="Y" targets="t17500117-2-defend41 t17500117-2-off5 t17500117-2-verdict8"></join>
+         
+               <p>110, 111. 
+               
+                  <persName id="t17500117-2-defend39" type="defendantName">
+                     Nicholas 
+                     Bond 
+                  <interp inst="t17500117-2-defend39" type="surname" value="Bond"></interp>
+                     <interp inst="t17500117-2-defend39" type="given" value="Nicholas"></interp>
+                     <interp inst="t17500117-2-defend39" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17500117-2-defend41" type="defendantName">
+                     William 
+                     Heyden 
+                  <interp inst="t17500117-2-defend41" type="surname" value="Heyden"></interp>
+                     <interp inst="t17500117-2-defend41" type="given" value="William"></interp>
+                     <interp inst="t17500117-2-defend41" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <placeName id="t17500117-2-defloc4">late of Fulham</placeName>
+                  <interp inst="t17500117-2-defloc4" type="placeName" value="late of Fulham"></interp>
+                  <interp inst="t17500117-2-defloc4" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17500117-2-defend39 t17500117-2-defloc4"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17500117-2-defend41 t17500117-2-defloc4"></join>, were indicted for <rs id="t17500117-2-off5" type="offenceDescription">
+                     <interp inst="t17500117-2-off5" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-2-off5" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing eighteen iron bars, val. 3 l. fixed to the dwelling house
+            </rs> of 
+               
+                  <persName id="t17500117-2-victim43" type="victimName">
+                     Henry 
+                     Page 
+                  <interp inst="t17500117-2-victim43" type="surname" value="Page"></interp>
+                     <interp inst="t17500117-2-victim43" type="given" value="Henry"></interp>
+                     <interp inst="t17500117-2-victim43" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-2-off5 t17500117-2-victim43"></join>
+                  </persName>
+                
+            , <rs id="t17500117-2-viclabel6" type="occupation">Esq;</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-2-victim43 t17500117-2-viclabel6"></join> 
+                  <rs id="t17500117-2-cd7" type="crimeDate">Jan. 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-2-off5 t17500117-2-cd7"></join>.</p>
+               <p>The Prisoners were stopped in the fields with nine of the bars upon them; they confessed the other nine they had carried and hid in a lane where they were found.</p>
+               <p>Both <rs id="t17500117-2-verdict8" type="verdictDescription">
+                     <interp inst="t17500117-2-verdict8" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-2-punish9" type="punishmentDescription">
+                     <interp inst="t17500117-2-punish9" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-2-defend39 t17500117-2-punish9"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-2-defend41 t17500117-2-punish9"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

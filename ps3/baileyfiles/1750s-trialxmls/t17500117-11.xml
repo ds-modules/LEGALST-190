@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-11">
+               <interp inst="t17500117-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-11" type="year" value="1750"></interp>
+               <interp inst="t17500117-11" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-11" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-11-off44-c74" targOrder="Y" targets="t17500117-11-defend98 t17500117-11-off44 t17500117-11-verdict46"></join>
+         
+               <p>122. 
+               
+                  <persName id="t17500117-11-defend98" type="defendantName">
+                     William 
+                     Clark 
+                  <interp inst="t17500117-11-defend98" type="surname" value="Clark"></interp>
+                     <interp inst="t17500117-11-defend98" type="given" value="William"></interp>
+                     <interp inst="t17500117-11-defend98" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-11-off44" type="offenceDescription">
+                     <interp inst="t17500117-11-off44" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-11-off44" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one cheese 10 lb. 10 oz. wt. val. 2 s.
+            </rs> the goods of 
+               
+                  <persName id="t17500117-11-victim100" type="victimName">
+                     Edward 
+                     Dente 
+                  <interp inst="t17500117-11-victim100" type="surname" value="Dente"></interp>
+                     <interp inst="t17500117-11-victim100" type="given" value="Edward"></interp>
+                     <interp inst="t17500117-11-victim100" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17500117-11-victim102" type="victimName">
+                     James 
+                     Crawforth 
+                  <interp inst="t17500117-11-victim102" type="surname" value="Crawforth"></interp>
+                     <interp inst="t17500117-11-victim102" type="given" value="James"></interp>
+                     <interp inst="t17500117-11-victim102" type="gender" value="male"></interp>
+                  </persName>
+                
+            .</p>
+               <p>
+                  <rs id="t17500117-11-cd45" type="crimeDate">January 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-11-off44 t17500117-11-cd45"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-11-person103">
+                  Joshua 
+                  Martine 
+               <interp inst="t17500117-11-person103" type="surname" value="Martine"></interp>
+                     <interp inst="t17500117-11-person103" type="given" value="Joshua"></interp>
+                     <interp inst="t17500117-11-person103" type="gender" value="male"></interp>
+                  </persName>
+            , a shoemaker, deposed, he was sitting at work next door to the prosecutor's shop, and saw the Prisoner take the cheese out of the window, went after him and took him, and the cheese upon him, and that the Prisoner desired he would take the cheese and let him go.</p>
+               <p>
+                  <rs id="t17500117-11-verdict46" type="verdictDescription">
+                     <interp inst="t17500117-11-verdict46" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-11-punish47" type="punishmentDescription">
+                     <interp inst="t17500117-11-punish47" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-11-defend98 t17500117-11-punish47"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

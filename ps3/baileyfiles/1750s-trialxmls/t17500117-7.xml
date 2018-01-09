@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-7">
+               <interp inst="t17500117-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-7" type="year" value="1750"></interp>
+               <interp inst="t17500117-7" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-7" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-7-off27-c54" targOrder="Y" targets="t17500117-7-defend69 t17500117-7-off27 t17500117-7-verdict29"></join>
+         
+               <p>118. 
+               <persName id="t17500117-7-defend69" type="defendantName">
+                  Jane, <rs id="t17500117-7-deflabel26" type="occupation">the wife of 
+                        <persName id="t17500117-7-person70">
+                           John 
+                           Holmes 
+                        <interp inst="t17500117-7-person70" type="surname" value="Holmes"></interp>
+                           <interp inst="t17500117-7-person70" type="given" value="John"></interp>
+                           <interp inst="t17500117-7-person70" type="gender" value="male"></interp>
+                        </persName>
+                     
+                     </rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17500117-7-defend69 t17500117-7-deflabel26"></join>
+                     <interp inst="t17500117-7-defend69" type="surname" value="Holmes"></interp>
+                     <interp inst="t17500117-7-defend69" type="given" value="Jane"></interp>
+                     <interp inst="t17500117-7-defend69" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17500117-7-off27" type="offenceDescription">
+                     <interp inst="t17500117-7-off27" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-7-off27" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one pair of stays, val 5 s. one cotton gown, val. 5 s. two silver tea spoons, val. 1 s. three linnen shirts, val. 3 s. and other things, to the amount of 16 s
+            </rs> the goods of 
+               
+                  <persName id="t17500117-7-victim72" type="victimName">
+                     John 
+                     Mitchel 
+                  <interp inst="t17500117-7-victim72" type="surname" value="Mitchel"></interp>
+                     <interp inst="t17500117-7-victim72" type="given" value="John"></interp>
+                     <interp inst="t17500117-7-victim72" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-7-off27 t17500117-7-victim72"></join>
+                  </persName>
+                
+            .</p>
+               <p>
+                  <rs id="t17500117-7-cd28" type="crimeDate">Jan. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-7-off27 t17500117-7-cd28"></join>.</p>
+               <rs id="t17500117-7-verdict29" type="verdictDescription">
+                  <interp inst="t17500117-7-verdict29" type="verdictCategory" value="guilty"></interp>
+                  <interp inst="t17500117-7-verdict29" type="verdictSubcategory" value="pleadedGuilty"></interp>
+            
+                  <p>The Prisoner confessed the taking the things mentioned, before the prosecutor's wife, and 
+                     <persName id="t17500117-7-person73">
+                        George 
+                        Warding 
+                     <interp inst="t17500117-7-person73" type="surname" value="Warding"></interp>
+                        <interp inst="t17500117-7-person73" type="given" value="George"></interp>
+                        <interp inst="t17500117-7-person73" type="gender" value="male"></interp>
+                     </persName>
+                   the constable; some were found upon her, others where she said she had pawned them.</p>
+                  <p>Guilty.</p>
+            
+               </rs>
+               <p>
+                  <rs id="t17500117-7-punish30" type="punishmentDescription">
+                     <interp inst="t17500117-7-punish30" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-7-defend69 t17500117-7-punish30"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
