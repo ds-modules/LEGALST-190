@@ -27,14 +27,8 @@ def make_table(decade):
         row_info = dict()
         with open(path + file, 'r') as html:
             html_file = html.read()
-            soup = BeautifulSoup(html_file, 'html.parser')
-            
-            for tag in soup.find_all('rs'):
-                if len(tag.contents) > 1:
-                    for child in tag.children:
-                        if type(child) == type(tag):
-                            if child.has_attr('type'):
-                                row_info[child['type']] = child['value']                         
+            soup = BeautifulSoup(html_file, 'html.parser') 
+            #print(soup)
             
             for tag in soup.find_all('persname'):
                 if tag.has_attr('type'):
@@ -44,9 +38,21 @@ def make_table(decade):
                                 gender = child['value']                                
                     name = tag.text.replace('\n', '').split()
                     tagName = tag['type'].replace('Name', '')
+                    
                     row_info[tagName + ' given'] = name[0]
                     row_info[tagName + ' surname'] = name[1]
-                    row_info[tagName + ' gender'] = gender    
+                    row_info[tagName + ' gender'] = gender
+            
+            for tag in soup.find_all('rs'):
+                if len(tag.contents) > 1:
+                    for child in tag.children:
+                        if type(child) == type(tag):
+                            if child.has_attr('type'):
+                                try:
+                                    row_info[child['type']] = child['value']
+                                except:
+                                    continue
+
 
             for tag in soup.find_all('interp')[:4]:
                 row_info[tag['type']] = tag['value']
