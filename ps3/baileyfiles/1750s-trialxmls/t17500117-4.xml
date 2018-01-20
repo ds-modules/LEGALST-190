@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-4">
+               <interp inst="t17500117-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-4" type="year" value="1750"></interp>
+               <interp inst="t17500117-4" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-4" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-4-off13-c44" targOrder="Y" targets="t17500117-4-defend51 t17500117-4-off13 t17500117-4-verdict16"></join>
+         
+               <p>113. 
+               <persName id="t17500117-4-defend51" type="defendantName">
+                  
+                     Elizabeth 
+                     Wanless 
+                  , otherwise <rs id="t17500117-4-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17500117-4-defend51 t17500117-4-alias-1"></join>Newbey</rs>
+                     <interp inst="t17500117-4-defend51" type="surname" value="Wanless"></interp>
+                     <interp inst="t17500117-4-defend51" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500117-4-defend51" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17500117-4-deflabel12" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-4-defend51 t17500117-4-deflabel12"></join>, was indicted for <rs id="t17500117-4-off13" type="offenceDescription">
+                     <interp inst="t17500117-4-off13" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-4-off13" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two linnen sheets, val. 6 s. one linnen apron, val. 3 s. one pair of long lawn ruffles, val. 2 s. one linnen shift, val. 2 s. two diaper table cloths, val. 2 s. and other things
+            </rs>, the goods of 
+               
+                  <persName id="t17500117-4-victim54" type="victimName">
+                     Thomas 
+                     Broadhurst 
+                  <interp inst="t17500117-4-victim54" type="surname" value="Broadhurst"></interp>
+                     <interp inst="t17500117-4-victim54" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-4-victim54" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-4-off13 t17500117-4-victim54"></join>
+                  </persName>
+                
+            .</p>
+               <p>
+                  <rs id="t17500117-4-cd14" type="crimeDate">October 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-4-off13 t17500117-4-cd14"></join>.</p>
+               <p>The Prisoner had lived <rs id="t17500117-4-deflabel15" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-4-defend51 t17500117-4-deflabel15"></join> with the prosecutor, and had took these things away at divers times, some of them were found upon her, and same pawned,<xptr type="pageFacsimile" doc="175001170003"></xptr> which by her directions were found, she confessed it before 
+               <persName id="t17500117-4-person55">
+                  Abraham 
+                  Wills 
+               <interp inst="t17500117-4-person55" type="surname" value="Wills"></interp>
+                     <interp inst="t17500117-4-person55" type="given" value="Abraham"></interp>
+                     <interp inst="t17500117-4-person55" type="gender" value="male"></interp>
+                  </persName>
+             the constable.</p>
+               <p>
+                  <rs id="t17500117-4-verdict16" type="verdictDescription">
+                     <interp inst="t17500117-4-verdict16" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-4-punish17" type="punishmentDescription">
+                     <interp inst="t17500117-4-punish17" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-4-defend51 t17500117-4-punish17"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -139,3 +139,43 @@ def process_xmls(decade, outdirname):
     trialdict_fn = mainoutdirname + 'trialdict.json'
     with open(trialdict_fn, 'w') as f3:
         json.dump(trial_dict,f3, sort_keys=True, indent=None,separators=(',', ': '))
+            
+"""
+def make_table(decade):
+    path = mainoutdirname + decade + "-trialxmls/"
+    xmls = os.listdir(path)
+    rows = []
+    for file in xmls:
+        row_info = dict()
+        with open(path + file, 'r') as html:
+            html_file = html.read()
+            soup = BeautifulSoup(html_file, 'html.parser')
+            
+            for tag in soup.find_all('rs'):
+                if len(tag.contents) > 1:
+                    for child in tag.children:
+                        if type(child) == type(tag):
+                            if child.has_attr('type'):
+                                row_info[child['type']] = child['value']                         
+            
+            for tag in soup.find_all('persname'):
+                if tag.has_attr('type'):
+                    for child in tag.children:
+                        if type(child) == type(tag):
+                            if child.has_attr('type') and child['type'] == 'gender':
+                                gender = child['value']                                
+                    name = tag.text.replace('\n', '').split()
+                    tagName = tag['type'].replace('Name', '')
+                    row_info[tagName + ' given'] = name[0]
+                    row_info[tagName + ' surname'] = name[1]
+                    row_info[tagName + ' gender'] = gender    
+            for tag in soup.find_all('interp')[:4]:
+                row_info[tag['type']] = tag['value']
+            
+            row_info['file name'] = file[:-4]
+            row_info['trial summary'] = re.sub(r'\s+', ' ', soup.p.text.replace('\n', ''))
+        
+        rows.append(row_info)
+    table = Table.from_records(rows)
+    return table
+"""
