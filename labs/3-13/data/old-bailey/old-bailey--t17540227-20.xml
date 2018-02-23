@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-20">
+               <interp inst="t17540227-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-20" type="year" value="1754"></interp>
+               <interp inst="t17540227-20" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-20" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-20-off105-c167" targOrder="Y" targets="t17540227-20-defend205 t17540227-20-off105 t17540227-20-verdict109"></join>
+               <join result="criminalCharge" id="t17540227-20-off106-c171" targOrder="Y" targets="t17540227-20-defend211 t17540227-20-off106 t17540227-20-verdict110"></join>
+         
+               <p>173, 174. (L.) 
+               
+                  <persName id="t17540227-20-defend205" type="defendantName">
+                     Thomas 
+                     Strong 
+                  <interp inst="t17540227-20-defend205" type="surname" value="Strong"></interp>
+                     <interp inst="t17540227-20-defend205" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-20-defend205" type="gender" value="male"></interp>
+                  </persName>
+                
+             was indicted for <rs id="t17540227-20-off105" type="offenceDescription">
+                     <interp inst="t17540227-20-off105" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-20-off105" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing eight bushels of malt, value 25 s. the property of 
+                     <persName id="t17540227-20-person206">
+                        William 
+                        Pearson 
+                     <interp inst="t17540227-20-person206" type="surname" value="Pearson"></interp>
+                        <interp inst="t17540227-20-person206" type="given" value="William"></interp>
+                        <interp inst="t17540227-20-person206" type="gender" value="male"></interp>
+                     </persName>
+                  ; and one hempen sack, the property of 
+                     
+                        <persName id="t17540227-20-victim208" type="victimName">
+                           Henry 
+                           Barney 
+                        <interp inst="t17540227-20-victim208" type="surname" value="Barney"></interp>
+                        <interp inst="t17540227-20-victim208" type="given" value="Henry"></interp>
+                        <interp inst="t17540227-20-victim208" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , privately in the warehouse
+            </rs> of 
+               <persName id="t17540227-20-person209">
+                  William 
+                  Pearson 
+               <interp inst="t17540227-20-person209" type="surname" value="Pearson"></interp>
+                     <interp inst="t17540227-20-person209" type="given" value="William"></interp>
+                     <interp inst="t17540227-20-person209" type="gender" value="male"></interp>
+                  </persName>
+            ; and 
+               
+                  <persName id="t17540227-20-defend211" type="defendantName">
+                     Joseph 
+                     Foulback 
+                  <interp inst="t17540227-20-defend211" type="surname" value="Foulback"></interp>
+                     <interp inst="t17540227-20-defend211" type="given" value="Joseph"></interp>
+                     <interp inst="t17540227-20-defend211" type="gender" value="male"></interp>
+                  </persName>
+               
+             for <rs id="t17540227-20-off106" type="offenceDescription">
+                     <interp inst="t17540227-20-off106" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-20-off106" type="offenceSubcategory" value="receiving"></interp>
+               receiving the same, well knowing it to have been stolen
+            </rs>, <rs id="t17540227-20-cd107" type="crimeDate">Feb. 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-20-off105 t17540227-20-cd107"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-20-off106 t17540227-20-cd107"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-20-person212">
+                  William 
+                  Pearson 
+               <interp inst="t17540227-20-person212" type="surname" value="Pearson"></interp>
+                     <interp inst="t17540227-20-person212" type="given" value="William"></interp>
+                     <interp inst="t17540227-20-person212" type="gender" value="male"></interp>
+                  </persName>
+            . I keep a warehouse at <placeName id="t17540227-20-crimeloc108">Bull Wharf near Queenhithe</placeName>
+                  <interp inst="t17540227-20-crimeloc108" type="placeName" value="Bull Wharf near Queenhithe"></interp>
+                  <interp inst="t17540227-20-crimeloc108" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-20-off105 t17540227-20-crimeloc108"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-20-off106 t17540227-20-crimeloc108"></join>. I live at Horton near Windsor, and came to town the 18th of this instant, and when I came into the warehouse missed two sacks of malt. I called to the wharfinger to know if he knew any thing of the matter, and he told me I had been robbed. I refer the rest to the other evidences.</p>
+               <p>
+            
+                  <persName id="t17540227-20-person213">
+                  Timothy 
+                  Bing 
+               <interp inst="t17540227-20-person213" type="surname" value="Bing"></interp>
+                     <interp inst="t17540227-20-person213" type="given" value="Timothy"></interp>
+                     <interp inst="t17540227-20-person213" type="gender" value="male"></interp>
+                  </persName>
+            . I am warehouse-keeper to Mr. Pearson, he had ten quarters of malt in twenty sacks came in on Saturday se'nnight. They were put into the warehouse about three o'clock in the afternoon, and I missed two sacks of it about six at night.</p>
+               <p>Q. How much did they contain?</p>
+               <p>Bing. Eight bushels. There being an alarm, some of it was taken away, we went and counted them on the Monday: I was at the taking up the Prisoner upon suspicion, and took him before my Lord-Mayor; there he confessed, that he and another person had taken them, and that he had sold one of them to Foulback for sixteen shillings, so we went with him to Foulback's house, in Petticoat-Lane; Strong asked Foulback for the sack, answered, he believed he could find it, and it was produced; it belongs to 
+               <persName id="t17540227-20-person214">
+                  Henry 
+                  Barney 
+               <interp inst="t17540227-20-person214" type="surname" value="Barney"></interp>
+                     <interp inst="t17540227-20-person214" type="given" value="Henry"></interp>
+                     <interp inst="t17540227-20-person214" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner Strong said, it was the sack he had the malt in, and that his partner (not taken) carried the other sack and shot the malt down, and took the sack away.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270015"></xptr>
+            
+                  <persName id="t17540227-20-person215">
+                  Richard 
+                  Nash 
+               <interp inst="t17540227-20-person215" type="surname" value="Nash"></interp>
+                     <interp inst="t17540227-20-person215" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-20-person215" type="gender" value="male"></interp>
+                  </persName>
+            . I was before my Lord-Mayor, and heard the Prisoner Strong say, he could take us to one Foulback's in Petticoat-Lane, and shew us the binn where it was shot in. I went there with him, and bid him ask Foulback for the sacks; he said to him two or three times we are all blown; I said, that is nothing, let us have the sacks; he said, he did not know where they were at first: then he went into a room and took one, and delivered it to us, the same that is here produced, I believe.</p>
+               <p>
+            
+                  <persName id="t17540227-20-person216">
+                  William 
+                  Jenkins 
+               <interp inst="t17540227-20-person216" type="surname" value="Jenkins"></interp>
+                     <interp inst="t17540227-20-person216" type="given" value="William"></interp>
+                     <interp inst="t17540227-20-person216" type="gender" value="male"></interp>
+                  </persName>
+            . I work on the water, I saw Strong come out of Mr. Pearson's warehouse with a sack on his Back on the 16th of Feb. between three and four in the afternoon: I asked him what he had got there, he said, a sack of malt; I asked where he was going with it, he said, to Queenhithe. This I mentioned before him at my Lord-Mayor's, and he denied it.</p>
+               <p>
+            
+                  <persName id="t17540227-20-person217">
+                  John 
+                  Lullock 
+               <interp inst="t17540227-20-person217" type="surname" value="Lullock"></interp>
+                     <interp inst="t17540227-20-person217" type="given" value="John"></interp>
+                     <interp inst="t17540227-20-person217" type="gender" value="male"></interp>
+                  </persName>
+            . I was going into the warehouse last Saturday was se'nnight at night, seeing the doors open about six at night, I saw Strong with a sack on his back in the warehouse.</p>
+               <p>Q. What sort of a sack?</p>
+               <p>Lullock. A large sack. He said, he had got some sweepings of malt and a piece of beef the bargeman had given him; I said, he should not go out with it till I saw what he had, and pushed it off his shoulders; it burst in the fall; then he went away: I went and fetched a candle, and found it was good malt.</p>
+               <p>Strong. He say I ran away; I staid there 'till he brought a candle.</p>
+               <p>
+            
+                  <persName id="t17540227-20-person218">
+                  Henry 
+                  Barney 
+               <interp inst="t17540227-20-person218" type="surname" value="Barney"></interp>
+                     <interp inst="t17540227-20-person218" type="given" value="Henry"></interp>
+                     <interp inst="t17540227-20-person218" type="gender" value="male"></interp>
+                  </persName>
+            . I brought the malt down and delivered it into Mr. Pearson's warehouse, ten quarters, on Saturday was se'nnight; there were twenty sacks, four bushels in a sack.</p>
+               <p>Q. Look at this sack that is here produced.</p>
+               <p>Barney. It is my sack.</p>
+               <p>
+            
+                  <persName id="t17540227-20-person219">
+                  Richard 
+                  Holmes 
+               <interp inst="t17540227-20-person219" type="surname" value="Holmes"></interp>
+                     <interp inst="t17540227-20-person219" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-20-person219" type="gender" value="male"></interp>
+                  </persName>
+            . I am a constable, I was charged with the Prisoner Strong; in going up Bow-Lane I advised him to give information of those concerned with him. When we came into Cheapside I took him into the Magpye, there he was accused of having taken two sacks of malt; he owned he took one, and one Harry, he did not say the other name, that worked at Mrs. Whitfield's wharf, took the other. When we came before my Lord-Mayor he would not own it at first, but when he found he must go to gaol, he said to my Lord, what will it avail to send me to gaol? I can shew you the binn where the malt was shot, and here is a man will pay for it. I went with him to Foulback's in Petticoat-Lane, but did not go into the house, nor saw them bring a sack out.</p>
+               <p>Q. to Nash. What conversation had you with Foulback ?</p>
+               <p>Nash. In coming to my Lord-Mayor, I asked him, how he came to buy malt of Strong and the other person? he said, he did buy malt, and gave them ten shillings a sack, but Strong said, he gave him but eight shillings a sack, that is, sixteen shillings a quarter.</p>
+               <p>
+            
+                  <persName id="t17540227-20-person220">
+                  Stephen 
+                  Rutt 
+               <interp inst="t17540227-20-person220" type="surname" value="Rutt"></interp>
+                     <interp inst="t17540227-20-person220" type="given" value="Stephen"></interp>
+                     <interp inst="t17540227-20-person220" type="gender" value="male"></interp>
+                  </persName>
+            . When I went into Foulback's house on Monday se'nnight with the other witnesses, after Strong had asked him for a sack, he went into a place and took it out of a hole and gave it to me. This produced is it: I have had it in my custody ever since.</p>
+               <p>Strong's Defence.</p>
+               <p>That Saturday as they talk of I was not near the warehouse.</p>
+               <p>Strong, <rs id="t17540227-20-verdict109" type="verdictDescription">
+                     <interp inst="t17540227-20-verdict109" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540227-20-verdict109" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4 s. and 10 d.
+            </rs>
+               </p>
+               <p>Foulback, <rs id="t17540227-20-verdict110" type="verdictDescription">
+                     <interp inst="t17540227-20-verdict110" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-20-punish111" type="punishmentDescription">
+                     <interp inst="t17540227-20-punish111" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-20-defend205 t17540227-20-punish111"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-20-defend211 t17540227-20-punish111"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

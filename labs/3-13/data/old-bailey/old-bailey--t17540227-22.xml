@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-22">
+               <interp inst="t17540227-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-22" type="year" value="1754"></interp>
+               <interp inst="t17540227-22" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-22" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-22-off120-c188" targOrder="Y" targets="t17540227-22-defend230 t17540227-22-off120 t17540227-22-verdict122"></join>
+         
+               <p>176. (M.) 
+               
+                  <persName id="t17540227-22-defend230" type="defendantName">
+                     Thomas 
+                     Dean 
+                  <interp inst="t17540227-22-defend230" type="surname" value="Dean"></interp>
+                     <interp inst="t17540227-22-defend230" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-22-defend230" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540227-22-off120" type="offenceDescription">
+                     <interp inst="t17540227-22-off120" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-22-off120" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one sconce looking glass, value 10 s. one set of curtains, one callico quilt, two blankets, two sheets, two pillows, two pillow-cases, one pair of bellows, one pair of tongs, and one fire shovel, the goods of 
+                     <persName id="t17540227-22-person231">
+                        Cornelius 
+                        Dews 
+                     <interp inst="t17540227-22-person231" type="surname" value="Dews"></interp>
+                        <interp inst="t17540227-22-person231" type="given" value="Cornelius"></interp>
+                        <interp inst="t17540227-22-person231" type="gender" value="male"></interp>
+                     </persName>
+                  , the same being in a certain lodging-room
+            </rs>, let by contract, &amp;c. <rs id="t17540227-22-cd121" type="crimeDate">February 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-22-off120 t17540227-22-cd121"></join>.</p>
+               <p>+ <rs id="t17540227-22-verdict122" type="verdictDescription">
+                     <interp inst="t17540227-22-verdict122" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

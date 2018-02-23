@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-40">
+               <interp inst="t17540116-40" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-40" type="year" value="1754"></interp>
+               <interp inst="t17540116-40" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-40" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-40-off212-c333" targOrder="Y" targets="t17540116-40-defend404 t17540116-40-off212 t17540116-40-verdict216"></join>
+         
+               <p>128. (L.) 
+               
+                  <persName id="t17540116-40-defend404" type="defendantName">
+                     John 
+                     Hudson 
+                  <interp inst="t17540116-40-defend404" type="surname" value="Hudson"></interp>
+                     <interp inst="t17540116-40-defend404" type="given" value="John"></interp>
+                     <interp inst="t17540116-40-defend404" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for the <rs id="t17540116-40-off212" type="offenceDescription">
+                     <interp inst="t17540116-40-off212" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17540116-40-off212" type="offenceSubcategory" value="murder"></interp>
+               wilful murder
+            </rs> of 
+               
+                  <persName id="t17540116-40-victim406" type="victimName">
+                     Thomas 
+                     Moss 
+                  <interp inst="t17540116-40-victim406" type="surname" value="Moss"></interp>
+                     <interp inst="t17540116-40-victim406" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-40-victim406" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-40-off212 t17540116-40-victim406"></join>
+                  </persName>
+                
+            , <rs id="t17540116-40-cd213" type="crimeDate">December 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-40-off212 t17540116-40-cd213"></join>. He also stood charged on the coroner's inquest with manslaughter. ++.</p>
+               <p>
+            
+                  <persName id="t17540116-40-person407">
+                  John 
+                  Johnson 
+               <interp inst="t17540116-40-person407" type="surname" value="Johnson"></interp>
+                     <interp inst="t17540116-40-person407" type="given" value="John"></interp>
+                     <interp inst="t17540116-40-person407" type="gender" value="male"></interp>
+                  </persName>
+            . I went into the Two Fighting Cocks in <placeName id="t17540116-40-crimeloc214">Fleet-Lane</placeName>
+                  <interp inst="t17540116-40-crimeloc214" type="placeName" value="Fleet-Lane"></interp>
+                  <interp inst="t17540116-40-crimeloc214" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-40-off212 t17540116-40-crimeloc214"></join> on the 27th of December, about eight at night, and was drinking with the deceased, 
+               <persName id="t17540116-40-person408">
+                  Thomas 
+                  Moss 
+               <interp inst="t17540116-40-person408" type="surname" value="Moss"></interp>
+                     <interp inst="t17540116-40-person408" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-40-person408" type="gender" value="male"></interp>
+                  </persName>
+            , and two or three more. The prisoner all of a sudden started up in the next box to us, saying, I will fight the best man in the house for a guinea, and threw down a shilling; then the deceased threw down another, and they agreed to fight the next day at two o'clock. The deceased went out to fetch his child from White-Cross-Street, and before he came back, the prisoner had been to fetch one of his masters out of<xptr type="pageFacsimile" doc="175401160029"></xptr> Fleet-Market. The master said a guinea was a great deal of money to them, and that if they insisted upon fighting, they had better fight for a leg of mutton and turnips. Moss did not come back while the master was there.</p>
+               <p>Q. What was Moss ?</p>
+               <p>Johnson. He was a <rs id="t17540116-40-viclabel215" type="occupation">chairmaker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-40-victim406 t17540116-40-viclabel215"></join>. The next day he and I went to the same house, and staid there till a quarter after twelve o'clock, at which time he sent a porter for the prisoner; he came, the deceased drank to him, and they shook hands. He asked the prisoner if he would be as good as his word; to which he answered yes. The prisoner went out again. Then Moss, I, and several more, went to White-Conduit-Fields, the place appointed to fight, and in about ten minutes after we got there, we saw the prisoner. The deceased met him, and shook hands with him. Afterwards they went into the White-Conduit-House together, and there they agreed to fight for a leg of mutton and turnips; then they went to the bar, the deceased drank half a quartern of brandy, and the prisoner I believe drank some wine. After this they went from the house about two hundred yard, there they stripped, and fought for a long time. I believe very near half an hour. When it was over, Moss laid in a very bad and bruised condition upon the ground (though he had the better of it for about the first fifteen minutes ); we took him up, and carried him into White-Conduit-House. The blood ran out at his ears and mouth; we kept wiping him, and thought he had been asleep, he snoring pretty much. The last words he spoke were, I will fight. This was when he was taken up before he fell the last time. We could get no coach in Islington, so we took him on our backs, and brought him home. There were seven or eight of us. We put him to bed, and I got a man to bleed him, who after pricking him, he bled two or three drops.</p>
+               <p>Q. When did he die?</p>
+               <p>Johnson. He was dead then.</p>
+               <p>Q. from Prisoner. How long did the deceased lie on the cold ground before he had his cloaths on?</p>
+               <p>Johnson. We could not get his cloaths on till we got him to the Conduit-House. Four of us lifted him up as soon as we could.</p>
+               <p>
+            
+                  <persName id="t17540116-40-person409">
+                  Charles 
+                  Oakham 
+               <interp inst="t17540116-40-person409" type="surname" value="Oakham"></interp>
+                     <interp inst="t17540116-40-person409" type="given" value="Charles"></interp>
+                     <interp inst="t17540116-40-person409" type="gender" value="male"></interp>
+                  </persName>
+            . I was with the deceased at the Fighting Cocks on the 27th of December, where were six or seven of us drinking together, and none of us fuddled. The prisoner sat in a box next to the fire-place, he started up all of a sudden, and swore he would fight the best man in the house for a pint, or a guinea.</p>
+               <p>Q. Was he sober?</p>
+               <p>Oakman. I cannot say whether he was or not, for I did not see him before he started up. The deceased also started up, and looked over the settle. Then the prisoner said, You are counted the best man in the house, I will fight you.</p>
+               <p>Q. Had there been any quarrel between the prisoner and deceased before this?</p>
+               <p>Oakman. No, there had not. They agreed to fight, and each put down a shilling, and gave it me to hold till next day. The next day I went there about a quarter after twelve, and we got to White-Conduit-House before two; there they agreed to fight for a leg of mutton and turnips, and a little beer, to the value of a crown. The deceased drank half a quartern of brandy, and I believe the prisoner drank a glass of wine; then they went out and stript, shook hands, and fell to fighting, and fought about half an hour. I saw no foul play. When the deceased was incapable of fighting, the prisoner asked him if he would fight any more; he answered, he would fight; (he was then standing on his legs, with his hands hanging down) then the prisoner struck him one blow, upon which he fell down.</p>
+
+               <p>Q. Did the deceased seem, when he said he would fight, to be capable of fighting?</p>
+               <p>Oakman. To me he did not seem capable. I believe he was unable to hold up his hands at that time, for after he fell he never spoke more.</p>
+               <p>Q. Were you talking about fighting at the Fighting Cocks before the prisoner got up?</p>
+               <p>Oakman. No, we were not, we were making merry, and singing a song.</p>
+               <p>Q. from Prisoner. Did not your wife fling some gin in the fire?</p>
+               <p>Oakman. She came in, and because I was at the alehouse, she flung some gin in the fire.</p>
+               <p>
+            
+                  <persName id="t17540116-40-person410">
+                  John 
+                  Palmer 
+               <interp inst="t17540116-40-person410" type="surname" value="Palmer"></interp>
+                     <interp inst="t17540116-40-person410" type="given" value="John"></interp>
+                     <interp inst="t17540116-40-person410" type="gender" value="male"></interp>
+                  </persName>
+            . I am a surgeon, and was sent for on the second of January to examine the body of the deceased. He had received several considerable bruises, but the chief of them were about the head and face. Upon dividing the scalp, and taking off the skull, I found a great quantity of extravasated blood thrown out of the vessels, by their being erupted; upon dividing the two membranes that cover the brain, between the membranes and the brain, I found a quantity of coagulated blood; so that I imagine, the blows he received were the cause of his death.</p>
+               <p>Prisoner's Defence.</p>
+               <p>On the 27th of December, at night, I was eating<xptr type="pageFacsimile" doc="175401160030"></xptr> a mouthful of victuals at the Fighting Cocks in Fleet-Lane with a few friends, and we had a pot or two of beer. Oakman's wife came in, and threw some nasty gin into the fire, and scorched all my face; I said she was guilty of very ill manners. One Stevens a chimney-sweeper, in company with me, said that was nothing to what he was served the last night; saying that he was slapped in the face, and spit on; I said I should not like to take such an affront. The deceased started up and said, If you take it up, I will serve you so. I smiled to myself, and said I had rather he would let it alone. He flew out of the box and came to me, and holding his fist up to my nose, asked me whether I would fight; I told him it was not a proper place to talk about that, to disturb the company, and desired he would defer it to another time. Afterward he came to me again, and pulling out three halfpence, said, I will fight you for a guinea. I never got off my seat, but said three halfpence is nothing to bind a guinea. Then he up with his fist to my face again, and asked me whether I would take the law of him or not; I said no, I would not. He went and got a shilling, and said, You talk of your money, put your money down; I said I shall put none down, but on his aggravating me, I flung down two sixpences.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17540116-40-person411">
+                  Joshua 
+                  Stevens 
+               <interp inst="t17540116-40-person411" type="surname" value="Stevens"></interp>
+                     <interp inst="t17540116-40-person411" type="given" value="Joshua"></interp>
+                     <interp inst="t17540116-40-person411" type="gender" value="male"></interp>
+                  </persName>
+            . I was at the alehouse at this time. The prisoner and deceased were in two different boxes, with several others, and one of their wives came and flung half a pint of gin in the fire. After that, the prisoner said something had catched hold of his coat, and pulling out two sixpences, said he would fight the best man in the room for a guinea. The deceased made no answer at that time. I said that was nothing to what was done to me the last night, for I had my face hit and spit in. The deceased went up to the prisoner, held his fist to his nose, and said if he would not take the law of him, he would strike him. After that, the deceased said he would lick him and his second too, and also his master. Then the man that held the stakes went out about four or five minutes, and came back with a shilling, he put it down, took the prisoner's up, and put it into his pocket. After that the prisoner said he was not willing to fight. The deceased came up to him again, and said if he would not fight him for money, he would fight him for love. He made an offer to pull off his cloaths, and to go out at the door. The prisoner said he would fight him for love, but they prevented their fighting then. I saw the battle the next day, and it was a very fair fight.</p>
+               <p>Q. to Johnson. Did you see the deceased hold up his fist to the prisoner's nose?</p>
+               <p>Johnson. No, I did not.</p>
+               <p>Oakman to that question. He did not hold his fist to his nose, or give the prisoner any affront. And I am sure it was not upon the gin being flung into the fire, that the prisoner got up to fight.</p>
+               <p>Elick Ennis. On the 28th of last month the prisoner came to me, and told me he was going to fight, and asked me to go along with him; so I went with him and his master. I was to be his second. The deceased met him in the field, and lent him a hand over a stile, and said, You are a man of your word. They went to the Conduit-House and drank, and the deceased's master said they had better make it up, but the deceased said he would not. Then the master said, Fight for a leg of mutton and turnips, and a gentleman said he would be answerable for the deceased. Then they stripped and went to it. They fought ten or twelve minutes, and were both beat very much. The deceased was held up by two men, and was asked if he would fight any more, (he was then standing on his legs) and he said yes; then they had another fall, and his second saying he should not fight any more, we came away. After that they let him lie ten or twelve minutes before they took him off the ground. It was a very fair fight as could be.</p>
+               <p>
+            
+                  <persName id="t17540116-40-person412">
+                  John 
+                  Bane 
+               <interp inst="t17540116-40-person412" type="surname" value="Bane"></interp>
+                     <interp inst="t17540116-40-person412" type="given" value="John"></interp>
+                     <interp inst="t17540116-40-person412" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner worked with me as a porter. He came to me on the 27th of December at night, and said he had been used very ill by a man at the Fighting Cocks; I went with him to the house, but the deceased was not there. I endeavoured to prevent their fighting, and said they had better fight for a leg of mutton and turnips, as they were poor men. The next morning the prisoner came to me, and desired me to go with him to White-Conduit-Fields. When we came there, I said, Where is the man that is to fight you? the deceased started up, and said I am the man. I said as they were hard working men, they had better desist, but the deceased said he would fight, and that the people should not be baulked in their pastime, so they went out of the house to fight. It was a very severe battle, and it was the opinion of most that the deceased would have beat the prisoner at first. At last the prisoner got the advantage of him pretty much. The last time the deceased was on his legs, I said to him, You<xptr type="pageFacsimile" doc="175401160031"></xptr> are much beat, take my advice, pray give out. He insisted upon fighting, and said, I have not enough yet. Then the prisoner and he fell down both together, and there it ended. I believe there were not fix blows struck on either side, but what were about the head. They let the deceased lie four or five minutes on the frosty grass, I believe. They then brought him along in such an uncommon manner, that he must have been killed, had he been beat but a little. They laid him on a table in the Conduit house, and then brought him away with them. I have known the prisoner some time, and never knew he was a quarrelsome fellow in my life. He told me at White Conduit-House, he did not know what was the matter. for he was not for fighting.</p>
+               <p>
+                  <rs id="t17540116-40-verdict216" type="verdictDescription">
+                     <interp inst="t17540116-40-verdict216" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-40-verdict216" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-40-punish217" type="punishmentDescription">
+                     <interp inst="t17540116-40-punish217" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17540116-40-punish217" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-40-defend404 t17540116-40-punish217"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17540116-40-punish218" type="punishmentDescription">
+                     <interp inst="t17540116-40-punish218" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17540116-40-punish218" type="punishmentSubcategory" value="newgate"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-40-defend404 t17540116-40-punish218"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

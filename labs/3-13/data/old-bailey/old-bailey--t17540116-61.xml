@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-61">
+               <interp inst="t17540116-61" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-61" type="year" value="1754"></interp>
+               <interp inst="t17540116-61" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-61" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-61-off310-c436" targOrder="Y" targets="t17540116-61-defend546 t17540116-61-off310 t17540116-61-verdict311"></join>
+         
+               <p>150. (L.) 
+               <persName id="t17540116-61-defend546" type="defendantName">
+                  Jane, <rs id="t17540116-61-deflabel309" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-61-defend546 t17540116-61-deflabel309"></join> of 
+                     <persName id="t17540116-61-person547">
+                        James 
+                        Godwin 
+                     <interp inst="t17540116-61-person547" type="surname" value="Godwin"></interp>
+                        <interp inst="t17540116-61-person547" type="given" value="James"></interp>
+                        <interp inst="t17540116-61-person547" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17540116-61-defend546" type="surname" value="Godwin"></interp>
+                     <interp inst="t17540116-61-defend546" type="given" value="Jane"></interp>
+                     <interp inst="t17540116-61-defend546" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17540116-61-off310" type="offenceDescription">
+                     <interp inst="t17540116-61-off310" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17540116-61-off310" type="offenceSubcategory" value="perjury"></interp>
+               wilful and corrupt perjury
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-61-verdict311" type="verdictDescription">
+                     <interp inst="t17540116-61-verdict311" type="verdictCategory" value="notGuilty"></interp>
+               Acq.
+            </rs>
+               </p>
+            </div1>

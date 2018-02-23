@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-56">
+               <interp inst="t17540116-56" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-56" type="year" value="1754"></interp>
+               <interp inst="t17540116-56" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-56" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-56-off291-c423" targOrder="Y" targets="t17540116-56-defend526 t17540116-56-off291 t17540116-56-verdict295"></join>
+         
+               <p>145. (L.) 
+               
+                  <persName id="t17540116-56-defend526" type="defendantName">
+                     John 
+                     Briant 
+                  <interp inst="t17540116-56-defend526" type="surname" value="Briant"></interp>
+                     <interp inst="t17540116-56-defend526" type="given" value="John"></interp>
+                     <interp inst="t17540116-56-defend526" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for that he, <rs id="t17540116-56-off291" type="offenceDescription">
+                     <interp inst="t17540116-56-off291" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-56-off291" type="offenceSubcategory" value="grandLarceny"></interp>
+               being <rs id="t17540116-56-deflabel292" type="occupation">servant</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-56-defend526 t17540116-56-deflabel292"></join> to 
+                     
+                        <persName id="t17540116-56-victim528" type="victimName">
+                           Thomas 
+                           Colley 
+                        <interp inst="t17540116-56-victim528" type="surname" value="Colley"></interp>
+                        <interp inst="t17540116-56-victim528" type="given" value="Thomas"></interp>
+                        <interp inst="t17540116-56-victim528" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-56-off291 t17540116-56-victim528"></join>
+                     </persName>
+                      
+                  , who, upon the confidence and trust which he put in him, deliver'd to him a gold watch, val. seven guineas, and 3 l. 3 s. in money numbered, the goods and money of the said Thomas, in order for safe custody, did afterwards withdraw himself from his master's service, and convert them to his own use
+            </rs>, <rs id="t17540116-56-cd293" type="crimeDate">Dec. 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-56-off291 t17540116-56-cd293"></join>. ++ .</p>
+               <p>
+            
+                  <persName id="t17540116-56-person529">
+                  Thomas 
+                  Colley 
+               <interp inst="t17540116-56-person529" type="surname" value="Colley"></interp>
+                     <interp inst="t17540116-56-person529" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-56-person529" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17540116-56-viclabel294" type="occupation">watchmaker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-56-victim528 t17540116-56-viclabel294"></join>, and live in Fleet-street. About half a year ago the prisoner was a hired servant to me. I frequently trusted him with things of value, both money and goods, and he discharged his trust like an honest servant, till the 27th of December last, when I sent him with a gold watch to lend a lady in Arlington-street, while hers was mended. I also sent by him, at the same time, two guineas to pay to two of my workmen, and never heard any thing of him till the Sunday following, which was the 30th. Then Mr. Welch, the high constable, came and brought the watch to me, having secured the prisoner.</p>
+               <p>
+            
+                  <persName id="t17540116-56-person530">
+                  John 
+                  Gladman 
+               <interp inst="t17540116-56-person530" type="surname" value="Gladman"></interp>
+                     <interp inst="t17540116-56-person530" type="given" value="John"></interp>
+                     <interp inst="t17540116-56-person530" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to the prosecutor, and was by at the delivery of the watch and money to the prisoner, to carry as before mentioned.</p>
+               <p>
+            
+                  <persName id="t17540116-56-person531">
+                  Thomas 
+                  Ind 
+               <interp inst="t17540116-56-person531" type="surname" value="Ind"></interp>
+                     <interp inst="t17540116-56-person531" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-56-person531" type="gender" value="male"></interp>
+                  </persName>
+            . I keep a public house in Drury-lane. Last Sunday was three weeks the prisoner came into my house, and called for a pint of beer. He pull'd out a gold watch, and asked me to lend him thirteen guineas upon it, saying he had been at St. Albans. (He had boots on.) I told him I seldom lent money on goods, but I had a watchmaker who understood those things better than I did. I suspected it was not honestly come by, and went to Mr. Welch, the high constable, who came, and we took the prisoner backwards, where he confess'd the fact. We then took the prisoner before Justice Fielding, and he there owned that he lived servant with a watchmaker in Fleet-street, whose name I have forgot; that he sent him to a lady in Arlington-street, and he had not been there with it.</p>
+               <p>Prisoner. Please to ask my prosecutor, and Mr. Gladman, as to my character.</p>
+               <p>Colley. He always before this discharged every thing with a great deal of honestly. I agreed with him but the hour before I sent him on this errand to raise his wages ten shillings a year. I believe he had been in liquor all the time he had been from me.</p>
+               <p>Gladman. During the time of his living with Mr. Colley, I believed I have delivered several hundreds of pounds to him, and he always discharged every thing in a very just manner.</p>
+               <p>
+            
+                  <persName id="t17540116-56-person532">
+                  Stephen 
+                  Underwood 
+               <interp inst="t17540116-56-person532" type="surname" value="Underwood"></interp>
+                     <interp inst="t17540116-56-person532" type="given" value="Stephen"></interp>
+                     <interp inst="t17540116-56-person532" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner brought me 22 l. from his master but a very few days before this happened.</p>
+               <p>
+                  <rs id="t17540116-56-verdict295" type="verdictDescription">
+                     <interp inst="t17540116-56-verdict295" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-56-punish296" type="punishmentDescription">
+                     <interp inst="t17540116-56-punish296" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17540116-56-punish296" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-56-defend526 t17540116-56-punish296"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

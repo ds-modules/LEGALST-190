@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-11">
+               <interp inst="t17540116-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-11" type="year" value="1754"></interp>
+               <interp inst="t17540116-11" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-11" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-11-off55-c82" targOrder="Y" targets="t17540116-11-defend102 t17540116-11-off55 t17540116-11-verdict59"></join>
+         
+               <p>91. (M.) 
+               
+                  <persName id="t17540116-11-defend102" type="defendantName">
+                     Samuel 
+                     Portman 
+                  <interp inst="t17540116-11-defend102" type="surname" value="Portman"></interp>
+                     <interp inst="t17540116-11-defend102" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-11-defend102" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted <rs id="t17540116-11-off55" type="offenceDescription">
+                     <interp inst="t17540116-11-off55" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17540116-11-off55" type="offenceSubcategory" value="murder"></interp>
+               for the wilful murder
+            </rs> of 
+               <persName id="t17540116-11-victim103" type="victimName">
+                  Elizabeth 
+                  <rs id="t17540116-11-viclabel56" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-11-victim103 t17540116-11-viclabel56"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-11-person104 t17540116-11-viclabel56"></join> of 
+                     <persName id="t17540116-11-person104" type="victimName">
+                        George 
+                        Norman 
+                     <interp inst="t17540116-11-person104" type="surname" value="Norman"></interp>
+                        <interp inst="t17540116-11-person104" type="given" value="George"></interp>
+                        <interp inst="t17540116-11-person104" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-11-off55 t17540116-11-person104"></join>
+                     </persName>
+                  
+                     <interp inst="t17540116-11-victim103" type="surname" value="Norman"></interp>
+                     <interp inst="t17540116-11-victim103" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-11-victim103" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-11-off55 t17540116-11-victim103"></join>
+                  </persName>
+            . He also stood charged on the coroner's inquisition with manslaughter, <rs id="t17540116-11-cd57" type="crimeDate">Nov. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-11-off55 t17540116-11-cd57"></join>. +</p>
+               <p>Charles Lane. I am fourteen the 19th of April. On the 12th of November my mother was ironing at the window, with me standing by her. We live in <placeName id="t17540116-11-crimeloc58">Gloucester-court, White-cross street</placeName>
+                  <interp inst="t17540116-11-crimeloc58" type="placeName" value="Gloucester-court, White-cross street"></interp>
+                  <interp inst="t17540116-11-crimeloc58" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-11-off55 t17540116-11-crimeloc58"></join>. This was betwixt four and five o'clock; we heard a great noise, and my mother ordered me to open the door, which I did, and saw the prisoner stand on the other side of the way with a piece of brick bat in his hand; his wife was near Mrs. Norman's door.</p>
+               <p>Q. How far was he from his wife at that time?</p>
+               <p>Lane. About nine or ten yards, the alley in which they were is about two yards broad. His wife saw Mrs. Norman put her head out at her door to see what was the matter, and cried out, For God's sake take care. But before these words were well out of her mouth the brick bat hit Mrs. Norman on the forehead, and then bounded into the kennel.</p>
+               <p>Q. Did you hear any words between the prisoner and his wife before this?</p>
+               <p>Lane. Before I opened the door I heard his wife say, You Dog, I keep you.</p>
+               <p>Q. Was the noise you before heard a noise of quarreling?</p>
+               <p>Lane. It was.</p>
+               <p>Q. How far is the kennel from the door?</p>
+               <p>Lane. A little above a yard.</p>
+               <p>Q. How large was the brick bat?</p>
+               <p>Lane. It is a quarter of a brick. It was produced in court. This is it. Mrs. Norman clapped her hand to her forehead, and said, For God's sake send for Mrs. Willis; for I am almost killed; then the deceased's husband took him, and carried him into Mr. Norman's house; they asked him how he came to throw that stone? He own'd several times that he threw it, but not with a design to hurt that poor woman; meaning Mrs. Norman.</p>
+               <p>
+            
+                  <persName id="t17540116-11-person105">
+                  Elizabeth 
+                  Willis 
+               <interp inst="t17540116-11-person105" type="surname" value="Willis"></interp>
+                     <interp inst="t17540116-11-person105" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-11-person105" type="gender" value="female"></interp>
+                  </persName>
+            . I was call'd in, and saw the poor woman bleeding. Mr. Norman and his son brought in the prisoner. They sent for an apothecary, who said the place was very bad; the prisoner said, he threw it at his wife, but did not know he had hurt any body; this he said several times. I had heard much talk between the prisoner and his wife. She said, You rogue, don't I keep you? and such aggravating words. The witness Charles Lane is my son by my first husband.</p>
+
+               <p>Q. When did she die?</p>
+               <p>Willis. She died on the 5th of December. This was on the 12th of November. I attended her, being a neighbour, all the time of her illness; she found herself as well as could be expected the first<xptr type="pageFacsimile" doc="175401160006"></xptr> fortnight, afterwards complained of a pain shooting thro' her head; then her stomach fell off.</p>
+               <p>Q. Was this wound the occasion of her death, do you think?</p>
+               <p>Willis. I take it it was; for she was in perfect health to the time she looked out at her door.</p>
+               <p>
+            
+                  <persName id="t17540116-11-person106">
+                  George 
+                  Norman 
+               <interp inst="t17540116-11-person106" type="surname" value="Norman"></interp>
+                     <interp inst="t17540116-11-person106" type="given" value="George"></interp>
+                     <interp inst="t17540116-11-person106" type="gender" value="male"></interp>
+                  </persName>
+            . I am husband to the deceased. On the 12th of November I was sitting by the fireside, and heard a great noise by a woman; my wife being washing in the house, she opened the door to see what was the matter. She had not opened it above a minute and half before she said she was almost killed. I got up and went to the door; there was Charles Lane standing at his mother's door, I said, Who threw this? and he pointed to the prisoner; there was none but him near. My son and I then went and laid hold on him, and brought him into my house. He told me he did not throw it at my wife, but at his own wife. His wife came in, and he said, This comes by your tongue, this is all along of you, and was going to beat her. I asked him where he lived; he said, he was out of business, and could make no satisfaction. I took him before Justice Withers, and a surgeon giving an account that the wound was a very bad one, he was committed.</p>
+               <p>Q. When did she die?</p>
+               <p>
+            
+                  <persName id="t17540116-11-person107">
+                  Willis 
+                  On 
+               <interp inst="t17540116-11-person107" type="surname" value="On"></interp>
+                     <interp inst="t17540116-11-person107" type="given" value="Willis"></interp>
+                     <interp inst="t17540116-11-person107" type="gender" value="male"></interp>
+                  </persName>
+             the fifth of December. She kept her bed for about a week; we were in hopes, for near a fortnight, that she would have recovered. She always complained of a very great pain in her head, and that when she bent her head forward she had a violent weight upon the forepart of it. I judge that was the cause of her death; for she was in good health before, and was then a washing.</p>
+               <p>Q. from Prisoner. What was her opinion of it?</p>
+               <p>Willis. She often said this wound would be the death of her; but she was of opinion, from his words, that he did not intend to throw it at her.</p>
+               <p>
+            
+                  <persName id="t17540116-11-person108">
+                  Elizabeth 
+                  Norman 
+               <interp inst="t17540116-11-person108" type="surname" value="Norman"></interp>
+                     <interp inst="t17540116-11-person108" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-11-person108" type="gender" value="female"></interp>
+                  </persName>
+            . I am daughter to the deceased, and was standing by my mother when she was washing. Hearing a noise, she opened the door and looked out, and in about a minute the brick bat cut her in the face. I saw the brick bat fly from her face to the kennel, which is about a yard and half. She turned into the house, and put her hands to her forehead, which was covered with blood. The prisoner was brought in, and said he flung it at his wife.</p>
+               <p>Q. to Charles Lane. How far was the prisoner's wife from Mrs. Norman's door?</p>
+               <p>Lane. Not a yard.</p>
+               <p>Q. from prisoner. Have you heard your mother say it would be the occasion of her death?</p>
+               <p>Lane. She always said she thought it would.</p>
+               <p>Q. from prisoner. Did not you hear her say it was done by accident?</p>
+               <p>Lane. I don't remember she said any thing about it.</p>
+               <p>Q. to Norman. Who pick'd up the brickbat?</p>
+               <p>Norman. Charles Lane and my son picked it up.</p>
+               <p>
+            
+                  <persName id="t17540116-11-person109">
+                  Richard 
+                  Riley 
+               <interp inst="t17540116-11-person109" type="surname" value="Riley"></interp>
+                     <interp inst="t17540116-11-person109" type="given" value="Richard"></interp>
+                     <interp inst="t17540116-11-person109" type="gender" value="male"></interp>
+                  </persName>
+            . I am a surgeon, and attended the deceased. I was called in that day to dress the wound. I found a pretty large one across the right eye-brow, and the upper part of the skull was quite bare. I could find no fissure nor fracture. A fissure is a crack like a hair, and we try it with ink. There was a large effusion of blood from the wound, and she complained of being very faint and weak. The next morning she told me she had had a good night, and there were no fever or bad symptoms for about a fortnight. My man attended her two days. I went next day, when she complained of a pain in her head, back, and neck; she had a fever coming on, and her pulse was quick. She continued growing worse and worse for about a week, and then died, which was in the morning, the fifth of December. After her death, I opened her head before the coroner's jury. Upon taking off her scalp, we found the member that closes the brain quite free from any coagulated blood. When we came to divide the dura mater, we found a collection of matter on the right side the head, the same side the wound was given, but the left globe of the brain was in its natural state.</p>
+               <p>Q. Upon the whole, what in your opinion was the cause of her death?</p>
+               <p>Riley. In all probability it might be from a rupture of a small vessel, which might be occasioned by the blow given, from the concussion of the brain. Such a concussion of the brain is much more dangerous, than if the skull had only been broke. When she was so well as I have mentioned, Mr. Norman applied to me to certify to the Justice she was out of danger, to get the prisoner out of Jail. The deceased said she thought it was an accidental thing, that she unfortunately opened the door, and the man threw the stone at the same time.</p>
+               <p>Q. What occasioned that fever?</p>
+               <p>Riley. It is my opinion it was from that eruption of the brain.</p>
+               <p>
+            
+                  <persName id="t17540116-11-person110">
+                  Robert 
+                  Taylor 
+               <interp inst="t17540116-11-person110" type="surname" value="Taylor"></interp>
+                     <interp inst="t17540116-11-person110" type="given" value="Robert"></interp>
+                     <interp inst="t17540116-11-person110" type="gender" value="male"></interp>
+                  </persName>
+            . I am headborough. About four o'clock Mr. Norman came and told me to come to his house, and said a man had thrown a stone at his wife, and had hit her. There was the prisoner,<xptr type="pageFacsimile" doc="175401160007"></xptr> he said he did not intend it for her, but to affright his own wife; but she opening the door, it happened to hit her.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I happening to go into a publick house, my wife came in and called me all the names she could, and up with a stone to break the window, but I desired she'd desist till I had paid for my two pints of beer. I took the stone out of her hand, and jerk'd it away, and it happened to hit this poor woman.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17540116-11-person111">
+                  James 
+                  Smith 
+               <interp inst="t17540116-11-person111" type="surname" value="Smith"></interp>
+                     <interp inst="t17540116-11-person111" type="given" value="James"></interp>
+                     <interp inst="t17540116-11-person111" type="gender" value="male"></interp>
+                  </persName>
+            . About eight days after this accident I went to the deceased's house in behalf of the prisoner, and the surgeon was there, who said she was in a fair way of recovery. She said she was better, but in pain, and was very willing to let the man out of jail, but her husband was against it, and wanted five shillings per week till she could work, and to pay all charges. She said to him, let him out by all means, as it was an accident, and was not flung with an intent to hurt her, and his abiding in jail will be no satisfaction to her.</p>
+               <p>Q. to Norman. Do you remember your wife saying these words?</p>
+               <p>Norman. No, I remember no such words.</p>
+               <p>
+            
+                  <persName id="t17540116-11-person112">
+                  Isaac 
+                  Campion 
+               <interp inst="t17540116-11-person112" type="surname" value="Campion"></interp>
+                     <interp inst="t17540116-11-person112" type="given" value="Isaac"></interp>
+                     <interp inst="t17540116-11-person112" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner was my servant five or six years, and I never knew him behave amiss during that time, nor ever heard to the contrary but that he is an honest man.</p>
+               <p>
+            
+                  <persName id="t17540116-11-person113">
+                  John 
+                  Burnham 
+               <interp inst="t17540116-11-person113" type="surname" value="Burnham"></interp>
+                     <interp inst="t17540116-11-person113" type="given" value="John"></interp>
+                     <interp inst="t17540116-11-person113" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner about seven years, and take him to be a very honest man.</p>
+               <p>
+                  <rs id="t17540116-11-verdict59" type="verdictDescription">
+                     <interp inst="t17540116-11-verdict59" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-11-verdict59" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-11-punish60" type="punishmentDescription">
+                     <interp inst="t17540116-11-punish60" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17540116-11-punish60" type="punishmentSubcategory" value="newgate"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-11-defend102 t17540116-11-punish60"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

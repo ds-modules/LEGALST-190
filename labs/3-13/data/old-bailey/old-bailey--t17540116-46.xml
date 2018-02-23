@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-46">
+               <interp inst="t17540116-46" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-46" type="year" value="1754"></interp>
+               <interp inst="t17540116-46" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-46" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-46-off244-c378" targOrder="Y" targets="t17540116-46-defend459 t17540116-46-off244 t17540116-46-verdict247"></join>
+         
+               <p>134. (L.) 
+               
+                  <persName id="t17540116-46-defend459" type="defendantName">
+                     John 
+                     Stewart 
+                  <interp inst="t17540116-46-defend459" type="surname" value="Stewart"></interp>
+                     <interp inst="t17540116-46-defend459" type="given" value="John"></interp>
+                     <interp inst="t17540116-46-defend459" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540116-46-off244" type="offenceDescription">
+                     <interp inst="t17540116-46-off244" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-46-off244" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one great coat, value 2 s. 6 d. one waistcoat, value 12 d.
+            </rs> the goods of 
+               
+                  <persName id="t17540116-46-victim461" type="victimName">
+                     Thomas 
+                     Mason 
+                  <interp inst="t17540116-46-victim461" type="surname" value="Mason"></interp>
+                     <interp inst="t17540116-46-victim461" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-46-victim461" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-46-off244 t17540116-46-victim461"></join>
+                  </persName>
+                
+            , <rs id="t17540116-46-cd245" type="crimeDate">Jan. 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-46-off244 t17540116-46-cd245"></join>. ++ .</p>
+               <p>
+            
+                  <persName id="t17540116-46-person462">
+                  Thomas 
+                  Mason 
+               <interp inst="t17540116-46-person462" type="surname" value="Mason"></interp>
+                     <interp inst="t17540116-46-person462" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-46-person462" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17540116-46-crimeloc246">the Cross Keys on London-Bridge</placeName>
+                  <interp inst="t17540116-46-crimeloc246" type="placeName" value="the Cross Keys on London-Bridge"></interp>
+                  <interp inst="t17540116-46-crimeloc246" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-46-off244 t17540116-46-crimeloc246"></join>. On the 15th of January, between five and six o'clock I was drinking tea with my mother, and heard somethin g fall; I thought the cat might have thrown something down, so I went up stairs, and then I heard somebody before me; I came down, and still I heard such a noise as I did before, but coming after me. I turned and went up again, and then heard the noise going higher; I went up to the garret, and at the head of the stairs stood the prisoner, who made an attempt to push me backwards. I ran down and he after me; I took up the fireshovel, struck him over the head, and he bled very much. He ran out, but was apprehended under a cart, and brought in. After this I went up to the garret, there were the things mentioned in the indictment tied up in a handkerchief, but the handkerchief I know nothing of. Produced in Court, and deposed to.</p>
+               <p>Q. Were they bundled up before?</p>
+               <p>Mason. No, they were lying in several places.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>Mason. I never saw him before to my knowledge.</p>
+               <p>
+            
+                  <persName id="t17540116-46-person463">
+                  Catharine 
+                  Acres 
+               <interp inst="t17540116-46-person463" type="surname" value="Acres"></interp>
+                     <interp inst="t17540116-46-person463" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-46-person463" type="gender" value="female"></interp>
+                  </persName>
+            . The prosecutor is my son by a former husband. He went up stairs and came down, and the prisoner followed him; he took up the shovel and knocked him down, but he recovered himself, and ran out on the bridge, but<xptr type="pageFacsimile" doc="175401160036"></xptr> was soon brought in again. I saw him both before and after my son struck him, and he is the same man as came down stairs.</p>
+               <p>Margaret M'Norton. I saw the prisoner come down stairs, and my master hit him with the fire-shovel, and also saw the people bring him in again.</p>
+               <p>
+            
+                  <persName id="t17540116-46-person464">
+                  Thomas 
+                  Medows 
+               <interp inst="t17540116-46-person464" type="surname" value="Medows"></interp>
+                     <interp inst="t17540116-46-person464" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-46-person464" type="gender" value="male"></interp>
+                  </persName>
+            . I am an officer, and was sent for to Mrs. Acres's house; they had taken the prisoner, and gave me charge of him: I took him and the bundle before my Lord Mayor, and he was committed.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was coming over London-Bridge, and heard the cry of stop thief, and a man hitting me a knock on the head, it stunned me. The gentleman of the house said, This looks like the man, but the man that came down stairs was in blue. They took me in custody.</p>
+               <p>Prosecutor. There was a man amongst the mob, who said the man that came down stairs was in blue, but he looked as if he belonged to the prisoner. The prisoner is the man, and was all bloody from the blow I gave him when he was brought in again.</p>
+               <p>
+                  <rs id="t17540116-46-verdict247" type="verdictDescription">
+                     <interp inst="t17540116-46-verdict247" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-46-punish248" type="punishmentDescription">
+                     <interp inst="t17540116-46-punish248" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-46-defend459 t17540116-46-punish248"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

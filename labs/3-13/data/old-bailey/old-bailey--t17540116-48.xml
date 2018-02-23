@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-48">
+               <interp inst="t17540116-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-48" type="year" value="1754"></interp>
+               <interp inst="t17540116-48" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-48" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-48-off253-c385" targOrder="Y" targets="t17540116-48-defend470 t17540116-48-off253 t17540116-48-verdict255"></join>
+         
+               <p>136. (L.) 
+               
+                  <persName id="t17540116-48-defend470" type="defendantName">
+                     Matth.ew 
+                     Minott 
+                  <interp inst="t17540116-48-defend470" type="surname" value="Minott"></interp>
+                     <interp inst="t17540116-48-defend470" type="given" value="Matth.ew"></interp>
+                     <interp inst="t17540116-48-defend470" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540116-48-off253" type="offenceDescription">
+                     <interp inst="t17540116-48-off253" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-48-off253" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing one linen handkerchief, value 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17540116-48-victim472" type="victimName">
+                     William 
+                     Whiteman 
+                  <interp inst="t17540116-48-victim472" type="surname" value="Whiteman"></interp>
+                     <interp inst="t17540116-48-victim472" type="given" value="William"></interp>
+                     <interp inst="t17540116-48-victim472" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-48-off253 t17540116-48-victim472"></join>
+                  </persName>
+                
+            , <rs id="t17540116-48-cd254" type="crimeDate">December 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-48-off253 t17540116-48-cd254"></join>. + .</p>
+               <p>
+                  <rs id="t17540116-48-verdict255" type="verdictDescription">
+                     <interp inst="t17540116-48-verdict255" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-48-punish256" type="punishmentDescription">
+                     <interp inst="t17540116-48-punish256" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-48-defend470 t17540116-48-punish256"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

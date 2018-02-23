@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-35">
+               <interp inst="t17540116-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-35" type="year" value="1754"></interp>
+               <interp inst="t17540116-35" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-35" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-35-off185-c285" targOrder="Y" targets="t17540116-35-defend346 t17540116-35-off185 t17540116-35-verdict188"></join>
+         
+               <p>122. (M.) 
+               <persName id="t17540116-35-defend346" type="defendantName">
+                  Daniel 
+                  Wood 
+               <interp inst="t17540116-35-defend346" type="surname" value="Wood"></interp>
+                     <interp inst="t17540116-35-defend346" type="given" value="Daniel"></interp>
+                     <interp inst="t17540116-35-defend346" type="gender" value="male"></interp>
+                  </persName>
+            , <rs id="t17540116-35-deflabel184" type="occupation">butcher</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-35-defend346 t17540116-35-deflabel184"></join>, was indicted for <rs id="t17540116-35-off185" type="offenceDescription">
+                     <interp inst="t17540116-35-off185" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-35-off185" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing four ewe sheep, val. 20 s. one ewe lamb, val. 5 s. and eight rams, val. 5 l.
+            </rs> the goods of 
+               
+                  <persName id="t17540116-35-victim348" type="victimName">
+                     John 
+                     Marsh 
+                  <interp inst="t17540116-35-victim348" type="surname" value="Marsh"></interp>
+                     <interp inst="t17540116-35-victim348" type="given" value="John"></interp>
+                     <interp inst="t17540116-35-victim348" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-35-off185 t17540116-35-victim348"></join>
+                  </persName>
+                
+            , <rs id="t17540116-35-cd186" type="crimeDate">Dec. 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-35-off185 t17540116-35-cd186"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17540116-35-person349">
+                  John 
+                  Marsh 
+               <interp inst="t17540116-35-person349" type="surname" value="Marsh"></interp>
+                     <interp inst="t17540116-35-person349" type="given" value="John"></interp>
+                     <interp inst="t17540116-35-person349" type="gender" value="male"></interp>
+                  </persName>
+            . I had four ewes, one lamb, and eight rams in a field, on the 28th of December, and on the 29th they were missing, and the gate of the field was taken off the hooks. I had them advertised, and gave out bills the Thursday following.</p>
+               <p>Q. Where is your field?</p>
+               <p>Marsh. It is almost a mile on this side Acton, at <placeName id="t17540116-35-crimeloc187">Norwood green</placeName>
+                  <interp inst="t17540116-35-crimeloc187" type="placeName" value="Norwood green"></interp>
+                  <interp inst="t17540116-35-crimeloc187" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-35-off185 t17540116-35-crimeloc187"></join>. The prisoner bearing but an indifferent character, I went there for something to dinner, to see what I could see. There I saw three large pair of lamb stones. I said to the prisoner, Your meat is very bad, but these stones and a bit of bacon will do. Then he took down a shoulder of lamb, a very good one. I agreed with him sixpence for the stones, and fifteen pence for the shoulder of lamb. I said, Bring them to the alehouse, and I'll pay you for them. He brought them, and his countenance changed very much before I said any thing to him about the affair. I then charged the constable with him on suspicion of stealing my sheep. By their size I judged these stones to be taken out of some of my rams. He had a stable, which was shewn to me, and before I came at it I found the cracks were stopped with straw, some of which I pulled out, and looked thro'; there I saw a sheep with but one horn; that, I said, was one of my rams, whose horn was broke by fighting in the summer. I saw also four or five more. The prisoner's wife came, and I asked her for the key of the door, which she said her husband had. We found we could not get it, so the constable broke open the door, and there I saw seven sheep alive, of which I swore to six, but to the other I did not. I asked the prisoner what was become of the skins of those he had killed, and he said he had sold them at Uxbridge the week before. I said, What have you done with the skins of those which you have killed this week; he said, they were gone, and would say no more about them. He was taken before a justice, and his mittimus made for Newgate. From the justice's we took him to the constable's at Acton. There he owned that very sheep which I would not swear to was mine, and that the lamb stones, and the shoulder of lamb, which I bought of him were mine. There was in his shop, a sheep hung behind the door, which was skinned but not cut down; that, he said, was one of my old ewes. The next day I had an information that the skins were in the same place where I found the sheep. I got a search warrant, and going there found eight skins, four of which I then swore to. [ He produced a pair of rams horns branded with I. M. on each horn; these were taken off one of the skins we found, and belonged to one of my rams.</p>
+               <p>
+            
+                  <persName id="t17540116-35-person350">
+                  Thomas 
+                  Bramley 
+               <interp inst="t17540116-35-person350" type="surname" value="Bramley"></interp>
+                     <interp inst="t17540116-35-person350" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-35-person350" type="gender" value="male"></interp>
+                  </persName>
+            . Mr. Marsh is my brother-in-law, and lives near me. He came and told me he had lost those thirteen sheep he has mentioned. On the Thursday following there came one Adams, a salesman, and said he could give him some intelligence about them, adding, there was such a parcel of sheep drove through Norwood-green that night they were lost, and that there lived a man at Hesson who had a very bad character, and was suspected of doing such things. Upon this the prosecutor and I went there to one Mr. Priest, and he said there was such a parcel of sheep drove thro' there the Friday night before, and told us of a butcher who had a bad character, and was likely to do it. The next morning we went to Hesson, to one Mr. Westbrook's, and Mr. Marsh went to the butcher's shop, to see what he could find to eat; he came running over again and said he believed he was right, for he had seen three pair of lamb-stones, which he suspected to be his. He sent for a constable and went over again, and dealing for a shoulder of lamb and the lamb-stones, he brought them over to a room in the alehouse where Mr. Westbrook and I were; the prisoner came also, and Mr. Marsh charged the constable with him on suspicion of stealing his sheep; after which Mr. Marsh and Mr. Westbrook went out, and returning said, they had found seven sheep, six of which Mr. Marsh said he'd swear to, which he afterwards did. The prisoner pretended he bought them of two men, that the name of them was Chapman, and that he met the other by chance upon the road; he was after this in several stories, but at last said these two men, named Chapman, and he agreed to go and steal these sheep out of the field, and drove them on the road, and that at such a place he took them and drove them home, and that they had had it in their heads two or three days before.</p>
+
+               <p>
+            
+                  <persName id="t17540116-35-person351">
+                  Thomas 
+                  Cotes 
+               <interp inst="t17540116-35-person351" type="surname" value="Cotes"></interp>
+                     <interp inst="t17540116-35-person351" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-35-person351" type="gender" value="male"></interp>
+                  </persName>
+            . On Friday the 4th of this month Mr. Marsh came to my house and asked me to take<xptr type="pageFacsimile" doc="175401160026"></xptr> a ride with him to Hesson. (I am constable of Acton.) He said he had lost some sheep, and was going in pursuit of them. I went with him to Mr. Westbrook's at Hesson. From thence we went to the Coach-and-horses, and drank together. Mr. Marsh said, We must get something for dinner; he went over the way to the prisoner's shop. The rest as the former witnesses.</p>
+               <p>Mr. Westbrook. The prosecutor, I, and the other two evidences went all together to the Coach-and-horses at Hesson. He confirmed the evidence of all the others; so likewise did Mr. 
+               <persName id="t17540116-35-person352">
+                  William 
+                  Henry 
+               <interp inst="t17540116-35-person352" type="surname" value="Henry"></interp>
+                     <interp inst="t17540116-35-person352" type="given" value="William"></interp>
+                     <interp inst="t17540116-35-person352" type="gender" value="male"></interp>
+                  </persName>
+            , the constable, who was with them, and broke open the stable door where the sheep were.</p>
+               <p>
+            
+                  <persName id="t17540116-35-person353">
+                  Henry 
+                  Allen 
+               <interp inst="t17540116-35-person353" type="surname" value="Allen"></interp>
+                     <interp inst="t17540116-35-person353" type="given" value="Henry"></interp>
+                     <interp inst="t17540116-35-person353" type="gender" value="male"></interp>
+                  </persName>
+            . The two Chapmans whom the prisoner accused (whose names are Peter and John) were in bed the night the sheep were stole at eight o'clock, and between four and five the next morning.</p>
+               <p>Q. How do you know that?</p>
+               <p>Allen. I saw them in bed at those two hours.</p>
+               <p>The prisoner said nothing in his defence, but called the following persons to his character:</p>
+               <p>
+            
+                  <persName id="t17540116-35-person354">
+                  Samuel
+                   Gardner The
+               <interp inst="t17540116-35-person354" type="surname" value="Gardner The"></interp>
+                     <interp inst="t17540116-35-person354" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-35-person354" type="gender" value="male"></interp>
+                  </persName>
+             prisoner was a servant to me between three and four years ago. I have known him ever since. I always believed him to be a very honest man while he lived with me.</p>
+               <p>
+            
+                  <persName id="t17540116-35-person355">
+                  John 
+                  Ireland 
+               <interp inst="t17540116-35-person355" type="surname" value="Ireland"></interp>
+                     <interp inst="t17540116-35-person355" type="given" value="John"></interp>
+                     <interp inst="t17540116-35-person355" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him two or three years, but never heard any harm of him in all my life.</p>
+               <p>
+            
+                  <persName id="t17540116-35-person356">
+                  John 
+                  Dudley 
+               <interp inst="t17540116-35-person356" type="surname" value="Dudley"></interp>
+                     <interp inst="t17540116-35-person356" type="given" value="John"></interp>
+                     <interp inst="t17540116-35-person356" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him between two and three years, and never knew but he bore an honest character. He has bought many joints of meat of me, and paid me very honestly.</p>
+               <p>Robert Lake. I knew the prisoner in the year 49 and 50. He lived in a shop opposite to mine, and I never heard any complaint of him; he was reckoned a very honest man.</p>
+               <p>
+            
+                  <persName id="t17540116-35-person357">
+                  John 
+                  Cottock 
+               <interp inst="t17540116-35-person357" type="surname" value="Cottock"></interp>
+                     <interp inst="t17540116-35-person357" type="given" value="John"></interp>
+                     <interp inst="t17540116-35-person357" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him three or four years; he was a journeyman opposite to my shop, in the Fleet market. I have known him to take a great deal of money in his master's absence, but never heard any ill of him till now.</p>
+               <p>
+            
+                  <persName id="t17540116-35-person358">
+                  Thomas 
+                  Walker 
+               <interp inst="t17540116-35-person358" type="surname" value="Walker"></interp>
+                     <interp inst="t17540116-35-person358" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-35-person358" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him between three and four years, and lent him money to begin trade with, and he paid me very honestly again. I always looked upon him to be an honest man.</p>
+               <p>- Spencer. I have known him three or four years, and have dealt with him and he with me. I never heard a bad character of him in my life. I looked upon him to be an industrious pains-taking man.</p>
+               <p>- Lambert. I have known him better than a year, and have traded with him for many pounds. I never could find that he cheated me of half a pound of meat. I always took him to be an honest man, and never heard of the contrary till this unhappy accident.</p>
+               <p>
+            
+                  <persName id="t17540116-35-person359">
+                  William 
+                  Newton 
+               <interp inst="t17540116-35-person359" type="surname" value="Newton"></interp>
+                     <interp inst="t17540116-35-person359" type="given" value="William"></interp>
+                     <interp inst="t17540116-35-person359" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him about a year and half, and always took him to be a very honest man.</p>
+               <p>
+            
+                  <persName id="t17540116-35-person360">
+                  Christopher 
+                  Coombe 
+               <interp inst="t17540116-35-person360" type="surname" value="Coombe"></interp>
+                     <interp inst="t17540116-35-person360" type="given" value="Christopher"></interp>
+                     <interp inst="t17540116-35-person360" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him between three and four years; he always appeared to me as an honest man, and I never heard to the contrary till now.</p>
+               <p>
+            
+                  <persName id="t17540116-35-person361">
+                  William 
+                  Lenham 
+               <interp inst="t17540116-35-person361" type="surname" value="Lenham"></interp>
+                     <interp inst="t17540116-35-person361" type="given" value="William"></interp>
+                     <interp inst="t17540116-35-person361" type="gender" value="male"></interp>
+                  </persName>
+            . I left off business, and let my shop to the prisoner. Mr. Walker lent him the money. I trusted him about two or three months, and he paid me very honestly.</p>
+               <p>
+            
+                  <persName id="t17540116-35-person362">
+                  Bartholomew 
+                  Eliot 
+               <interp inst="t17540116-35-person362" type="surname" value="Eliot"></interp>
+                     <interp inst="t17540116-35-person362" type="given" value="Bartholomew"></interp>
+                     <interp inst="t17540116-35-person362" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him better than two years, and never had reason to think him any other than an honest man.</p>
+               <p>
+                  <rs id="t17540116-35-verdict188" type="verdictDescription">
+                     <interp inst="t17540116-35-verdict188" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17540116-35-punish189" type="punishmentDescription">
+                     <interp inst="t17540116-35-punish189" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-35-defend346 t17540116-35-punish189"></join>
+               Death
+            </rs>. Recommended to mercy.</p>
+            </div1>

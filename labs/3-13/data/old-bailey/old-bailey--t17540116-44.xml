@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-44">
+               <interp inst="t17540116-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-44" type="year" value="1754"></interp>
+               <interp inst="t17540116-44" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-44" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-44-off236-c368" targOrder="Y" targets="t17540116-44-defend446 t17540116-44-off236 t17540116-44-verdict238"></join>
+         
+               <p>132. (M.) 
+               
+                  <persName id="t17540116-44-defend446" type="defendantName">
+                     John 
+                     Watson 
+                  <interp inst="t17540116-44-defend446" type="surname" value="Watson"></interp>
+                     <interp inst="t17540116-44-defend446" type="given" value="John"></interp>
+                     <interp inst="t17540116-44-defend446" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540116-44-off236" type="offenceDescription">
+                     <interp inst="t17540116-44-off236" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-44-off236" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one cloth coat, value 5 s. two cloth waistcoats, value 8 s. two pair of cloth breeches, four linen shirts, and one pair of pumps
+            </rs>, the goods of 
+               
+                  <persName id="t17540116-44-victim448" type="victimName">
+                     John 
+                     Campbel 
+                  <interp inst="t17540116-44-victim448" type="surname" value="Campbel"></interp>
+                     <interp inst="t17540116-44-victim448" type="given" value="John"></interp>
+                     <interp inst="t17540116-44-victim448" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-44-off236 t17540116-44-victim448"></join>
+                  </persName>
+                
+            , <rs id="t17540116-44-cd237" type="crimeDate">December 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-44-off236 t17540116-44-cd237"></join>.*.</p>
+               <p>
+            
+                  <persName id="t17540116-44-person449">
+                  John 
+                  Campbel 
+               <interp inst="t17540116-44-person449" type="surname" value="Campbel"></interp>
+                     <interp inst="t17540116-44-person449" type="given" value="John"></interp>
+                     <interp inst="t17540116-44-person449" type="gender" value="male"></interp>
+                  </persName>
+            . On the first of December the prisoner came on board our ship that lay off from Ratcliff, he staid there all night, and went away on the Sunday Morning. On the Monday he came again. Mr. Munroe, who keeps the sign of the Highlander at Ratcliff-Cross, called me on shore, I went, and left the prisoner on board.</p>
+               <p>Q. Was he alone?</p>
+               <p>Campbel. No, there were the ship's company on board. I went on board again between eight and nine that night. We having no fire on board, I and one of our officers, named Burrel, went on board another vessel that was close by, where was a fire; after which we came on board our own vessel, and went to bed about twelve. The carpenter went to get a candle to look at his watch, to see what time it was, and missed his watch; then I went to see if all my things were safe, and missed a blue coat, a scarlet waistcoat, a green waistcoat, four check shirts, a pair of black cloth breeches, and a pair of pumps, out of my chest.</p>
+               <p>Q. When had you seen them last ?</p>
+               <p>Campbel. I had seen them that same Monday, when the prisoner was on board.</p>
+               <p>Q. Was your chest locked?</p>
+               <p>Campbel. No, my Lord, it was not. I suspected the prisoner, because he went away before daylight. About twenty days after I saw him in New Prison, and charged him with robbing me. He told me he had sold my coat and waistcoat, and four shirts, to Thomas Stanley, in Old Gravel-Lane, and that he sold the green lapel waistcoat and black breeches at the Shoeing Horn in Rosemary-Lane. I went to Justice Burry's, got a search-warrant, and searched Stanley's house, and at the Shoeing Horn, but found nothing; and I went to the next house to the Shoeing Horn, and there I found my black breeches. Produced in Court, and deposed to.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160035"></xptr>
+            
+                  <persName id="t17540116-44-person450">
+                  James 
+                  Long 
+               <interp inst="t17540116-44-person450" type="surname" value="Long"></interp>
+                     <interp inst="t17540116-44-person450" type="given" value="James"></interp>
+                     <interp inst="t17540116-44-person450" type="gender" value="male"></interp>
+                  </persName>
+            . On the first of December the prisoner came on board to see the mate, who is the prosecutor; he came again on the third; and he lay in the next cabin to where I lay. On the next morning the mate missed the cloaths mentioned.</p>
+               <p>The prisoner had nothing to say in his defence.</p>
+               <p>
+                  <rs id="t17540116-44-verdict238" type="verdictDescription">
+                     <interp inst="t17540116-44-verdict238" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>There were two other indictments against him, but he was not tried on them.</p>
+               <p>
+                  <rs id="t17540116-44-punish239" type="punishmentDescription">
+                     <interp inst="t17540116-44-punish239" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-44-defend446 t17540116-44-punish239"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

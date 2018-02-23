@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-5">
+               <interp inst="t17540227-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-5" type="year" value="1754"></interp>
+               <interp inst="t17540227-5" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-5" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-5-off26-c51" targOrder="Y" targets="t17540227-5-defend60 t17540227-5-off26 t17540227-5-verdict28"></join>
+         
+               <p>157. (L.) 
+               
+                  <persName id="t17540227-5-defend60" type="defendantName">
+                     Martha 
+                     Hastings 
+                  <interp inst="t17540227-5-defend60" type="surname" value="Hastings"></interp>
+                     <interp inst="t17540227-5-defend60" type="given" value="Martha"></interp>
+                     <interp inst="t17540227-5-defend60" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540227-5-deflabel25" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-5-defend60 t17540227-5-deflabel25"></join>, was indicted for <rs id="t17540227-5-off26" type="offenceDescription">
+                     <interp inst="t17540227-5-off26" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-5-off26" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one check apron, value 1 s. 6 d. one shift, two pair of stockings, and three handkerchiefs
+            </rs>, the goods of 
+               
+                  <persName id="t17540227-5-victim62" type="victimName">
+                     James 
+                     Clay 
+                  <interp inst="t17540227-5-victim62" type="surname" value="Clay"></interp>
+                     <interp inst="t17540227-5-victim62" type="given" value="James"></interp>
+                     <interp inst="t17540227-5-victim62" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540227-5-off26 t17540227-5-victim62"></join>
+                  </persName>
+                
+            , <rs id="t17540227-5-cd27" type="crimeDate">Feb. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-5-off26 t17540227-5-cd27"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-5-person63">
+                  Martha
+                   Clay My
+               <interp inst="t17540227-5-person63" type="surname" value="Clay My"></interp>
+                     <interp inst="t17540227-5-person63" type="given" value="Martha"></interp>
+                     <interp inst="t17540227-5-person63" type="gender" value="female"></interp>
+                  </persName>
+             husband's name is 
+               <persName id="t17540227-5-person64">
+                  James 
+                  Clay 
+               <interp inst="t17540227-5-person64" type="surname" value="Clay"></interp>
+                     <interp inst="t17540227-5-person64" type="given" value="James"></interp>
+                     <interp inst="t17540227-5-person64" type="gender" value="male"></interp>
+                  </persName>
+            , I live in Crutched-Friars, the prisoner had lived with me about five weeks; I took her in out of charity. I was to go to Humerton last Saturday, and the prisoner was to go with me. She went out, and took the bundle which I had given her a strict order not to take with her, I designing to take it in the coach. I was to take her up at the turnpike, but she did not stay there, or come near me in the country. On the Sunday morning I had information she was taken by my son, and at my London house. I went to her, and charged her with taking the things, which she owned, and said that some she had pawned, and some given away.</p>
+               <p>
+            
+                  <persName id="t17540227-5-person65">
+                  Fanny 
+                  Carter 
+               <interp inst="t17540227-5-person65" type="surname" value="Carter"></interp>
+                     <interp inst="t17540227-5-person65" type="given" value="Fanny"></interp>
+                     <interp inst="t17540227-5-person65" type="gender" value="female"></interp>
+                  </persName>
+            . I live with Mrs. Clay, and heard her bid the prisoner go to White-Chapel turnpike, and not to take the bundle with her; but when she was gone the bundle was gone likewise; and when she was brought back she had a handkerchief of her mistress's about her neck; I heard her then own she took the things mentioned.</p>
+               <p>
+            
+                  <persName id="t17540227-5-person66">
+                  John 
+                  Price 
+               <interp inst="t17540227-5-person66" type="surname" value="Price"></interp>
+                     <interp inst="t17540227-5-person66" type="given" value="John"></interp>
+                     <interp inst="t17540227-5-person66" type="gender" value="male"></interp>
+                  </persName>
+            . I am son to Mrs. Clay, and accidentally met the prisoner about eight o'clock in the evening. She had a blue and white silk handkerchief that belonged to my mother about her neck: I took her to my mother's house, and she there was asked what she had done with the bundle. She said two creatures had taken it away. After that she said she had pawned them in the name of 
+               <persName id="t17540227-5-person67">
+                  Matthew 
+                  Castle 
+               <interp inst="t17540227-5-person67" type="surname" value="Castle"></interp>
+                     <interp inst="t17540227-5-person67" type="given" value="Matthew"></interp>
+                     <interp inst="t17540227-5-person67" type="gender" value="male"></interp>
+                  </persName>
+            . I went to the place where she said she had pawned them, and there I had the two handkerchiefs delivered to me.</p>
+               <p>
+            
+                  <persName id="t17540227-5-person68">
+                  George 
+                  Wardley 
+               <interp inst="t17540227-5-person68" type="surname" value="Wardley"></interp>
+                     <interp inst="t17540227-5-person68" type="given" value="George"></interp>
+                     <interp inst="t17540227-5-person68" type="gender" value="male"></interp>
+                  </persName>
+            . I am constable, and was charged with the prisoner. She owned she had taken the things, and went with me to the pawnbroker's in East Smithfield, who delivered the two handkerchiefs to me. Then I went to one 
+               <persName id="t17540227-5-person69">
+                  Richard 
+                  James 
+               <interp inst="t17540227-5-person69" type="surname" value="James"></interp>
+                     <interp inst="t17540227-5-person69" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-5-person69" type="gender" value="male"></interp>
+                  </persName>
+            , a pawnbroker, where she said she had pawned the shift and two coloured aprons. The pawnbroker shewed them to me, but would not deliver them without the money, so we left them.</p>
+               <p>Q. Is he here?</p>
+               <p>Wardley. I believe not.</p>
+               <p>The prisoner had nothing to say for herself.</p>
+               <p>
+                  <rs id="t17540227-5-verdict28" type="verdictDescription">
+                     <interp inst="t17540227-5-verdict28" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-5-punish29" type="punishmentDescription">
+                     <interp inst="t17540227-5-punish29" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-5-defend60 t17540227-5-punish29"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

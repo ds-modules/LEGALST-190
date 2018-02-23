@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-54">
+               <interp inst="t17540116-54" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-54" type="year" value="1754"></interp>
+               <interp inst="t17540116-54" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-54" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-54-off282-c404" targOrder="Y" targets="t17540116-54-defend501 t17540116-54-off282 t17540116-54-verdict286"></join>
+         
+               <p>141. (L.) 
+               
+                  <persName id="t17540116-54-defend501" type="defendantName">
+                     George 
+                     Holyday 
+                  <interp inst="t17540116-54-defend501" type="surname" value="Holyday"></interp>
+                     <interp inst="t17540116-54-defend501" type="given" value="George"></interp>
+                     <interp inst="t17540116-54-defend501" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540116-54-off282" type="offenceDescription">
+                     <interp inst="t17540116-54-off282" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-54-off282" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing four bushels of oats, value 8 s. the goods of 
+                     
+                        <persName id="t17540116-54-victim503" type="victimName">
+                           Thomas 
+                           Milward 
+                        <interp inst="t17540116-54-victim503" type="surname" value="Milward"></interp>
+                        <interp inst="t17540116-54-victim503" type="given" value="Thomas"></interp>
+                        <interp inst="t17540116-54-victim503" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  ; and four bushels of oats, the goods of 
+                     
+                        <persName id="t17540116-54-victim505" type="victimName">
+                           John 
+                           Bates 
+                        <interp inst="t17540116-54-victim505" type="surname" value="Bates"></interp>
+                        <interp inst="t17540116-54-victim505" type="given" value="John"></interp>
+                        <interp inst="t17540116-54-victim505" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  . It was laid over again, for stealing eight bushels of oats, and four hempen sacks
+            </rs>, the goods of 
+               
+                  <persName id="t17540116-54-victim507" type="victimName">
+                     William 
+                     Garland 
+                  <interp inst="t17540116-54-victim507" type="surname" value="Garland"></interp>
+                     <interp inst="t17540116-54-victim507" type="given" value="William"></interp>
+                     <interp inst="t17540116-54-victim507" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17540116-54-cd283" type="crimeDate">January 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-54-off282 t17540116-54-cd283"></join>. ++ .</p>
+               <p>
+            
+                  <persName id="t17540116-54-person508">
+                  William 
+                  Garland 
+               <interp inst="t17540116-54-person508" type="surname" value="Garland"></interp>
+                     <interp inst="t17540116-54-person508" type="given" value="William"></interp>
+                     <interp inst="t17540116-54-person508" type="gender" value="male"></interp>
+                  </persName>
+             I am a <rs id="t17540116-54-viclabel284" type="occupation">lighterman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-54-victim507 t17540116-54-viclabel284"></join>, and my lighter lay at <placeName id="t17540116-54-crimeloc285">Atkinson's Wharf</placeName>
+                  <interp inst="t17540116-54-crimeloc285" type="placeName" value="Atkinson's Wharf"></interp>
+                  <interp inst="t17540116-54-crimeloc285" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-54-off282 t17540116-54-crimeloc285"></join>. I lost 4 sacks of oats out of it, and the skiff was taken away from the lighter's stern. Looking about for the skiff, we found her just by Puddle-Dock, and there were the marks of a man's foot in chalk. The prisoner belonged to a chalk barge.</p>
+               <p>
+            
+                  <persName id="t17540116-54-person509">
+                  John 
+                  Pearse 
+               <interp inst="t17540116-54-person509" type="surname" value="Pearse"></interp>
+                     <interp inst="t17540116-54-person509" type="given" value="John"></interp>
+                     <interp inst="t17540116-54-person509" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to Mr. Garland, and worked the oats out of the vessel into Mr. Garland's lighter but the Monday before, and brought them to Atkinson's Wharf, and gave him an account of them. When I came down in the morning, my master's prentice told me they were robbed of four sacks of oats, and that the skiff was gone from the lighter's stern. We went and searched about, in order to find them out, and we found the skiff at Puddle-Dock; we then went to Puddle-Dock lime-wharf, and we searched the barges that lay there, but could not find them; we then went into the barge belonging to the prisoner, there I found some oats scattered about, I took some up, and said I believed they were there. I opened the cabbin, and the prisoner came up in a great tremble; I told him we had been robbed, and heard that the oats were in his barge; he denied that they were, or that he knew any thing of them. I pressed him hard, and told him a lie, saying. I have a witness that will prove they were brought into your barge; he then owned he had them. I looked into the cabbin, and saw they were there. I then said to the prisoner, George, I could not have suspected you would have taken my master's sacks of oats; he said a man brought them there, and that he was to have four shillings to carry them up to Brentford. We sent for a constable, and charged him with the prisoner.</p>
+               <p>Q. Are you sure they were the same oats?</p>
+               <p>Pearse. 'Tis hard swearing to the oats; but I can swear to the sacks. They have our master's own name, at full length, on the outside, and two single red letters, W G, withinside.</p>
+               <p>
+            
+                  <persName id="t17540116-54-person510">
+                  Robert 
+                  Sharpe 
+               <interp inst="t17540116-54-person510" type="surname" value="Sharpe"></interp>
+                     <interp inst="t17540116-54-person510" type="given" value="Robert"></interp>
+                     <interp inst="t17540116-54-person510" type="gender" value="male"></interp>
+                  </persName>
+            . I am wharfinger's man. I helped the lighterman to moor the craft, and took an account of the goods. When I came to uncover the corn in the morning, I miss'd four sacks. I went to my master, Mr. Atkins, and gave him an account<xptr type="pageFacsimile" doc="175401160038"></xptr> of it. I also told Garland's man of it when he came. I know no farther.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I had been drinking about that day, and being a little full-headed, I went on board my barge, and lay down upon my bed, where I slept till about eleven o'clock at night. A man came then, and calling out, Bargeman, Bargeman, I awaked. He said, Be so good as to let me leave two quarters of oats in your barge, and I'll come for them at four in the morning. I said he might if he would, and he got one out of the skiff himself. I told him I had ne'er a tarpaulin, but he might put them in the cabbin; he did put them there, but I know nothing more of the man than I do of a stranger. I might have seen him before, but I don't know, nor do I know but that they belonged to himself. He staid no longer than he put the oats in, and then went away, saying he would give me something when he came back. As I was getting up, about nine o'clock, 
+               <persName id="t17540116-54-person511">
+                  John 
+                  Pearse 
+               <interp inst="t17540116-54-person511" type="surname" value="Pearse"></interp>
+                     <interp inst="t17540116-54-person511" type="given" value="John"></interp>
+                     <interp inst="t17540116-54-person511" type="gender" value="male"></interp>
+                  </persName>
+             came aboard and said, Here are some oats scattered here. I knowing his tongue was surprised, and said to myself, This man has lost some oats, and here are some here. I was very much troubled, having never wronged man, woman, nor child, of a farthing in my life.</p>
+               <p>The prisoner called 
+               <persName id="t17540116-54-person512">
+                  Alexander 
+                  Robins 
+               <interp inst="t17540116-54-person512" type="surname" value="Robins"></interp>
+                     <interp inst="t17540116-54-person512" type="given" value="Alexander"></interp>
+                     <interp inst="t17540116-54-person512" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-54-person513">
+                  Joseph 
+                  Osbourn 
+               <interp inst="t17540116-54-person513" type="surname" value="Osbourn"></interp>
+                     <interp inst="t17540116-54-person513" type="given" value="Joseph"></interp>
+                     <interp inst="t17540116-54-person513" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-54-person514">
+                  William 
+                  Clark 
+               <interp inst="t17540116-54-person514" type="surname" value="Clark"></interp>
+                     <interp inst="t17540116-54-person514" type="given" value="William"></interp>
+                     <interp inst="t17540116-54-person514" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-54-person515">
+                  Arthur 
+                  Vizard 
+               <interp inst="t17540116-54-person515" type="surname" value="Vizard"></interp>
+                     <interp inst="t17540116-54-person515" type="given" value="Arthur"></interp>
+                     <interp inst="t17540116-54-person515" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-54-person516">
+                  James 
+                  Pond 
+               <interp inst="t17540116-54-person516" type="surname" value="Pond"></interp>
+                     <interp inst="t17540116-54-person516" type="given" value="James"></interp>
+                     <interp inst="t17540116-54-person516" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-54-person517">
+                  James 
+                  Asleet 
+               <interp inst="t17540116-54-person517" type="surname" value="Asleet"></interp>
+                     <interp inst="t17540116-54-person517" type="given" value="James"></interp>
+                     <interp inst="t17540116-54-person517" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-54-person518">
+                  Richard 
+                  Wright 
+               <interp inst="t17540116-54-person518" type="surname" value="Wright"></interp>
+                     <interp inst="t17540116-54-person518" type="given" value="Richard"></interp>
+                     <interp inst="t17540116-54-person518" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-54-person519">
+                  William 
+                  Rutter 
+               <interp inst="t17540116-54-person519" type="surname" value="Rutter"></interp>
+                     <interp inst="t17540116-54-person519" type="given" value="William"></interp>
+                     <interp inst="t17540116-54-person519" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17540116-54-person520">
+                  Samuel 
+                  Rutter 
+               <interp inst="t17540116-54-person520" type="surname" value="Rutter"></interp>
+                     <interp inst="t17540116-54-person520" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-54-person520" type="gender" value="male"></interp>
+                  </persName>
+            , who all gave him the character of a very honest man.</p>
+               <p>
+                  <rs id="t17540116-54-verdict286" type="verdictDescription">
+                     <interp inst="t17540116-54-verdict286" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-54-verdict286" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17540116-54-punish287" type="punishmentDescription">
+                     <interp inst="t17540116-54-punish287" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17540116-54-punish287" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-54-defend501 t17540116-54-punish287"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

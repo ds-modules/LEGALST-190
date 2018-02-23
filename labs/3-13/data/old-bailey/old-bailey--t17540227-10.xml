@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-10">
+               <interp inst="t17540227-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-10" type="year" value="1754"></interp>
+               <interp inst="t17540227-10" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-10" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-10-off50-c111" targOrder="Y" targets="t17540227-10-defend129 t17540227-10-off50 t17540227-10-verdict54"></join>
+               <join result="criminalCharge" id="t17540227-10-off56-c111" targOrder="Y" targets="t17540227-10-defend129 t17540227-10-off56 t17540227-10-verdict54"></join>
+               <join result="criminalCharge" id="t17540227-10-off56-c117" targOrder="Y" targets="t17540227-10-defend137 t17540227-10-off56 t17540227-10-verdict60"></join>
+         
+               <p>162. (M.) 
+               
+                  <persName id="t17540227-10-defend129" type="defendantName">
+                     Samuel 
+                     Dean 
+                  <interp inst="t17540227-10-defend129" type="surname" value="Dean"></interp>
+                     <interp inst="t17540227-10-defend129" type="given" value="Samuel"></interp>
+                     <interp inst="t17540227-10-defend129" type="gender" value="male"></interp>
+                  </persName>
+                
+            , was indicted, for <rs id="t17540227-10-off50" type="offenceDescription">
+                     <interp inst="t17540227-10-off50" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17540227-10-off50" type="offenceSubcategory" value="highwayRobbery"></interp>
+               that he, on the king's highway, on 
+                     
+                        <persName id="t17540227-10-victim131" type="victimName">
+                           Richard 
+                           Parham 
+                        <interp inst="t17540227-10-victim131" type="surname" value="Parham"></interp>
+                        <interp inst="t17540227-10-victim131" type="given" value="Richard"></interp>
+                        <interp inst="t17540227-10-victim131" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   did make an assault, putting him in bodily fear and<xptr type="pageFacsimile" doc="175402270009"></xptr> danger of his life, and stealing from his person one-silver watch, value 3 l. one half guinea, and three shillings in money, numbered
+            </rs>. <rs id="t17540227-10-cd51" type="crimeDate">Feb. 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-10-off50 t17540227-10-cd51"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-10-off56 t17540227-10-cd51"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-10-person132">
+                  Richard 
+                  Parham 
+               <interp inst="t17540227-10-person132" type="surname" value="Parham"></interp>
+                     <interp inst="t17540227-10-person132" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-10-person132" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Cold-bath-fields, am a <rs id="t17540227-10-viclabel52" type="occupation">victualler</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-10-victim131 t17540227-10-viclabel52"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-10-victim139 t17540227-10-viclabel52"></join>. I had been with my wife and her aunt at the Half-moon Tavern, in Holbourn, below the Bars, on the last of January. About two o'clock next morning we ordered a coach to be called, and were going home; as we got to <placeName id="t17540227-10-crimeloc53">Hockley-in-the-Hole</placeName>
+                  <interp inst="t17540227-10-crimeloc53" type="placeName" value="Hockley-in-the-Hole"></interp>
+                  <interp inst="t17540227-10-crimeloc53" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-10-off50 t17540227-10-crimeloc53"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-10-off56 t17540227-10-crimeloc53"></join> the coach was stopped, and a pistol fired into it; and I heard the words, your money, or we will blow your brains out. I took out half a guinea and three shillings, and gave the man. Then he opened the door and lean'd in and took my watch out of my fob, and said, drive on coachman, I have got his watch. There was another man on the other side the coach; I saw three in all, th ey were on foot; I went the same day and advertised my watch, and offered two guineas reward; and on the Saturday morning, the 2d of Feb. a pawnbroker and another gentleman came in and asked me if I was not robbed of a watch? I said, I had, and the maker's name was Kimbershaw; and there was a ribbon, and a small crystal stone set in silver; the pawnbroker told me, it was brought to him the morning before, at about nine o'clock, I lost it about two. He said it was brought by a man in a plaid waistcoat, a blue-grey coat, and a great coat over them; he did not deliver it, but I bid him keep it, and if any body came for it to secure them. After he was gone, I had some business at justice Fielding's: when I came in, there stood the Prisoner at the bar on his examination for what he had done the night before with one Wilson, who was with him; he answered the description the pawnbroker had given of the man and his dress that pawned my watch, and I told the justice's clerk of it: then I sent for the pawnbroker to come; he did, and brought my watch with him: as soon as he saw the Prisoner, he said, that is the man that brought the watch to me yesterday morning, pointing to him; then he and Wilson were brought in again before the justice and examined about my robbery; there I swore to the watch, and when I was robbed of it; and Davison the pawnbroker, to the Prisoner, as the person that brought it to him, and they were committed, Wilson to Newgate, and Dean to New-Prison.</p>
+               <p>Q. from the Prisoner. Can he swear I was the man that robbed him of his watch?</p>
+               <p>Parham. I do not pretend to swear to the man, but by his voice I believe he is the man. His is like the voice that said, Drive on coachman, I have got his watch; there was a lamp by us.</p>
+               <p>Mrs. Parham. I am the Prosecutor's wife, I am sure the Prisoner is the man that came into the coach and took Mr. Parham's watch out of his pocket. I saw him at New-Prison afterwards; it was overagainst a lamp in Hockley-in-the-Hole, where we were stopped by three fellows; one fired a pistol in the coach, and with a great oath said, Deliver your money, or I will blow your brains out: I cannot tell who said that, but the Prisoner was at the other door; he asked my husband for his money, or said we were dead people.</p>
+               <p>Q. Did you see his face at that time?</p>
+               <p>Mrs. Parham. No, I did not; I said, do not use us ill, you shall have all we have got, and my husband gave him what money he had. The man answered, what do you mean by giving me half-pence, or three halfpence? I said, he has no half-pence in his pocket; then the coach-door was opened, and he lean'd against me, when I had an opportunity of seeing his face by the light of the lamp; it was a dark night.</p>
+               <p>Q. Was the pistol loaded ?</p>
+               <p>Mrs. Parham. I believe it had nothing but powder in it; when I came home I was very bad. When the pawnbroker came and asked if my husband was robbed of a watch, I said, yes; and he described the person that brought it; then I said, that was the man that took the watch from my husband. As soon as I saw him in New-Prison, I said to my husband, that is the man that took your watch. I went and asked the keeper to give the Prisoner leave to drink a glass of wine with us; I said, how came you to rob us last night, and fire a pistol? he took hold of my hand, and said, for God's sake do not appear against me: if he had been amongst a hundred persons, I should have picked him out.</p>
+               <p>
+            
+                  <persName id="t17540227-10-person133">
+                  David 
+                  Davison 
+               <interp inst="t17540227-10-person133" type="surname" value="Davison"></interp>
+                     <interp inst="t17540227-10-person133" type="given" value="David"></interp>
+                     <interp inst="t17540227-10-person133" type="gender" value="male"></interp>
+                  </persName>
+            . I am a pawnbroker. On the first of this month the Prisoner at the bar brought this watch (producing one which was deposed to by the Prosecutor) to me; he had on a blue grey coat, a plaid waistcoat, and a great coat over them. I saw him before the justice the next day, he had every thing then on that I had described before.</p>
+
+               <p>Q. What did you lend him on the watch?</p>
+               <p>Davison. Thirty-six shillings, he asked me two guineas. He said, he had been at Chatham, and was very well known in Bishopsgate street, if I inquired at such an inn; and said, he was afraid of being pressed, and wanted to pawn his watch to get down another way.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270010"></xptr>Q. Could you have distinguished him in a multitude afterwards?</p>
+               <p>Davison. I really believe I could amongst an hundred men.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was six nights locked down under ground, and was not admitted to come between the gates; so the woman could not see me the night they were robbed. I was at supper at Mr. Nicholas's in Old-street, from nine at night 'till three the next morning</p>
+               <p>Mr. Richards. I am a farrier in Goswell street, I have known the Prisoner ten years and upwards, he drove a hackney coach; I never heard any ill of him in my life.</p>
+               <p>Mr. Young. I am an undertaker, and live in Old-street; I imploy his master, the Prisoner has drove many times for me, he has as good a character as ever I heard; I never heard any blemish on his character; he would be the last man I should think to be guilty of a highway-robbery.</p>
+               <p>Isaac Dimsdel. I keep coaches. The Prisoner has been my servant the two last years, I have known him twelve years; he has bore the character of a very sober honest man, and behaved as faithfully as any man of his profession ever did.</p>
+               <p>Mr. Frances. I have known him about two years, and seen him every day almost, except he was out of town; I never heard an ill character of him.</p>
+               <p>Mr. Carrier. I have known him ten or eleven years, during which time he bore as honest a character as any young fellow on earth.</p>
+               <p>Mr. Rearsby. I am an officer in the Marshal's Court, I have known him fifteen or sixteen years; I took him to be a very honest young man. He had money of his own, and had no occasion to go a-robbing; he was going to buy a coach and horses of his own, and I advised him not.</p>
+               <p>Mr. Benson. I have known him nine years and upwards, during which time he bore a very good character; I should as soon have suspected my own brother to have been guilty of a robbery as him.</p>
+               <p>
+            
+                  <persName id="t17540227-10-person134">
+                  John 
+                  Nolton 
+               <interp inst="t17540227-10-person134" type="surname" value="Nolton"></interp>
+                     <interp inst="t17540227-10-person134" type="given" value="John"></interp>
+                     <interp inst="t17540227-10-person134" type="gender" value="male"></interp>
+                  </persName>
+            . I keep coaches, I have known him about twelve years, during which time I took him to be a good servant, and one that behaved well, I have had much conversation with him, I never heard he wronged any body, or used horses bad.</p>
+               <p>Q. What did he do these last three months?</p>
+               <p>Nolton. I heard he was not well in the hospital.</p>
+               <p>Mr. Weoley. I am a master coachman, I have known him I believe thirteen years, he was my servant two years, eight months and two days he behaved as well as any servant I ever had. It is eleven years ago since he drove for me.</p>
+               <p>Mr. Dunsdale. I have known him eleven or twelve years, he always behaved very well; I always looked upon him as a very honest man.</p>
+               <p>Mr. Clark. I have known him eight or nine years, I am a coachman, he was my servant some time, and behaved honestly and justly; I never heard an ill thing of him before in my life.</p>
+               <p>
+            
+                  <persName id="t17540227-10-person135">
+                  Joseph 
+                  Nichols 
+               <interp inst="t17540227-10-person135" type="surname" value="Nichols"></interp>
+                     <interp inst="t17540227-10-person135" type="given" value="Joseph"></interp>
+                     <interp inst="t17540227-10-person135" type="gender" value="male"></interp>
+                  </persName>
+            . I am a coachmaster, I have known him near twenty years; he has always bore a very good character 'till this happened: he worked for me, but left me about six years ago.</p>
+               <p>
+                  <rs id="t17540227-10-verdict54" type="verdictDescription">
+                     <interp inst="t17540227-10-verdict54" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17540227-10-punish55" type="punishmentDescription">
+                     <interp inst="t17540227-10-punish55" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-10-defend129 t17540227-10-punish55"></join>
+               Death
+            </rs>.</p>
+               <p>He was a second time indicted, for that he, together with 
+               
+                  <persName id="t17540227-10-defend137" type="defendantName">
+                     William 
+                     Wilson 
+                  <interp inst="t17540227-10-defend137" type="surname" value="Wilson"></interp>
+                     <interp inst="t17540227-10-defend137" type="given" value="William"></interp>
+                     <interp inst="t17540227-10-defend137" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17540227-10-off56" type="offenceDescription">
+                     <interp inst="t17540227-10-off56" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17540227-10-off56" type="offenceSubcategory" value="highwayRobbery"></interp>
+               on the king's highway, on 
+                     
+                        <persName id="t17540227-10-victim139" type="victimName">
+                           George
+                            Lewis Jones
+                        <interp inst="t17540227-10-victim139" type="surname" value="Lewis Jones"></interp>
+                        <interp inst="t17540227-10-victim139" type="given" value="George"></interp>
+                        <interp inst="t17540227-10-victim139" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  , <rs id="t17540227-10-viclabel57" type="occupation">Clerk</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540227-10-victim139 t17540227-10-viclabel57"></join>, did make an assault, putting him in corporal fear and danger of his life, and stealing from his person one guinea and three shillings in money, numbered.
+            </rs> 
+                  <rs id="t17540227-10-cd58" type="crimeDate">Feb. 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-10-off50 t17540227-10-cd58"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-10-off56 t17540227-10-cd58"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-10-person140">
+                  George Lewis 
+                  Jones 
+               <interp inst="t17540227-10-person140" type="surname" value="Jones"></interp>
+                     <interp inst="t17540227-10-person140" type="given" value="George Lewis"></interp>
+                     <interp inst="t17540227-10-person140" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Wiltshire, when I am at home; but at present I am at my father's in town. On Friday the 1st of Feb. after eleven o'clock at Night, I was in a coach, Mr. Lane was with me; going out of the city to Cavendish-square, just by the <placeName id="t17540227-10-crimeloc59">Old Pound, in St. Giles's</placeName>
+                  <interp inst="t17540227-10-crimeloc59" type="placeName" value="Old Pound, in St. Giles's"></interp>
+                  <interp inst="t17540227-10-crimeloc59" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-10-off50 t17540227-10-crimeloc59"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-10-off56 t17540227-10-crimeloc59"></join>, we were sitting with our backs to the horses, the shutter was up, on my right hand, I was on the left side of the coach, or off-side: the other shutter was down: I saw Dean pass by us. The moon shone so very bright, I had a very fair view of him, but then did not see his face. I looked out at the window and saw him go to the horses head, by reaching over Mr. Lane, and perceived he had a long horse-pistol in his hand. The coach stopped, and he immediately came to the coach-door, and put his pistol to my breast, and ordered me to sit down and behave quietly, for then I was endeavouring to get out at that door; he said, he would use us like gentlemen; I sat down. Then the shutter on my side was let down, and Wilson looked in and presented a small pistol to me, and kept his hand in motion, and held it to me some time, a little distance from my breast: he demanded my watch and money, I gave him a guinea and some silver, I believe about three or four shillings; then he put his hand to my fob, to feel for my watch, but did not find it, although then in my fob. After this they went away. I pulled out my watch then, and found it to be twenty minutes after eleven.</p>
+               <p>Q. How long were they in rifling you?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270011"></xptr>Jones. They were by the coach about three minutes, I am certain to the two prisoners by their shape, their voices, and every thing that a man's eyes or ears can tell by; and they being so soon after taken I had not lost the idea of them. Wilson had a black patch under his left eye. I had also remarked the horse pistol, which was a very remarkable one, with a brass barrel. Dean had been in the coach, and had rifled Mr. Lane. He leaving the coach door open, as soon as they were gone we both got out. Immediately there was a gentleman came up to us, and asked us if we had been robbed; we said yes; he said he thought so, and that he saw the two men run down a narrow street. We followed them, and they were secured under a lamp by Mr. Welch the high constable and six or seven other constables, in about four minutes after they left us.</p>
+               <p>Q. Had you called out thieves?</p>
+               <p>Jones. No, we had not. I described them to Mr. Welch before I saw them. Then he said he had them in custody; and we saw them afterwards, and they answered our descriptions perfectly. The black patch was in the scuffle fallen off Wilson's face, but found by one of the constables where he was stopped, and it seemed to be fresh knocked off. They were lodged in New Prison that night, and the next day carried before Justice Fielding.</p>
+               <p>Mr. Lane. I was in the coach along with Mr. Jones on the first of February when he was robbed. I was asleep at the time Dean came to the coach, but was awaked by his opening the coach door. He came into the coach, and held a pistol to my breast, (I observed a long brass barrel pistol in his hand by the light of the moon) he put his hand into my pocket and drew out my watch. I saw a man in a light-coloured coat on the other side of the coach, which I am positively sure was the other prisoner Wilson. I cannot say I heard him demand any thing of Mr. Jones, who was on that side, being entirely taken up with Dean. I could see the two prisoners plainly by the light of the moon, I imagine they were with us about three or four minutes. After they were gone we jumped out of the coach, and there was a little exciseman came to us, and asked if we had been robbed; we said yes; he said he thought so, and that they went down a narrow street. We followed them, and found them in the hands of Mr. Welch the constable. When I saw them again I was very positive to both of them, and I particularly described Dean before I saw him to Mr. Welch.</p>
+               <p>
+            
+                  <persName id="t17540227-10-person141">
+                  William 
+                  Smith 
+               <interp inst="t17540227-10-person141" type="surname" value="Smith"></interp>
+                     <interp inst="t17540227-10-person141" type="given" value="William"></interp>
+                     <interp inst="t17540227-10-person141" type="gender" value="male"></interp>
+                  </persName>
+            . I am a constable, on the first of January Mr. Welch was out with several of us to search bad houses for disorderly people. Going along Puckeridge-street, about half an hour after eleven, in the middle of the street, Mr. Welch being foremost, we met the two prisoners coming along. Mr. Welch asked who they were, they gave no answer, but seemed to be in a hurry; all on a sudden I saw they had pistols, and laid hold of Dean. Mr. Welch said this fellow has got a pistol, (meaning Wilson) I left Dean in the hands of two other constables, and went to Wilson, who was then down on the ground. As soon as I came he put this pistol to my breast [producing a small pocket pistol] and was some time before I could get it out of his hand, and examining it afterwards found it to be loaded with powder and ball, and primed. The other constable that had hold of him on the other side, found another pistol in his pocket, and after we had got him up on his legs, came Mr. Jones with a stick, and Mr. Lane with a sword drawn in his hand.</p>
+               <p>Q. How long was this after you had stopped them?</p>
+               <p>Smith. It was about two minutes after; I heard Mr. Jones describe Dean to Mr. Welch and Mr. Lane the other.</p>
+               <p>Hen. Flanerkin. I am a constable, and was with Mr. Welch at the time. [He confirmed the evidence given by Smith, with this addition, that he found the watch, which he produced, and Mr. Lane deposed to, on the ground where Dean was first stopped; and that when Wilson was first stopped he had a black patch on his face, which he found afterwards on the ground where he was stopped.</p>
+               <p>
+            
+                  <persName id="t17540227-10-person142">
+                  William 
+                  Gee 
+               <interp inst="t17540227-10-person142" type="surname" value="Gee"></interp>
+                     <interp inst="t17540227-10-person142" type="given" value="William"></interp>
+                     <interp inst="t17540227-10-person142" type="gender" value="male"></interp>
+                  </persName>
+            . I am an headborough, and was along with Mr. Welch and others. [He confirmed the evidence of the two last]</p>
+               <p>
+            
+                  <persName id="t17540227-10-person143">
+                  Joshua 
+                  Murphy 
+               <interp inst="t17540227-10-person143" type="surname" value="Murphy"></interp>
+                     <interp inst="t17540227-10-person143" type="given" value="Joshua"></interp>
+                     <interp inst="t17540227-10-person143" type="gender" value="male"></interp>
+                  </persName>
+            . I am a constable, and was with Mr. Welch, &amp;c. [He confirmed the account given by the last evidences, with this addition, that when the two prisoners were coming along, one said to the other, they sung a good song. Mr. Jones (the prosecutor) said, I suppose they meant me and a young lady, who some time before they stopped us we were singing in the coach. Murphy farther added, that when he stopped Dean he heard something fall, and in the place, after the prisoners were secured, he found the long pistol, which was produced]</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270012"></xptr>Dean's defence.</p>
+               <p>I know nothing of this robbery, but as I was going along the street, having offended no body, was stopped by a parcel of men, who searched me, but found nothing upon me.</p>
+               <p>Both <rs id="t17540227-10-verdict60" type="verdictDescription">
+                     <interp inst="t17540227-10-verdict60" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, <rs id="t17540227-10-punish61" type="punishmentDescription">
+                     <interp inst="t17540227-10-punish61" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-10-defend129 t17540227-10-punish61"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-10-defend137 t17540227-10-punish61"></join>
+               Death
+            </rs>.</p>
+               <p>See Wilson tried twice before, No 479, in Alderman Blackford's mayoralty.</p>
+               <p>There was another indictment against them for robbing Mr. Lane of his watch, but being capitally convicted was not tried on that.</p>
+            </div1>

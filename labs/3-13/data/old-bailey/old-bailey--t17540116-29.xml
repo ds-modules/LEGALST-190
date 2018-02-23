@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-29">
+               <interp inst="t17540116-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-29" type="year" value="1754"></interp>
+               <interp inst="t17540116-29" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-29" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-29-off155-c214" targOrder="Y" targets="t17540116-29-defend266 t17540116-29-off155 t17540116-29-verdict159"></join>
+         
+               <p>115. (L.) 
+               
+                  <persName id="t17540116-29-defend266" type="defendantName">
+                     William 
+                     James 
+                  <interp inst="t17540116-29-defend266" type="surname" value="James"></interp>
+                     <interp inst="t17540116-29-defend266" type="given" value="William"></interp>
+                     <interp inst="t17540116-29-defend266" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-29-off155" type="offenceDescription">
+                     <interp inst="t17540116-29-off155" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-29-off155" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing six dozen of worsted hose, val. 10 l. and one yard of hempen cloth, val. 6 d. the goods of 
+                     
+                        <persName id="t17540116-29-victim268" type="victimName">
+                           John 
+                           Roberts 
+                        <interp inst="t17540116-29-victim268" type="surname" value="Roberts"></interp>
+                        <interp inst="t17540116-29-victim268" type="given" value="John"></interp>
+                        <interp inst="t17540116-29-victim268" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-29-off155 t17540116-29-victim268"></join>
+                     </persName>
+                      
+                  , in the shop
+            </rs> of the said John, <rs id="t17540116-29-cd156" type="crimeDate">Dec. 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-29-off155 t17540116-29-cd156"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540116-29-person269">
+                  John 
+                  Roberts 
+               <interp inst="t17540116-29-person269" type="surname" value="Roberts"></interp>
+                     <interp inst="t17540116-29-person269" type="given" value="John"></interp>
+                     <interp inst="t17540116-29-person269" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17540116-29-viclabel157" type="occupation">hosier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-29-victim268 t17540116-29-viclabel157"></join>, and live at the Three Kings in <placeName id="t17540116-29-crimeloc158">Fenchurch-street</placeName>
+                  <interp inst="t17540116-29-crimeloc158" type="placeName" value="Fenchurch-street"></interp>
+                  <interp inst="t17540116-29-crimeloc158" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-29-off155 t17540116-29-crimeloc158"></join>. On Friday the 21st of December last, between the hours of five and six, as I was writing in my compting house, which is even with the front of my shop, my servant 
+               <persName id="t17540116-29-person270">
+                  Ebenezer 
+                  Fidge 
+               <interp inst="t17540116-29-person270" type="surname" value="Fidge"></interp>
+                     <interp inst="t17540116-29-person270" type="given" value="Ebenezer"></interp>
+                     <interp inst="t17540116-29-person270" type="gender" value="male"></interp>
+                  </persName>
+             called me out to look to the shop. I went out, and he went in haste to pursue the prisoner; he and my other servant Harrison returned and brought the prisoner, and goods mentioned in the indictment, into my compting house, and said the prisoner had stole them. I then sent for a constable, and gave him charge of the prisoner.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>Roberts. No, my Lord. I never saw him before, to my knowledge. The stockings produced in court and deposed to.</p>
+               <p>Q. What are the stockings worth?</p>
+               <p>Roberts. They cost me 11 l. and upwards.</p>
+               <p>Q. Where were they taken from?</p>
+               <p>Roberts. From out of my shop window.</p>
+               <p>Q. Were they withinside, or out?</p>
+               <p>Roberts. They were within the shop, which, at night, when we shut up, is all inclosed.</p>
+               <p>
+            
+                  <persName id="t17540116-29-person271">
+                  John 
+                  Harrison 
+               <interp inst="t17540116-29-person271" type="surname" value="Harrison"></interp>
+                     <interp inst="t17540116-29-person271" type="given" value="John"></interp>
+                     <interp inst="t17540116-29-person271" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to the prosecutor. On the 21st of December I was within the shop, about two or three yards from the door. I saw a man's face, and two hands take a truss of stockings, as it stood on the bulk, and put it on his head. I was surprized, and could not speak, but ran out directly.</p>
+               <p>Q. Was that man in the shop?</p>
+               <p>Harrison. No. He took it from the outside.</p>
+               <p>Q. Is that bulk part of the house?</p>
+               <p>Harrison. It is. When we shut up our windows that place where the truss stood is shut in.</p>
+               <p>Q. Do you reckon it part of the shop?</p>
+               <p>Harrison. We do. The prisoner was walking softly along with the truss on his head, and I laid hold on his arm. He turned about. I said, You have stole these stockings out of the shop window; he then threw them down, and said, I have taken nothing of yours, stop me at your peril, and would not go back with me; upon which we had a struggle, and he got about four or five yards from me. I got hold on his collar again, and he tore his shirt, and got away again, and went about four or five yards farther, when I again took hold of him, and kept him till I had assistance. We then brought him, and the stockings also, to my master's compting house.</p>
+               <p>Q. Had you so much sight of the face, as to know it again?</p>
+               <p>Harrison. I can't say it was the prisoner's face.</p>
+               <p>
+            
+                  <persName id="t17540116-29-person272">
+                  Ebenezer 
+                  Fidge 
+               <interp inst="t17540116-29-person272" type="surname" value="Fidge"></interp>
+                     <interp inst="t17540116-29-person272" type="given" value="Ebenezer"></interp>
+                     <interp inst="t17540116-29-person272" type="gender" value="male"></interp>
+                  </persName>
+            . On the 21st of December, between five and six in the afternoon, I was looking over a parcel of goods, in order to pack them up. All on a sudden 
+               <persName id="t17540116-29-person273">
+                  John 
+                  Harrison 
+               <interp inst="t17540116-29-person273" type="surname" value="Harrison"></interp>
+                     <interp inst="t17540116-29-person273" type="given" value="John"></interp>
+                     <interp inst="t17540116-29-person273" type="gender" value="male"></interp>
+                  </persName>
+             sprung away from me out of the shop, and looking out at the door, I saw him struggling with a man. I made up to them, and picked up this truss of stockings within about four yards of the door.</p>
+               <p>Q. to Harrison. Whereabouts did you first seize the prisoner?</p>
+               <p>Harrison. It was about four yards from the door.</p>
+               <p>Evidence continues. I brought the truss into the shop, and calling to my master to come into the shop, immediately went to assist Harrison; I believe they were about twenty yards from the door. We had several people come to our assistance, we brought him to my master's compting house, and there I left him.</p>
+               <p>Prisoner's Defence.</p>
+               <p>As I was going along Fenchurch-street, near an open bulk, the goods were seemingly piled one upon another, and no grating. A porter was going along with a hamper, which took hold of this truss, and pulling it down, almost stunn'd me. I took it up, and called after the porter, saying he had dropt something; but he kept going on. I had put them on my head, in order to carry them after him, when this man came and laid hold of me. I said to him, They are none of yours; he took hold on me, and I cleared myself of him as well as I could. They then called, Stop thief, and I came back, and went into the shop.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160016"></xptr>To his Character.</p>
+               <p>Mr. Carpenter. I have known the prisoner twenty years. I am a wine-cooper, and he is a vintner; I have trusted him with brandy, rum, and wine. He has carried them out and brought me the cash, and this within these two months.</p>
+               <p>
+            
+                  <persName id="t17540116-29-person274">
+                  Thomas 
+                  Priod 
+               <interp inst="t17540116-29-person274" type="surname" value="Priod"></interp>
+                     <interp inst="t17540116-29-person274" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-29-person274" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him betwixt eleven and twelve years. I was with him abroad in the East Indies five years. He is a very honest man, and his general character is good.</p>
+               <p>
+            
+                  <persName id="t17540116-29-person275">
+                  Thomas 
+                  Cook 
+               <interp inst="t17540116-29-person275" type="surname" value="Cook"></interp>
+                     <interp inst="t17540116-29-person275" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-29-person275" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him above two years, and he is an honest man, as far as ever I heard.</p>
+               <p>
+            
+                  <persName id="t17540116-29-person276">
+                  Anne 
+                  Gibbs 
+               <interp inst="t17540116-29-person276" type="surname" value="Gibbs"></interp>
+                     <interp inst="t17540116-29-person276" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-29-person276" type="gender" value="female"></interp>
+                  </persName>
+            . I have known him about a year; he is a very honest industrious man.</p>
+               <p>
+            
+                  <persName id="t17540116-29-person277">
+                  John 
+                  Booth 
+               <interp inst="t17540116-29-person277" type="surname" value="Booth"></interp>
+                     <interp inst="t17540116-29-person277" type="given" value="John"></interp>
+                     <interp inst="t17540116-29-person277" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him twenty years and upwards; he always bore an honest character; he portered for me.</p>
+               <p>
+            
+                  <persName id="t17540116-29-person278">
+                  Francis 
+                  Hays 
+               <interp inst="t17540116-29-person278" type="surname" value="Hays"></interp>
+                     <interp inst="t17540116-29-person278" type="given" value="Francis"></interp>
+                     <interp inst="t17540116-29-person278" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him about nine months; he is very honest, as far as ever I heard.</p>
+               <p>
+                  <rs id="t17540116-29-verdict159" type="verdictDescription">
+                     <interp inst="t17540116-29-verdict159" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17540116-29-punish160" type="punishmentDescription">
+                     <interp inst="t17540116-29-punish160" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-29-defend266 t17540116-29-punish160"></join>
+               Death
+            </rs>. Recommended to mercy.</p>
+            </div1>

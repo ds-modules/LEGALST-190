@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-51">
+               <interp inst="t17540116-51" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-51" type="year" value="1754"></interp>
+               <interp inst="t17540116-51" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-51" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-51-off269-c397" targOrder="Y" targets="t17540116-51-defend487 t17540116-51-off269 t17540116-51-verdict271"></join>
+         
+               <p>139. (M.) 
+               
+                  <persName id="t17540116-51-defend487" type="defendantName">
+                     Mary 
+                     Weaver 
+                  <interp inst="t17540116-51-defend487" type="surname" value="Weaver"></interp>
+                     <interp inst="t17540116-51-defend487" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-51-defend487" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540116-51-deflabel268" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-51-defend487 t17540116-51-deflabel268"></join>, was indicted for <rs id="t17540116-51-off269" type="offenceDescription">
+                     <interp inst="t17540116-51-off269" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-51-off269" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silk gown, value 4 s. one stuff gown, value 2 s. one stuff petticoat, value 1 s. 6 d. two linen shifts, value 2 s. two linen aprons, value 2 s. two caps, value 8 d. and one linen handkerchief, value 4 d.
+            </rs> the goods of 
+               
+                  <persName id="t17540116-51-victim489" type="victimName">
+                     Jane 
+                     Fansitt 
+                  <interp inst="t17540116-51-victim489" type="surname" value="Fansitt"></interp>
+                     <interp inst="t17540116-51-victim489" type="given" value="Jane"></interp>
+                     <interp inst="t17540116-51-victim489" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-51-off269 t17540116-51-victim489"></join>
+                  </persName>
+                
+            , <rs id="t17540116-51-cd270" type="crimeDate">December 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-51-off269 t17540116-51-cd270"></join>. ++ .</p>
+               <p>
+                  <rs id="t17540116-51-verdict271" type="verdictDescription">
+                     <interp inst="t17540116-51-verdict271" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-51-verdict271" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17540116-51-punish272" type="punishmentDescription">
+                     <interp inst="t17540116-51-punish272" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-51-defend487 t17540116-51-punish272"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

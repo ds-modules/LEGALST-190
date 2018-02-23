@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-22">
+               <interp inst="t17540116-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-22" type="year" value="1754"></interp>
+               <interp inst="t17540116-22" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-22" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-22-off122-c166" targOrder="Y" targets="t17540116-22-defend206 t17540116-22-off122 t17540116-22-verdict124"></join>
+               <join result="criminalCharge" id="t17540116-22-off122-c167" targOrder="Y" targets="t17540116-22-defend208 t17540116-22-off122 t17540116-22-verdict124"></join>
+         
+               <p>106, 107. (M.) 
+               
+                  <persName id="t17540116-22-defend206" type="defendantName">
+                     Elizabeth 
+                     Humphrys 
+                  <interp inst="t17540116-22-defend206" type="surname" value="Humphrys"></interp>
+                     <interp inst="t17540116-22-defend206" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-22-defend206" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17540116-22-defend208" type="defendantName">
+                     Catharine 
+                     Brown 
+                  <interp inst="t17540116-22-defend208" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-22-defend208" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-22-defend208" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17540116-22-deflabel121" type="occupation">spinsters</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-22-defend206 t17540116-22-deflabel121"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-22-defend208 t17540116-22-deflabel121"></join>, were indicted for <rs id="t17540116-22-off122" type="offenceDescription">
+                     <interp inst="t17540116-22-off122" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-22-off122" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one silver watch, value 3 l. one gold ring with a stone fixed in it, value 10 s. the goods of 
+                     <persName id="t17540116-22-person209">
+                        William 
+                        Grove 
+                     <interp inst="t17540116-22-person209" type="surname" value="Grove"></interp>
+                        <interp inst="t17540116-22-person209" type="given" value="William"></interp>
+                        <interp inst="t17540116-22-person209" type="gender" value="male"></interp>
+                     </persName>
+                  , privately from his person
+            </rs>, January 15.*.</p>
+               <p>
+            
+                  <persName id="t17540116-22-person210">
+                  William 
+                  Grove 
+               <interp inst="t17540116-22-person210" type="surname" value="Grove"></interp>
+                     <interp inst="t17540116-22-person210" type="given" value="William"></interp>
+                     <interp inst="t17540116-22-person210" type="gender" value="male"></interp>
+                  </persName>
+            . I met with the two prisoners on the 15th of January, about four in the morning, in Russel-Street, near a night cellar, where I was going to drink. Moreover, there was a young fellow with them, who asked me where I was going, and I told him. Moreover, the girls asked me to give them something to drink; I said they should be welcome. Moreover, we had a pot of hot on the steps, for the people would not let Brown go into the cellar. We then went to Mr. Tooley's in <placeName id="t17540116-22-crimeloc123">Covent-Garden</placeName>
+                  <interp inst="t17540116-22-crimeloc123" type="placeName" value="Covent-Garden"></interp>
+                  <interp inst="t17540116-22-crimeloc123" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-22-off122 t17540116-22-crimeloc123"></join>, where the three persons were with me, and had some more hot; I believe three pots. Moreover, the other man left their company, but who he was I cannot say. After that we had eighteen pennyworth of punch. Moreover, 
+               <persName id="t17540116-22-person211">
+                  Catharine 
+                  Brown 
+               <interp inst="t17540116-22-person211" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-22-person211" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-22-person211" type="gender" value="female"></interp>
+                  </persName>
+             put her hand into my pocket, and took out five shillings and sixpence. I did not know when she did it, but she sat by me, the other was at a distance.</p>
+               <p>Q. What was your hot pot made of?</p>
+               <p>Grove. I think it was made of gin. They desired to look at my ring on my finger, which I did two or three different times, and they returned it me again. Moreover, and at length, 
+               <persName id="t17540116-22-person212">
+                  Elizabeth 
+                  Humphrys 
+               <interp inst="t17540116-22-person212" type="surname" value="Humphrys"></interp>
+                     <interp inst="t17540116-22-person212" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-22-person212" type="gender" value="female"></interp>
+                  </persName>
+             drawed it off my finger. I am sensible she did, and charged her with it immediately. The constable came in and laid hold of Brown, and bid her go out, and the other likewise; they said they would as soon as the liquor was drank up. Moreover, we all went together, and just as we got to Jackson's Alley, 
+               <persName id="t17540116-22-person213">
+                  Elizabeth 
+                  Humphrys 
+               <interp inst="t17540116-22-person213" type="surname" value="Humphrys"></interp>
+                     <interp inst="t17540116-22-person213" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-22-person213" type="gender" value="female"></interp>
+                  </persName>
+             snatched my watch from my pocket, and they both ran away; whereupon I immediately followed them, took 
+               <persName id="t17540116-22-person214">
+                  Elizabeth 
+                  Humphrys 
+               <interp inst="t17540116-22-person214" type="surname" value="Humphrys"></interp>
+                     <interp inst="t17540116-22-person214" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-22-person214" type="gender" value="female"></interp>
+                  </persName>
+            , and brought her into Russel-Street. I called out watch, and they came to my assistance. She was carried to Covent-Garden watch-house; they desired me to go to bed there, which I did.</p>
+               <p>Q. Was you not in liquor?</p>
+               <p>Grove. I was a little, and very little in liquor.</p>
+               <p>Briant Tooley. Last monday night I was constable of the night, and came home to my house about half an hour after five in the morning. where I found the prisoners and the prosecutor; I desired them to go about their business, they paid their reckoning, and went away. About half an hour after, one of the watchmen came and told me Elizabeth Humphrys and a gentleman was in the Round-House. I went there, but the man was gone to bed; I then searched the woman, but found nothing upon her. Afterwards I went<xptr type="pageFacsimile" doc="175401160012"></xptr> home, and Brown the prisoner was in my house by herself; I asked her what she had done with the gentleman's watch, she replied she knew nothing of it. I carried her to the Round-House, there searched her, and found the watch rolled up in her hair behind, under her cap and handkerchief. Deposed to by the prosecutor.</p>
+               <p>Humphrys. He gave her the watch and ring to lie with her.</p>
+               <p>
+            
+                  <persName id="t17540116-22-person215">
+                  Thomas 
+                  Carrey 
+               <interp inst="t17540116-22-person215" type="surname" value="Carrey"></interp>
+                     <interp inst="t17540116-22-person215" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-22-person215" type="gender" value="male"></interp>
+                  </persName>
+            . On Tuesday morning last, about six o'clock, the prosecutor brought 
+               <persName id="t17540116-22-person216">
+                  Elizabeth 
+                  Humphrys 
+               <interp inst="t17540116-22-person216" type="surname" value="Humphrys"></interp>
+                     <interp inst="t17540116-22-person216" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-22-person216" type="gender" value="female"></interp>
+                  </persName>
+             to the Round-House; he charged her with asking a watch and ring from him.</p>
+               <p>Q Was the prosecutor sober?</p>
+               <p>Carrey. He was a little fuddled, but not very drunk. A little while after, the constable went out and brought in 
+               <persName id="t17540116-22-person217">
+                  Catharine 
+                  Brown 
+               <interp inst="t17540116-22-person217" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-22-person217" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-22-person217" type="gender" value="female"></interp>
+                  </persName>
+            , and desired my wife to take her backwards and search her: my wife, I, and Brown, went backwards, she took the ring out of her mouth, and delivered it to me. [Produced in court and deposed to by the prosecutor.] My wife searched her, but found no watch upon her. The constable, when she came out, clapt his hand on her head, and there was the watch on a lump in a handkerchief. The prosecutor said they had had the ring three or four times, but return'd it till the last time.</p>
+               <p>
+            
+                  <persName id="t17540116-22-person218">
+                  Elizabeth 
+                  Humphrys 
+               <interp inst="t17540116-22-person218" type="surname" value="Humphrys"></interp>
+                     <interp inst="t17540116-22-person218" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-22-person218" type="gender" value="female"></interp>
+                  </persName>
+            's defence.</p>
+               <p>We met the prosecutor, who said he was a taylor, and must go to work in the morning, but wanted to go to a coffee-house, so we had him to the house of Mr. Tooley. There was another young man with him. We had a pot of hot, and another, and another, and eighteen pennyworth of punch. He was very drunk; he gave 
+               <persName id="t17540116-22-person219">
+                  Catharine 
+                  Brown 
+               <interp inst="t17540116-22-person219" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-22-person219" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-22-person219" type="gender" value="female"></interp>
+                  </persName>
+             the ring off of his finger, and his watch, to lie with her.</p>
+               <p>Brown's Defence.</p>
+               <p>The prosecutor gave me the ring and five shillings and sixpence to pay the reckoning at Mr. Tooley's, and he said he would go home and lie with me. He was guilty of very rude things, which I did not like. I told him I had no conveniency for him at home, then he said he'd go with me to lie together at the Greyhound; I replied I would not; then he said he would go and lie with me in some alley. He put down his breeches, and gave me his watch, it fell down and broke the crystal. I took it up, and went to leave it at the constable's house, and to deliver up the ring, but having been knocked down, resolved not to deliver up the watch till I saw farther.</p>
+               <p>To their Characters.</p>
+               <p>
+            
+                  <persName id="t17540116-22-person220">
+                  Catharine 
+                  Mooney 
+               <interp inst="t17540116-22-person220" type="surname" value="Mooney"></interp>
+                     <interp inst="t17540116-22-person220" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-22-person220" type="gender" value="female"></interp>
+                  </persName>
+             I have known Humphrys a year, and never heard any ill of her.</p>
+               <p>
+            
+                  <persName id="t17540116-22-person221">
+                  Margaret 
+                  Hughs 
+               <interp inst="t17540116-22-person221" type="surname" value="Hughs"></interp>
+                     <interp inst="t17540116-22-person221" type="given" value="Margaret"></interp>
+                     <interp inst="t17540116-22-person221" type="gender" value="female"></interp>
+                  </persName>
+            . I have known Brown from her birth, and her character was good till now.</p>
+               <p>
+            
+                  <persName id="t17540116-22-person222">
+                  Margaret 
+                  Vaughan 
+               <interp inst="t17540116-22-person222" type="surname" value="Vaughan"></interp>
+                     <interp inst="t17540116-22-person222" type="given" value="Margaret"></interp>
+                     <interp inst="t17540116-22-person222" type="gender" value="female"></interp>
+                  </persName>
+            . I have known Brown above a year, have employ'd her in doing plain work, and she never wronged me. I never heard any ill of her.</p>
+               <p>
+            
+                  <persName id="t17540116-22-person223">
+                  Thomas 
+                  Vaughan 
+               <interp inst="t17540116-22-person223" type="surname" value="Vaughan"></interp>
+                     <interp inst="t17540116-22-person223" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-22-person223" type="gender" value="male"></interp>
+                  </persName>
+            . I am husband to the last evidence. I never lost any thing by Brown, though she worked and lodged in my house.</p>
+               <p>
+                  <rs id="t17540116-22-verdict124" type="verdictDescription">
+                     <interp inst="t17540116-22-verdict124" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-22-verdict124" type="verdictSubcategory" value="lesserOffence"></interp>
+               Both guilty of felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-22-punish125" type="punishmentDescription">
+                     <interp inst="t17540116-22-punish125" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-22-defend206 t17540116-22-punish125"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-22-defend208 t17540116-22-punish125"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

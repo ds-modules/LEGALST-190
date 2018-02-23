@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-12">
+               <interp inst="t17540227-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-12" type="year" value="1754"></interp>
+               <interp inst="t17540227-12" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-12" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-12-off66-c125" targOrder="Y" targets="t17540227-12-defend149 t17540227-12-off66 t17540227-12-verdict69"></join>
+         
+               <p>165. (L.) 
+               
+                  <persName id="t17540227-12-defend149" type="defendantName">
+                     Samuel 
+                     Winter 
+                  <interp inst="t17540227-12-defend149" type="surname" value="Winter"></interp>
+                     <interp inst="t17540227-12-defend149" type="given" value="Samuel"></interp>
+                     <interp inst="t17540227-12-defend149" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540227-12-off66" type="offenceDescription">
+                     <interp inst="t17540227-12-off66" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-12-off66" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one linen handkerchief
+            </rs>, the property of 
+               
+                  <persName id="t17540227-12-victim151" type="victimName">
+                     Nathaniel 
+                     Blackey 
+                  <interp inst="t17540227-12-victim151" type="surname" value="Blackey"></interp>
+                     <interp inst="t17540227-12-victim151" type="given" value="Nathaniel"></interp>
+                     <interp inst="t17540227-12-victim151" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540227-12-off66 t17540227-12-victim151"></join>
+                  </persName>
+                
+            , <rs id="t17540227-12-cd67" type="crimeDate">Feb. 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-12-off66 t17540227-12-cd67"></join>. ++</p>
+               <p>The prosecutor was coming down <placeName id="t17540227-12-crimeloc68">Holborn</placeName>
+                  <interp inst="t17540227-12-crimeloc68" type="placeName" value="Holborn"></interp>
+                  <interp inst="t17540227-12-crimeloc68" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-12-off66 t17540227-12-crimeloc68"></join>, one 
+               <persName id="t17540227-12-person152">
+                  Daniel 
+                  Dennison 
+               <interp inst="t17540227-12-person152" type="surname" value="Dennison"></interp>
+                     <interp inst="t17540227-12-person152" type="given" value="Daniel"></interp>
+                     <interp inst="t17540227-12-person152" type="gender" value="male"></interp>
+                  </persName>
+             told him he saw a person pick his pocket of a handkerchief, and shewed him the man, which was the prisoner; he laid hold of him, and he took the handkerchief out of his pocket, and said, if this be your handkerchief take it, and gave it him. [The handkerchief produced in court, and deposed to by the prosecutor.] The prisoner in his defence said his wife bought it in Rosemary-lane.</p>
+               <p>
+                  <rs id="t17540227-12-verdict69" type="verdictDescription">
+                     <interp inst="t17540227-12-verdict69" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-12-punish70" type="punishmentDescription">
+                     <interp inst="t17540227-12-punish70" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-12-defend149 t17540227-12-punish70"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

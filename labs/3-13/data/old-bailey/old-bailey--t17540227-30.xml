@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-30">
+               <interp inst="t17540227-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-30" type="year" value="1754"></interp>
+               <interp inst="t17540227-30" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-30" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-30-off171-c237" targOrder="Y" targets="t17540227-30-defend298 t17540227-30-off171 t17540227-30-verdict174"></join>
+         
+               <p>186. (M.) 
+               
+                  <persName id="t17540227-30-defend298" type="defendantName">
+                     Robert 
+                     Norse 
+                  <interp inst="t17540227-30-defend298" type="surname" value="Norse"></interp>
+                     <interp inst="t17540227-30-defend298" type="given" value="Robert"></interp>
+                     <interp inst="t17540227-30-defend298" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540227-30-off171" type="offenceDescription">
+                     <interp inst="t17540227-30-off171" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-30-off171" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two deal boards, value 3 s.
+            </rs> the property of persons unknown. <rs id="t17540227-30-cd172" type="crimeDate">Jan. 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-30-off171 t17540227-30-cd172"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-30-person299">
+                  John 
+                  Abbot 
+               <interp inst="t17540227-30-person299" type="surname" value="Abbot"></interp>
+                     <interp inst="t17540227-30-person299" type="given" value="John"></interp>
+                     <interp inst="t17540227-30-person299" type="gender" value="male"></interp>
+                  </persName>
+            . I am apprentice to the Prisoner, who is a <rs id="t17540227-30-deflabel173" type="occupation">wood carver</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-30-defend298 t17540227-30-deflabel173"></join>, and lives by Islington lower turnpike. Alexander Layel, my fellow-apprentice, came and called me down stairs, and bid me go into my master's bed-chamber, on a night about eight or nine o'clock, about the beginning of Jan. there my master handed up to me two deal boards which he had in that day, and said to me, Jack, there is a board that stands by the building (which joined to the mad-house at the bottom of my master's garden) I will have it at night. After the board was taken up in the garret where we work, he scratched his head and said, it was a lucky hit, and would have another haul at them. [He looks at a letter.] This is my writing: I sent this to my uncle in Tower-street, who came to me afterwards with the other apprentice's brother and Mr. Blackey; my fellow-apprentice's brother read this letter to my master before my uncle and Mr Blackey; my master said after it was read, that it was a great oversight in him. I said, there is one of the boards marked J. C. above stairs; my master said, gentlemen, if you have a mind to walk up, you may see it.</p>
+               <p>[The letter read in Court to this purport.]</p>
+               <p>Honoured Uncle,</p>
+               <p>This comes to acquaint you, that I could not come to meet you at Islington on Sunday. My master employed me another way, not honestly; he forced me to steal two apple-trees, and a great many flower-roots, and box, for edgings of his garden. Every night he takes something or other out of doctor Battey's garden. Lately he took two deals out of the bricklayer's scaffold, worth two shillings or half a crown, and many other things. I desire you will find some remedy for it, or the consequence may be bad. Pray get some relief for me if you can.</p>
+               <p>Signed,</p>
+               <p>
+            
+                  <persName id="t17540227-30-person300">
+                  John 
+                  Abbot 
+               <interp inst="t17540227-30-person300" type="surname" value="Abbot"></interp>
+                     <interp inst="t17540227-30-person300" type="given" value="John"></interp>
+                     <interp inst="t17540227-30-person300" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>P. S. My fellow-apprentice has sent to his brother in the Poultry.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270020"></xptr>
+            
+                  <persName id="t17540227-30-person301">
+                  Alexander 
+                  Layel 
+               <interp inst="t17540227-30-person301" type="surname" value="Layel"></interp>
+                     <interp inst="t17540227-30-person301" type="given" value="Alexander"></interp>
+                     <interp inst="t17540227-30-person301" type="gender" value="male"></interp>
+                  </persName>
+            . I am sixteen years old; I have served four months all but six days to the Prisoner. My master went over the wall and took two deal boards from the bricklayer's scaffold, and handed them over to me, from out of doctor Battey's garden, about eight or nine o'clock at night, I do not know the day. He bade me go up to my fellow-apprentice and send him down to his bed-chamber to take the two boards in at the window, which he did with my help. There was J. C. on one of them. I was in the parlour when this letter was read to him; he told them, they acted like gentlemen of prudence, because they took a step not to injure his character: he owned it was all fact. He went and opened the window and bade them look out, and they might see the trees and things in the garden, and if they would go up stairs, they might see the boards.</p>
+               <p>
+            
+                  <persName id="t17540227-30-person302">
+                  John 
+                  Abbot 
+               <interp inst="t17540227-30-person302" type="surname" value="Abbot"></interp>
+                     <interp inst="t17540227-30-person302" type="given" value="John"></interp>
+                     <interp inst="t17540227-30-person302" type="gender" value="male"></interp>
+                  </persName>
+            . The evidence Abbot that has been examined is my brother's son, I live in Tower-street. I received this letter from him, and went after that in company with Mr. Blackey and Mr. Layel to the Prisoner's house; there Mr. Layel read this letter to him; he confessed to the trees that we saw growing in his garden, and said, it was a thing that he should not have done, and begged we would not take away the boys; he did not deny taking the boards, and said the boys should go up stairs and shew them to us, but we did not go up to see them.</p>
+               <p>Cross-Examination.</p>
+               <p>Q. Is the only reason for this prosecution because the boys were not discharged?</p>
+               <p>Abbot. It is the only reason. After that he desired we would leave the boys with him, and he would never do so any more.</p>
+               <p>
+            
+                  <persName id="t17540227-30-person303">
+                  John 
+                  Blackey 
+               <interp inst="t17540227-30-person303" type="surname" value="Blackey"></interp>
+                     <interp inst="t17540227-30-person303" type="given" value="John"></interp>
+                     <interp inst="t17540227-30-person303" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Gracechurch-street, the youngest apprentice is my nephew. I went with the last evidence and Mr. Layel to the Prisoner's house; Mr. Layel read this letter over to him, he confessed the charge in it: we desired to have the boys away; he said he would discharge the boys with all his heart, and that it was a very prudent step in us to come in that manner, and not to expose his character; and said, some of the boards were put upon the summer-house in his garden. We relied upon his promise, and he appointed to meet us in Tower-street, at Mr. Temple's; there he refused to deliver up the boys indentures and bonds, and summoned them to return. We applied to a justice of the peace, and he bound us over to prosecute.</p>
+               <p>
+            
+                  <persName id="t17540227-30-person304">
+                  John 
+                  Layel 
+               <interp inst="t17540227-30-person304" type="surname" value="Layel"></interp>
+                     <interp inst="t17540227-30-person304" type="given" value="John"></interp>
+                     <interp inst="t17540227-30-person304" type="gender" value="male"></interp>
+                  </persName>
+            . I am brother to the apprentice, I gave ten pounds to the Prisoner with my brother when he was bound. [He confirmed the other two last evidences.]</p>
+               <p>Prisoner's Defence.</p>
+               <p>This is a malicious prosecution. I never sent these boys to fetch any thing but my own. I know nothing of any boards. As Dr. Battey was clearing away in his garden he gave me liberty to fetch the things I have taken. This is a contrivance to get away the boys, now they are capable to do me some service.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17540227-30-person305">
+                  John 
+                  Chidley 
+               <interp inst="t17540227-30-person305" type="surname" value="Chidley"></interp>
+                     <interp inst="t17540227-30-person305" type="given" value="John"></interp>
+                     <interp inst="t17540227-30-person305" type="gender" value="male"></interp>
+                  </persName>
+            . I am a bricklayer, and am building and repairing a mad-house for doctor Battey at Islington. I was sent for to come to justice Fielding's; there I was told, that a deal of things were taken from doctor Battey's grounds; the two boys were sworn; they said the same as now. I dare say doctor Battey would have given the Prisoner a load of trees, if he had asked for them. I heard the doctor say he had given the Prisoner's wife liberty to take the trees and odd bits of wainscot to help to build an arbour. The doctor went into the garden after this, and said in my hearing, all the things were not worth a shilling, had there been as much more, and that he was very welcome to as many more. The boys mentioned two boards before the justice, marked J. C. I mark my scaffolding-boards so. I ordered my man that has the care of the scaffolding to see if any were missing, neither he or I missed any. The boys then said they were two white deals, but mine are all yellow ones.</p>
+               <p>Cross-Examination.</p>
+               <p>Q. Did not you miss deals from your scaffolding?</p>
+               <p>Chidley. No, nor did I believe I had lost any.</p>
+               <p>Q. Nor do you not believe you had now?</p>
+         
+               <p>In a few days will be published the Second Part of these Proceedings.</p>
+         
+               <div1 type="frontMatter" id="t17540227-30">
+                  <interp inst="t17540227-30" type="collection" value="BAILEY"></interp>
+                  <interp inst="t17540227-30" type="year" value="1754"></interp>
+                  <interp inst="t17540227-30" type="uri" value="sessionsPapers/17540227"></interp>
+                  <interp inst="t17540227-30" type="date" value="17540227"></interp>
+            
+                  <p>
+                     <xptr type="pageFacsimile" doc="175402270021"></xptr>THE PROCEEDINGS ON THE King's Commissions of the Peace, Oyer and Terminer, and Gaol Delivery FOR THE CITY of LONDON; And also the Gaol Delivery for the County of MIDDLESEX, HELD AT JUSTICE-HALL in the OLD-BAILEY, On Wednesday the 27th, Thursday the 28th of FEBRUARY, Friday the 1st, Saturday the 2d, Monday the 4th, Tuesday the 5th, and Wednesday the 6th of MARCH.</p>
+                  <p>In the 27th Year of His MAJESTY's Reign. PART II. NUMBER III. for the Year 1754, BEING THE Third SESSIONS in the MAYORALTY of the Right Hon. 
+                  <persName id="t17540227-30-person306">
+                     Thomas 
+                     Rawlinson 
+                  <interp inst="t17540227-30-person306" type="surname" value="Rawlinson"></interp>
+                        <interp inst="t17540227-30-person306" type="given" value="Thomas"></interp>
+                        <interp inst="t17540227-30-person306" type="gender" value="male"></interp>
+                     </persName>
+               , Esq; LORD-MAYOR of the CITY of LONDON.</p>
+                  <p>LONDON:</p>
+                  <p>Printed, and sold by M. COOPER, at the Globe in Pater-noster Row. 1754.</p>
+                  <p>[Price Four-pence.]</p>
+                  <p>
+                     <xptr type="pageFacsimile" doc="175402270022"></xptr>THE PROCEEDINGS ON THE</p>
+                  <p>Kings Commissions of the Peace, Oyer and Terminer, and Gaol Delivery held for the City of London, &amp;c.</p>
+               </div1>
+               <p>Chidley. NO, upon my oath I do not. The two boys came to me about a month after the time they said they were taken, and told me of it: I said, why did not you tell me at that time? they said, they had not come then, but it was in order to get away their indentures; they pretended there was a great deal of wainscot taken. I got a search warrant and searched the Prisoner's premises, I found no scaffolding-boards or wainscot. I was asked to prosecute this man at the justice's, I said, would you have me prosecute a man when I find nothing upon him? I went away; after that two constables came and fetched me back by the arms, and I was bound over to prosecute; after that the justice said, Sir, are you content? I said, would you have me tell a lye? I am not content; this was the blind Mr. Fielding; who said, we must prosecute this man, or we shall not get the boys discharged. This is as mere a handle of these people as ever was invented.</p>
+               <p>
+            
+                  <persName id="t17540227-30-person307">
+                  John 
+                  Mariot 
+               <interp inst="t17540227-30-person307" type="surname" value="Mariot"></interp>
+                     <interp inst="t17540227-30-person307" type="given" value="John"></interp>
+                     <interp inst="t17540227-30-person307" type="gender" value="male"></interp>
+                  </persName>
+            . I worked journey-work with the Prosecutor, I have known Abbot the apprentice break his work, and then lay a stick in his master's way, in order that his master might beat him, that he might get his indentures sued out by his uncle. I have heard him say several times, he would get away either by fair or soul means.</p>
+               <p>Q. to Abbot the apprentice. Did you ever say you would get away from your master at all events ?</p>
+               <p>Abbot. No, I never did.</p>
+               <p>Chidley. He has said to me many times, that he would get away at all events.</p>
+               <p>Q. Was this declaration before this charge on his master?</p>
+               <p>Mariot. It was.</p>
+               <p>Q. What is the Prisoner's character?</p>
+               <p>Mariot. He always bore a good one; I never heard any ill of him in my days.</p>
+               <p>
+            
+                  <persName id="t17540227-30-person308">
+                  Sidney 
+                  Williams 
+               <interp inst="t17540227-30-person308" type="surname" value="Williams"></interp>
+                     <interp inst="t17540227-30-person308" type="given" value="Sidney"></interp>
+                     <interp inst="t17540227-30-person308" type="gender" value="male"></interp>
+                  </persName>
+            . Abbot the apprentice has said to me several times, provided I did not tell his master, he would tell me so and so. He said, he had a mind to sue out his indentures, and had a scheme that would do, and then he could work for himself, and could earn a great deal of money, and that he had brought the youngest apprentice into his own way. He said once to me, his master had struck him, thinking he had put tallow into a marrow-bone for his master to eat.</p>
+               <p>
+            
+                  <persName id="t17540227-30-person309">
+                  Richard 
+                  North 
+               <interp inst="t17540227-30-person309" type="surname" value="North"></interp>
+                     <interp inst="t17540227-30-person309" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-30-person309" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the Prisoner fourteen or fifteen years, I take him to be as honest a man as lives. I keep a nursery-garden at Lambeth. I told him, if he had a mind for a dozen or two of trees he was welcome. I once sent a man with some and other things; he knew he might have had as many as he would from me for sending for them; I cannot think he would go to steal the doctor's trees, when he might have had as many as he would for nothing.</p>
+               <p>Mrs. Pascote. I have known the Prisoner between eleven and twelve years, he has the character of a very honest faithful man.</p>
+               <p>Mrs. Long. I have known him upwards of eight years, he is as just and honest a man as any in England.</p>
+               <p>Mr. Ward. I have known him six or seven years, he is as worthy and honest a man as ever lived.</p>
+               <p>Mr. Preston. I have known him seventeen years, he is a very honest man.</p>
+               <p>
+            
+                  <persName id="t17540227-30-person310">
+                  John 
+                  Coward 
+               <interp inst="t17540227-30-person310" type="surname" value="Coward"></interp>
+                     <interp inst="t17540227-30-person310" type="given" value="John"></interp>
+                     <interp inst="t17540227-30-person310" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him upwards of eight years, he is a very honest man.</p>
+               <p>
+                  <rs id="t17540227-30-verdict174" type="verdictDescription">
+                     <interp inst="t17540227-30-verdict174" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270023"></xptr>He had a copy of his indictment granted him, for which the jury that tried it, returned thanks to the Court.</p>
+            </div1>

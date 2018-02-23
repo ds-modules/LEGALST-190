@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-13">
+               <interp inst="t17540116-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-13" type="year" value="1754"></interp>
+               <interp inst="t17540116-13" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-13" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-13-off69-c98" targOrder="Y" targets="t17540116-13-defend120 t17540116-13-off69 t17540116-13-verdict72"></join>
+         
+               <p>93. (M.) 
+               <persName id="t17540116-13-defend120" type="defendantName">
+                  Sarah, <rs id="t17540116-13-deflabel68" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-13-defend120 t17540116-13-deflabel68"></join> of 
+                     <persName id="t17540116-13-person121">
+                        Charles 
+                        Griffice 
+                     <interp inst="t17540116-13-person121" type="surname" value="Griffice"></interp>
+                        <interp inst="t17540116-13-person121" type="given" value="Charles"></interp>
+                        <interp inst="t17540116-13-person121" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17540116-13-defend120" type="surname" value="Griffice"></interp>
+                     <interp inst="t17540116-13-defend120" type="given" value="Sarah"></interp>
+                     <interp inst="t17540116-13-defend120" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17540116-13-off69" type="offenceDescription">
+                     <interp inst="t17540116-13-off69" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-13-off69" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one copper tea-kettle, value 2 s. one copper saucepan, one pewter dish, two blankets, two linnen pillow cases, one copper stewpan, the goods of 
+                     
+                        <persName id="t17540116-13-victim123" type="victimName">
+                           George 
+                           Cole 
+                        <interp inst="t17540116-13-victim123" type="surname" value="Cole"></interp>
+                        <interp inst="t17540116-13-victim123" type="given" value="George"></interp>
+                        <interp inst="t17540116-13-victim123" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-13-off69 t17540116-13-victim123"></join>
+                     </persName>
+                      
+                  , in a certain lodging-room
+            </rs> let by contract <rs id="t17540116-13-cd70" type="crimeDate">December 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-13-off69 t17540116-13-cd70"></join>. ++ .</p>
+               <p>
+            
+                  <persName id="t17540116-13-person124">
+                  Mary 
+                  Cole 
+               <interp inst="t17540116-13-person124" type="surname" value="Cole"></interp>
+                     <interp inst="t17540116-13-person124" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-13-person124" type="gender" value="female"></interp>
+                  </persName>
+            . My husband's name is 
+               <persName id="t17540116-13-person125">
+                  George 
+                  Cole 
+               <interp inst="t17540116-13-person125" type="surname" value="Cole"></interp>
+                     <interp inst="t17540116-13-person125" type="given" value="George"></interp>
+                     <interp inst="t17540116-13-person125" type="gender" value="male"></interp>
+                  </persName>
+            , and we live at the <placeName id="t17540116-13-crimeloc71">Horse and Groom in St. John's Street</placeName>
+                  <interp inst="t17540116-13-crimeloc71" type="placeName" value="Horse and Groom in St. John's Street"></interp>
+                  <interp inst="t17540116-13-crimeloc71" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-13-off69 t17540116-13-crimeloc71"></join>. I let a ready furnished lodging to the prisoner and her husband, and missing the things on Christmas-day, I took her up, and she confessed where she had pawned them, and that she herself took them away, and her husband knew nothing of the matter. Some of the goods I have got again by her directions.</p>
+               <p>
+            
+                  <persName id="t17540116-13-person126">
+                  Joseph 
+                  Jewel 
+               <interp inst="t17540116-13-person126" type="surname" value="Jewel"></interp>
+                     <interp inst="t17540116-13-person126" type="given" value="Joseph"></interp>
+                     <interp inst="t17540116-13-person126" type="gender" value="male"></interp>
+                  </persName>
+            . I heard the prisoner confess the taking these goods.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I have a bad husband, who does not bring me half a crown a week; so it was necessity that obliged me to take them, and my husband ordered me so to do.</p>
+               <p>
+                  <rs id="t17540116-13-verdict72" type="verdictDescription">
+                     <interp inst="t17540116-13-verdict72" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-13-verdict72" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17540116-13-punish73" type="punishmentDescription">
+                     <interp inst="t17540116-13-punish73" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17540116-13-punish73" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-13-defend120 t17540116-13-punish73"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

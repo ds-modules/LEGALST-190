@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-8">
+               <interp inst="t17540227-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-8" type="year" value="1754"></interp>
+               <interp inst="t17540227-8" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-8" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-8-off42-c96" targOrder="Y" targets="t17540227-8-defend112 t17540227-8-off42 t17540227-8-verdict45"></join>
+         
+               <p>161. (M.) 
+               
+                  <persName id="t17540227-8-defend112" type="defendantName">
+                     John 
+                     Humphreys 
+                  <interp inst="t17540227-8-defend112" type="surname" value="Humphreys"></interp>
+                     <interp inst="t17540227-8-defend112" type="given" value="John"></interp>
+                     <interp inst="t17540227-8-defend112" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540227-8-off42" type="offenceDescription">
+                     <interp inst="t17540227-8-off42" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-8-off42" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one saw, value twenty-five Shillings
+            </rs>, the property of 
+               
+                  <persName id="t17540227-8-victim114" type="victimName">
+                     William 
+                     Sharp 
+                  <interp inst="t17540227-8-victim114" type="surname" value="Sharp"></interp>
+                     <interp inst="t17540227-8-victim114" type="given" value="William"></interp>
+                     <interp inst="t17540227-8-victim114" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540227-8-off42 t17540227-8-victim114"></join>
+                  </persName>
+                
+            . <rs id="t17540227-8-cd43" type="crimeDate">Jan. 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-8-off42 t17540227-8-cd43"></join>. +</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270008"></xptr>
+            
+                  <persName id="t17540227-8-person115">
+                  William 
+                  Sharp 
+               <interp inst="t17540227-8-person115" type="surname" value="Sharp"></interp>
+                     <interp inst="t17540227-8-person115" type="given" value="William"></interp>
+                     <interp inst="t17540227-8-person115" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17540227-8-viclabel44" type="occupation">sawyer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-8-victim114 t17540227-8-viclabel44"></join>; the Prisoner served his time to me. I lost a saw about a month or five weeks ago; it was a long saw: it was taken away from out of my yard: I saw it about two days before it was lost. I found it upon Thomas Quick, he had bought it: he lives in Whitechapel, near the church, and I live near the turnpike; this was about three or four days after I lost it.</p>
+               <p>Q. What marks were on it?</p>
+               <p>Sharp. The maker's name Billicom, and by a slaw that was on it, about the middle. I had bought it last summer, it cost me thirty shillings; I took up the prisoner as soon as I found he had sold it to Quick. He said, he bought it of some body, and that he had sold it to Quick.</p>
+               <p>
+            
+                  <persName id="t17540227-8-person116">
+                  Thomas 
+                  Quick 
+               <interp inst="t17540227-8-person116" type="surname" value="Quick"></interp>
+                     <interp inst="t17540227-8-person116" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-8-person116" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner brought the saw into my father's house about six weeks ago, and said the owner was in trouble and afraid to come out of doors, and had sent him to sell the saw. He would not tell me where the man was; so I bought it for twelve shillings: I gave him six shillings and sixpence in part, and was willing to see the owner before I paid him the other. The next day I made an inquiry about it, and found out the owner.</p>
+               <p>Q. What sort of a saw was it?</p>
+               <p>Quick. It was a long saw, the maker's name Bellicom; Mr. Sharp claimed it as his property, and it was delivered to him.</p>
+               <p>
+            
+                  <persName id="t17540227-8-person117">
+                  Benjamin 
+                  Culom 
+               <interp inst="t17540227-8-person117" type="surname" value="Culom"></interp>
+                     <interp inst="t17540227-8-person117" type="given" value="Benjamin"></interp>
+                     <interp inst="t17540227-8-person117" type="gender" value="male"></interp>
+                  </persName>
+            . I was by when the Prisoner brought the saw to sell to Quick. Quick and the Prisoner worked together. The Prisoner said, the man must have the saw or money that night, so it was agreed they were to have it between them, and Quick gave him his half of the money.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I gave twelve shillings for the saw, and Quick was to have half of it, and he gave me six shillings and sixpence.</p>
+               <p>
+            
+                  <persName id="t17540227-8-person118">
+                  Samuel 
+                  Unwin 
+               <interp inst="t17540227-8-person118" type="surname" value="Unwin"></interp>
+                     <interp inst="t17540227-8-person118" type="given" value="Samuel"></interp>
+                     <interp inst="t17540227-8-person118" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the Prisoner fourteen years, I have trusted him in my house, I keep a publick house; he has drawn beer for me. I do not know that he ever wronged me. This was since he was out of his time.</p>
+               <p>
+            
+                  <persName id="t17540227-8-person119">
+                  Joseph 
+                  Pallit 
+               <interp inst="t17540227-8-person119" type="surname" value="Pallit"></interp>
+                     <interp inst="t17540227-8-person119" type="given" value="Joseph"></interp>
+                     <interp inst="t17540227-8-person119" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him four months, he kept very good hours, he lodged in my house; he appeared to be a sober, worthy, honest man.</p>
+               <p>
+                  <rs id="t17540227-8-verdict45" type="verdictDescription">
+                     <interp inst="t17540227-8-verdict45" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

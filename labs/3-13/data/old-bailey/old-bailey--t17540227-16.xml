@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-16">
+               <interp inst="t17540227-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-16" type="year" value="1754"></interp>
+               <interp inst="t17540227-16" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-16" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-16-off83-c137" targOrder="Y" targets="t17540227-16-defend167 t17540227-16-off83 t17540227-16-verdict88"></join>
+         
+               <p>169 (L.) 
+               
+                  <persName id="t17540227-16-defend167" type="defendantName">
+                     Richard 
+                     Howard 
+                  <interp inst="t17540227-16-defend167" type="surname" value="Howard"></interp>
+                     <interp inst="t17540227-16-defend167" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-16-defend167" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540227-16-off83" type="offenceDescription">
+                     <interp inst="t17540227-16-off83" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-16-off83" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing six pounds weight of pewter, value 5 s. and a pewterer's plate block, value 1 s.
+            </rs> the goods of 
+               
+                  <persName id="t17540227-16-victim169" type="victimName">
+                     William 
+                     Newham 
+                  <interp inst="t17540227-16-victim169" type="surname" value="Newham"></interp>
+                     <interp inst="t17540227-16-victim169" type="given" value="William"></interp>
+                     <interp inst="t17540227-16-victim169" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540227-16-off83 t17540227-16-victim169"></join>
+                  </persName>
+                
+            . <rs id="t17540227-16-cd84" type="crimeDate">January 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-16-off83 t17540227-16-cd84"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-16-person170">
+                  William 
+                  Newham 
+               <interp inst="t17540227-16-person170" type="surname" value="Newham"></interp>
+                     <interp inst="t17540227-16-person170" type="given" value="William"></interp>
+                     <interp inst="t17540227-16-person170" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17540227-16-crimeloc85">New street by Shoe-lane</placeName>
+                  <interp inst="t17540227-16-crimeloc85" type="placeName" value="New street by Shoe-lane"></interp>
+                  <interp inst="t17540227-16-crimeloc85" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-16-off83 t17540227-16-crimeloc85"></join>, and am a <rs id="t17540227-16-viclabel86" type="occupation">pewterer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-16-victim169 t17540227-16-viclabel86"></join>, the prisoner was my <rs id="t17540227-16-deflabel87" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-16-defend167 t17540227-16-deflabel87"></join>, a sort of a porter, about five weeks ago. Having missed some things I had suspected my apprentice to rob me, because he staid out late of nights. My apprentice after this took the prisoner, and these things on him, [producing six pounds weight of pewter, and a plate block] and the prisoner acknowledged the taking them from me, and down on his knees and asked for mercy. It is turnings of pewter.</p>
+               <p>
+            
+                  <persName id="t17540227-16-person171">
+                  John 
+                  Reynolds 
+               <interp inst="t17540227-16-person171" type="surname" value="Reynolds"></interp>
+                     <interp inst="t17540227-16-person171" type="given" value="John"></interp>
+                     <interp inst="t17540227-16-person171" type="gender" value="male"></interp>
+                  </persName>
+             I am the prosecutor's apprentice, knowing myself innocent, and having been suspected of robbing my master, I concealed myself in the shop in order if possible to find out who robbed him, and saw the prisoner take some of the things and go out. I followed him to his home, and brought him back again to my master. He confessed he took them, and down on his knees and begged forgiveness.</p>
+               <p>Prisoner's defence.</p>
+               <p>I have some witnesses to my character, and called 
+               <persName id="t17540227-16-person172">
+                  James 
+                  Walker 
+               <interp inst="t17540227-16-person172" type="surname" value="Walker"></interp>
+                     <interp inst="t17540227-16-person172" type="given" value="James"></interp>
+                     <interp inst="t17540227-16-person172" type="gender" value="male"></interp>
+                  </persName>
+            , Saunders Davenport, 
+               <persName id="t17540227-16-person173">
+                  John 
+                  Fleming 
+               <interp inst="t17540227-16-person173" type="surname" value="Fleming"></interp>
+                     <interp inst="t17540227-16-person173" type="given" value="John"></interp>
+                     <interp inst="t17540227-16-person173" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540227-16-person174">
+                  Thomas 
+                  Walpool 
+               <interp inst="t17540227-16-person174" type="surname" value="Walpool"></interp>
+                     <interp inst="t17540227-16-person174" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-16-person174" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540227-16-person175">
+                  Francis 
+                  Ironmonger 
+               <interp inst="t17540227-16-person175" type="surname" value="Ironmonger"></interp>
+                     <interp inst="t17540227-16-person175" type="given" value="Francis"></interp>
+                     <interp inst="t17540227-16-person175" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540227-16-person176">
+                  James 
+                  Anderside 
+               <interp inst="t17540227-16-person176" type="surname" value="Anderside"></interp>
+                     <interp inst="t17540227-16-person176" type="given" value="James"></interp>
+                     <interp inst="t17540227-16-person176" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540227-16-person177">
+                  John 
+                  Case 
+               <interp inst="t17540227-16-person177" type="surname" value="Case"></interp>
+                     <interp inst="t17540227-16-person177" type="given" value="John"></interp>
+                     <interp inst="t17540227-16-person177" type="gender" value="male"></interp>
+                  </persName>
+            , and his own father, who all gave him a good character till this affair.</p>
+               <p>
+                  <rs id="t17540227-16-verdict88" type="verdictDescription">
+                     <interp inst="t17540227-16-verdict88" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-16-punish89" type="punishmentDescription">
+                     <interp inst="t17540227-16-punish89" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17540227-16-punish89" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-16-defend167 t17540227-16-punish89"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

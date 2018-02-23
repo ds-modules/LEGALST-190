@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-28">
+               <interp inst="t17540116-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-28" type="year" value="1754"></interp>
+               <interp inst="t17540116-28" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-28" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-28-off151-c209" targOrder="Y" targets="t17540116-28-defend259 t17540116-28-off151 t17540116-28-verdict153"></join>
+         
+               <p>114. (M.) 
+               
+                  <persName id="t17540116-28-defend259" type="defendantName">
+                     Sarah 
+                     Conyers 
+                  <interp inst="t17540116-28-defend259" type="surname" value="Conyers"></interp>
+                     <interp inst="t17540116-28-defend259" type="given" value="Sarah"></interp>
+                     <interp inst="t17540116-28-defend259" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540116-28-deflabel150" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-28-defend259 t17540116-28-deflabel150"></join>, was indicted for <rs id="t17540116-28-off151" type="offenceDescription">
+                     <interp inst="t17540116-28-off151" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-28-off151" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one China mug, value 4 s. and one looking-glass, value 10 d.
+            </rs> the goods of 
+               
+                  <persName id="t17540116-28-victim261" type="victimName">
+                     Isaac 
+                     Bullock 
+                  <interp inst="t17540116-28-victim261" type="surname" value="Bullock"></interp>
+                     <interp inst="t17540116-28-victim261" type="given" value="Isaac"></interp>
+                     <interp inst="t17540116-28-victim261" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-28-off151 t17540116-28-victim261"></join>
+                  </persName>
+                
+            , <rs id="t17540116-28-cd152" type="crimeDate">Dec. 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-28-off151 t17540116-28-cd152"></join>. + .</p>
+               <p>
+            
+                  <persName id="t17540116-28-person262">
+                  Isaac 
+                  Bullock 
+               <interp inst="t17540116-28-person262" type="surname" value="Bullock"></interp>
+                     <interp inst="t17540116-28-person262" type="given" value="Isaac"></interp>
+                     <interp inst="t17540116-28-person262" type="gender" value="male"></interp>
+                  </persName>
+            . The things mentioned are my property.</p>
+               <p>
+            
+                  <persName id="t17540116-28-person263">
+                  Mary 
+                  Chilwell 
+               <interp inst="t17540116-28-person263" type="surname" value="Chilwell"></interp>
+                     <interp inst="t17540116-28-person263" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-28-person263" type="gender" value="female"></interp>
+                  </persName>
+            . I am servant to the prosecutor. On the 14th of December I was in a back room, and saw through the glass door the prisoner come in and take a looking-glass, put it under her arm, and go out of the shop. I went out and pursued her, and charged her with taking a glass. I took up her cloak, and under it I saw the glass, which I took, and immediately charged a constable with her.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160015"></xptr>
+            
+                  <persName id="t17540116-28-person264">
+                  James 
+                  Townsend 
+               <interp inst="t17540116-28-person264" type="surname" value="Townsend"></interp>
+                     <interp inst="t17540116-28-person264" type="given" value="James"></interp>
+                     <interp inst="t17540116-28-person264" type="gender" value="male"></interp>
+                  </persName>
+            . I am constable. The last witness brought the glass to me, and called out, Thief, Thief. I took the prisoner into custody, and under her cloak found the china mug. Both produced in court.</p>
+               <p>Prisoner's Defence.</p>
+               <p>Chilwell, the girl, gave me the things to pawn.</p>
+               <p>Chilwell. I never saw her before in my life.</p>
+               <p>
+                  <rs id="t17540116-28-verdict153" type="verdictDescription">
+                     <interp inst="t17540116-28-verdict153" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-28-verdict153" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17540116-28-punish154" type="punishmentDescription">
+                     <interp inst="t17540116-28-punish154" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-28-defend259 t17540116-28-punish154"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

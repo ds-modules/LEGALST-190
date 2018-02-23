@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-31">
+               <interp inst="t17540116-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-31" type="year" value="1754"></interp>
+               <interp inst="t17540116-31" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-31" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-31-off166-c231" targOrder="Y" targets="t17540116-31-defend286 t17540116-31-off166 t17540116-31-verdict168"></join>
+               <join result="criminalCharge" id="t17540116-31-off166-c232" targOrder="Y" targets="t17540116-31-defend287 t17540116-31-off166 t17540116-31-verdict168"></join>
+               <join result="criminalCharge" id="t17540116-31-off166-c233" targOrder="Y" targets="t17540116-31-person288 t17540116-31-off166 t17540116-31-verdict168"></join>
+         
+               <p>117, 118. (L.) 
+               
+                  <persName id="t17540116-31-defend286" type="defendantName">
+                     Grace 
+                     Bunn 
+                  <interp inst="t17540116-31-defend286" type="surname" value="Bunn"></interp>
+                     <interp inst="t17540116-31-defend286" type="given" value="Grace"></interp>
+                     <interp inst="t17540116-31-defend286" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540116-31-deflabel165" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-31-defend286 t17540116-31-deflabel165"></join>, and 
+               <persName id="t17540116-31-defend287" type="defendantName">
+                  Catharine
+                   wife of 
+                  
+                     <persName id="t17540116-31-person288" type="defendantName">
+                        John 
+                        Bunn 
+                     <interp inst="t17540116-31-person288" type="surname" value="Bunn"></interp>
+                        <interp inst="t17540116-31-person288" type="given" value="John"></interp>
+                        <interp inst="t17540116-31-person288" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17540116-31-defend287" type="surname" value="wife of"></interp>
+                     <interp inst="t17540116-31-defend287" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-31-defend287" type="gender" value="female"></interp>
+                  </persName>
+            , were indicted for <rs id="t17540116-31-off166" type="offenceDescription">
+                     <interp inst="t17540116-31-off166" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-31-off166" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing thirty yards of woollen cloth, val. 8 l.
+            </rs> the goods of 
+               <persName id="t17540116-31-victim289" type="victimName">
+                  John 
+                  Howel 
+               <interp inst="t17540116-31-victim289" type="surname" value="Howel"></interp>
+                     <interp inst="t17540116-31-victim289" type="given" value="John"></interp>
+                     <interp inst="t17540116-31-victim289" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-31-off166 t17540116-31-victim289"></join>
+                  </persName>
+             , <rs id="t17540116-31-cd167" type="crimeDate">Dec. 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-31-off166 t17540116-31-cd167"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540116-31-person290">
+                  John 
+                  Barnet 
+               <interp inst="t17540116-31-person290" type="surname" value="Barnet"></interp>
+                     <interp inst="t17540116-31-person290" type="given" value="John"></interp>
+                     <interp inst="t17540116-31-person290" type="gender" value="male"></interp>
+                  </persName>
+            . I am a packer, and live in Aldermanbury. I sent my servant 
+               <persName id="t17540116-31-person291">
+                  Joseph 
+                  Cotton 
+               <interp inst="t17540116-31-person291" type="surname" value="Cotton"></interp>
+                     <interp inst="t17540116-31-person291" type="given" value="Joseph"></interp>
+                     <interp inst="t17540116-31-person291" type="gender" value="male"></interp>
+                  </persName>
+            , on the 22d of December, to Mr. Snaps, a packer in Fenchurch-street, for fourteen pieces of woollen cloth; he brought five of them the first time. He went for the rest, and returning, told me there was one missing.</p>
+               <p>Q. Whose goods were they?</p>
+               <p>Barnet. They were the property of Mr. 
+               <persName id="t17540116-31-person292">
+                  John 
+                  Howel 
+               <interp inst="t17540116-31-person292" type="surname" value="Howel"></interp>
+                     <interp inst="t17540116-31-person292" type="given" value="John"></interp>
+                     <interp inst="t17540116-31-person292" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t17540116-31-person293">
+                  Joseph 
+                  Cotton 
+               <interp inst="t17540116-31-person293" type="surname" value="Cotton"></interp>
+                     <interp inst="t17540116-31-person293" type="given" value="Joseph"></interp>
+                     <interp inst="t17540116-31-person293" type="gender" value="male"></interp>
+                  </persName>
+            . I was sent by my master, on the 22d of December to Mr. Snaps for fourteen pieces of cloth. I brought five, and left the other nine there then; but when I went again for them there was one piece missing from off the pile.</p>
+               <p>
+            
+                  <persName id="t17540116-31-person294">
+                  John 
+                  Readway 
+               <interp inst="t17540116-31-person294" type="surname" value="Readway"></interp>
+                     <interp inst="t17540116-31-person294" type="given" value="John"></interp>
+                     <interp inst="t17540116-31-person294" type="gender" value="male"></interp>
+                  </persName>
+            . I am a journeyman to Mr. Winter, a clothworker. On the 22d of December I went to the Cock and Magpye, a publick house. The two prisoners at the bar brought in this piece of woollen cloth, which they had in a basket, and offered to sell it to any body in the house. A piece was produced, which Mr. Barnet deposed to as the property of Mr. Howel. I went and looked on the cloth, and asking the price of it, 
+               <persName id="t17540116-31-person295">
+                  Grace 
+                  Bunn 
+               <interp inst="t17540116-31-person295" type="surname" value="Bunn"></interp>
+                     <interp inst="t17540116-31-person295" type="given" value="Grace"></interp>
+                     <interp inst="t17540116-31-person295" type="gender" value="female"></interp>
+                  </persName>
+             said I should have it for half a crown a yard. I suspected by the price it was not honestly come by, so gave her a shilling to bind the bargain, till I could get a constable to take them up. I went out to see for one, but not being able to find him, I then went to a justice of peace, who was not at home, but the clerk telling me that I might take him up myself on suspicion, I went back and told the old woman, if they could make a proper title to it, I'd give her the money before the justice. She was willing to go along with me. I carried them to the constable's house under a pretence to have a pint of beer. He was then at home, and I charged him with them.</p>
+               <p>Q. Did 
+               <persName id="t17540116-31-person296">
+                  Catharine 
+                  Bunn 
+               <interp inst="t17540116-31-person296" type="surname" value="Bunn"></interp>
+                     <interp inst="t17540116-31-person296" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-31-person296" type="gender" value="female"></interp>
+                  </persName>
+             say any thing about bargaining for the cloth?</p>
+               <p>Readway. She said as much as the old woman did about offering it to sale.</p>
+               <p>Q. from 
+               <persName id="t17540116-31-person297">
+                  Catharine 
+                  Bunn 
+               <interp inst="t17540116-31-person297" type="surname" value="Bunn"></interp>
+                     <interp inst="t17540116-31-person297" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-31-person297" type="gender" value="female"></interp>
+                  </persName>
+            . Did I not desire you'd lend me a guinea on it to advertise it?</p>
+               <p>Readway. No. She did not talk of any such thing as advertising it.</p>
+               <p>
+            
+                  <persName id="t17540116-31-person298">
+                  William 
+                  Rimall 
+               <interp inst="t17540116-31-person298" type="surname" value="Rimall"></interp>
+                     <interp inst="t17540116-31-person298" type="given" value="William"></interp>
+                     <interp inst="t17540116-31-person298" type="gender" value="male"></interp>
+                  </persName>
+            . I am a journeyman Clothworker, and work with Mr. Winter. I was at the Cock and Magpye with the last evidence, on the 22d of December; this piece of cloth was brought in and exposed to sale by the two prisoners at the bar. I asked 
+               <persName id="t17540116-31-person299">
+                  Catharine 
+                  Bunn 
+               <interp inst="t17540116-31-person299" type="surname" value="Bunn"></interp>
+                     <interp inst="t17540116-31-person299" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-31-person299" type="gender" value="female"></interp>
+                  </persName>
+             how she came by it, and she said it was pawned at her mother's house. I asked her what she would have a yard for it, and she said half a crown. While my partner was gone to see for a constable, I went with the mark and Number, to inquire who had lost such a piece of cloth, and was directed by one of the business to Mr. Howel.</p>
+               <p>Q. Were they both concerned in offering the cloth to sale?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160017"></xptr>Rimall. They were.</p>
+               <p>
+            
+                  <persName id="t17540116-31-person300">
+                  Thomas 
+                  Cooper 
+               <interp inst="t17540116-31-person300" type="surname" value="Cooper"></interp>
+                     <interp inst="t17540116-31-person300" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-31-person300" type="gender" value="male"></interp>
+                  </persName>
+            . I am constable. The cloth and two prisoners were brought to my house. I took them in charge, and have had them in custody ever since.</p>
+
+               <p>
+            
+                  <persName id="t17540116-31-person301">
+                  Grace 
+                  Bunn 
+               <interp inst="t17540116-31-person301" type="surname" value="Bunn"></interp>
+                     <interp inst="t17540116-31-person301" type="given" value="Grace"></interp>
+                     <interp inst="t17540116-31-person301" type="gender" value="female"></interp>
+                  </persName>
+            's Defence.</p>
+               <p>I had been at Tower-hill. Coming back, in Mark-lane, and at a step at a door there lay this piece of cloth; it was very dirty. I could not lift it. but brought my basket, and getting it in, carried it to that house.</p>
+               <p>Both <rs id="t17540116-31-verdict168" type="verdictDescription">
+                     <interp inst="t17540116-31-verdict168" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

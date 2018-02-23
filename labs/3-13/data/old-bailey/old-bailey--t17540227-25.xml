@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-25">
+               <interp inst="t17540227-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-25" type="year" value="1754"></interp>
+               <interp inst="t17540227-25" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-25" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-25-off139-c216" targOrder="Y" targets="t17540227-25-defend266 t17540227-25-off139 t17540227-25-verdict142"></join>
+         
+               <p>179. (L.) 
+               
+                  <persName id="t17540227-25-defend266" type="defendantName">
+                     Samuel 
+                     Chamey 
+                  <interp inst="t17540227-25-defend266" type="surname" value="Chamey"></interp>
+                     <interp inst="t17540227-25-defend266" type="given" value="Samuel"></interp>
+                     <interp inst="t17540227-25-defend266" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540227-25-off139" type="offenceDescription">
+                     <interp inst="t17540227-25-off139" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-25-off139" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one silk handkerchief, value 2 s. the property of 
+                     
+                        <persName id="t17540227-25-victim268" type="victimName">
+                           John 
+                           Dyer 
+                        <interp inst="t17540227-25-victim268" type="surname" value="Dyer"></interp>
+                        <interp inst="t17540227-25-victim268" type="given" value="John"></interp>
+                        <interp inst="t17540227-25-victim268" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540227-25-off139 t17540227-25-victim268"></join>
+                     </persName>
+                      
+                  , privately from his person
+            </rs>, <rs id="t17540227-25-cd140" type="crimeDate">February 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-25-off139 t17540227-25-cd140"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-25-person269">
+                  John 
+                  Dyer 
+               <interp inst="t17540227-25-person269" type="surname" value="Dyer"></interp>
+                     <interp inst="t17540227-25-person269" type="given" value="John"></interp>
+                     <interp inst="t17540227-25-person269" type="gender" value="male"></interp>
+                  </persName>
+            . Last Tuesday, about a quarter before eight at night, I was at the corner of <placeName id="t17540227-25-crimeloc141">Bucklersbury</placeName>
+                  <interp inst="t17540227-25-crimeloc141" type="placeName" value="Bucklersbury"></interp>
+                  <interp inst="t17540227-25-crimeloc141" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-25-off139 t17540227-25-crimeloc141"></join>, I felt a man's hand at my pocket, and catched hold of it with my handkerchief in it. It was the prisoner at the bar; and his companions, on his being detected, immediately ran away. I secured him, and carried him to the Mansion-house, where he fell on his knees and begged for mercy.</p>
+               <p>
+            
+                  <persName id="t17540227-25-person270">
+                  Robert 
+                  Flitter 
+               <interp inst="t17540227-25-person270" type="surname" value="Flitter"></interp>
+                     <interp inst="t17540227-25-person270" type="given" value="Robert"></interp>
+                     <interp inst="t17540227-25-person270" type="gender" value="male"></interp>
+                  </persName>
+            . I am an apprentice to Mr. Hall in Cornhill, and as I was going up the Poultry, at the upper end, near Bucklersbury, I saw the prisoner's hand in Mr. Dyer's pocket, and saw him cure him with the handkerchief in his hand, [the handkerchief produced in court] this is the very handkerchief.</p>
+               <p>Prosecutor. There is my name on the handkerchief.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17540227-25-person271">
+                  Elias 
+                  Cherry 
+               <interp inst="t17540227-25-person271" type="surname" value="Cherry"></interp>
+                     <interp inst="t17540227-25-person271" type="given" value="Elias"></interp>
+                     <interp inst="t17540227-25-person271" type="gender" value="male"></interp>
+                  </persName>
+            . I am uncle to the prisoner, and have known him a great while, he has attended his father as porter to several waggons till within these three weeks, and he has behaved exceeding well.</p>
+               <p>
+            
+                  <persName id="t17540227-25-person272">
+                  Joseph 
+                  Morris 
+               <interp inst="t17540227-25-person272" type="surname" value="Morris"></interp>
+                     <interp inst="t17540227-25-person272" type="given" value="Joseph"></interp>
+                     <interp inst="t17540227-25-person272" type="gender" value="male"></interp>
+                  </persName>
+            . He is indicted by the name of Chainey, but his name is Cherry, I have known him from his cradle, and never knew him suspected of the least dishonesty, or heard any thing amiss of him.</p>
+               <p>
+            
+                  <persName id="t17540227-25-person273">
+                  Thomas 
+                  Edey 
+               <interp inst="t17540227-25-person273" type="surname" value="Edey"></interp>
+                     <interp inst="t17540227-25-person273" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-25-person273" type="gender" value="male"></interp>
+                  </persName>
+            , I have known him twelve or fourteen years, and never heard any harm of him.</p>
+               <p>
+            
+                  <persName id="t17540227-25-person274">
+                  John 
+                  Parnhill 
+               <interp inst="t17540227-25-person274" type="surname" value="Parnhill"></interp>
+                     <interp inst="t17540227-25-person274" type="given" value="John"></interp>
+                     <interp inst="t17540227-25-person274" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him eight or ten weeks, have trusted him with money, and he never wronged me of any thing.</p>
+               <p>
+                  <rs id="t17540227-25-verdict142" type="verdictDescription">
+                     <interp inst="t17540227-25-verdict142" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540227-25-verdict142" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17540227-25-punish143" type="punishmentDescription">
+                     <interp inst="t17540227-25-punish143" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-25-defend266 t17540227-25-punish143"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

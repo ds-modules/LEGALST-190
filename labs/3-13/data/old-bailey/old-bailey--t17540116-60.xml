@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-60">
+               <interp inst="t17540116-60" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-60" type="year" value="1754"></interp>
+               <interp inst="t17540116-60" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-60" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-60-off307-c435" targOrder="Y" targets="t17540116-60-defend545 t17540116-60-off307 t17540116-60-verdict308"></join>
+         
+               <p>149. (L.) 
+               
+                  <persName id="t17540116-60-defend545" type="defendantName">
+                     Abraham 
+                     Benbrook 
+                  <interp inst="t17540116-60-defend545" type="surname" value="Benbrook"></interp>
+                     <interp inst="t17540116-60-defend545" type="given" value="Abraham"></interp>
+                     <interp inst="t17540116-60-defend545" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-60-off307" type="offenceDescription">
+                     <interp inst="t17540116-60-off307" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17540116-60-off307" type="offenceSubcategory" value="perjury"></interp>
+               wilful and corrupt perjury
+            </rs>.</p>
+               <p>No evidence appeared.</p>
+               <p>
+                  <rs id="t17540116-60-verdict308" type="verdictDescription">
+                     <interp inst="t17540116-60-verdict308" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17540116-60-verdict308" type="verdictSubcategory" value="noEvidence"></interp>
+               Acq.
+            </rs>
+               </p>
+            </div1>

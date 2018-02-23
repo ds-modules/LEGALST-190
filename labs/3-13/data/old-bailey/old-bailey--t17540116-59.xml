@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-59">
+               <interp inst="t17540116-59" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-59" type="year" value="1754"></interp>
+               <interp inst="t17540116-59" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-59" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-59-off305-c433" targOrder="Y" targets="t17540116-59-defend541 t17540116-59-off305 t17540116-59-verdict306"></join>
+         
+               <p>148. (L.) 
+               
+                  <persName id="t17540116-59-defend541" type="defendantName">
+                     Thomas 
+                     Womersley 
+                  <interp inst="t17540116-59-defend541" type="surname" value="Womersley"></interp>
+                     <interp inst="t17540116-59-defend541" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-59-defend541" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-59-off305" type="offenceDescription">
+                     <interp inst="t17540116-59-off305" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17540116-59-off305" type="offenceSubcategory" value="forgery"></interp>
+               forging a certain paper writing, purporting to be a bill of exchange for 36 l. and for publishing it, knowing it to have been forged, with intent to defraud
+            </rs> 
+            
+               
+                  <persName id="t17540116-59-victim543" type="victimName">
+                     James 
+                     Dixon 
+                  <interp inst="t17540116-59-victim543" type="surname" value="Dixon"></interp>
+                     <interp inst="t17540116-59-victim543" type="given" value="James"></interp>
+                     <interp inst="t17540116-59-victim543" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-59-off305 t17540116-59-victim543"></join>
+                  </persName>
+                
+            .</p>
+               <p>
+                  <rs id="t17540116-59-verdict306" type="verdictDescription">
+                     <interp inst="t17540116-59-verdict306" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17540116-59-verdict306" type="verdictSubcategory" value="fault"></interp>
+               The indictment being laid wrong, he was acquitted
+            </rs>, but detained to be tried on a proper indictment next sessions.</p>
+            </div1>

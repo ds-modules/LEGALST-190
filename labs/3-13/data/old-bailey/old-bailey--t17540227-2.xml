@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-2">
+               <interp inst="t17540227-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-2" type="year" value="1754"></interp>
+               <interp inst="t17540227-2" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-2" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-2-off8-c34" targOrder="Y" targets="t17540227-2-defend37 t17540227-2-off8 t17540227-2-verdict11"></join>
+         
+               <p>153. (M.) 
+               
+                  <persName id="t17540227-2-defend37" type="defendantName">
+                     James 
+                     Evans 
+                  <interp inst="t17540227-2-defend37" type="surname" value="Evans"></interp>
+                     <interp inst="t17540227-2-defend37" type="given" value="James"></interp>
+                     <interp inst="t17540227-2-defend37" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540227-2-off8" type="offenceDescription">
+                     <interp inst="t17540227-2-off8" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-2-off8" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two trusses of hay, value 3 s.
+            </rs> the property of 
+               
+                  <persName id="t17540227-2-victim39" type="victimName">
+                     Thomas 
+                     Talwood 
+                  <interp inst="t17540227-2-victim39" type="surname" value="Talwood"></interp>
+                     <interp inst="t17540227-2-victim39" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-2-victim39" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540227-2-off8 t17540227-2-victim39"></join>
+                  </persName>
+                
+            , <rs id="t17540227-2-cd9" type="crimeDate">Feb. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-2-off8 t17540227-2-cd9"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-2-person40">
+                  Thomas 
+                  Talwood 
+               <interp inst="t17540227-2-person40" type="surname" value="Talwood"></interp>
+                     <interp inst="t17540227-2-person40" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-2-person40" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17540227-2-crimeloc10">St. Leonard's, Shoreditch, in Hackney Road</placeName>
+                  <interp inst="t17540227-2-crimeloc10" type="placeName" value="St. Leonard's, Shoreditch, in Hackney Road"></interp>
+                  <interp inst="t17540227-2-crimeloc10" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-2-off8 t17540227-2-crimeloc10"></join>. I got up on the 19th of this instant, and missed a great parcel of hay. I followed the litter which was made by it till I came to the watch-house in the parish of Bethnal-Green, there was the prisoner, and some of the hay, which the watchmen had taken upon him. The prisoner there owned he took the hay: there were three bundles, which were two trusses to be sure. He owned which way he got in, and said it was the first time he was there, and also said he was going to carry it to the Ass and Fowl in Hog-Lane.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270003"></xptr>
+            
+                  <persName id="t17540227-2-person41">
+                  Peter 
+                  Alavine 
+               <interp inst="t17540227-2-person41" type="surname" value="Alavine"></interp>
+                     <interp inst="t17540227-2-person41" type="given" value="Peter"></interp>
+                     <interp inst="t17540227-2-person41" type="gender" value="male"></interp>
+                  </persName>
+            . I am a watchman belonging to Bethnal-Green, and on Tuesday morning, the 10th of this instant, about three o'clock, I met the prisoner in Castle-street with a load of hay on his back. Going farther I saw two bundles more lying within some rails; then I went to take the prisoner, he being come back from carrying that bundle to Hog-Lane, and was going to take up the other two. I stopped him, and took him to the watch-house, and the prosecutor came, by following the track of the hay.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was out of work, and thought to have made a bed of it in an empty house.</p>
+               <p>
+                  <rs id="t17540227-2-verdict11" type="verdictDescription">
+                     <interp inst="t17540227-2-verdict11" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-2-punish12" type="punishmentDescription">
+                     <interp inst="t17540227-2-punish12" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-2-defend37 t17540227-2-punish12"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

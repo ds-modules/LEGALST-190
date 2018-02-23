@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-4">
+               <interp inst="t17540227-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-4" type="year" value="1754"></interp>
+               <interp inst="t17540227-4" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-4" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-4-off18-c40" targOrder="Y" targets="t17540227-4-defend46 t17540227-4-off18 t17540227-4-verdict22"></join>
+               <join result="criminalCharge" id="t17540227-4-off18-c41" targOrder="Y" targets="t17540227-4-defend48 t17540227-4-off18 t17540227-4-verdict23"></join>
+         
+               <p>155, 156. (M.) 
+               
+                  <persName id="t17540227-4-defend46" type="defendantName">
+                     Richard 
+                     Purney 
+                  <interp inst="t17540227-4-defend46" type="surname" value="Purney"></interp>
+                     <interp inst="t17540227-4-defend46" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-4-defend46" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17540227-4-defend48" type="defendantName">
+                     Thomas 
+                     Bradlen 
+                  <interp inst="t17540227-4-defend48" type="surname" value="Bradlen"></interp>
+                     <interp inst="t17540227-4-defend48" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-4-defend48" type="gender" value="male"></interp>
+                  </persName>
+                
+             were indicted for <rs id="t17540227-4-off18" type="offenceDescription">
+                     <interp inst="t17540227-4-off18" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-4-off18" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one silver salver, value 3 l. the property of 
+                     
+                        <persName id="t17540227-4-victim50" type="victimName">
+                           Thomas 
+                           Holles 
+                        <interp inst="t17540227-4-victim50" type="surname" value="Holles"></interp>
+                        <interp inst="t17540227-4-victim50" type="given" value="Thomas"></interp>
+                        <interp inst="t17540227-4-victim50" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540227-4-off18 t17540227-4-victim50"></join>
+                     </persName>
+                      
+                  , <rs id="t17540227-4-viclabel19" type="occupation">Duke of Newcastle</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540227-4-victim50 t17540227-4-viclabel19"></join>, in the dwelling-house
+            </rs> of his Grace the Duke, <rs id="t17540227-4-cd20" type="crimeDate">Feb. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-4-off18 t17540227-4-cd20"></join>. +</p>
+               <p>
+            
+                  <persName id="t17540227-4-person51">
+                  Richard 
+                  Turner 
+               <interp inst="t17540227-4-person51" type="surname" value="Turner"></interp>
+                     <interp inst="t17540227-4-person51" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-4-person51" type="gender" value="male"></interp>
+                  </persName>
+            . I am butler to the Duke of Newcastle, the two prisoners are <rs id="t17540227-4-deflabel21" type="occupation">chimney-sweepers</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-4-defend46 t17540227-4-deflabel21"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-4-defend48 t17540227-4-deflabel21"></join>, they came to sweep the chimnies up stairs on the 6th of February. After they were gone, I missed the silver salver, it had his grace's arms and crest on it. I suspected the prisoners, they were taken up, and Bradley, the little boy, confessed he took it away, broke it to pieces, and sold some of it: by this means it was found. [Produced in court, and deposed to that part that had the arms on it.]</p>
+               <p>Q. Did you see these prisoners in the house at that time?</p>
+               <p>Turner. I did not.</p>
+               <p>Q. Did you hear the confession?</p>
+               <p>Turner. No, but the constable did.</p>
+               <p>Q. Where was the salver taken from?</p>
+               <p>Turner. From out of the butler's pantry.</p>
+               <p>Q. Was any chimney swept in the butler's pantry?</p>
+               <p>Turner. No.</p>
+               <p>
+            
+                  <persName id="t17540227-4-person52">
+                  Thomas 
+                  Gale 
+               <interp inst="t17540227-4-person52" type="surname" value="Gale"></interp>
+                     <interp inst="t17540227-4-person52" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-4-person52" type="gender" value="male"></interp>
+                  </persName>
+            . On the 8th or 9th of this instant a chimney-sweeper's boy brought one of these pieces to me all dirty, and said he found it. I observed it was silver, and gave him 1 s. 6 d. for it, which was what it came to by weight; the boy was about the size of this, but as they have all black faces alike, I cannot swear to him.</p>
+               <p>
+            
+                  <persName id="t17540227-4-person53">
+                  Matthew 
+                  Burchel 
+               <interp inst="t17540227-4-person53" type="surname" value="Burchel"></interp>
+                     <interp inst="t17540227-4-person53" type="given" value="Matthew"></interp>
+                     <interp inst="t17540227-4-person53" type="gender" value="male"></interp>
+                  </persName>
+            . I deal in silver buckles, and this piece was brought to me by a chimney-sweeper's boy the 6th of this month, [holding a piece of silver in his hand] to know if it was silver. I cleaned the blackness off, weighed it, it comes to eight penny weight. I asked him how he came by it; he said he found it, upon which I gave him 2 s. for it. I cannot take upon me to say this is the boy, I believe it is, his stature and voice answers to his.</p>
+               <p>
+            
+                  <persName id="t17540227-4-person54">
+                  Jacob 
+                  Harris 
+               <interp inst="t17540227-4-person54" type="surname" value="Harris"></interp>
+                     <interp inst="t17540227-4-person54" type="given" value="Jacob"></interp>
+                     <interp inst="t17540227-4-person54" type="gender" value="male"></interp>
+                  </persName>
+            . I am a silver-smith, [he takes up the foot] a woman brought this to me on the 8th of this instant, her name is 
+               <persName id="t17540227-4-person55">
+                  Grace 
+                  Walford 
+               <interp inst="t17540227-4-person55" type="surname" value="Walford"></interp>
+                     <interp inst="t17540227-4-person55" type="given" value="Grace"></interp>
+                     <interp inst="t17540227-4-person55" type="gender" value="female"></interp>
+                  </persName>
+            . She said her son had found it, and she has the character of an honest woman.</p>
+               <p>Q. Do you think that belongs to the salver?</p>
+               <p>Harris. I believe it does.</p>
+               <p>
+            
+                  <persName id="t17540227-4-person56">
+                  Stephen 
+                  Sutton 
+               <interp inst="t17540227-4-person56" type="surname" value="Sutton"></interp>
+                     <interp inst="t17540227-4-person56" type="given" value="Stephen"></interp>
+                     <interp inst="t17540227-4-person56" type="gender" value="male"></interp>
+                  </persName>
+            . About three weeks ago a chimney-sweeper's boy brought this into my shop all over dirt, and asked me if it was silver. I saw it was so, weighed it, and it came to 3 s. I gave him the money, and he said he would go and buy himself a flannel waistcoat, he being then in his shirt.</p>
+               <p>
+            
+                  <persName id="t17540227-4-person57">
+                  Margaret 
+                  Hinemarsh 
+               <interp inst="t17540227-4-person57" type="surname" value="Hinemarsh"></interp>
+                     <interp inst="t17540227-4-person57" type="given" value="Margaret"></interp>
+                     <interp inst="t17540227-4-person57" type="gender" value="female"></interp>
+                  </persName>
+            . My husband is a silversmith, [she takes up a piece of silver] this seems to belong to the same salver that was brought to me on the Saturday morning by a man much about the size of the other prisoner, Purney. I gave him 4 s. and 3 d. for it. This other piece was brought to me by a little chimney-sweeper's boy on the 8th day of this instant. The man said he found his behind St. Clement's. I gave the boy 3 d. for his.</p>
+               <p>
+            
+                  <persName id="t17540227-4-person58">
+                  David 
+                  Burnet 
+               <interp inst="t17540227-4-person58" type="surname" value="Burnet"></interp>
+                     <interp inst="t17540227-4-person58" type="given" value="David"></interp>
+                     <interp inst="t17540227-4-person58" type="gender" value="male"></interp>
+                  </persName>
+            . I am headborough, and on the 10th of this instant I was desired to take charge of Purney. I did, he confessed that he and the other prisoner were at the Duke of Newcastle's sweeping some chimnies, when the little boy took the salver out of the pantry, and they carried it to Covent-Garden, where they concealed it, and after that it was broke to pieces, and some of it disposed of, and where; and he went along with me in order to shew where some of it was concealed. We went to Scotland-Yard below Charing-Cross, he went down into the common shore, and took this piece out of some mud, that has the arms on it.</p>
+               <p>Q. Where did he say any of it was disposed of?</p>
+               <p>Burnet. He said at Mr. Hinemarsh's facing<xptr type="pageFacsimile" doc="175402270004"></xptr> Durham-Yard. I went and found a piece there. Then he told me some was sold to Mr. Harris. I went there and found it.</p>
+               <p>Purney's defence.</p>
+               <p>I know nothing of this thing being taken.</p>
+               <p>Purney <rs id="t17540227-4-verdict22" type="verdictDescription">
+                     <interp inst="t17540227-4-verdict22" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540227-4-verdict22" type="verdictSubcategory" value="lesserOffence"></interp>
+               guilty of felony only
+            </rs>.</p>
+               <p>Bradley <rs id="t17540227-4-verdict23" type="verdictDescription">
+                     <interp inst="t17540227-4-verdict23" type="verdictCategory" value="notGuilty"></interp>
+               acquit
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-4-punish24" type="punishmentDescription">
+                     <interp inst="t17540227-4-punish24" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-4-defend46 t17540227-4-punish24"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-4-defend48 t17540227-4-punish24"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-1">
+               <interp inst="t17540227-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-1" type="year" value="1754"></interp>
+               <interp inst="t17540227-1" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-1" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-1-off2-c28" targOrder="Y" targets="t17540227-1-defend29 t17540227-1-off2 t17540227-1-verdict7"></join>
+         
+               <p>152. (L.) 
+               
+                  <persName id="t17540227-1-defend29" type="defendantName">
+                     Sarah 
+                     Twigg 
+                  <interp inst="t17540227-1-defend29" type="surname" value="Twigg"></interp>
+                     <interp inst="t17540227-1-defend29" type="given" value="Sarah"></interp>
+                     <interp inst="t17540227-1-defend29" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540227-1-deflabel1" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-1-defend29 t17540227-1-deflabel1"></join>, was indicted for <rs id="t17540227-1-off2" type="offenceDescription">
+                     <interp inst="t17540227-1-off2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-1-off2" type="offenceSubcategory" value="other"></interp>
+               stealing one pair of women's leather gloves, and three yards of black silk lace
+            </rs>, the goods of 
+               
+                  <persName id="t17540227-1-victim31" type="victimName">
+                     Barnard 
+                     Townsend 
+                  <interp inst="t17540227-1-victim31" type="surname" value="Townsend"></interp>
+                     <interp inst="t17540227-1-victim31" type="given" value="Barnard"></interp>
+                     <interp inst="t17540227-1-victim31" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540227-1-off2 t17540227-1-victim31"></join>
+                  </persName>
+                
+            , <rs id="t17540227-1-cd3" type="crimeDate">Jan. 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-1-off2 t17540227-1-cd3"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-1-person32">
+                  Barnard 
+                  Townsend 
+               <interp inst="t17540227-1-person32" type="surname" value="Townsend"></interp>
+                     <interp inst="t17540227-1-person32" type="given" value="Barnard"></interp>
+                     <interp inst="t17540227-1-person32" type="gender" value="male"></interp>
+                  </persName>
+            . I live on <placeName id="t17540227-1-crimeloc4">Ludgate-Hill</placeName>
+                  <interp inst="t17540227-1-crimeloc4" type="placeName" value="Ludgate-Hill"></interp>
+                  <interp inst="t17540227-1-crimeloc4" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-1-off2 t17540227-1-crimeloc4"></join>, am a <rs id="t17540227-1-viclabel5" type="occupation">haberdasher</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-1-victim31 t17540227-1-viclabel5"></join>, the prisoner was my <rs id="t17540227-1-deflabel6" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-1-defend29 t17540227-1-deflabel6"></join>, I missed some goods, and suspected her; I made her open her box, there I found a pair of leather gloves, my property: The lace was found in another servant's pocket, and she said the prisoner stole it, but she is not here, nor can I tell where to find her; [the gloves produced in court and deposed to] the prisoner said she took them out of a parcel which was lying in the dining-room. At first she said she had them at a funeral.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I took them off the floor and put them into my box.</p>
+               <p>
+            
+                  <persName id="t17540227-1-person33">
+                  John 
+                  Appleyard 
+               <interp inst="t17540227-1-person33" type="surname" value="Appleyard"></interp>
+                     <interp inst="t17540227-1-person33" type="given" value="John"></interp>
+                     <interp inst="t17540227-1-person33" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner lived in my service about four or five months, and behaved very honest, and I trusted her a good deal. She went from me to the prosecutor about four months ago.</p>
+               <p>
+            
+                  <persName id="t17540227-1-person34">
+                  John 
+                  Williams 
+               <interp inst="t17540227-1-person34" type="surname" value="Williams"></interp>
+                     <interp inst="t17540227-1-person34" type="given" value="John"></interp>
+                     <interp inst="t17540227-1-person34" type="gender" value="male"></interp>
+                  </persName>
+            . I remember the prisoner living with Mr. Appleyard, and she behaved herself well to the best of my knowledge.</p>
+               <p>
+            
+                  <persName id="t17540227-1-person35">
+                  Joseph 
+                  Golding 
+               <interp inst="t17540227-1-person35" type="surname" value="Golding"></interp>
+                     <interp inst="t17540227-1-person35" type="given" value="Joseph"></interp>
+                     <interp inst="t17540227-1-person35" type="gender" value="male"></interp>
+                  </persName>
+            . I was fellow servant with the prisoner in Mr. Appleyard's service, and she behaved well then.</p>
+               <p>
+                  <rs id="t17540227-1-verdict7" type="verdictDescription">
+                     <interp inst="t17540227-1-verdict7" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

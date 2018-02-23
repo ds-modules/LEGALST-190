@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-24">
+               <interp inst="t17540227-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-24" type="year" value="1754"></interp>
+               <interp inst="t17540227-24" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-24" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-24-off134-c203" targOrder="Y" targets="t17540227-24-defend250 t17540227-24-off134 t17540227-24-verdict137"></join>
+         
+               <p>178. (M.) 
+               <persName id="t17540227-24-defend250" type="defendantName">
+                  Sarah 
+                  Prosser 
+               <interp inst="t17540227-24-defend250" type="surname" value="Prosser"></interp>
+                     <interp inst="t17540227-24-defend250" type="given" value="Sarah"></interp>
+                     <interp inst="t17540227-24-defend250" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17540227-24-deflabel133" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-24-defend250 t17540227-24-deflabel133"></join>, was indicted for <rs id="t17540227-24-off134" type="offenceDescription">
+                     <interp inst="t17540227-24-off134" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-24-off134" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing two silver candlesticks, value 7 l. two silver nozels, value 10 s. one china cup and saucer, the goods of 
+                     
+                        <persName id="t17540227-24-victim252" type="victimName">
+                           Joseph 
+                           Partington 
+                        <interp inst="t17540227-24-victim252" type="surname" value="Partington"></interp>
+                        <interp inst="t17540227-24-victim252" type="given" value="Joseph"></interp>
+                        <interp inst="t17540227-24-victim252" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and three guineas the money of 
+                     
+                        <persName id="t17540227-24-victim254" type="victimName">
+                           William 
+                           Saunders 
+                        <interp inst="t17540227-24-victim254" type="surname" value="Saunders"></interp>
+                        <interp inst="t17540227-24-victim254" type="given" value="William"></interp>
+                        <interp inst="t17540227-24-victim254" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , in the dwelling-house
+            </rs> of 
+               <persName id="t17540227-24-person255">
+                  Joseph 
+                  Partington 
+               <interp inst="t17540227-24-person255" type="surname" value="Partington"></interp>
+                     <interp inst="t17540227-24-person255" type="given" value="Joseph"></interp>
+                     <interp inst="t17540227-24-person255" type="gender" value="male"></interp>
+                  </persName>
+            , <rs id="t17540227-24-cd135" type="crimeDate">Feb. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-24-off134 t17540227-24-cd135"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-24-person256">
+                  William 
+                  Saunders 
+               <interp inst="t17540227-24-person256" type="surname" value="Saunders"></interp>
+                     <interp inst="t17540227-24-person256" type="given" value="William"></interp>
+                     <interp inst="t17540227-24-person256" type="gender" value="male"></interp>
+                  </persName>
+            . I live servant with Mr. Partington, the candlesticks, nozels, china cup and saucer belonged to my master. When I came down stairs on the 5th of February I found the pantry door open, which I had locked before I went to bed, and the sash of the kitchen window half up, which used to be shut over night. The prisoner was <rs id="t17540227-24-deflabel136" type="occupation">cook</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-24-defend250 t17540227-24-deflabel136"></join>; I went and told her the house was open, and that I feared it was robbed; upon which she said she would come down presently. I missed three guineas of my own from out of the pantry, which I had received the night before. My mistress came down, and in looking in the dust hole found two silver candlesticks shoved down therein, and a pair of black breeches put on them, and a snuff-box which I had put my money into the night before was found likewise in the dust hole. We were all to be examined, and our boxes to be searched. In the prisoner's pocket was found a china cup and saucer wrapt up. Then she was charged with taking the other things by my master; which she denied at first. The prisoner had a pantry which belonged to her, of which she had the key, and she said with that key, by giving my pantry door a little shake got it open, took my money, and threw it into the house of office, but said she did not take the candlesticks, or know how they came there. When she found the house of office was to be searched, she said she threw the money, with 22 s. of her own, out at a window. She was examined if any other person was concerned with her; she denied there was for some time, but at last said there was, but did not know who they were.</p>
+               <p>Q. from the prisoner. Will my key open your pantry door?</p>
+               <p>Saunders. No, I cannot open it with it.</p>
+               <p>
+            
+                  <persName id="t17540227-24-person257">
+                  Robert 
+                  Chemford 
+               <interp inst="t17540227-24-person257" type="surname" value="Chemford"></interp>
+                     <interp inst="t17540227-24-person257" type="given" value="Robert"></interp>
+                     <interp inst="t17540227-24-person257" type="gender" value="male"></interp>
+                  </persName>
+            . I am an apprentice to the prosecutor, the first account I had of the affair was on the 5th of February, between seven and eight in the morning, by 
+               <persName id="t17540227-24-person258">
+                  William 
+                  Saunders 
+               <interp inst="t17540227-24-person258" type="surname" value="Saunders"></interp>
+                     <interp inst="t17540227-24-person258" type="given" value="William"></interp>
+                     <interp inst="t17540227-24-person258" type="gender" value="male"></interp>
+                  </persName>
+            , who came and called me up. I got up, went down, and found the pantry and kitchen door open. When my master came down it was proposed we and our boxes should be searched. A chest of drawers of mine was searched, and so was the prisoner; I was present when the two silver candlesticks were taken out of the dust-hole. I heard the prisoner own she took the three guineas, and she said at the same time that she did not take the candlesticks, and also that she had thrown the money, with about 22 s. of her own, down into the vault to avoid a discovery. When the search was proposed she continued in the same story some time, but at last she said she wrapped it up in a piece of paper and threw it into the street out of the window. She was asked if she had any body concerned with her. She denied she had, but at last said she had, but did not know who.</p>
+               <p>Cross-examination.</p>
+               <p>Q. How long had she lived in your master's house?</p>
+               <p>Chemford. About two or three months.</p>
+               <p>Q. Had she any threats or promises?</p>
+               <p>Chemford. She was threatened if she did not discover the affair to be sent to goal, and she was promised favour upon a discovery.</p>
+               <p>
+            
+                  <persName id="t17540227-24-person259">
+                  Mary 
+                  Dodsley 
+               <interp inst="t17540227-24-person259" type="surname" value="Dodsley"></interp>
+                     <interp inst="t17540227-24-person259" type="given" value="Mary"></interp>
+                     <interp inst="t17540227-24-person259" type="gender" value="female"></interp>
+                  </persName>
+            . I lived in the family, and on February the 5th I heard the prisoner say she put the three guineas down the vault, and after that she said she wrapt it up in a piece of paper and threw it out of the window, She utterly denied meddling with the silver candlesticks, and as to the cup and saucer she said she put them into her pocket to entertain her friends with, and that they were her master's property.</p>
+
+               <p>Cross examination.</p>
+               <p>Q. Did you look upon her in her perfect senses at that time?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270018"></xptr>Dodsley. She was very much confused indeed.</p>
+               <p>Q. Was this cup and saucer what she always used?</p>
+               <p>Dodsley. I never saw them before.</p>
+               <p>
+            
+                  <persName id="t17540227-24-person260">
+                  Joseph 
+                  Partington 
+               <interp inst="t17540227-24-person260" type="surname" value="Partington"></interp>
+                     <interp inst="t17540227-24-person260" type="given" value="Joseph"></interp>
+                     <interp inst="t17540227-24-person260" type="gender" value="male"></interp>
+                  </persName>
+            . On the 5th of February I came down as usual, my servant told me the house had been robbed, and he had lost three guineas and two silver candlesticks. I desired to know in what situation he found the window; he shewed me, and that was with the sash half up, and that the pantry door was open, and the prisoner's box open, and her caps and ruffles thrown about. She said she had lost 22 s. but had found half a crown under the table, and her silver thimble in the ashes. I examined her box, but perceived no violence on it, and the same by the pantry door and window; then I suspected it must be done by some body within side. I proposed a general search to all of the servants, and all desired it, and said they could give no account of it. Presently I saw the snuff-box taken out of the dust-box, and William said that was the box his money was in. Then looking into the dust-hole I found the two pair of breeches, and the two silver candlesticks. I said I would begin to search for the money lost, and her money which she said she had lost; she was going to run from me when I went to search her. I found a blue and white china cup in a paper, my property; and searching farther I found some of Mrs. Partington's things in her pocket. Then I sent for a constable, upon which she seemed confused, and said she had thrown the three guineas down the vault. She fell on her knees, and said she should be ruined, and that she would make up the money if I would not hurt her character. I asked if any body was concerned with her. She said there was, but after that said she did not know who it was.</p>
+               <p>Cross Examined.</p>
+               <p>Q. Had you a good character with her?</p>
+               <p>Part. I had.</p>
+               <p>Q. Did not she say afterwards she had thrown the three guineas out of the window?</p>
+               <p>Part. She said she did. When she found she was to be searched, she ran up stairs and threw the money out of the window.</p>
+               <p>The prisoner had nothing to say for herself, but called Mrs. Banks, with whom she lived servant 13 months, 
+               <persName id="t17540227-24-person261">
+                  Thomas 
+                  Elderson 
+               <interp inst="t17540227-24-person261" type="surname" value="Elderson"></interp>
+                     <interp inst="t17540227-24-person261" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-24-person261" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17540227-24-person262">
+                  Joseph 
+                  Phips 
+               <interp inst="t17540227-24-person262" type="surname" value="Phips"></interp>
+                     <interp inst="t17540227-24-person262" type="given" value="Joseph"></interp>
+                     <interp inst="t17540227-24-person262" type="gender" value="male"></interp>
+                  </persName>
+            , who had lived in the same family three years where the prisoner had lived servant; Mr. Bowen, who had known her fourteen or fifteen years; Mr. Wright, who had known her some years; Mr. Long, who had known her ten years; 
+               <persName id="t17540227-24-person263">
+                  Martin 
+                  Paddey 
+               <interp inst="t17540227-24-person263" type="surname" value="Paddey"></interp>
+                     <interp inst="t17540227-24-person263" type="given" value="Martin"></interp>
+                     <interp inst="t17540227-24-person263" type="gender" value="male"></interp>
+                  </persName>
+            , who had known her fourteen or fifteen years; Mrs. Hunt, who had known her a year and half; and 
+               <persName id="t17540227-24-person264">
+                  Anne 
+                  Steel 
+               <interp inst="t17540227-24-person264" type="surname" value="Steel"></interp>
+                     <interp inst="t17540227-24-person264" type="given" value="Anne"></interp>
+                     <interp inst="t17540227-24-person264" type="gender" value="female"></interp>
+                  </persName>
+            , who had known her fourteen or fifteen years, who all gave her an exceeding good character.</p>
+               <p>
+                  <rs id="t17540227-24-verdict137" type="verdictDescription">
+                     <interp inst="t17540227-24-verdict137" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540227-24-verdict137" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17540227-24-punish138" type="punishmentDescription">
+                     <interp inst="t17540227-24-punish138" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-24-defend250 t17540227-24-punish138"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

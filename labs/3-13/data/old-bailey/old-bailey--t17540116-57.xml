@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-57">
+               <interp inst="t17540116-57" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-57" type="year" value="1754"></interp>
+               <interp inst="t17540116-57" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-57" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-57-off297-c429" targOrder="Y" targets="t17540116-57-defend534 t17540116-57-off297 t17540116-57-verdict299"></join>
+         
+               <p>146. (L.) 
+               
+                  <persName id="t17540116-57-defend534" type="defendantName">
+                     Stephen 
+                     Bird 
+                  <interp inst="t17540116-57-defend534" type="surname" value="Bird"></interp>
+                     <interp inst="t17540116-57-defend534" type="given" value="Stephen"></interp>
+                     <interp inst="t17540116-57-defend534" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-57-off297" type="offenceDescription">
+                     <interp inst="t17540116-57-off297" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-57-off297" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 65 lb. weight of lead, value 7 s. the property of 
+                     <persName id="t17540116-57-victim535" type="victimName">
+                        Isaac 
+                        Church 
+                     <interp inst="t17540116-57-victim535" type="surname" value="Church"></interp>
+                        <interp inst="t17540116-57-victim535" type="given" value="Isaac"></interp>
+                        <interp inst="t17540116-57-victim535" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-57-off297 t17540116-57-victim535"></join>
+                     </persName>
+                   , the same being fixed to a dwelling-house
+            </rs>, &amp;c. <rs id="t17540116-57-cd298" type="crimeDate">Jan. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-57-off297 t17540116-57-cd298"></join>.</p>
+               <p>++ <rs id="t17540116-57-verdict299" type="verdictDescription">
+                     <interp inst="t17540116-57-verdict299" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

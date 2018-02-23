@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-62">
+               <interp inst="t17540116-62" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-62" type="year" value="1754"></interp>
+               <interp inst="t17540116-62" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-62" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-62-off312-c438" targOrder="Y" targets="t17540116-62-defend549 t17540116-62-off312 t17540116-62-verdict314"></join>
+         
+               <p>151. 
+               
+                  <persName id="t17540116-62-defend549" type="defendantName">
+                     Jane 
+                     Darcy 
+                  <interp inst="t17540116-62-defend549" type="surname" value="Darcy"></interp>
+                     <interp inst="t17540116-62-defend549" type="given" value="Jane"></interp>
+                     <interp inst="t17540116-62-defend549" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-62-off312" type="offenceDescription">
+                     <interp inst="t17540116-62-off312" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-62-off312" type="offenceSubcategory" value="extortion"></interp>
+               that she, and one 
+                     <persName id="t17540116-62-person550">
+                        William 
+                        Walker 
+                     <interp inst="t17540116-62-person550" type="surname" value="Walker"></interp>
+                        <interp inst="t17540116-62-person550" type="given" value="William"></interp>
+                        <interp inst="t17540116-62-person550" type="gender" value="male"></interp>
+                     </persName>
+                  , and 
+                     <persName id="t17540116-62-person551">
+                        Thomas 
+                        Darcy 
+                     <interp inst="t17540116-62-person551" type="surname" value="Darcy"></interp>
+                        <interp inst="t17540116-62-person551" type="given" value="Thomas"></interp>
+                        <interp inst="t17540116-62-person551" type="gender" value="male"></interp>
+                     </persName>
+                  , her husband, unlawfully and maliciously conspired together falsely to accuse 
+                     
+                        <persName id="t17540116-62-victim553" type="victimName">
+                           John 
+                           Delafont 
+                        <interp inst="t17540116-62-victim553" type="surname" value="Delafont"></interp>
+                        <interp inst="t17540116-62-victim553" type="given" value="John"></interp>
+                        <interp inst="t17540116-62-victim553" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-62-off312 t17540116-62-victim553"></join>
+                     </persName>
+                      
+                  , <rs id="t17540116-62-viclabel313" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-62-victim553 t17540116-62-viclabel313"></join>; with a rape, in order to extort money from him
+            </rs>.</p>
+               <p>To which indictment the prisoner, 
+               <persName id="t17540116-62-person554">
+                  Jane 
+                  Darcy 
+               <interp inst="t17540116-62-person554" type="surname" value="Darcy"></interp>
+                     <interp inst="t17540116-62-person554" type="given" value="Jane"></interp>
+                     <interp inst="t17540116-62-person554" type="gender" value="female"></interp>
+                  </persName>
+            , at the last December sessions, pleaded Not guilty; but at this session she retracted that plea, and <rs id="t17540116-62-verdict314" type="verdictDescription">
+                     <interp inst="t17540116-62-verdict314" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-62-verdict314" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               confessed
+            </rs> the indictment.</p>
+               <p>After which the council for the prosecutor moved in the following manner for judgment:</p>
+               <p>My Lord,</p>
+               <p>This is one of the most wicked conspiracies that ever appeared before this court.</p>
+               <p>The design of the conspirators was, by an unjust accusation, to extort money from Mr. Delafont, a worthy gentleman of the bar, and if they failed in it, then to revenge their disappointment by an unjust and malicious prosecution, that might endanger his life.</p>
+               <p>Tho' nothing can be offered to your Lordship in justification of the part this woman was to act in this horrid contrivance, yet there are some circumstances which plead in mitigation of her punishment, and I have the prosecutor's authority to mention them.</p>
+               <p>It appears, upon the face of the indictment, that she is a conspirator with her husband - If there had been no other defendant, the court could not give any judgment against her, as no woman can conspire with her husband alone, they having but one will, and the law supposing her under the influence of her husband. - In the present case, indeed, there is another defendant, which will warrant the court's passing judgment against her; but yet her husband's being one of the defendants, is a circumstance which speaks a little in abatement of her guilt.</p>
+               <p>Besides, my Lord, this woman, a few days ago, voluntarily sent Mr. Delafont a full account of the particulars of this dark conspiracy; and tho', from the discoveries we had before made, we did not stand in great need of it, yet her account has led us to the knowledge of one very material witness against one of the other defendants, the contriver of this wicked scheme, and by whom this unhappy creature was only made use of as a necessary tool to accomplish his cruel purposes.</p>
+               <p>There are some circumstances, my Lord, which may incline this court to mercy; she has been confined for two months in Newgate, without any thing to lie upon but the bare boards, or any thing to subsist upon but the goal allowance; she has had all this time the goal distemper, and her life is in great danger. - However necessary it was that the prosecutor should bring this unfortunate woman to justice, he would yet be sorry that the consequences of it should be the means of taking away her life.</p>
+               <p>Under these circumstances, my Lord, I have his commission to request of the court to pass as mild a sentence upon her crime as the nature of the case will admit.</p>
+               <p>Upon which the court desired an apothecary who was present, to see what condition she was in, and he having, upon his oath, declared that she was dangerously ill, and not in a condition to undergo any corporal punishment, and that a long confinement would, probably, deprive her of her life, the <rs id="t17540116-62-punish315" type="punishmentDescription">
+                     <interp inst="t17540116-62-punish315" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17540116-62-punish315" type="punishmentSubcategory" value="newgate"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-62-defend549 t17540116-62-punish315"></join>
+               court was pleased to order her only four days more imprisonment in Newgate
+            </rs>.</p>
+               <p>N. B. The other defendants will be tried at the next sessions.</p>
+            </div1>

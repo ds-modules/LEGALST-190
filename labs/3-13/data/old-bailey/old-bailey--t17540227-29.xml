@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-29">
+               <interp inst="t17540227-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-29" type="year" value="1754"></interp>
+               <interp inst="t17540227-29" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-29" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-29-off159-c231" targOrder="Y" targets="t17540227-29-defend288 t17540227-29-off159 t17540227-29-verdict164"></join>
+               <join result="criminalCharge" id="t17540227-29-off161-c233" targOrder="Y" targets="t17540227-29-defend292 t17540227-29-off161 t17540227-29-verdict165"></join>
+               <join result="criminalCharge" id="t17540227-29-off166-c231" targOrder="Y" targets="t17540227-29-defend288 t17540227-29-off166 t17540227-29-verdict164"></join>
+               <join result="criminalCharge" id="t17540227-29-off167-c236" targOrder="Y" targets="t17540227-29-defend296 t17540227-29-off167 t17540227-29-verdict169"></join>
+         
+               <p>183, 184. (M.) 
+               
+                  <persName id="t17540227-29-defend288" type="defendantName">
+                     William 
+                     Dennis 
+                  <interp inst="t17540227-29-defend288" type="surname" value="Dennis"></interp>
+                     <interp inst="t17540227-29-defend288" type="given" value="William"></interp>
+                     <interp inst="t17540227-29-defend288" type="gender" value="male"></interp>
+                  </persName>
+                
+             was indicted for <rs id="t17540227-29-off159" type="offenceDescription">
+                     <interp inst="t17540227-29-off159" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-29-off159" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three pounds weight of candles, val. 1 s. 3 d.
+            </rs> the property of 
+               
+                  <persName id="t17540227-29-victim290" type="victimName">
+                     Allen 
+                     Parsons 
+                  <interp inst="t17540227-29-victim290" type="surname" value="Parsons"></interp>
+                     <interp inst="t17540227-29-victim290" type="given" value="Allen"></interp>
+                     <interp inst="t17540227-29-victim290" type="gender" value="male"></interp>
+                  </persName>
+                
+            . <rs id="t17540227-29-cd160" type="crimeDate">Jan. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-29-off159 t17540227-29-cd160"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-29-off161 t17540227-29-cd160"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-29-off166 t17540227-29-cd160"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-29-off167 t17540227-29-cd160"></join>. and 
+               
+                  <persName id="t17540227-29-defend292" type="defendantName">
+                     Joseph 
+                     Wyate 
+                  <interp inst="t17540227-29-defend292" type="surname" value="Wyate"></interp>
+                     <interp inst="t17540227-29-defend292" type="given" value="Joseph"></interp>
+                     <interp inst="t17540227-29-defend292" type="gender" value="male"></interp>
+                  </persName>
+                
+             for <rs id="t17540227-29-off161" type="offenceDescription">
+                     <interp inst="t17540227-29-off161" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-29-off161" type="offenceSubcategory" value="receiving"></interp>
+               receiving them, well knowing them to have been stolen. ++
+            </rs>
+               </p>
+               <p>The Prosecutor is a <rs id="t17540227-29-viclabel162" type="occupation">tallow-chandler</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-29-victim290 t17540227-29-viclabel162"></join>, he sent Dennis his <rs id="t17540227-29-deflabel163" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-29-defend288 t17540227-29-deflabel163"></join>, with a parcel of candles to Mr. 
+               <persName id="t17540227-29-person293">
+                  William 
+                  Fairfax 
+               <interp inst="t17540227-29-person293" type="surname" value="Fairfax"></interp>
+                     <interp inst="t17540227-29-person293" type="given" value="William"></interp>
+                     <interp inst="t17540227-29-person293" type="gender" value="male"></interp>
+                  </persName>
+            . They were weighed after delivered, and three pounds missing. The Prisoner was taken up, and owned he had taken the three pounds out of that parcel, and sold them to Wyate the other Prisoner; who, he said, had encouraged him to steal candles, and he had bought for three pence a pound of him. This he confessed before the justice, and his confession was taken in writing, and signed by him, and read in Court.</p>
+               <p>Dennis, <rs id="t17540227-29-verdict164" type="verdictDescription">
+                     <interp inst="t17540227-29-verdict164" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, Wyate, <rs id="t17540227-29-verdict165" type="verdictDescription">
+                     <interp inst="t17540227-29-verdict165" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>185. (M.) Dennis was a second time indicted, for <rs id="t17540227-29-off166" type="offenceDescription">
+                     <interp inst="t17540227-29-off166" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-29-off166" type="offenceSubcategory" value="other"></interp>
+               stealing three pounds weight of candles
+            </rs>, the property of 
+               <persName id="t17540227-29-person294">
+                  Allen 
+                  Parsons 
+               <interp inst="t17540227-29-person294" type="surname" value="Parsons"></interp>
+                     <interp inst="t17540227-29-person294" type="given" value="Allen"></interp>
+                     <interp inst="t17540227-29-person294" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               
+                  <persName id="t17540227-29-defend296" type="defendantName">
+                     Mary 
+                     Barker 
+                  <interp inst="t17540227-29-defend296" type="surname" value="Barker"></interp>
+                     <interp inst="t17540227-29-defend296" type="given" value="Mary"></interp>
+                     <interp inst="t17540227-29-defend296" type="gender" value="female"></interp>
+                  </persName>
+                
+             for <rs id="t17540227-29-off167" type="offenceDescription">
+                     <interp inst="t17540227-29-off167" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-29-off167" type="offenceSubcategory" value="receiving"></interp>
+               receiving them, well knowing them to have been stolen
+            </rs>.</p>
+               <p>It appeared by the same confession, taken before the justice, the Prisoner had sold the three pounds of candles to the Prisoner Barker, but that she bought them at the common price that people buy them to sell again.</p>
+               <p>Dennis, <rs id="t17540227-29-verdict168" type="verdictDescription">
+                     <interp inst="t17540227-29-verdict168" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>Barker, <rs id="t17540227-29-verdict169" type="verdictDescription">
+                     <interp inst="t17540227-29-verdict169" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-29-punish170" type="punishmentDescription">
+                     <interp inst="t17540227-29-punish170" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-29-defend288 t17540227-29-punish170"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-29-defend292 t17540227-29-punish170"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-29-defend296 t17540227-29-punish170"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
