@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-26">
+               <interp inst="t17540116-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-26" type="year" value="1754"></interp>
+               <interp inst="t17540116-26" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-26" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-26-off140-c200" targOrder="Y" targets="t17540116-26-defend245 t17540116-26-off140 t17540116-26-verdict142"></join>
+         
+               <p>111. (M.) 
+               
+                  <persName id="t17540116-26-defend245" type="defendantName">
+                     Martha 
+                     Mingest 
+                  <interp inst="t17540116-26-defend245" type="surname" value="Mingest"></interp>
+                     <interp inst="t17540116-26-defend245" type="given" value="Martha"></interp>
+                     <interp inst="t17540116-26-defend245" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540116-26-deflabel139" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-26-defend245 t17540116-26-deflabel139"></join>, was indicted for <rs id="t17540116-26-off140" type="offenceDescription">
+                     <interp inst="t17540116-26-off140" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-26-off140" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing ninety pounds weight of lead, the property of 
+                     
+                        <persName id="t17540116-26-victim247" type="victimName">
+                           George 
+                           Cellea 
+                        <interp inst="t17540116-26-victim247" type="surname" value="Cellea"></interp>
+                        <interp inst="t17540116-26-victim247" type="given" value="George"></interp>
+                        <interp inst="t17540116-26-victim247" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-26-off140 t17540116-26-victim247"></join>
+                     </persName>
+                      
+                  , the same being fixed to a dwelling-house
+            </rs>, <rs id="t17540116-26-cd141" type="crimeDate">Dec. 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-26-off140 t17540116-26-cd141"></join>. ||.</p>
+               <p>
+            
+                  <persName id="t17540116-26-person248">
+                  James 
+                  Bull 
+               <interp inst="t17540116-26-person248" type="surname" value="Bull"></interp>
+                     <interp inst="t17540116-26-person248" type="given" value="James"></interp>
+                     <interp inst="t17540116-26-person248" type="gender" value="male"></interp>
+                  </persName>
+            . I saw a man on the top of the house of Mr. Cellea, cutting off lead, who flung it down, and the prisoner was below picking it up. I went and took her, and she dropt some pieces; upon which I carried her, and some of the lead, to the watch-house, and she was committed.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was going to market, and this man said I belonged to a man that was stealing lead on the house, but I knew nothing at all of it.</p>
+               <p>
+                  <rs id="t17540116-26-verdict142" type="verdictDescription">
+                     <interp inst="t17540116-26-verdict142" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-26-punish143" type="punishmentDescription">
+                     <interp inst="t17540116-26-punish143" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-26-defend245 t17540116-26-punish143"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-7">
+               <interp inst="t17540116-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-7" type="year" value="1754"></interp>
+               <interp inst="t17540116-7" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-7" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-7-off32-c50" targOrder="Y" targets="t17540116-7-defend61 t17540116-7-off32 t17540116-7-verdict36"></join>
+         
+               <p>86. (M.) 
+               
+                  <persName id="t17540116-7-defend61" type="defendantName">
+                     William 
+                     Ford 
+                  <interp inst="t17540116-7-defend61" type="surname" value="Ford"></interp>
+                     <interp inst="t17540116-7-defend61" type="given" value="William"></interp>
+                     <interp inst="t17540116-7-defend61" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-7-off32" type="offenceDescription">
+                     <interp inst="t17540116-7-off32" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-7-off32" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing one mare, of a black colour, value 12 l.
+            </rs> the property of 
+               
+                  <persName id="t17540116-7-victim63" type="victimName">
+                     Nicholas 
+                     Healing 
+                  <interp inst="t17540116-7-victim63" type="surname" value="Healing"></interp>
+                     <interp inst="t17540116-7-victim63" type="given" value="Nicholas"></interp>
+                     <interp inst="t17540116-7-victim63" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-7-off32 t17540116-7-victim63"></join>
+                  </persName>
+                
+            , <rs id="t17540116-7-cd33" type="crimeDate">Oct. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-7-off32 t17540116-7-cd33"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540116-7-person64">
+                  Nicholas 
+                  Healing 
+               <interp inst="t17540116-7-person64" type="surname" value="Healing"></interp>
+                     <interp inst="t17540116-7-person64" type="given" value="Nicholas"></interp>
+                     <interp inst="t17540116-7-person64" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17540116-7-viclabel34" type="occupation">butcher</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-7-victim63 t17540116-7-viclabel34"></join>, and live at <placeName id="t17540116-7-crimeloc35">Hounslow</placeName>
+                  <interp inst="t17540116-7-crimeloc35" type="placeName" value="Hounslow"></interp>
+                  <interp inst="t17540116-7-crimeloc35" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-7-off32 t17540116-7-crimeloc35"></join>; I had a black mare, along with two other horses and a mare, in my ground, about a quarter of a mile from my house, they were all safe over night, but on the 4th of October in the morning the black mare was missing. I found her again on Tuesday the 9th at Spinham-land in Berkshire, in the possession of 
+               <persName id="t17540116-7-person65">
+                  Abraham 
+                  Sandey 
+               <interp inst="t17540116-7-person65" type="surname" value="Sandey"></interp>
+                     <interp inst="t17540116-7-person65" type="given" value="Abraham"></interp>
+                     <interp inst="t17540116-7-person65" type="gender" value="male"></interp>
+                  </persName>
+             the younger, who was subpena'd, but is not here.</p>
+               <p>Q. How came you to find her there?</p>
+               <p>Healing. I had told 
+               <persName id="t17540116-7-person66">
+                  Matthew 
+                  Davis 
+               <interp inst="t17540116-7-person66" type="surname" value="Davis"></interp>
+                     <interp inst="t17540116-7-person66" type="given" value="Matthew"></interp>
+                     <interp inst="t17540116-7-person66" type="gender" value="male"></interp>
+                  </persName>
+             of my loss, who knew my mare, and as he was going to Wayhill Fair said he would enquire, and if he could hear any thing of her, he would send me word. After which he sent me a letter, with an account that he had seen her at Sceal beyond Reading; so I went, and by enquiry found her out.</p>
+               <p>
+            
+                  <persName id="t17540116-7-person67">
+                  Launcelot 
+                  Hide 
+               <interp inst="t17540116-7-person67" type="surname" value="Hide"></interp>
+                     <interp inst="t17540116-7-person67" type="given" value="Launcelot"></interp>
+                     <interp inst="t17540116-7-person67" type="gender" value="male"></interp>
+                  </persName>
+            . I live at Twickenham, and was sent for by the prosecutor to Reading, as I had lost a mare at the same time. I went, and saw the prisoner there in the Compter. Coming from thence I saw Sandey the younger come gallopping hard up the town on the prosecutor's mare. The prosecutor came, and he, I, and Sandey, went to the prisoner, there they both charged him with stealing the mare; but the prisoner said he bought her, and owned he sold her to Sandey; and Sandey said he gave him six guineas for her.</p>
+               <p>Q. Did he say who he bought her of?</p>
+               <p>Hide. He said he bought her of the man that lived at the George at Old Brentford. But I knew there was no such sign there. The prisoner had got my mare there, at the Black Horse, which I had again.</p>
+               <p>
+            
+                  <persName id="t17540116-7-person68">
+                  James 
+                  Ascue 
+               <interp inst="t17540116-7-person68" type="surname" value="Ascue"></interp>
+                     <interp inst="t17540116-7-person68" type="given" value="James"></interp>
+                     <interp inst="t17540116-7-person68" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the King's Arms at Reading, the prisoner brought the mare to my house on the Saturday after the prosecutor was robbed, I know not the day of the month; he wanted to sell her to me, but I thought her too heavy for my business, therefore did not buy her.</p>
+               <p>
+            
+                  <persName id="t17540116-7-person69">
+                  Thomas 
+                  Painter 
+               <interp inst="t17540116-7-person69" type="surname" value="Painter"></interp>
+                     <interp inst="t17540116-7-person69" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-7-person69" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to the prosecutor, and on Thursday the 3rd of October, about two or three o'clock in the afternoon, the mare was put into my master's ground; but the next morning the rails were broke down and the mare gone.</p>
+               <p>
+            
+                  <persName id="t17540116-7-person70">
+                  William 
+                  Horton 
+               <interp inst="t17540116-7-person70" type="surname" value="Horton"></interp>
+                     <interp inst="t17540116-7-person70" type="given" value="William"></interp>
+                     <interp inst="t17540116-7-person70" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the Black Horse in Reading, the prisoner came and put the mare into my stable the 5th of October. She had a white face and a rat tail; he told me he had bought her; he went out with her again, and returned and staid all night: He went away after that, and returned again, and was taken in my house.</p>
+               <p>
+            
+                  <persName id="t17540116-7-person71">
+                  Matthew 
+                  Davis 
+               <interp inst="t17540116-7-person71" type="surname" value="Davis"></interp>
+                     <interp inst="t17540116-7-person71" type="given" value="Matthew"></interp>
+                     <interp inst="t17540116-7-person71" type="gender" value="male"></interp>
+                  </persName>
+            . I am a neighbour of the prosecutor's, I was going down to Wayhill Fair, he<xptr type="pageFacsimile" doc="175401160004"></xptr> had told me he had lost the mare. I knowing her, said, I would see and enquire after her, and if I could hear of her, would send him word. I put up at the Bull at Sceal, and saw the prisoner riding on the prosecutor's mare. I was not near enough to speak to him, but knew the mare very well.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>Davis. No. I never saw him before in my life, as I know of.</p>
+               <p>Q. Which way was he going?</p>
+               <p>Davis. He rode out of an inn yard, and on towards Reading; I went to the house, and asked the hostler, if he knew the man who had just rode out; he said, he did not. I then got a person to write a letter to the prosecutor, to let him know where I had seen the mare.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I bought the mares both together of two men, one of whom was taken up at Hounslow; but I, being then confined at Reading, could not go to swear to him, and so they let him go.</p>
+               <p>
+                  <rs id="t17540116-7-verdict36" type="verdictDescription">
+                     <interp inst="t17540116-7-verdict36" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17540116-7-punish37" type="punishmentDescription">
+                     <interp inst="t17540116-7-punish37" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-7-defend61 t17540116-7-punish37"></join>
+               Death
+            </rs>.</p>
+               <p>There was another indictment against him for stealing 
+               <persName id="t17540116-7-person72">
+                  Launcelot 
+                  Hide 
+               <interp inst="t17540116-7-person72" type="surname" value="Hide"></interp>
+                     <interp inst="t17540116-7-person72" type="given" value="Launcelot"></interp>
+                     <interp inst="t17540116-7-person72" type="gender" value="male"></interp>
+                  </persName>
+            's mare; but being cast on this, he was not tried upon that.</p>
+            </div1>

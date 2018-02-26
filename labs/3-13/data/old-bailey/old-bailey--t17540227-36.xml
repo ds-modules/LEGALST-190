@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-36">
+               <interp inst="t17540227-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-36" type="year" value="1754"></interp>
+               <interp inst="t17540227-36" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-36" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-36-off196-c269" targOrder="Y" targets="t17540227-36-defend340 t17540227-36-off196 t17540227-36-verdict198"></join>
+         
+               <p>192. (L.) 
+               
+                  <persName id="t17540227-36-defend340" type="defendantName">
+                     William 
+                     Wright 
+                  <interp inst="t17540227-36-defend340" type="surname" value="Wright"></interp>
+                     <interp inst="t17540227-36-defend340" type="given" value="William"></interp>
+                     <interp inst="t17540227-36-defend340" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540227-36-off196" type="offenceDescription">
+                     <interp inst="t17540227-36-off196" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-36-off196" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one leaden sink, and other lead, weighing 80 lb. belonging to 
+                     
+                        <persName id="t17540227-36-victim342" type="victimName">
+                           William 
+                           Symons 
+                        <interp inst="t17540227-36-victim342" type="surname" value="Symons"></interp>
+                        <interp inst="t17540227-36-victim342" type="given" value="William"></interp>
+                        <interp inst="t17540227-36-victim342" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540227-36-off196 t17540227-36-victim342"></join>
+                     </persName>
+                      
+                  , and fixed to a dwelling-house
+            </rs>, &amp;c. <rs id="t17540227-36-cd197" type="crimeDate">Jan. 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-36-off196 t17540227-36-cd197"></join>.</p>
+               <p>++ <rs id="t17540227-36-verdict198" type="verdictDescription">
+                     <interp inst="t17540227-36-verdict198" type="verdictCategory" value="notGuilty"></interp>
+               Acquit
+            </rs>.</p>
+            </div1>

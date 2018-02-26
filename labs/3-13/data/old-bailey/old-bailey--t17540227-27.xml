@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-27">
+               <interp inst="t17540227-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-27" type="year" value="1754"></interp>
+               <interp inst="t17540227-27" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-27" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-27-off148-c226" targOrder="Y" targets="t17540227-27-defend280 t17540227-27-off148 t17540227-27-verdict153"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270019"></xptr>181. (M.) 
+               
+                  <persName id="t17540227-27-defend280" type="defendantName">
+                     Luke 
+                     Jeffries 
+                  <interp inst="t17540227-27-defend280" type="surname" value="Jeffries"></interp>
+                     <interp inst="t17540227-27-defend280" type="given" value="Luke"></interp>
+                     <interp inst="t17540227-27-defend280" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540227-27-off148" type="offenceDescription">
+                     <interp inst="t17540227-27-off148" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-27-off148" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two silver spoons, value 8 s.
+            </rs> the goods of 
+               
+                  <persName id="t17540227-27-victim282" type="victimName">
+                     James 
+                     Taylor 
+                  <interp inst="t17540227-27-victim282" type="surname" value="Taylor"></interp>
+                     <interp inst="t17540227-27-victim282" type="given" value="James"></interp>
+                     <interp inst="t17540227-27-victim282" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540227-27-off148 t17540227-27-victim282"></join>
+                  </persName>
+                
+            , <rs id="t17540227-27-cd149" type="crimeDate">January 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-27-off148 t17540227-27-cd149"></join>. ++</p>
+               <p>The prosecutor <rs id="t17540227-27-viclabel150" type="occupation">keeps a publick-house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-27-victim282 t17540227-27-viclabel150"></join> in <placeName id="t17540227-27-crimeloc151">Marybone-street</placeName>
+                  <interp inst="t17540227-27-crimeloc151" type="placeName" value="Marybone-street"></interp>
+                  <interp inst="t17540227-27-crimeloc151" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-27-off148 t17540227-27-crimeloc151"></join>, the prisoner was his <rs id="t17540227-27-deflabel152" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-27-defend280 t17540227-27-deflabel152"></join>, the two spoons were missing in the morning of the 17th of January; the prisoner having eat last with one of them, and the other being at that time lying by him, he was suspected, and charged with taking them. He at first denied it, but after that owned before three witnesses he had taken them both, and given them to a brother-in-law of his about nine o'clock over night, who was going to France, in order to help to bear his charges.</p>
+               <p>
+                  <rs id="t17540227-27-verdict153" type="verdictDescription">
+                     <interp inst="t17540227-27-verdict153" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-27-punish154" type="punishmentDescription">
+                     <interp inst="t17540227-27-punish154" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-27-defend280 t17540227-27-punish154"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

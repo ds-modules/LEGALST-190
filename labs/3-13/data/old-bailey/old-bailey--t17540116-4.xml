@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-4">
+               <interp inst="t17540116-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-4" type="year" value="1754"></interp>
+               <interp inst="t17540116-4" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-4" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-4-off20-c41" targOrder="Y" targets="t17540116-4-defend46 t17540116-4-off20 t17540116-4-verdict24"></join>
+         
+               <p>83. (M.) 
+               <persName id="t17540116-4-defend46" type="defendantName">
+                  Elizabeth 
+                  <rs id="t17540116-4-deflabel19" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-4-defend46 t17540116-4-deflabel19"></join> of 
+                     <persName id="t17540116-4-person47">
+                        Joseph 
+                        Kempster 
+                     <interp inst="t17540116-4-person47" type="surname" value="Kempster"></interp>
+                        <interp inst="t17540116-4-person47" type="given" value="Joseph"></interp>
+                        <interp inst="t17540116-4-person47" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17540116-4-defend46" type="surname" value="Kempster"></interp>
+                     <interp inst="t17540116-4-defend46" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-4-defend46" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17540116-4-off20" type="offenceDescription">
+                     <interp inst="t17540116-4-off20" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-4-off20" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one feather-bed, value 14 s. one bolster 2 s. one pillow, one flaxen sheet, one copper tea-kettle, one brass candlestick, one pair of bellows, the goods of 
+                     
+                        <persName id="t17540116-4-victim49" type="victimName">
+                           Mary 
+                           Kennedy 
+                        <interp inst="t17540116-4-victim49" type="surname" value="Kennedy"></interp>
+                        <interp inst="t17540116-4-victim49" type="given" value="Mary"></interp>
+                        <interp inst="t17540116-4-victim49" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-4-off20 t17540116-4-victim49"></join>
+                     </persName>
+                      
+                  , <rs id="t17540116-4-viclabel21" type="occupation">widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-4-victim49 t17540116-4-viclabel21"></join>, in a certain lodging
+            </rs> let by contract, &amp;c. <rs id="t17540116-4-cd22" type="crimeDate">December 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-4-off20 t17540116-4-cd22"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540116-4-person50">
+                  Mary 
+                  Kennedy 
+               <interp inst="t17540116-4-person50" type="surname" value="Kennedy"></interp>
+                     <interp inst="t17540116-4-person50" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-4-person50" type="gender" value="female"></interp>
+                  </persName>
+            . I live in <placeName id="t17540116-4-crimeloc23">Scotland-Yard</placeName>
+                  <interp inst="t17540116-4-crimeloc23" type="placeName" value="Scotland-Yard"></interp>
+                  <interp inst="t17540116-4-crimeloc23" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-4-off20 t17540116-4-crimeloc23"></join>, the prisoner was with me six or seven weeks before she went away, then she took the key with her; the room was let to her, her husband she said was in Jamaica. I opened the door, and missed the goods mentioned. She was taken in less than a fortnight; when taken she told me where the things were pawned and sold, and that she took them in the morning before I was up; we went as she directed, and found some of the things. [produced in court, and deposed to.]</p>
+               <p>
+            
+                  <persName id="t17540116-4-person51">
+                  Thomas 
+                  Stevens 
+               <interp inst="t17540116-4-person51" type="surname" value="Stevens"></interp>
+                     <interp inst="t17540116-4-person51" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-4-person51" type="gender" value="male"></interp>
+                  </persName>
+            . I belong to Mr. Perry in Castle-street, Leicester Fields, he is a pawnbroker, the prisoner pawned these two pillows and tea-kettle with me.</p>
+               <p>Prisoner's defence.</p>
+               <p>I do not know the last evidence. I am not guilty.</p>
+               <p>
+                  <rs id="t17540116-4-verdict24" type="verdictDescription">
+                     <interp inst="t17540116-4-verdict24" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-4-punish25" type="punishmentDescription">
+                     <interp inst="t17540116-4-punish25" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-4-defend46 t17540116-4-punish25"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

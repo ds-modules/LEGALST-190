@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-21">
+               <interp inst="t17540227-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-21" type="year" value="1754"></interp>
+               <interp inst="t17540227-21" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-21" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-21-off114-c181" targOrder="Y" targets="t17540227-21-defend221 t17540227-21-off114 t17540227-21-verdict119"></join>
+         
+               <p>175. (M.) 
+               <persName id="t17540227-21-defend221" type="defendantName">
+                  Ann, <rs id="t17540227-21-deflabel112" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540227-21-defend221 t17540227-21-deflabel112"></join> of 
+                     <persName id="t17540227-21-person222">
+                        Edward 
+                        Stephens 
+                     <interp inst="t17540227-21-person222" type="surname" value="Stephens"></interp>
+                        <interp inst="t17540227-21-person222" type="given" value="Edward"></interp>
+                        <interp inst="t17540227-21-person222" type="gender" value="male"></interp>
+                     </persName>
+                  , otherwise <rs id="t17540227-21-alias-4" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17540227-21-defend221 t17540227-21-alias-4"></join>Ann Allen</rs>
+                     <interp inst="t17540227-21-defend221" type="surname" value="Stephens"></interp>
+                     <interp inst="t17540227-21-defend221" type="given" value="Ann"></interp>
+                     <interp inst="t17540227-21-defend221" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17540227-21-deflabel113" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-21-defend221 t17540227-21-deflabel113"></join>, was indicted for <rs id="t17540227-21-off114" type="offenceDescription">
+                     <interp inst="t17540227-21-off114" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-21-off114" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing two silver stars, value 8 s. and three guineas and one half guinea, the goods and money of 
+                     
+                        <persName id="t17540227-21-victim224" type="victimName">
+                           Margaret 
+                           Cherry 
+                        <interp inst="t17540227-21-victim224" type="surname" value="Cherry"></interp>
+                        <interp inst="t17540227-21-victim224" type="given" value="Margaret"></interp>
+                        <interp inst="t17540227-21-victim224" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540227-21-off114 t17540227-21-victim224"></join>
+                     </persName>
+                      
+                  , <rs id="t17540227-21-viclabel115" type="occupation">widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540227-21-victim224 t17540227-21-viclabel115"></join>, in the dwelling-house
+            </rs> of the said Margaret. <rs id="t17540227-21-cd116" type="crimeDate">Feb. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-21-off114 t17540227-21-cd116"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-21-person225">
+                  Margaret 
+                  Cherry 
+               <interp inst="t17540227-21-person225" type="surname" value="Cherry"></interp>
+                     <interp inst="t17540227-21-person225" type="given" value="Margaret"></interp>
+                     <interp inst="t17540227-21-person225" type="gender" value="female"></interp>
+                  </persName>
+            . I live in <placeName id="t17540227-21-crimeloc117">Marybone</placeName>
+                  <interp inst="t17540227-21-crimeloc117" type="placeName" value="Marybone"></interp>
+                  <interp inst="t17540227-21-crimeloc117" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-21-off114 t17540227-21-crimeloc117"></join> parish, the Prisoner was a <rs id="t17540227-21-deflabel118" type="occupation">chairwoman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-21-defend221 t17540227-21-deflabel118"></join> to me; I lost three guineas and a half, and two silver stars, when she and I only were in the room. I had the money in my hand about eight or nine in the morning before she came in, and put it in a closet, and when she was gone I missed it. I sent after her, but she could not be found, nor did she come to her own apartment for ten days; after which we took her up: I taxed her with taking it, and she denied it, and said, she saw none of my money, but the shilling I gave her for her work.</p>
+               <p>Q. What day was this?</p>
+               <p>Cherry. It was of a Wednesday, about three weeks ago.</p>
+               <p>Q. Did she go to the place where the money was, to do any business?</p>
+               <p>Cherry. I sent her to clean out the closet.</p>
+               <p>
+            
+                  <persName id="t17540227-21-person226">
+                  Catharine 
+                  Bullion 
+               <interp inst="t17540227-21-person226" type="surname" value="Bullion"></interp>
+                     <interp inst="t17540227-21-person226" type="given" value="Catharine"></interp>
+                     <interp inst="t17540227-21-person226" type="gender" value="female"></interp>
+                  </persName>
+            . The Prisoner was brought into my house by three people at the coach and horses, in Great Marlborough-street, on a Saturday, the latter end of last month; the Prisoner had chair'd for me five years. I asked her, what made her do such a wicked action, as she was accused<xptr type="pageFacsimile" doc="175402270016"></xptr> with, she said, because she was much in liquor. I asked her, if I should fetch the gentlewoman's daughter, for her to talk to: I fetched her. The Prisoner said to her, she would work for her as long as she lived, 'till she had worked it out. I left them together. After which the Prisoner said to me, if I would go along with her and no body else, she would go and fetch the two stars. I did not think proper to go along with her.</p>
+               <p>Q. Did she produce the stars?</p>
+               <p>Bullion. No; I never saw or heard that she did. I always had a good opinion of her before this.</p>
+               <p>
+            
+                  <persName id="t17540227-21-person227">
+                  Sarah 
+                  Knowles 
+               <interp inst="t17540227-21-person227" type="surname" value="Knowles"></interp>
+                     <interp inst="t17540227-21-person227" type="given" value="Sarah"></interp>
+                     <interp inst="t17540227-21-person227" type="gender" value="female"></interp>
+                  </persName>
+            . I am the Prosecutrix's daughter, the Prisoner was charged with taking the money mentioned, being three guineas and a half: she did not say she took it, but she would make it up in work and money, what she could earn.</p>
+               <p>Q. to 
+               <persName id="t17540227-21-person228">
+                  Margaret 
+                  Cherry 
+               <interp inst="t17540227-21-person228" type="surname" value="Cherry"></interp>
+                     <interp inst="t17540227-21-person228" type="given" value="Margaret"></interp>
+                     <interp inst="t17540227-21-person228" type="gender" value="female"></interp>
+                  </persName>
+            . Is this your dwelling-house you live in?</p>
+               <p>Cherry. No, I only keep the first floor.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I never saw any of the money.</p>
+               <p>
+                  <rs id="t17540227-21-verdict119" type="verdictDescription">
+                     <interp inst="t17540227-21-verdict119" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

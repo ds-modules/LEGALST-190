@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-17">
+               <interp inst="t17540227-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-17" type="year" value="1754"></interp>
+               <interp inst="t17540227-17" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-17" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-17-off91-c147" targOrder="Y" targets="t17540227-17-defend179 t17540227-17-off91 t17540227-17-verdict95"></join>
+               <join result="criminalCharge" id="t17540227-17-off92-c148" targOrder="Y" targets="t17540227-17-defend181 t17540227-17-off92 t17540227-17-verdict96"></join>
+         
+               <p>170, 171. (L.) 
+               
+                  <persName id="t17540227-17-defend179" type="defendantName">
+                     John 
+                     Stapeler 
+                  <interp inst="t17540227-17-defend179" type="surname" value="Stapeler"></interp>
+                     <interp inst="t17540227-17-defend179" type="given" value="John"></interp>
+                     <interp inst="t17540227-17-defend179" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17540227-17-defend181" type="defendantName">
+                     Esther 
+                     Shelson 
+                  <interp inst="t17540227-17-defend181" type="surname" value="Shelson"></interp>
+                     <interp inst="t17540227-17-defend181" type="given" value="Esther"></interp>
+                     <interp inst="t17540227-17-defend181" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17540227-17-deflabel90" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-17-defend181 t17540227-17-deflabel90"></join>, were indicted, the first for <rs id="t17540227-17-off91" type="offenceDescription">
+                     <interp inst="t17540227-17-off91" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-17-off91" type="offenceSubcategory" value="other"></interp>
+               stealing four pair of stockings, two child's cotton gowns, one child's linen jacket, one cloth cloak, one silk bonnet, two pewter pint pots, one handkerchief, two silver tea-spoons
+            </rs>, the goods of 
+               
+                  <persName id="t17540227-17-victim183" type="victimName">
+                     Samuel 
+                     Torrent 
+                  <interp inst="t17540227-17-victim183" type="surname" value="Torrent"></interp>
+                     <interp inst="t17540227-17-victim183" type="given" value="Samuel"></interp>
+                     <interp inst="t17540227-17-victim183" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and the second for <rs id="t17540227-17-off92" type="offenceDescription">
+                     <interp inst="t17540227-17-off92" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-17-off92" type="offenceSubcategory" value="receiving"></interp>
+               receiving them, knowing them to have been stolen
+            </rs>. <rs id="t17540227-17-cd93" type="crimeDate">February 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-17-off91 t17540227-17-cd93"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-17-off92 t17540227-17-cd93"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-17-person184">
+                  Rebecca 
+                  Torrent 
+               <interp inst="t17540227-17-person184" type="surname" value="Torrent"></interp>
+                     <interp inst="t17540227-17-person184" type="given" value="Rebecca"></interp>
+                     <interp inst="t17540227-17-person184" type="gender" value="female"></interp>
+                  </persName>
+            . My husband's name is Samuel, I keep a publick-house in <placeName id="t17540227-17-crimeloc94">Gravel lane, Houndsditch</placeName>
+                  <interp inst="t17540227-17-crimeloc94" type="placeName" value="Gravel lane, Houndsditch"></interp>
+                  <interp inst="t17540227-17-crimeloc94" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-17-off91 t17540227-17-crimeloc94"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-17-off92 t17540227-17-crimeloc94"></join>, and having lost several things, went to a pawnbroker's in Petticoat-lane to inquire after them. I told the pawnbroker I had lost the goods mentioned in the indictment, and that I suspected 
+               <persName id="t17540227-17-person185">
+                  John 
+                  Stapeler 
+               <interp inst="t17540227-17-person185" type="surname" value="Stapeler"></interp>
+                     <interp inst="t17540227-17-person185" type="given" value="John"></interp>
+                     <interp inst="t17540227-17-person185" type="gender" value="male"></interp>
+                  </persName>
+            . There I found four pair of stockings and two childrens bed-gowns; and I found the cloak and a coarse apron at another pawnbroker's. I met with Stapeler, brought him into my house, and charged him with taking the goods mentioned. He owned it, and said he had sold the bonnet, an India handkerchief, and two quart pots, to the other prisoner. I got a warrant to take her the same day, but when taken could find nothing upon her [ The goods found at the pawnbrokers produced in court and deposed to.]</p>
+               <p>
+            
+                  <persName id="t17540227-17-person186">
+                  George 
+                  Wardley 
+               <interp inst="t17540227-17-person186" type="surname" value="Wardley"></interp>
+                     <interp inst="t17540227-17-person186" type="given" value="George"></interp>
+                     <interp inst="t17540227-17-person186" type="gender" value="male"></interp>
+                  </persName>
+            . I am the officer, and was sent for to take the prisoner Stapeler into custody. I went, and the boy owned he had been guilty of the offence, and said he had seen other boys sell things to this woman, and she encouraged him to bring what he could, so he took three quart pots and stamped them together, and sold them to her for a shilling. These goods here produced were at the same time delivered to me, which he owned he stole from the prosecutor. I and Mr. Tvrrent took 
+               <persName id="t17540227-17-person187">
+                  Esther 
+                  Shelson 
+               <interp inst="t17540227-17-person187" type="surname" value="Shelson"></interp>
+                     <interp inst="t17540227-17-person187" type="given" value="Esther"></interp>
+                     <interp inst="t17540227-17-person187" type="gender" value="female"></interp>
+                  </persName>
+            , but we found nothing upon her.</p>
+               <p>
+            
+                  <persName id="t17540227-17-person188">
+                  Ellice 
+                  Elerton 
+               <interp inst="t17540227-17-person188" type="surname" value="Elerton"></interp>
+                     <interp inst="t17540227-17-person188" type="given" value="Ellice"></interp>
+                     <interp inst="t17540227-17-person188" type="gender" value="female"></interp>
+                  </persName>
+            . The boy at the bar brought four pair of stockings and two child's bed-gowns; he pawned them in the name of his mother Beersheba Stapeler, the same that have been here produced, and as to the woman prisoner I never saw her before in my life.</p>
+
+               <p>Stapeler's defence.</p>
+               <p>I was out of work, and these people used to give me a bit of victuals, and 
+               <persName id="t17540227-17-person189">
+                  Esther 
+                  Shelson 
+               <interp inst="t17540227-17-person189" type="surname" value="Shelson"></interp>
+                     <interp inst="t17540227-17-person189" type="given" value="Esther"></interp>
+                     <interp inst="t17540227-17-person189" type="gender" value="female"></interp>
+                  </persName>
+             advised me to get something that lay about in Torrent's house and bring to her, and I should not be hurt.</p>
+               <p>Stapeler <rs id="t17540227-17-verdict95" type="verdictDescription">
+                     <interp inst="t17540227-17-verdict95" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>Shelson <rs id="t17540227-17-verdict96" type="verdictDescription">
+                     <interp inst="t17540227-17-verdict96" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-17-punish97" type="punishmentDescription">
+                     <interp inst="t17540227-17-punish97" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-17-defend179 t17540227-17-punish97"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-17-defend181 t17540227-17-punish97"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

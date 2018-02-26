@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-37">
+               <interp inst="t17540116-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-37" type="year" value="1754"></interp>
+               <interp inst="t17540116-37" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-37" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-37-off197-c306" targOrder="Y" targets="t17540116-37-defend370 t17540116-37-off197 t17540116-37-verdict200"></join>
+         
+               <p>124. (M.) 
+               
+                  <persName id="t17540116-37-defend370" type="defendantName">
+                     Grace 
+                     Riley 
+                  <interp inst="t17540116-37-defend370" type="surname" value="Riley"></interp>
+                     <interp inst="t17540116-37-defend370" type="given" value="Grace"></interp>
+                     <interp inst="t17540116-37-defend370" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540116-37-deflabel196" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-37-defend370 t17540116-37-deflabel196"></join>, was indicted for <rs id="t17540116-37-off197" type="offenceDescription">
+                     <interp inst="t17540116-37-off197" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-37-off197" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one gold watch, val. 10 l. one cornelian seal, one chrystal seal set in pinchbeck metal, and one metal watch-chain, the goods of 
+                     
+                        <persName id="t17540116-37-victim372" type="victimName">
+                           Samuel 
+                           Collins 
+                        <interp inst="t17540116-37-victim372" type="surname" value="Collins"></interp>
+                        <interp inst="t17540116-37-victim372" type="given" value="Samuel"></interp>
+                        <interp inst="t17540116-37-victim372" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-37-off197 t17540116-37-victim372"></join>
+                     </persName>
+                      
+                  , privately from his person
+            </rs>, <rs id="t17540116-37-cd198" type="crimeDate">Dec. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-37-off197 t17540116-37-cd198"></join>.*.</p>
+               <p>
+            
+                  <persName id="t17540116-37-person373">
+                  Samuel 
+                  Collins 
+               <interp inst="t17540116-37-person373" type="surname" value="Collins"></interp>
+                     <interp inst="t17540116-37-person373" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-37-person373" type="gender" value="male"></interp>
+                  </persName>
+            . On the 12th of December I met with the prisoner at the bar, and 
+               <persName id="t17540116-37-person374">
+                  Mary 
+                  Welch 
+               <interp inst="t17540116-37-person374" type="surname" value="Welch"></interp>
+                     <interp inst="t17540116-37-person374" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-37-person374" type="gender" value="female"></interp>
+                  </persName>
+            , between twelve and one, at the corner of Prince's-street. I went with them to a house in <placeName id="t17540116-37-crimeloc199">Hedge-lane</placeName>
+                  <interp inst="t17540116-37-crimeloc199" type="placeName" value="Hedge-lane"></interp>
+                  <interp inst="t17540116-37-crimeloc199" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-37-off197 t17540116-37-crimeloc199"></join>, and in a room up stairs 
+               <persName id="t17540116-37-person375">
+                  Grace 
+                  Riley 
+               <interp inst="t17540116-37-person375" type="surname" value="Riley"></interp>
+                     <interp inst="t17540116-37-person375" type="given" value="Grace"></interp>
+                     <interp inst="t17540116-37-person375" type="gender" value="female"></interp>
+                  </persName>
+             and I were upon the bed. She got off the bed, and I immediately clapping my hand down to my breeches, missed my watch. I ran down stairs, but she was got off; 
+               <persName id="t17540116-37-person376">
+                  Mary 
+                  Welch 
+               <interp inst="t17540116-37-person376" type="surname" value="Welch"></interp>
+                     <interp inst="t17540116-37-person376" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-37-person376" type="gender" value="female"></interp>
+                  </persName>
+             was in the room all the time. I desired the watchman to see if he could find out the prisoner, and on Christmas-day he came and told me he had got one of them in the Round-house. I went and found Welch, whom I took before Justice Cox, and he committed her.</p>
+               <p>Q. When had you your watch last?</p>
+               <p>Collins. I remember it being in my pocket after I was in the room with them.</p>
+               <p>
+            
+                  <persName id="t17540116-37-person377">
+                  Mary 
+                  Welch 
+               <interp inst="t17540116-37-person377" type="surname" value="Welch"></interp>
+                     <interp inst="t17540116-37-person377" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-37-person377" type="gender" value="female"></interp>
+                  </persName>
+            . I and 
+               <persName id="t17540116-37-person378">
+                  Grace 
+                  Riley 
+               <interp inst="t17540116-37-person378" type="surname" value="Riley"></interp>
+                     <interp inst="t17540116-37-person378" type="given" value="Grace"></interp>
+                     <interp inst="t17540116-37-person378" type="gender" value="female"></interp>
+                  </persName>
+             were standing together. The prosecutor came, and speaking to us, we went with him to a house in Hedge-lane, where he paid sixpence for the use of a room. We were together, and upon his asking if we would have a pint of wine, the prisoner went down for it. After this he clapped down his hand, and said he had lost his watch; he went down and told the woman that he had lost his watch. A watchman then came in, and they went to see for the prisoner to take her up.</p>
+               <p>
+            
+                  <persName id="t17540116-37-person379">
+                  William 
+                  Gee 
+               <interp inst="t17540116-37-person379" type="surname" value="Gee"></interp>
+                     <interp inst="t17540116-37-person379" type="given" value="William"></interp>
+                     <interp inst="t17540116-37-person379" type="gender" value="male"></interp>
+                  </persName>
+            . I am constable, and apprehended the prisoner. He produces a gold watch with the chains and seals, which the prosecutor deposed to as his property, which he lost that night.</p>
+               <p>
+            
+                  <persName id="t17540116-37-person380">
+                  John 
+                  Rabit 
+               <interp inst="t17540116-37-person380" type="surname" value="Rabit"></interp>
+                     <interp inst="t17540116-37-person380" type="given" value="John"></interp>
+                     <interp inst="t17540116-37-person380" type="gender" value="male"></interp>
+                  </persName>
+            . On Wednesday the 12th of December, between twelve and one o'clock, my wife brought this watch, as it is, to me while in bed; but I thought it not honestly come by, and so delivered it to the constable.</p>
+               <p>
+            
+                  <persName id="t17540116-37-person381">
+                  Elizabeth 
+                  Rabit 
+               <interp inst="t17540116-37-person381" type="surname" value="Rabit"></interp>
+                     <interp inst="t17540116-37-person381" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-37-person381" type="gender" value="female"></interp>
+                  </persName>
+            . I am wife to the last evidence. The prisoner brought that watch to me that night, and I delivered it to my husband. She had it in her bosom.</p>
+               <p>Prisoner's Defence.</p>
+               <p>This girl and I live at Rabit's house. We went out just by the Haymarket one night, and as I was sitting with two or three more girls, she went up to the prosecutor. After they had had some talk, we went all three together to a house. When we came there he asked if we had such a thing as rods? I went down and asked the gentlewoman if she had any, and she had a whisk. After that he desired me to lie down on the bed with him, and the other girl and he asking me to go down for a pint of wine, when I came up again, there lay the watch on the bed, and his breeches were down.</p>
+               <p>
+                  <rs id="t17540116-37-verdict200" type="verdictDescription">
+                     <interp inst="t17540116-37-verdict200" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-37-verdict200" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of stealing, but not privately from his person
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-37-punish201" type="punishmentDescription">
+                     <interp inst="t17540116-37-punish201" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-37-defend370 t17540116-37-punish201"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-16">
+               <interp inst="t17540116-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-16" type="year" value="1754"></interp>
+               <interp inst="t17540116-16" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-16" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-16-off86-c116" targOrder="Y" targets="t17540116-16-defend142 t17540116-16-off86 t17540116-16-verdict90"></join>
+               <join result="criminalCharge" id="t17540116-16-off86-c117" targOrder="Y" targets="t17540116-16-defend145 t17540116-16-off86 t17540116-16-verdict90"></join>
+               <join result="criminalCharge" id="t17540116-16-off86-c118" targOrder="Y" targets="t17540116-16-defend147 t17540116-16-off86 t17540116-16-verdict90"></join>
+               <join result="criminalCharge" id="t17540116-16-off86-c119" targOrder="Y" targets="t17540116-16-defend149 t17540116-16-off86 t17540116-16-verdict90"></join>
+               <join result="criminalCharge" id="t17540116-16-off86-c120" targOrder="Y" targets="t17540116-16-defend150 t17540116-16-off86 t17540116-16-verdict90"></join>
+         
+               <p>96, 97, 98, 99, 100. (M ) 
+               <persName id="t17540116-16-defend142" type="defendantName">
+                  
+                     Thomas 
+                     Radborn 
+                  , otherwise Ambrass<interp inst="t17540116-16-defend142" type="surname" value="Radborn"></interp>
+                     <interp inst="t17540116-16-defend142" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-16-defend142" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               
+                  <persName id="t17540116-16-defend145" type="defendantName">
+                     John 
+                     Bell 
+                  <interp inst="t17540116-16-defend145" type="surname" value="Bell"></interp>
+                     <interp inst="t17540116-16-defend145" type="given" value="John"></interp>
+                     <interp inst="t17540116-16-defend145" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17540116-16-defend147" type="defendantName">
+                     Daniel 
+                     Pugh 
+                  <interp inst="t17540116-16-defend147" type="surname" value="Pugh"></interp>
+                     <interp inst="t17540116-16-defend147" type="given" value="Daniel"></interp>
+                     <interp inst="t17540116-16-defend147" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17540116-16-defend149" type="defendantName">
+                     John 
+                     Radborn 
+                  <interp inst="t17540116-16-defend149" type="surname" value="Radborn"></interp>
+                     <interp inst="t17540116-16-defend149" type="given" value="John"></interp>
+                     <interp inst="t17540116-16-defend149" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               <persName id="t17540116-16-defend150" type="defendantName">
+                  
+                     Anne 
+                     Brown 
+                  , otherwise Eler<interp inst="t17540116-16-defend150" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-16-defend150" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-16-defend150" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17540116-16-deflabel85" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-16-defend150 t17540116-16-deflabel85"></join>, were indicted for <rs id="t17540116-16-off86" type="offenceDescription">
+                     <interp inst="t17540116-16-off86" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-16-off86" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three Holland shirts, value 13 s. and twelve yards of hooping cloth
+            </rs>, the goods of 
+               <persName id="t17540116-16-victim152" type="victimName">
+                  Jeffery 
+                  Burton 
+               <interp inst="t17540116-16-victim152" type="surname" value="Burton"></interp>
+                     <interp inst="t17540116-16-victim152" type="given" value="Jeffery"></interp>
+                     <interp inst="t17540116-16-victim152" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-16-off86 t17540116-16-victim152"></join>
+                  </persName>
+             , <rs id="t17540116-16-cd87" type="crimeDate">January 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-16-off86 t17540116-16-cd87"></join>. ++</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160009"></xptr>Jeffery Burton. I live in <placeName id="t17540116-16-crimeloc88">St. George's in the East</placeName>
+                  <interp inst="t17540116-16-crimeloc88" type="placeName" value="St. George's in the East"></interp>
+                  <interp inst="t17540116-16-crimeloc88" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-16-off86 t17540116-16-crimeloc88"></join>, and <rs id="t17540116-16-viclabel89" type="occupation">keep a slop shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-16-victim152 t17540116-16-viclabel89"></join>. I missed the goods mentioned, but knew not who took them. Mr Gardner called upon me, and asked me if I had been robb'd; I replied I had, of three or four Holland shirts, and about thirteen yards of hooping cloth; he answered he had one of the thieves with him, which was 
+               <persName id="t17540116-16-person153">
+                  Daniel 
+                  Pugh 
+               <interp inst="t17540116-16-person153" type="surname" value="Pugh"></interp>
+                     <interp inst="t17540116-16-person153" type="given" value="Daniel"></interp>
+                     <interp inst="t17540116-16-person153" type="gender" value="male"></interp>
+                  </persName>
+            . Pugh said he knew where two of the thieves lodg'd, and that there were two or three more concerned in the gang, who all liv'd in an empty house in East Smithfield. We went there, and there came two of their company and knocked at the door; they were soon let in, and I, the officer, and a watchman  went in likewise, where we found four of them, but one got away; but the evidence telling us where they resorted to, which was at the house of Anne Brown, we got a warrant, and took her and 
+               <persName id="t17540116-16-person154">
+                  Thomas 
+                  Radborn 
+               <interp inst="t17540116-16-person154" type="surname" value="Radborn"></interp>
+                     <interp inst="t17540116-16-person154" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-16-person154" type="gender" value="male"></interp>
+                  </persName>
+            . We took them before Justice Rickards, where we found three of my shirts, one upon the evidence Hambleton, one upon 
+               <persName id="t17540116-16-person155">
+                  Thomas 
+                  Radborn 
+               <interp inst="t17540116-16-person155" type="surname" value="Radborn"></interp>
+                     <interp inst="t17540116-16-person155" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-16-person155" type="gender" value="male"></interp>
+                  </persName>
+            , and another on 
+               <persName id="t17540116-16-person156">
+                  John 
+                  Bell 
+               <interp inst="t17540116-16-person156" type="surname" value="Bell"></interp>
+                     <interp inst="t17540116-16-person156" type="given" value="John"></interp>
+                     <interp inst="t17540116-16-person156" type="gender" value="male"></interp>
+                  </persName>
+            . I lost these goods on the tenth of this month out of my shop window, and found the hooping at a pawnbroker's in Spittle-fields, but not pawned by any of the prisoners.</p>
+               <p>
+            
+                  <persName id="t17540116-16-person157">
+                  Samuel 
+                  Hambleton 
+               <interp inst="t17540116-16-person157" type="surname" value="Hambleton"></interp>
+                     <interp inst="t17540116-16-person157" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-16-person157" type="gender" value="male"></interp>
+                  </persName>
+            . I am turned of fourteen years of age. 
+               <persName id="t17540116-16-person158">
+                  Thomas 
+                  Radborn 
+               <interp inst="t17540116-16-person158" type="surname" value="Radborn"></interp>
+                     <interp inst="t17540116-16-person158" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-16-person158" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-16-person159">
+                  John 
+                  Bell 
+               <interp inst="t17540116-16-person159" type="surname" value="Bell"></interp>
+                     <interp inst="t17540116-16-person159" type="given" value="John"></interp>
+                     <interp inst="t17540116-16-person159" type="gender" value="male"></interp>
+                  </persName>
+            , Daniel Pugh, 
+               <persName id="t17540116-16-person160">
+                  Jack 
+                  Radborn 
+               <interp inst="t17540116-16-person160" type="surname" value="Radborn"></interp>
+                     <interp inst="t17540116-16-person160" type="given" value="Jack"></interp>
+                     <interp inst="t17540116-16-person160" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-16-person161">
+                  Anne 
+                  Brown 
+               <interp inst="t17540116-16-person161" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-16-person161" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-16-person161" type="gender" value="female"></interp>
+                  </persName>
+            , and I, were together at the taking these things. 
+               <persName id="t17540116-16-person162">
+                  Thomas 
+                  Radborn 
+               <interp inst="t17540116-16-person162" type="surname" value="Radborn"></interp>
+                     <interp inst="t17540116-16-person162" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-16-person162" type="gender" value="male"></interp>
+                  </persName>
+             took them from near the prosecutor's window, on a shelf : this was I believe on the tenth of this month, between eight and nine o'clock. 
+               <persName id="t17540116-16-person163">
+                  Anne 
+                  Brown 
+               <interp inst="t17540116-16-person163" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-16-person163" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-16-person163" type="gender" value="female"></interp>
+                  </persName>
+             staid under an arch, and I was by 
+               <persName id="t17540116-16-person164">
+                  Thomas 
+                  Radborn 
+               <interp inst="t17540116-16-person164" type="surname" value="Radborn"></interp>
+                     <interp inst="t17540116-16-person164" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-16-person164" type="gender" value="male"></interp>
+                  </persName>
+            . We brought them to 
+               <persName id="t17540116-16-person165">
+                  Anne 
+                  Brown 
+               <interp inst="t17540116-16-person165" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-16-person165" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-16-person165" type="gender" value="female"></interp>
+                  </persName>
+            , and she took them home to an empty house in East-Smithfield, where 
+               <persName id="t17540116-16-person166">
+                  John 
+                  Bell 
+               <interp inst="t17540116-16-person166" type="surname" value="Bell"></interp>
+                     <interp inst="t17540116-16-person166" type="given" value="John"></interp>
+                     <interp inst="t17540116-16-person166" type="gender" value="male"></interp>
+                  </persName>
+             and I lived. Bell, 
+               <persName id="t17540116-16-person167">
+                  Thomas 
+                  Radborn 
+               <interp inst="t17540116-16-person167" type="surname" value="Radborn"></interp>
+                     <interp inst="t17540116-16-person167" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-16-person167" type="gender" value="male"></interp>
+                  </persName>
+            , and I, had a shirt each, and we were to pay Pugh when the cloth was sold, who was to have three shillings for his share. 
+               <persName id="t17540116-16-person168">
+                  Anne 
+                  Brown 
+               <interp inst="t17540116-16-person168" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-16-person168" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-16-person168" type="gender" value="female"></interp>
+                  </persName>
+             had seven yards of the cloth to make her a gown, which was cut off; she said afterwards she sold it for six shillings; and the other piece was carried to a pawnbroker's. Pugh had some of that money. The three shirts were found upon us three.</p>
+               <p>Thomas Radborn's Defence.</p>
+               <p>I am as innocent as the child unborn.</p>
+               <p>Bell's the same.</p>
+               <p>Pugh. I was not concerned along with them, but happened accidentally to be coming by at the time.</p>
+               <p>
+            
+                  <persName id="t17540116-16-person169">
+                  John 
+                  Radborn 
+               <interp inst="t17540116-16-person169" type="surname" value="Radborn"></interp>
+                     <interp inst="t17540116-16-person169" type="given" value="John"></interp>
+                     <interp inst="t17540116-16-person169" type="gender" value="male"></interp>
+                  </persName>
+            . I am of the affair</p>
+
+               <p>
+            
+                  <persName id="t17540116-16-person170">
+                  Anne 
+                  Brown 
+               <interp inst="t17540116-16-person170" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-16-person170" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-16-person170" type="gender" value="female"></interp>
+                  </persName>
+            . I know nothing the boy is speaking of</p>
+               <p>To Bell</p>
+               <p>
+            
+                  <persName id="t17540116-16-person171">
+                  Samuel 
+                  Smith 
+               <interp inst="t17540116-16-person171" type="surname" value="Smith"></interp>
+                     <interp inst="t17540116-16-person171" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-16-person171" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Bell about twelve years; he is a weaver. I never heard any dishonesty of him before that.</p>
+               <p>All five <rs id="t17540116-16-verdict90" type="verdictDescription">
+                     <interp inst="t17540116-16-verdict90" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-16-punish91" type="punishmentDescription">
+                     <interp inst="t17540116-16-punish91" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-16-defend142 t17540116-16-punish91"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-16-defend145 t17540116-16-punish91"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-16-defend147 t17540116-16-punish91"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-16-defend149 t17540116-16-punish91"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-16-defend150 t17540116-16-punish91"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

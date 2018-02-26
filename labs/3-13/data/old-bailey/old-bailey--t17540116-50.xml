@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-50">
+               <interp inst="t17540116-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-50" type="year" value="1754"></interp>
+               <interp inst="t17540116-50" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-50" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-50-off263-c391" targOrder="Y" targets="t17540116-50-defend479 t17540116-50-off263 t17540116-50-verdict267"></join>
+         
+               <p>138. (L.) 
+               
+                  <persName id="t17540116-50-defend479" type="defendantName">
+                     John 
+                     Smith 
+                  <interp inst="t17540116-50-defend479" type="surname" value="Smith"></interp>
+                     <interp inst="t17540116-50-defend479" type="given" value="John"></interp>
+                     <interp inst="t17540116-50-defend479" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540116-50-off263" type="offenceDescription">
+                     <interp inst="t17540116-50-off263" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-50-off263" type="offenceSubcategory" value="burglary"></interp>
+               that he, on the <rs id="t17540116-50-cd264" type="crimeDate">26th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-50-off263 t17540116-50-cd264"></join>, about the hour of seven in the night of the same day, the dwelling-house of 
+                     
+                        <persName id="t17540116-50-victim481" type="victimName">
+                           James 
+                           Bisborn 
+                        <interp inst="t17540116-50-victim481" type="surname" value="Bisborn"></interp>
+                        <interp inst="t17540116-50-victim481" type="given" value="James"></interp>
+                        <interp inst="t17540116-50-victim481" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-50-off263 t17540116-50-victim481"></join>
+                     </persName>
+                      
+                   did break and enter, with intention to steal, and being so entered, did steal one pair of linen sheets, value 5 s. ++
+            </rs>.</p>
+               <p>
+            
+                  <persName id="t17540116-50-person482">
+                  James 
+                  Bisborn 
+               <interp inst="t17540116-50-person482" type="surname" value="Bisborn"></interp>
+                     <interp inst="t17540116-50-person482" type="given" value="James"></interp>
+                     <interp inst="t17540116-50-person482" type="gender" value="male"></interp>
+                  </persName>
+            . <rs id="t17540116-50-viclabel265" type="occupation">I keep the Green Dragon inn in <placeName id="t17540116-50-crimeloc266">Bishopsgate-Street</placeName>
+                     <interp inst="t17540116-50-crimeloc266" type="placeName" value="Bishopsgate-Street"></interp>
+                     <interp inst="t17540116-50-crimeloc266" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17540116-50-off263 t17540116-50-crimeloc266"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-50-victim481 t17540116-50-viclabel265"></join>. I can only say I saw the prisoner after he was taken in the street, and brought back by two ostlers and a porter. We asked him who he was, but he would not so much as tell his name. He said he would speak at a proper time.</p>
+               <p>
+            
+                  <persName id="t17540116-50-person483">
+                  Mary 
+                  Roberts 
+               <interp inst="t17540116-50-person483" type="surname" value="Roberts"></interp>
+                     <interp inst="t17540116-50-person483" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-50-person483" type="gender" value="female"></interp>
+                  </persName>
+            . I am servant to Mr. Bisborn. On the 26th of December, between six and seven o'clock in the evening, I went up to my room where I lie. I had locked the door, and had the key in my hand, but had not put it into the lock to open it. I found the door broke open. I had a candle in my hand, and hearing something rush behind the curtain, I asked who was there; then the prisoner turned out from behind them.</p>
+               <p>Q. Had you ever seen him before?</p>
+               <p>M. Roberts. No, not to my knowledge. I asked him how he came there; he said he came to see for a young man of his acquaintance: He ran down stairs, and I after him; he fell over the shafts of a waggon, but recovered himself, and ran into the street. I alarmed the people, and they pursued and took him, and brought him back. I went to look in the room, there the sheets of my bed were brought down to one corner, and the blankets were turned off on one side, not quite off the bed. I had lain in it the night before.</p>
+               <p>Q. Had you made the bed that day?</p>
+               <p>M. Roberts. No, I had not. [She produced a staple.] This is the staple in which the bolt of my door shot. This I found in the middle of the room, and the bolt of the lock was shot out as at other times when it is locked.</p>
+               <p>
+            
+                  <persName id="t17540116-50-person484">
+                  Robert 
+                  Rigg 
+               <interp inst="t17540116-50-person484" type="surname" value="Rigg"></interp>
+                     <interp inst="t17540116-50-person484" type="given" value="Robert"></interp>
+                     <interp inst="t17540116-50-person484" type="gender" value="male"></interp>
+                  </persName>
+            . I am a ticket porter, and being in the warehouse at the inn, I heard the woman call stop thief. I ran after the prisoner, he fell down in the middle of the kennel, and I on him, then the two ostlers came, and we secured him.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160037"></xptr>Prisoner's Defence.</p>
+               <p>I was coming along the street, and went into this yard, and up to a room, which I thought to be a hayloft. I was fuddled, and wanted to lie down to get myself sober. The maid came up and locked the door; I desired she would let me out of the room, which she did. It was wide open when I went in.</p>
+               <p>For the prisoner.</p>
+               <p>
+            
+                  <persName id="t17540116-50-person485">
+                  John 
+                  Smith 
+               <interp inst="t17540116-50-person485" type="surname" value="Smith"></interp>
+                     <interp inst="t17540116-50-person485" type="given" value="John"></interp>
+                     <interp inst="t17540116-50-person485" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner these ten years; he is an ostler, and lives sometimes in one place, and sometimes in another. He lived at the Fox and Hounds in Bishopsgate-Street about a year ago, and since that in Moorfields.</p>
+               <p>Q. What is his general character?</p>
+               <p>Smith. He is a very honest man. I never heard any thing ill laid to his charge.</p>
+               <p>
+                  <rs id="t17540116-50-verdict267" type="verdictDescription">
+                     <interp inst="t17540116-50-verdict267" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

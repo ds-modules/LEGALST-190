@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-43">
+               <interp inst="t17540116-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-43" type="year" value="1754"></interp>
+               <interp inst="t17540116-43" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-43" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-43-off229-c358" targOrder="Y" targets="t17540116-43-defend434 t17540116-43-off229 t17540116-43-verdict234"></join>
+         
+               <p>131. (L.) 
+               
+                  <persName id="t17540116-43-defend434" type="defendantName">
+                     Samuel 
+                     Witham 
+                  <interp inst="t17540116-43-defend434" type="surname" value="Witham"></interp>
+                     <interp inst="t17540116-43-defend434" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-43-defend434" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-43-off229" type="offenceDescription">
+                     <interp inst="t17540116-43-off229" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-43-off229" type="offenceSubcategory" value="burglary"></interp>
+               breaking the dwelling house of 
+                     
+                        <persName id="t17540116-43-victim436" type="victimName">
+                           Thomas 
+                           Upton 
+                        <interp inst="t17540116-43-victim436" type="surname" value="Upton"></interp>
+                        <interp inst="t17540116-43-victim436" type="given" value="Thomas"></interp>
+                        <interp inst="t17540116-43-victim436" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-43-off229 t17540116-43-victim436"></join>
+                     </persName>
+                      
+                  , on the <rs id="t17540116-43-cd230" type="crimeDate">12th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-43-off229 t17540116-43-cd230"></join>, about three in the night, and stealing a 6 s. 9 d. piece of gold, and one guinea and half in silver
+            </rs>, Jan. 12. ++.</p>
+               <p>
+            
+                  <persName id="t17540116-43-person437">
+                  Thomas 
+                  Upton 
+               <interp inst="t17540116-43-person437" type="surname" value="Upton"></interp>
+                     <interp inst="t17540116-43-person437" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-43-person437" type="gender" value="male"></interp>
+                  </persName>
+            . <rs id="t17540116-43-viclabel231" type="occupation">I keep a victualing house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-43-victim436 t17540116-43-viclabel231"></join> in <placeName id="t17540116-43-crimeloc232">Honey lane, Cheapside</placeName>
+                  <interp inst="t17540116-43-crimeloc232" type="placeName" value="Honey lane, Cheapside"></interp>
+                  <interp inst="t17540116-43-crimeloc232" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-43-off229 t17540116-43-crimeloc232"></join>. The prisoner had lived <rs id="t17540116-43-deflabel233" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-43-defend434 t17540116-43-deflabel233"></join> with me four months. He left me in October last, since which he has several times called at my house, and as he behaved well, I used to treat him with respect. Last Saturday was se'nnight he came in and called for a pot of beer, and staid there, I believe, two hours. He went away about twelve, or a little after. My servant going down about eight on Sunday morning, found a candle burning in the bar, and came up to tell me. I went down and found it so, with the door in part open. The street door I found unlocked and unbolted.</p>
+               <p>Q. Was it fast over night?</p>
+               <p>Upton. I don't know of my own knowledge that it was. I was not up last; but it was usual to lock and bolt it when we went to bed. I went out into the lane, and there saw that the outward cellar window was removed the space of three yards from its proper place to the other side of the way. Then I went into my bar, and there missed the till in which I usually put my silver. I then went to the cellar head, and found that the lock was wrenched from the cellar door; from whence I concluded, that the person who had done me this injury came in at the cellar window.</p>
+               <p>Q. What money did you miss?</p>
+               <p>Upton. I miss'd a 9 s. 6 d. piece of gold, and a guinea and half in silver. I immediately concluded it must be the prisoner who had robbed me. I resolved to go and seek after him. I went to an acquaintance of mine, one 
+               <persName id="t17540116-43-person438">
+                  John 
+                  Burry 
+               <interp inst="t17540116-43-person438" type="surname" value="Burry"></interp>
+                     <interp inst="t17540116-43-person438" type="given" value="John"></interp>
+                     <interp inst="t17540116-43-person438" type="gender" value="male"></interp>
+                  </persName>
+            , on Saffron-hill, and told him the case, and that I suspected the prisoner. He was brought to my house about nine that night. I then charged him with robbing me, and he confessed with tears in his eyes, that he did the fact.</p>
+               <p>Court. Mention his words.</p>
+               <p>Upton. He said, Lord, Sir, I did do it indeed. I told him I missed a guinea and half in silver, and a 6 s. 9 d. piece. He acknowledged he took out the till, with the money in it.</p>
+               <p>Q. Did he acknowledge he broke your house?</p>
+               <p>Upton. I did not ask him that. He said he had bought a pair of stockings, and a shirt, which he then had on, with some of the money; and that the money found in his pocket when taken, was mine. I said to him, How could you be so barbarous as to leave the door open, and a candle burning, thus to expose us to danger at that time of night, meaning three o'clock? He said, Lord, Sir, it was a deal later than that when I came there.</p>
+               <p>Q. Was that till locked that he took away?</p>
+               <p>Upton. I did not lock it, but believe it was. He behaved as well as any lad in London could do when he lived with me. I would speak this in his favour, that joining to the till I lost there was another till with halfpence in it, and near that another with seven silver spoons in it, and a silver strainer; near this, on a shelf, was a silver milk-pot, and up one pair of stairs he might have come into a room, by only turning the handle of a lock, and have taken away a hundred pounds worth of plate; he knew this well, but did not meddle with these things mentioned. He went from me to sell milk about, and I told him then, that if it did not answer, I'd take him again.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160034"></xptr>
+            
+                  <persName id="t17540116-43-person439">
+                  Thomas 
+                  Ind 
+               <interp inst="t17540116-43-person439" type="surname" value="Ind"></interp>
+                     <interp inst="t17540116-43-person439" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-43-person439" type="gender" value="male"></interp>
+                  </persName>
+             Yesterday was sev'nnight I was sent for by 
+               <persName id="t17540116-43-person440">
+                  John 
+                  Burry 
+               <interp inst="t17540116-43-person440" type="surname" value="Burry"></interp>
+                     <interp inst="t17540116-43-person440" type="given" value="John"></interp>
+                     <interp inst="t17540116-43-person440" type="gender" value="male"></interp>
+                  </persName>
+            , who told me there had been a house broke open that morning, and that he believed he knew the man that did it, as also that he had been applied to by the gentleman that kept the house. Burry, his son, and I, went and found the prisoner at a House on Saffron Hill, and took him in a coach to Mr. Upton's house; there he was taken up one pair of stairs, and his master and mistress came to him; they desired him to let them have the till and money again. Mr. Burry said, You had better go into another room, and talk to your master; then his master and he went into another room, after which Mr. Upton came out, and said the prisoner had confessed; and he afterwards owned it before as. When I took him I searched him, and found nine shillings in silver, and two fixpences. He confessed in my hearing, that was part of the money he had taken out of the till. I asked him how he got into the house, and he said he got in where they put the butts of beer down.</p>
+               <p>Q. to Upton. Did you hear this confession of getting into your house ?</p>
+               <p>Upton. I believe then I was gone down stairs.</p>
+               <p>Ind. I asked him what instrument he made use of to get the place open, he said nothing but this knife, [ producing a long clasp knife ] which I took from him.</p>
+               <p>Prisoner's Defence.</p>
+               <p>Last Sunday was sev'nnight I was at a publick-house on Saffron-Hill, when Burry and that thief-catcher came together, and asked me to drink; I said I did not care if I did, so I drank the beer up. At last Burry asked me when I saw my old master; I said, I was there last night; then this man said he had got a warrant against me for breaking open my master's house, and that he must search me; I let him, and he took ten shillings out of my pocket. I had a knife in my pocket, which he took, but I think it was not so big as that which has been produced. They took me in a coach to my master's house, we went up stairs, and he asked me if I knew any thing of the robbery; I said I did not. They say I confessed, but I know nothing of it. I was in liquor I believe.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17540116-43-person441">
+                  John 
+                  Magarey 
+               <interp inst="t17540116-43-person441" type="surname" value="Magarey"></interp>
+                     <interp inst="t17540116-43-person441" type="given" value="John"></interp>
+                     <interp inst="t17540116-43-person441" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner these five years, and he is a very honest young fellow as far as I saw by him.</p>
+               <p>
+            
+                  <persName id="t17540116-43-person442">
+                  Joseph 
+                  Hayns 
+               <interp inst="t17540116-43-person442" type="surname" value="Hayns"></interp>
+                     <interp inst="t17540116-43-person442" type="given" value="Joseph"></interp>
+                     <interp inst="t17540116-43-person442" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him I believe these six or seven years; he lived with me about a year ago, and behaved very well then. I never heard any thing bad of him till this.</p>
+               <p>
+            
+                  <persName id="t17540116-43-person443">
+                  John 
+                  Cappey 
+               <interp inst="t17540116-43-person443" type="surname" value="Cappey"></interp>
+                     <interp inst="t17540116-43-person443" type="given" value="John"></interp>
+                     <interp inst="t17540116-43-person443" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him ever since he was a child, and he always behaved well as far as ever I heard.</p>
+               <p>
+            
+                  <persName id="t17540116-43-person444">
+                  Thomas 
+                  Morand 
+               <interp inst="t17540116-43-person444" type="surname" value="Morand"></interp>
+                     <interp inst="t17540116-43-person444" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-43-person444" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him eight years, and never knew or heard any harm by him till this time.</p>
+               <p>
+                  <rs id="t17540116-43-verdict234" type="verdictDescription">
+                     <interp inst="t17540116-43-verdict234" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17540116-43-punish235" type="punishmentDescription">
+                     <interp inst="t17540116-43-punish235" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-43-defend434 t17540116-43-punish235"></join>
+               Death
+            </rs>. Recommended to mercy.</p>
+            </div1>

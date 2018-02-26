@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-38">
+               <interp inst="t17540227-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-38" type="year" value="1754"></interp>
+               <interp inst="t17540227-38" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-38" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-38-off202-c273" targOrder="Y" targets="t17540227-38-defend347 t17540227-38-off202 t17540227-38-verdict205"></join>
+         
+               <p>194. 
+               
+                  <persName id="t17540227-38-defend347" type="defendantName">
+                     Jacob 
+                     Sampson 
+                  <interp inst="t17540227-38-defend347" type="surname" value="Sampson"></interp>
+                     <interp inst="t17540227-38-defend347" type="given" value="Jacob"></interp>
+                     <interp inst="t17540227-38-defend347" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted, <rs id="t17540227-38-off202" type="offenceDescription">
+                     <interp inst="t17540227-38-off202" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17540227-38-off202" type="offenceSubcategory" value="robbery"></interp>
+               for that he, on 
+                     
+                        <persName id="t17540227-38-victim349" type="victimName">
+                           William 
+                           Jones 
+                        <interp inst="t17540227-38-victim349" type="surname" value="Jones"></interp>
+                        <interp inst="t17540227-38-victim349" type="given" value="William"></interp>
+                        <interp inst="t17540227-38-victim349" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540227-38-off202 t17540227-38-victim349"></join>
+                     </persName>
+                      
+                  , in the dwelling-house of 
+                     <persName id="t17540227-38-person350">
+                        Thomas 
+                        Harris 
+                     <interp inst="t17540227-38-person350" type="surname" value="Harris"></interp>
+                        <interp inst="t17540227-38-person350" type="given" value="Thomas"></interp>
+                        <interp inst="t17540227-38-person350" type="gender" value="male"></interp>
+                     </persName>
+                  , did make an assault, putting him in corporal fear and danger of his life, and stealing from his person one silver watch, value 50 s. his property
+            </rs>, <rs id="t17540227-38-cd203" type="crimeDate">February 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-38-off202 t17540227-38-cd203"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-38-person351">
+                  William 
+                  Jones 
+               <interp inst="t17540227-38-person351" type="surname" value="Jones"></interp>
+                     <interp inst="t17540227-38-person351" type="given" value="William"></interp>
+                     <interp inst="t17540227-38-person351" type="gender" value="male"></interp>
+                  </persName>
+            . I was walking up Fleet-street, about two o'clock in the afternoon, on the 20th of February, a man followed me in a livery, whom I had never seen before; he walked along by my side some way, and asked me if I knew of any young man that wanted a place. I said I did, for I was out of place. I went along with him by his desire to Thomas Harris's house, <placeName id="t17540227-38-crimeloc204">the Black Horse in Boswell Court</placeName>
+                  <interp inst="t17540227-38-crimeloc204" type="placeName" value="the Black Horse in Boswell Court"></interp>
+                  <interp inst="t17540227-38-crimeloc204" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-38-off202 t17540227-38-crimeloc204"></join>, where he said he would be three halfpence with me and have a pint of hot. Before we had this liquor the prisoner and another man came in, and called for some beer, and talked to each other. Then they went to gaming at pricking at a string, the prisoner produced it, and said there was never such a thing in the world as that. The other person that was with him won a shilling of him; then the three men played all at it, and they asked me to play, but I would not, and said I had but a little money. I had not been there above a quarter of an hour before I said I wanted to go, but as the beer was not drank up, they wanted me to stay till it was out. I pulled out my watch to look what o'clock it was, the table being but narrow, the prisoner reached over it, and wrenched the watch out of my hand by force, and put it into his pocket, without saying a word to me. I was uneasy, and wanted it again, but one of the men took me by the arm, collared me, held his hand to my mouth, and hid my face, and the other man stood before me, and the prisoner said if I did not hold my tongue, and keep from making disturbance in the house, it should be the worse for me. Then the prisoner ran away, and as soon as the other two let me loose, I got out of the house, and called, stop thief. and many people ran after him He was presently taken, by the time he had run about 300 yards. I then charged him with stealing my watch, and carried him to Justice Fielding, who was not at home. We then carried him to the sign of the Barley-mow, where he was searched, and my watch found upon him.</p>
+               <p>Q. Was you put in bodily fear when your watch was wrenched out of your hand?</p>
+               <p>Jones. I was very much affrighted.</p>
+               <p>
+            
+                  <persName id="t17540227-38-person352">
+                  David 
+                  Buck 
+               <interp inst="t17540227-38-person352" type="surname" value="Buck"></interp>
+                     <interp inst="t17540227-38-person352" type="given" value="David"></interp>
+                     <interp inst="t17540227-38-person352" type="gender" value="male"></interp>
+                  </persName>
+            . On the 20th of February two men brought the prisoner to Justice Fielding's, the Justice not having done dinner, they carried him over to the Barley-mow. I was there, and searched his pockets, and found this watch in his coat pocket. [Produced in court, and deposed to by the prosecutor.]</p>
+               <p>
+            
+                  <persName id="t17540227-38-person353">
+                  Daniel 
+                  Collins 
+               <interp inst="t17540227-38-person353" type="surname" value="Collins"></interp>
+                     <interp inst="t17540227-38-person353" type="given" value="Daniel"></interp>
+                     <interp inst="t17540227-38-person353" type="gender" value="male"></interp>
+                  </persName>
+            . On the 20th of last month I was at work in the Butcher-row, and saw two men run by. About two or three minutes after there came a gentleman, who asked me if I saw two men run by. I said I had. He said run after them, one of them has robbed a man. I ran, and overtaking the prisoner, took hold of him by the collar in Carey-street. He desired I would let him go, saying, he was running after the thief himself. I held him, and presently came the prosecutor, who said, that man has robbed me of my watch. We took him to Justice Fielding's, and from thence to the Barley-mow, where he was searched, and the watch taken out of his pocket.</p>
+               <p>Prisoner. That evidence was one of the men drinking with Jones.</p>
+               <p>Buck. I never saw Jones before I had hold of the prisoner's collar. 
+               <persName id="t17540227-38-person354">
+                  Thomas 
+                  Baker 
+               <interp inst="t17540227-38-person354" type="surname" value="Baker"></interp>
+                     <interp inst="t17540227-38-person354" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-38-person354" type="gender" value="male"></interp>
+                  </persName>
+             was at the taking<xptr type="pageFacsimile" doc="175402270025"></xptr> the prisoner, and confirmed the account of the prisoner's being taken and carried to the Barley-mow, but was not in the room at the time he was searched.</p>
+               <p>Prisoner's defence.</p>
+               <p>I was at play along with a man with this thing, [ holding a piece of list in his hand ] he came in along with the prosecutor; I will not swear to the man. They had a pint of hot, and I called for a pint of beer. I said I have got a thing in my pocket with which I will play with you who shall pay for both. He said done. I then pulled it out, we played, and I was to pay. Then the prosecutor and I played for six-pence a time, and he won six-pence of me, and after that a shilling more. He then said, what will you play for now? I said for ten guineas if you like it. He said he had not so much money, but I have my watch, which I'll lay against eight guineas. I laid my money down, and he his watch; and at that interim of time the maid came in, who saw the watch lie on the table, but we did not play till she went out again, and then I won the watch. He said it is an unlawful game, I will have it again. I said I will keep it. He said I will call out, stop thief. Then there came an Irishman, who said, if you call stop thief you will have your watch again. I ran away, and he after me.</p>
+               <p>Q. to the prosecutor. Did you game with the prisoner by pricking at the lift?</p>
+               <p>Pros. No, I did not.</p>
+               <p>Q. Did you lose your watch at gaming?</p>
+               <p>Pros. No, I did not; I did not play at all.</p>
+               <p>Q. from prisoner. Had you not played with me for six-pence?</p>
+               <p>Pros. No, I did not pull a six-pence nor a half-penny out of my pocket.</p>
+               <p>Q. Did you play to see who should pay the reckoning?</p>
+               <p>Pros. No, I did not, nor for any thing else.</p>
+               <p>Q. to Buck. When you searched the prisoner did you find any guineas upon him?</p>
+               <p>Buck. No, I did not; I found six or seven shillings and six or seven counters upon him, in a purse, the money at one end and the counters at the other.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17540227-38-person355">
+                  Mary 
+                  Welch 
+               <interp inst="t17540227-38-person355" type="surname" value="Welch"></interp>
+                     <interp inst="t17540227-38-person355" type="given" value="Mary"></interp>
+                     <interp inst="t17540227-38-person355" type="gender" value="female"></interp>
+                  </persName>
+            . I live at Mr. Harris's at the Black Horse in Boswell-Court, the prisoner, prosecutor, and two other men came in there all together last Tuesday was se'nnight; they had a dinner there of boiled tripe, and all dined together, and they called for a pint of beer and a pint of hot made of ale and gin. When I came in with the beer after dinner there lay a watch on the table, [here the prosecutor desired they might be examined apart, and the other evidences were put out of court] and some money; the prosecutor laid his hand on the watch.</p>
+               <p>Q. What money did you see?</p>
+               <p>Welch. There was some gold, about five or six guineas, but I did not stay above five minutes in the room. I listened to what they were playing at, and the prisoner said here is my gold against your watch. The prosecutor said done.</p>
+               <p>Q. Did you see which of them won?</p>
+               <p>Welch. No, I did not; I had been out about a quarter of an hour, and was fitting in the back room when they were going away; then the prosecutor said he would have his watch again, and that it was not a fair game. The prisoner said he won it fairly. Then the prosecutor met an Irishman at the door, whom he told the prisoner had won his watch at playing with a garter. The Irishman said cry stop thief, and you will get your watch again.</p>
+               <p>Q. Who dressed the dinner?</p>
+               <p>Welch. The woman of the house?</p>
+               <p>Q. How long have you lived in that house?</p>
+               <p>Welch. About three weeks.</p>
+               <p>Q. What time did they go to dinner?</p>
+               <p>Welch. Between two and three o'clock.</p>
+               <p>Then Thomas Joyner, a soldier, another evidence, was called in, and all that he could say was hearsay from the last evidence; and when asked, he said the maid had lived in that house about a fortnight; and although he lived in the same house, he neither saw nor heard of any dinner the prosecutor and prisoner had dressed there.</p>
+               <p>Then Sarah Elice was called in, who deposed, she had known the prisoner about seven years, and she believed him to be an honest man.</p>
+               <p>
+                  <rs id="t17540227-38-verdict205" type="verdictDescription">
+                     <interp inst="t17540227-38-verdict205" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17540227-38-punish206" type="punishmentDescription">
+                     <interp inst="t17540227-38-punish206" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-38-defend347 t17540227-38-punish206"></join>
+               Death
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-36">
+               <interp inst="t17540116-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-36" type="year" value="1754"></interp>
+               <interp inst="t17540116-36" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-36" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-36-off191-c301" targOrder="Y" targets="t17540116-36-defend364 t17540116-36-off191 t17540116-36-verdict194"></join>
+         
+               <p>123. (M.) 
+               
+                  <persName id="t17540116-36-defend364" type="defendantName">
+                     Anne 
+                     Jones 
+                  <interp inst="t17540116-36-defend364" type="surname" value="Jones"></interp>
+                     <interp inst="t17540116-36-defend364" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-36-defend364" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540116-36-deflabel190" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-36-defend364 t17540116-36-deflabel190"></join>, was indicted for <rs id="t17540116-36-off191" type="offenceDescription">
+                     <interp inst="t17540116-36-off191" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-36-off191" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing six silk handkerchiefs, val. 12 s. the goods of 
+                     <persName id="t17540116-36-victim365" type="victimName">
+                        Kethurah 
+                        Vincent 
+                     <interp inst="t17540116-36-victim365" type="surname" value="Vincent"></interp>
+                        <interp inst="t17540116-36-victim365" type="given" value="Kethurah"></interp>
+                        <interp inst="t17540116-36-victim365" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-36-off191 t17540116-36-victim365"></join>
+                     </persName>
+                   , in the shop
+            </rs> of the said Kethurah, <rs id="t17540116-36-cd192" type="crimeDate">Dec. 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-36-off191 t17540116-36-cd192"></join>.*</p> 
+               <p>Kethurah Vincent. I am a <rs id="t17540116-36-viclabel193" type="occupation">milliner</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-36-victim365 t17540116-36-viclabel193"></join>. On the 8th of December last the prisoner came into my shop, and asked to look at some silk handkerchiefs. I shewed her some, and she chose to see a better sort. While I turned my back to reach some down, she conveyed a piece, of six handkerchiefs, from off the counter. She bid me so low I could not take her money, and went out of the shop. I miss'd the piece directly.</p>
+               <p>Q. Was the prisoner alone?</p>
+               <p>Vincent. Another woman came in with her; but she was not near the counter. I went after the prisoner, and desired a gentleman to assist me, who said he saw a parcel delivered from them to a third person; but the gentleman said he'd fetch her back. He went and brought her in, and I had her before a magistrate, where she said she would confess the taking them, provided they would not injure her; but at last she owned the taking them before a justice, and cleared the other woman.</p>
+               <p>Q. What were the words she said?</p>
+               <p>Vincent. She said she only was guilty, and the other woman was innocent. I took the handkerchiefs.</p>
+               <p>
+            
+                  <persName id="t17540116-36-person366">
+                  Charles 
+                  Forward 
+               <interp inst="t17540116-36-person366" type="surname" value="Forward"></interp>
+                     <interp inst="t17540116-36-person366" type="given" value="Charles"></interp>
+                     <interp inst="t17540116-36-person366" type="gender" value="male"></interp>
+                  </persName>
+            . On the 8th of December I was at home. Being constable, the prosecutrix sent a servant to me, who said she had been robbed. By that time I was got there, the prisoner and another woman were brought to her house. As we were going to the justice's, the prisoner said she'd confess<xptr type="pageFacsimile" doc="175401160027"></xptr> if they would take her back again. We took them back, and she then confessed that she took the handkerchiefs, and that the other woman was innocent. This also I heard her say before the justice. He produced six silk handkerchiefs deposed to by the prosecutrix. These were delivered to me with a woman that is bailed out. He produced a cloak. The prisoner owned this cloak to be hers.</p>
+               <p>
+            
+                  <persName id="t17540116-36-person367">
+                  James 
+                  Perrin 
+               <interp inst="t17540116-36-person367" type="surname" value="Perrin"></interp>
+                     <interp inst="t17540116-36-person367" type="given" value="James"></interp>
+                     <interp inst="t17540116-36-person367" type="gender" value="male"></interp>
+                  </persName>
+            . On the 8th of December last a man came and knocked at my door, and asked me if there was not a strange woman in my room; he went up into the garret, and finding 
+               <persName id="t17540116-36-person368">
+                  Agnes 
+                  Kirby 
+               <interp inst="t17540116-36-person368" type="surname" value="Kirby"></interp>
+                     <interp inst="t17540116-36-person368" type="given" value="Agnes"></interp>
+                     <interp inst="t17540116-36-person368" type="gender" value="female"></interp>
+                  </persName>
+            , brought her down. (She is the person bail'd out.) I then went up and searching about, I found in a dust tub the six silk handkerchiefs here produced, and this red cloak. I sent for Mrs. Vincent, who described the handkerchiefs before they were opened. We took the woman to the house of the prosecutrix, where were the other two; the cloak was shewn to the prisoner, who owned it as her own, and I delivered it to her; but upon her re-examination she denied it to be hers. Before the justice she owned the taking the handkerchiefs, and that she had delivered them to a woman in a linen gown and scarlet cloak, but did not mention her name. After she had acknowledged the robbery, she told Mrs. Vincent, that if she would forgive her, she would never come there again.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I am as innocent of this affair as the child unborn.</p>
+               <p>
+                  <rs id="t17540116-36-verdict194" type="verdictDescription">
+                     <interp inst="t17540116-36-verdict194" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-36-verdict194" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17540116-36-punish195" type="punishmentDescription">
+                     <interp inst="t17540116-36-punish195" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-36-defend364 t17540116-36-punish195"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

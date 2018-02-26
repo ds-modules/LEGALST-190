@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-23">
+               <interp inst="t17540227-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-23" type="year" value="1754"></interp>
+               <interp inst="t17540227-23" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-23" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-23-off123-c190" targOrder="Y" targets="t17540227-23-defend233 t17540227-23-off123 t17540227-23-verdict125"></join>
+               <join result="criminalCharge" id="t17540227-23-off126-c190" targOrder="Y" targets="t17540227-23-defend233 t17540227-23-off126 t17540227-23-verdict125"></join>
+               <join result="criminalCharge" id="t17540227-23-off129-c190" targOrder="Y" targets="t17540227-23-defend233 t17540227-23-off129 t17540227-23-verdict125"></join>
+         
+               <p>177. (M.) 
+               
+                  <persName id="t17540227-23-defend233" type="defendantName">
+                     John 
+                     Ward 
+                  <interp inst="t17540227-23-defend233" type="surname" value="Ward"></interp>
+                     <interp inst="t17540227-23-defend233" type="given" value="John"></interp>
+                     <interp inst="t17540227-23-defend233" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540227-23-off123" type="offenceDescription">
+                     <interp inst="t17540227-23-off123" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-23-off123" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one linnen shirt, value 2 s. the property of 
+                     
+                        <persName id="t17540227-23-victim235" type="victimName">
+                           Henry 
+                           Hawley 
+                        <interp inst="t17540227-23-victim235" type="surname" value="Hawley"></interp>
+                        <interp inst="t17540227-23-victim235" type="given" value="Henry"></interp>
+                        <interp inst="t17540227-23-victim235" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and one linnen shirt, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17540227-23-victim237" type="victimName">
+                     William 
+                     Barwell 
+                  <interp inst="t17540227-23-victim237" type="surname" value="Barwell"></interp>
+                     <interp inst="t17540227-23-victim237" type="given" value="William"></interp>
+                     <interp inst="t17540227-23-victim237" type="gender" value="male"></interp>
+                  </persName>
+                
+            . <rs id="t17540227-23-cd124" type="crimeDate">Feb. 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-23-off123 t17540227-23-cd124"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-23-off126 t17540227-23-cd124"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-23-off129 t17540227-23-cd124"></join>.</p>
+               <p>+. <rs id="t17540227-23-verdict125" type="verdictDescription">
+                     <interp inst="t17540227-23-verdict125" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>(M.) He was a second time indicted, for <rs id="t17540227-23-off126" type="offenceDescription">
+                     <interp inst="t17540227-23-off126" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-23-off126" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one holland shirt, value 7 s.
+            </rs> the property of 
+               
+                  <persName id="t17540227-23-victim239" type="victimName">
+                     Sam 
+                     Tavan 
+                  <interp inst="t17540227-23-victim239" type="surname" value="Tavan"></interp>
+                     <interp inst="t17540227-23-victim239" type="given" value="Sam"></interp>
+                     <interp inst="t17540227-23-victim239" type="gender" value="male"></interp>
+                  </persName>
+                
+            . <rs id="t17540227-23-cd127" type="crimeDate">Feb. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-23-off123 t17540227-23-cd127"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-23-off126 t17540227-23-cd127"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-23-off129 t17540227-23-cd127"></join>. +</p>
+               <p>
+            
+                  <persName id="t17540227-23-person240">
+                  Samuel 
+                  Tavan 
+               <interp inst="t17540227-23-person240" type="surname" value="Tavan"></interp>
+                     <interp inst="t17540227-23-person240" type="given" value="Samuel"></interp>
+                     <interp inst="t17540227-23-person240" type="gender" value="male"></interp>
+                  </persName>
+            . I lost two holland shirts within a fortnight, about a fortnight ago. Upon suspecting the Prisoner, who was servant at Mrs. Grant's, where I live, his box was searched by Mr. Eager and Mr. Ridge. One shirt produced in Court and deposed to: which was one that they brought down.</p>
+               <p>Q. Had you asked him after these shirts?</p>
+               <p>Tavan. I did, and he denied knowing any thing of them. Then I produced the shirt, and told him, it was taken out of his own box; he persisted upon having no knowledge of it. I took him before a magistrate, then he said the washerwoman brought it among his linnen.</p>
+               <p>
+            
+                  <persName id="t17540227-23-person241">
+                  Thomas 
+                  Ridge 
+               <interp inst="t17540227-23-person241" type="surname" value="Ridge"></interp>
+                     <interp inst="t17540227-23-person241" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-23-person241" type="gender" value="male"></interp>
+                  </persName>
+            . I belong to Westminster-school, and board at Mrs. Grant's, the Prisoner was servant there; I went and looked in the Prisoner's box, he being suspected to have taken several things, and at the bottom of it I found this shirt, here produced. It was clean, and folded up. This was not his proper box, in which he used to put his linnen.</p>
+               <p>Q. Was the box locked?</p>
+               <p>Ridge. It was, but we found the key in another box of his.</p>
+               <p>Q. How do you know it was the Prisoner's box?</p>
+               <p>Ridge. He owned it was: it was in the room where he lay.</p>
+               <p>Mr. Eager. I was present with Mr. Ridge at the searching the Prisoner's box. He confirmed the account given by Mr. Ridge.</p>
+               <p>
+            
+                  <persName id="t17540227-23-person242">
+                  Sarah 
+                  Gyles 
+               <interp inst="t17540227-23-person242" type="surname" value="Gyles"></interp>
+                     <interp inst="t17540227-23-person242" type="given" value="Sarah"></interp>
+                     <interp inst="t17540227-23-person242" type="gender" value="female"></interp>
+                  </persName>
+            . I washed for the Prisoner and Mr. Tavan. I washed this shirt here produced last, and ironed it. When I brought Mr. Tavan's linnen home, I used to deliver it in his room; and when I brought the Prisoner's home, I used to leave that in the laundry, where I carried all the young gentlemen's shirts.</p>
+               <p>Tavan. I am positive I gave this shirt to the woman on the eleventh of December last to wash.</p>
+               <p>
+            
+                  <persName id="t17540227-23-person243">
+                  Sarah 
+                  Gyles 
+               <interp inst="t17540227-23-person243" type="surname" value="Gyles"></interp>
+                     <interp inst="t17540227-23-person243" type="given" value="Sarah"></interp>
+                     <interp inst="t17540227-23-person243" type="gender" value="female"></interp>
+                  </persName>
+            . The last I brought home to the Prisoner were six shirts together, it was either in Christmas-holidays or a little before: I never was in the Prisoner's room in my life, or saw his box.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I do not know how that shirt came in my box, except the washer-woman brought it home instead of one of mine.</p>
+               <p>He called 
+               <persName id="t17540227-23-person244">
+                  John 
+                  Watson 
+               <interp inst="t17540227-23-person244" type="surname" value="Watson"></interp>
+                     <interp inst="t17540227-23-person244" type="given" value="John"></interp>
+                     <interp inst="t17540227-23-person244" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540227-23-person245">
+                  William 
+                  Wade 
+               <interp inst="t17540227-23-person245" type="surname" value="Wade"></interp>
+                     <interp inst="t17540227-23-person245" type="given" value="William"></interp>
+                     <interp inst="t17540227-23-person245" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17540227-23-person246">
+                  William 
+                  Hendrey 
+               <interp inst="t17540227-23-person246" type="surname" value="Hendrey"></interp>
+                     <interp inst="t17540227-23-person246" type="given" value="William"></interp>
+                     <interp inst="t17540227-23-person246" type="gender" value="male"></interp>
+                  </persName>
+            , who had known him, one four, the other seven, the other four or five years, who declared, they never heard any ill of him, but had but a small acquaintance with him.</p>
+               <p>
+                  <rs id="t17540227-23-verdict128" type="verdictDescription">
+                     <interp inst="t17540227-23-verdict128" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>(M) He was a third time indicted, for <rs id="t17540227-23-off129" type="offenceDescription">
+                     <interp inst="t17540227-23-off129" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-23-off129" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver stock-buckle, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17540227-23-victim248" type="victimName">
+                     Thomas 
+                     Bigg 
+                  <interp inst="t17540227-23-victim248" type="surname" value="Bigg"></interp>
+                     <interp inst="t17540227-23-victim248" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-23-victim248" type="gender" value="male"></interp>
+                  </persName>
+                
+            . <rs id="t17540227-23-cd130" type="crimeDate">Feb. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-23-off123 t17540227-23-cd130"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-23-off126 t17540227-23-cd130"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-23-off129 t17540227-23-cd130"></join>. +</p>
+               <p>
+            
+                  <persName id="t17540227-23-person249">
+                  Thomas 
+                  Bigg 
+               <interp inst="t17540227-23-person249" type="surname" value="Bigg"></interp>
+                     <interp inst="t17540227-23-person249" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-23-person249" type="gender" value="male"></interp>
+                  </persName>
+            . I board at Mrs. Grant's, I lost a silver stock-buckle the latter end of Jan. Mr. Ridge and Mr. Eager brought it to me last Saturday<xptr type="pageFacsimile" doc="175402270017"></xptr> night. When I lost it I asked the prisoner if he knew any thing of it, but he denied it, and told me he believed it was the maid-servant that had taken it. but gave me no reason why he believed so. After I found it I asked him how he came by it; he said one Mr. Davie, who has been gone from us since last August, lent it him; but I had it in my custody the latter end of January.</p>
+               <p>Mr. Ridge. Upon the search we made at t he time I mentioned, we found this stock-buckle in the prisoner's box where the linen was.</p>
+               <p>Mr. Eager. I was with Mr. Ridge in this search, and saw the stock-buckle found in the prisoner's box. I have seen it in Mr. Biggs's custody since Mr. Davie went away.</p>
+               <p>Prisoner's defence.</p>
+               <p>I do not know how that buckle came into my box, or who put it there.</p>
+               <p>
+                  <rs id="t17540227-23-verdict131" type="verdictDescription">
+                     <interp inst="t17540227-23-verdict131" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540227-23-verdict131" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17540227-23-punish132" type="punishmentDescription">
+                     <interp inst="t17540227-23-punish132" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-23-defend233 t17540227-23-punish132"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

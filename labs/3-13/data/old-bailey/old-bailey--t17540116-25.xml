@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-25">
+               <interp inst="t17540116-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-25" type="year" value="1754"></interp>
+               <interp inst="t17540116-25" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-25" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-25-off134-c197" targOrder="Y" targets="t17540116-25-defend240 t17540116-25-off134 t17540116-25-verdict137"></join>
+         
+               <p>110. (M.) 
+               
+                  <persName id="t17540116-25-defend240" type="defendantName">
+                     Elizabeth 
+                     Hore 
+                  <interp inst="t17540116-25-defend240" type="surname" value="Hore"></interp>
+                     <interp inst="t17540116-25-defend240" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-25-defend240" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540116-25-deflabel133" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-25-defend240 t17540116-25-deflabel133"></join>, was indicted for <rs id="t17540116-25-off134" type="offenceDescription">
+                     <interp inst="t17540116-25-off134" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-25-off134" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silk handkerchief, value 3 d. one pair of leather clogs, value 2 d. one pair of scissors, value 2 d. one half guinea, and nine shillings in money number'd
+            </rs>, the goods and money of 
+               
+                  <persName id="t17540116-25-victim242" type="victimName">
+                     John 
+                     Nichols 
+                  <interp inst="t17540116-25-victim242" type="surname" value="Nichols"></interp>
+                     <interp inst="t17540116-25-victim242" type="given" value="John"></interp>
+                     <interp inst="t17540116-25-victim242" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-25-off134 t17540116-25-victim242"></join>
+                  </persName>
+                
+            , <rs id="t17540116-25-cd135" type="crimeDate">January 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-25-off134 t17540116-25-cd135"></join>. + .</p>
+               <p>
+            
+                  <persName id="t17540116-25-person243">
+                  John 
+                  Nichols 
+               <interp inst="t17540116-25-person243" type="surname" value="Nichols"></interp>
+                     <interp inst="t17540116-25-person243" type="given" value="John"></interp>
+                     <interp inst="t17540116-25-person243" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17540116-25-crimeloc136">Hampstead</placeName>
+                  <interp inst="t17540116-25-crimeloc136" type="placeName" value="Hampstead"></interp>
+                  <interp inst="t17540116-25-crimeloc136" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-25-off134 t17540116-25-crimeloc136"></join>, and the prisoner lodged in my house. I losing the things mentioned, suspected her, and upon charging her with it, she owned she took them away. [A pair of clogs, a handkerchief, and a pair of scissors produced in Court.] The prosecutor deposed to the handkerchief and scissors as his property. He produced an iron snuff-box, which he deposed was taken upon the prisoner, in which the money mentioned in the indictment was before taken away.</p>
+               <p>The prisoner had nothing to say in her defence.</p>
+               <p>
+                  <rs id="t17540116-25-verdict137" type="verdictDescription">
+                     <interp inst="t17540116-25-verdict137" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-25-verdict137" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17540116-25-punish138" type="punishmentDescription">
+                     <interp inst="t17540116-25-punish138" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-25-defend240 t17540116-25-punish138"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

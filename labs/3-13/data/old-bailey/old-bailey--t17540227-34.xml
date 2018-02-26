@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-34">
+               <interp inst="t17540227-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-34" type="year" value="1754"></interp>
+               <interp inst="t17540227-34" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-34" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-34-off187-c261" targOrder="Y" targets="t17540227-34-defend328 t17540227-34-off187 t17540227-34-verdict190"></join>
+         
+               <p>190. (M.) 
+               <persName id="t17540227-34-defend328" type="defendantName">
+                  William 
+                  Saunders 
+               <interp inst="t17540227-34-defend328" type="surname" value="Saunders"></interp>
+                     <interp inst="t17540227-34-defend328" type="given" value="William"></interp>
+                     <interp inst="t17540227-34-defend328" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted, for <rs id="t17540227-34-off187" type="offenceDescription">
+                     <interp inst="t17540227-34-off187" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-34-off187" type="offenceSubcategory" value="burglary"></interp>
+               that he, on the <rs id="t17540227-34-cd188" type="crimeDate">27th of Jan</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-34-off187 t17540227-34-cd188"></join>. about the hour of two in the morning of the same day, the dwelling-house of 
+                     
+                        <persName id="t17540227-34-victim330" type="victimName">
+                           Thomas 
+                           Starkey 
+                        <interp inst="t17540227-34-victim330" type="surname" value="Starkey"></interp>
+                        <interp inst="t17540227-34-victim330" type="given" value="Thomas"></interp>
+                        <interp inst="t17540227-34-victim330" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540227-34-off187 t17540227-34-victim330"></join>
+                     </persName>
+                      
+                  , did break and enter, and one hen, of the value of 12 d. the property of the said Thomas, in the said dwelling-house, did steal, take and carry away
+            </rs>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-34-person331">
+                  Thomas 
+                  Starkey 
+               <interp inst="t17540227-34-person331" type="surname" value="Starkey"></interp>
+                     <interp inst="t17540227-34-person331" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-34-person331" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17540227-34-crimeloc189">Harwin, in Middlesex</placeName>
+                  <interp inst="t17540227-34-crimeloc189" type="placeName" value="Harwin, in Middlesex"></interp>
+                  <interp inst="t17540227-34-crimeloc189" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-34-off187 t17540227-34-crimeloc189"></join>, about two o'clock my neighbours called me up and said my door was broke open, it was the door belonging to my dwelling-house. When I came down I missed the hen; I then went and called up an officer of the peace, and we went to search the Prisoner's house, (he lives just by me;) when we went in, there was the pot over the fire, and the feathers of the hen down by him on the floor. We then looked about to see whether we could find her or no; while we were looking, the Prisoner took this iron, producing it, (which was a poker) and struck me about, so that I was forced to go out of the house; when I came back again with a stronger guard the Prisoner was gone off.</p>
+               <p>Q. Would you swear to the feathers of your hen?</p>
+               <p>Starkey. They were very much like them.</p>
+               <p>Q. Can you upon your oath say he took the hen?</p>
+               <p>Starkey. No, I cannot, because I could not find it; but I would venture to take my oath this iron (which was the same poker) broke the door open; for when it was put into the marks made in wrenching the door it fitted exactly, and is bent with the strain.</p>
+               <p>
+            
+                  <persName id="t17540227-34-person332">
+                  Hannah 
+                  Starkey 
+               <interp inst="t17540227-34-person332" type="surname" value="Starkey"></interp>
+                     <interp inst="t17540227-34-person332" type="given" value="Hannah"></interp>
+                     <interp inst="t17540227-34-person332" type="gender" value="female"></interp>
+                  </persName>
+            . The Prisoner came and called under my chamber-window at two o'clock in the morning: he called my husband twice and me once, I was awake at that time, my husband was not. Presently afterwards my neighbours called out, that Saunders was breaking the doors open, and that they heard the hen cry; with that I awaked my husband, and he got up and went down stairs directly; as soon as he came down stairs the Prisoner was gone.</p>
+               <p>Q. Did you hear his voice that night ?</p>
+               <p>
+            
+                  <persName id="t17540227-34-person333">
+                  Hannah 
+                  Starkey 
+               <interp inst="t17540227-34-person333" type="surname" value="Starkey"></interp>
+                     <interp inst="t17540227-34-person333" type="given" value="Hannah"></interp>
+                     <interp inst="t17540227-34-person333" type="gender" value="female"></interp>
+                  </persName>
+            . I know his voice very well.</p>
+               <p>
+            
+                  <persName id="t17540227-34-person334">
+                  Richard 
+                  Hancocks 
+               <interp inst="t17540227-34-person334" type="surname" value="Hancocks"></interp>
+                     <interp inst="t17540227-34-person334" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-34-person334" type="gender" value="male"></interp>
+                  </persName>
+            . I am headborough; Mr. Starkey called me up, I went with him to the Prisoner's house, there I saw the pot over the fire, and the feathers lay upon the floor by the Prisoner; he set at victuals.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270024"></xptr>Q. Did you know the hen before?</p>
+               <p>Hane. No, I know nothing of the hen, we charged him with the robbery, but he denied it. He then assaulted me as well as the prosecutor with the iron, and he over-powered us, and made us go home; where we staid till day-light, and till we got further guard.</p>
+               <p>Q. Did you look into the pot that was boiling ?</p>
+               <p>Hane. I did; there was never a hen there; I do not know what they did with it.</p>
+               <p>
+                  <rs id="t17540227-34-verdict190" type="verdictDescription">
+                     <interp inst="t17540227-34-verdict190" type="verdictCategory" value="notGuilty"></interp>
+               Acquit
+            </rs>.</p>
+            </div1>

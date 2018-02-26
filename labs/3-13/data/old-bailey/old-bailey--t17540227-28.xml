@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-28">
+               <interp inst="t17540227-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-28" type="year" value="1754"></interp>
+               <interp inst="t17540227-28" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-28" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-28-off155-c228" targOrder="Y" targets="t17540227-28-defend284 t17540227-28-off155 t17540227-28-verdict157"></join>
+         
+               <p>182. (M.) 
+               
+                  <persName id="t17540227-28-defend284" type="defendantName">
+                     William 
+                     Hambleton 
+                  <interp inst="t17540227-28-defend284" type="surname" value="Hambleton"></interp>
+                     <interp inst="t17540227-28-defend284" type="given" value="William"></interp>
+                     <interp inst="t17540227-28-defend284" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540227-28-off155" type="offenceDescription">
+                     <interp inst="t17540227-28-off155" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-28-off155" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing fifty pounds weight of rope, value 5 s.
+            </rs> the goods of persons unknown. <rs id="t17540227-28-cd156" type="crimeDate">Feb. 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-28-off155 t17540227-28-cd156"></join>. ++</p>
+               <p>It appears the ropes were safe on board the brigantine Phillis, lying on the river Thames, on the 8th of Feb. on the 9th they were missing. That the Prisoner was taken with them upon him, who said, he found them on a bulk at Cockhill, and that they were the property of captain 
+               <persName id="t17540227-28-person285">
+                  John 
+                  Lee 
+               <interp inst="t17540227-28-person285" type="surname" value="Lee"></interp>
+                     <interp inst="t17540227-28-person285" type="given" value="John"></interp>
+                     <interp inst="t17540227-28-person285" type="gender" value="male"></interp>
+                  </persName>
+             and others. But 
+               <persName id="t17540227-28-person286">
+                  Thomas 
+                  Stubbs 
+               <interp inst="t17540227-28-person286" type="surname" value="Stubbs"></interp>
+                     <interp inst="t17540227-28-person286" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-28-person286" type="gender" value="male"></interp>
+                  </persName>
+            , the evidence, could not tell the names of the captain's partners. The Prisoner in his defence said, he found them, as before mentioned.</p>
+               <p>
+                  <rs id="t17540227-28-verdict157" type="verdictDescription">
+                     <interp inst="t17540227-28-verdict157" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-28-punish158" type="punishmentDescription">
+                     <interp inst="t17540227-28-punish158" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-28-defend284 t17540227-28-punish158"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

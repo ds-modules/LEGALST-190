@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-33">
+               <interp inst="t17540116-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-33" type="year" value="1754"></interp>
+               <interp inst="t17540116-33" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-33" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-33-off173-c264" targOrder="Y" targets="t17540116-33-defend322 t17540116-33-off173 t17540116-33-verdict176"></join>
+         
+               <p>120. (M.) 
+               
+                  <persName id="t17540116-33-defend322" type="defendantName">
+                     George 
+                     Cole 
+                  <interp inst="t17540116-33-defend322" type="surname" value="Cole"></interp>
+                     <interp inst="t17540116-33-defend322" type="given" value="George"></interp>
+                     <interp inst="t17540116-33-defend322" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-33-off173" type="offenceDescription">
+                     <interp inst="t17540116-33-off173" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-33-off173" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one pinchbeck metal watch, value 7 l. the property of 
+                     
+                        <persName id="t17540116-33-victim324" type="victimName">
+                           Thomas 
+                           Minett 
+                        <interp inst="t17540116-33-victim324" type="surname" value="Minett"></interp>
+                        <interp inst="t17540116-33-victim324" type="given" value="Thomas"></interp>
+                        <interp inst="t17540116-33-victim324" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-33-off173 t17540116-33-victim324"></join>
+                     </persName>
+                      
+                  , privately from his person
+            </rs>. <rs id="t17540116-33-cd174" type="crimeDate">Jan. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-33-off173 t17540116-33-cd174"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17540116-33-person325">
+                  Thomas 
+                  Minett 
+               <interp inst="t17540116-33-person325" type="surname" value="Minett"></interp>
+                     <interp inst="t17540116-33-person325" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-33-person325" type="gender" value="male"></interp>
+                  </persName>
+            . I was in <placeName id="t17540116-33-crimeloc175">Hick's hall</placeName>
+                  <interp inst="t17540116-33-crimeloc175" type="placeName" value="Hick's hall"></interp>
+                  <interp inst="t17540116-33-crimeloc175" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-33-off173 t17540116-33-crimeloc175"></join> on the close of the poll for a coroner; I felt a hand in my left pocket, which I seized by the wrist, (it was the prisoner) then he catched up his hand, which was his left hand, and out came my watch; I catched at it with my right hand, but he took it with his right hand out of his left, and gave it to another man that stood near him. I held him fast, and called out I have lost my watch. A gentleman took the prisoner by the right arm, and my friends came to my assistance: We took him to the Wind-mill Inn into a room and sent for a constable.</p>
+               <p>Q. Why did not you secure the man he gave it to?</p>
+               <p>Minett. He moved off directly. We asked the prisoner where he lived, but he pretended to be dumb, and in hammering out words he made us understand he lived in St. John's-street: A gentleman said, then you may soon send for some body to your character. When the constable came he said the prisoner did not live there: Then he hammered out he lived in Spittlefields, and by pulling out a piece of rag and a thimble, he by signs and broken words signified he was a taylor. We examined his finger, but saw no mark of that trade on it; after which we took him to New-Prison. Powel the constable dropped us going along; for which reason the turnkey would not take him in. Then I sent for another constable, and he was taken in. After which we took him before Justice Fielding; his wife was there, and said he had lost the use of his speech.</p>
+               <p>Cross Examination.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>Minett. I have seen him before.</p>
+               <p>Q. Are you certain you lost your watch at that time?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160019"></xptr>Minett. I know it came out of my pocket then, and by the prisoner's hand. I felt it come out of my fob.</p>
+               <p>Q. Are you sure you had your watch in your fob when you went in there?</p>
+               <p>Minett. Here are people here that know I had it in my fob just before.</p>
+               <p>Q. Are you sure that was your watch which you saw?</p>
+               <p>Minett. I know it was my watch, it was what I saw and felt. It was done at the cry Make way, and there was at that time a sort of an opening near me.</p>
+               <p>Q. You say he hammered out words, could you understand him ?</p>
+               <p>Minett. He spoke several words which I could understand very well at the Windmill inn.</p>
+               <p>Q. If you could well understand him, how came he to pull out this thimble and cloth to shew you he was a taylor?</p>
+               <p>Minett. He did speak some words in a very indifferent way.</p>
+               <p>
+            
+                  <persName id="t17540116-33-person326">
+                  John 
+                  Prayter 
+               <interp inst="t17540116-33-person326" type="surname" value="Prayter"></interp>
+                     <interp inst="t17540116-33-person326" type="given" value="John"></interp>
+                     <interp inst="t17540116-33-person326" type="gender" value="male"></interp>
+                  </persName>
+            . The prosecutor and I went from the Ram inn in Smithfield to Hicks's Hall at the closing of the poll, and I following the prosecutor in, the prisoner pushed in between him and me. I stood at his right shoulder, and his left hand came up to the prosecutor's side. Immediately he called out I have lost my watch. I seized the prisoner by his right arm, which at that time was in motion, and the prosecutor had him fast by the left hand wrist; we carried him to the Windmill inn, where some gentlemen in the room wanted to have him searched, but the prosecutor said no, no, there is no occasion for that, for I saw him deliver the watch into another man's hand. Somebody asked the prisoner where he lived, he said St. John's Street in a very bad manner. I said, do you mean St. John's Street? he replied, a, a. By this I understood he knew what I said to him, so we carried him from thence to New Prison.</p>
+               <p>Cross-Examination.</p>
+               <p>Q. On which side of the prisoner did you stand when the prosecutor said he had lost his watch?</p>
+               <p>Prayter. I was at the right shoulder of the prisoner.</p>
+               <p>Q. Did you see him deliver a watch to any body?</p>
+               <p>Prayter. No, I did not.</p>
+               <p>Q. Did you see a watch at that time?</p>
+               <p>Prayter. No, I did not see a watch at all.</p>
+               <p>
+            
+                  <persName id="t17540116-33-person327">
+                  John 
+                  Tyther 
+               <interp inst="t17540116-33-person327" type="surname" value="Tyther"></interp>
+                     <interp inst="t17540116-33-person327" type="given" value="John"></interp>
+                     <interp inst="t17540116-33-person327" type="gender" value="male"></interp>
+                  </persName>
+            . When the prisoner came to New Prison, we told the under keeper for what we brought him; the keeper said, this man has not got the watch, but I will lay a guinea to a shilling I know who has got it. I saw the prosecutor pull it out to see what a clock it was, which was on that evening, at the Ram inn in Smithfield.</p>
+               <p>
+            
+                  <persName id="t17540116-33-person328">
+                  Edward 
+                  Richardson 
+               <interp inst="t17540116-33-person328" type="surname" value="Richardson"></interp>
+                     <interp inst="t17540116-33-person328" type="given" value="Edward"></interp>
+                     <interp inst="t17540116-33-person328" type="gender" value="male"></interp>
+                  </persName>
+            . I went with the other witnesses from the Ram in Smithfield to Hicks's Hall at the close of the poll, and standing next to the prisoner of the bar, the yard being very full, Mr. Minett hit my shoulder, and said I am robbed of my watch by this fellow. I immediately took him by the collar, and we carried him to the Windmill inn; there we asked him who he was, and where he lived; he pretended to be dumb, but with great impediment he said St. John's Street, so as I could understand him.</p>
+               <p>Q. Could you have understood him to have meant St. John's Street, had not the word been repeated to him again by the other evidence?</p>
+               <p>Richardson. I should. After that he said he lived in Spittle-fields. Mr. Powel the constable was asked if he knew him; he replied, the prisoner did not live in St. John's Street, and added to the prisoner, Did not I tell you to get away? have not I seen you all about here this afternoon? We took him to New Prison, and Powel dropt us at the gate. The under turnkey said he would lay a guinea to a shilling he knew who had the watch, but that this man had not got it.</p>
+               <p>The prisoner said nothing in his defence.</p>
+               <p>For the Prisoner.</p>
+               <p>Mr. Harris. I have known the prisoner about two years. He is a taylor. He has seated my breeches, and mended my cloaths. He is a very honest man. I never heard any thing against him, and if he had wanted forty or fifty pounds, he might have had it of me. He is not a man of bad circumstances. He is a very sober man, and lives in Hair-Street, Spittle-fields.</p>
+               <p>
+            
+                  <persName id="t17540116-33-person329">
+                  Michael 
+                  Newland 
+               <interp inst="t17540116-33-person329" type="surname" value="Newland"></interp>
+                     <interp inst="t17540116-33-person329" type="given" value="Michael"></interp>
+                     <interp inst="t17540116-33-person329" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Shoreditch, and have known the prisoner about three years. He is a journeyman taylor. I never heard but that he was a very honest man.</p>
+               <p>Q. Do you think him likely to go out a robbing?</p>
+               <p>Newland. No, indeed I do not.</p>
+               <p>Q. Did you ever see him associating with shabby loose people?</p>
+               <p>Newland. No, never.</p>
+               <p>Q. How do you look upon his circumstances to be?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160020"></xptr>Newland. I believe he is not in necess itous circumstances.</p>
+               <p>
+            
+                  <persName id="t17540116-33-person330">
+                  Patrick 
+                  Carrol 
+               <interp inst="t17540116-33-person330" type="surname" value="Carrol"></interp>
+                     <interp inst="t17540116-33-person330" type="given" value="Patrick"></interp>
+                     <interp inst="t17540116-33-person330" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner above a year.</p>
+               <p>Q. What is his general character?</p>
+               <p>Carrol. His general character is, that he behaves very well. Upon my oath I do think him to be a very honest man.</p>
+               <p>
+            
+                  <persName id="t17540116-33-person331">
+                  John 
+                  Veal 
+               <interp inst="t17540116-33-person331" type="surname" value="Veal"></interp>
+                     <interp inst="t17540116-33-person331" type="given" value="John"></interp>
+                     <interp inst="t17540116-33-person331" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner three years, and have seen him at a publick-house in White-Cross-Street. He always behaved himself well, and I never heard any harm of him. I take him to be an honest man. He is not in such necessity as to go out a thieving.</p>
+               <p>
+            
+                  <persName id="t17540116-33-person332">
+                  George 
+                  Low 
+               <interp inst="t17540116-33-person332" type="surname" value="Low"></interp>
+                     <interp inst="t17540116-33-person332" type="given" value="George"></interp>
+                     <interp inst="t17540116-33-person332" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner a year and half. I live in the next street but one to him. He has a very good character, and I was very much astonished at the hearing this thing. I am sure he can live without thieving.</p>
+               <p>Q. Is he a master, or a journeyman ?</p>
+               <p>Low. He sometimes works as a master, and sometimes as a journeyman.</p>
+               <p>
+                  <rs id="t17540116-33-verdict176" type="verdictDescription">
+                     <interp inst="t17540116-33-verdict176" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-33-verdict176" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of stealing, but not privately from his person
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-33-punish177" type="punishmentDescription">
+                     <interp inst="t17540116-33-punish177" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-33-defend322 t17540116-33-punish177"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

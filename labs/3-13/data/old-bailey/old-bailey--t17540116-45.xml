@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-45">
+               <interp inst="t17540116-45" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-45" type="year" value="1754"></interp>
+               <interp inst="t17540116-45" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-45" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-45-off241-c372" targOrder="Y" targets="t17540116-45-defend451 t17540116-45-off241 t17540116-45-verdict243"></join>
+         
+               <p>133. (M.) 
+               <persName id="t17540116-45-defend451" type="defendantName">
+                  Mary, <rs id="t17540116-45-deflabel240" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-45-defend451 t17540116-45-deflabel240"></join> of 
+                     <persName id="t17540116-45-person452">
+                        Joseph 
+                        Durant 
+                     <interp inst="t17540116-45-person452" type="surname" value="Durant"></interp>
+                        <interp inst="t17540116-45-person452" type="given" value="Joseph"></interp>
+                        <interp inst="t17540116-45-person452" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17540116-45-defend451" type="surname" value="Durant"></interp>
+                     <interp inst="t17540116-45-defend451" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-45-defend451" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17540116-45-off241" type="offenceDescription">
+                     <interp inst="t17540116-45-off241" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-45-off241" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one pair of leather breeches, with sixteen silver buttons to the same, value 15 s. one cloth waistcoat, value 10 s. and three linen shirts
+            </rs>, the goods of 
+               
+                  <persName id="t17540116-45-victim454" type="victimName">
+                     Francis 
+                     Platt 
+                  <interp inst="t17540116-45-victim454" type="surname" value="Platt"></interp>
+                     <interp inst="t17540116-45-victim454" type="given" value="Francis"></interp>
+                     <interp inst="t17540116-45-victim454" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-45-off241 t17540116-45-victim454"></join>
+                  </persName>
+                
+            , <rs id="t17540116-45-cd242" type="crimeDate">November the 27th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-45-off241 t17540116-45-cd242"></join>.*.</p>
+               <p>
+            
+                  <persName id="t17540116-45-person455">
+                  Francis 
+                  Platt 
+               <interp inst="t17540116-45-person455" type="surname" value="Platt"></interp>
+                     <interp inst="t17540116-45-person455" type="given" value="Francis"></interp>
+                     <interp inst="t17540116-45-person455" type="gender" value="male"></interp>
+                  </persName>
+            . Seven weeks ago last Sunday I missed the things mentioned in the indictment; [naming them over] after which I was told by Anne M'Parson, the prisoner had delivered them to her, and that they were at Mr. Pardey's, a pawnbroker, near the Seven Dials. I went there, and found the breeches and waistcoat; then I took up the prisoner, and had her before the Justice; there she said she was very sorry, and if I had given her more time, she should have said more about them, and have let me known more.</p>
+               <p>Anne M'Parson. On the fourth of December, the prisoner desired me to go for the breeches, and say they belonged to my husband. She had carried them, and they were stopt at a pawnbroker's near the Seven Dials. I went and asked the pawnbroker how he came to stop these breeches, saying they were my husband's; he asked me if they were plate or mettle buttons on them; I said I could not tell; then he bid me go about my business, and not trouble myself about them. When I returned, I asked her where she had them; she said she went through the house where her husband lodged, went up into the room where he lay, and took them from off a bed; then I went and gave the prosecutor intelligence of it.</p>
+               <p>
+            
+                  <persName id="t17540116-45-person456">
+                  Robert 
+                  Pardey 
+               <interp inst="t17540116-45-person456" type="surname" value="Pardey"></interp>
+                     <interp inst="t17540116-45-person456" type="given" value="Robert"></interp>
+                     <interp inst="t17540116-45-person456" type="gender" value="male"></interp>
+                  </persName>
+            . I am a pawnbroker. There was a woman came, I think on the third of December, and brought me a waistcoat, on which I believe there were two shillings and three pence lent. I think the same night the same woman came and brought a pair of old leather breeches, and asking some trifle upon them, (I seeing there were silver buttons on them) asked who they belonged to; she said to her husband. I asked what were the buttons on them, and threw them by; she said she imagined they were horn; then I bid her send her husband. She went to fetch somebody of credit to prove they were her husband's, and brought the other evidence, who demanded them in the name of her husband, saying that he was a gentleman's servant towards Hyde-Park-Corner. I asked her whether they were silver or mettle buttons, but she could not tell. The next day the prosecutor came, and I delivered them to him. I cannot take upon me to say the prisoner is the woman that brought them.</p>
+               <p>
+            
+                  <persName id="t17540116-45-person457">
+                  Gabriel 
+                  Multiboy 
+               <interp inst="t17540116-45-person457" type="surname" value="Multiboy"></interp>
+                     <interp inst="t17540116-45-person457" type="given" value="Gabriel"></interp>
+                     <interp inst="t17540116-45-person457" type="gender" value="male"></interp>
+                  </persName>
+            . I went with Mr. Platt and the Prisoner before the Justice, and there she acknowledged she took the things mentioned, and begged pardon.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I am as innocent as the child unborn. I know no more of them than any gentleman in Court.</p>
+               <p>
+                  <rs id="t17540116-45-verdict243" type="verdictDescription">
+                     <interp inst="t17540116-45-verdict243" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

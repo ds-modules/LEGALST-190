@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-6">
+               <interp inst="t17540227-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-6" type="year" value="1754"></interp>
+               <interp inst="t17540227-6" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-6" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-6-off30-c60" targOrder="Y" targets="t17540227-6-defend71 t17540227-6-off30 t17540227-6-verdict34"></join>
+               <join result="criminalCharge" id="t17540227-6-off30-c61" targOrder="Y" targets="t17540227-6-defend73 t17540227-6-off30 t17540227-6-verdict35"></join>
+         
+               <p>158, 159. (L.) 
+               
+                  <persName id="t17540227-6-defend71" type="defendantName">
+                     Francis 
+                     Wessbrook 
+                  <interp inst="t17540227-6-defend71" type="surname" value="Wessbrook"></interp>
+                     <interp inst="t17540227-6-defend71" type="given" value="Francis"></interp>
+                     <interp inst="t17540227-6-defend71" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17540227-6-defend73" type="defendantName">
+                     John 
+                     Arnold 
+                  <interp inst="t17540227-6-defend73" type="surname" value="Arnold"></interp>
+                     <interp inst="t17540227-6-defend73" type="given" value="John"></interp>
+                     <interp inst="t17540227-6-defend73" type="gender" value="male"></interp>
+                  </persName>
+                
+             were indicted <rs id="t17540227-6-off30" type="offenceDescription">
+                     <interp inst="t17540227-6-off30" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17540227-6-off30" type="offenceSubcategory" value="highwayRobbery"></interp>
+               for that they, together with 
+                     <persName id="t17540227-6-person74">
+                        Isaac 
+                        Summers 
+                     <interp inst="t17540227-6-person74" type="surname" value="Summers"></interp>
+                        <interp inst="t17540227-6-person74" type="given" value="Isaac"></interp>
+                        <interp inst="t17540227-6-person74" type="gender" value="male"></interp>
+                     </persName>
+                  , not yet taken, on 
+                     
+                        <persName id="t17540227-6-victim76" type="victimName">
+                           Richard 
+                           Harper 
+                        <interp inst="t17540227-6-victim76" type="surname" value="Harper"></interp>
+                        <interp inst="t17540227-6-victim76" type="given" value="Richard"></interp>
+                        <interp inst="t17540227-6-victim76" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540227-6-off30 t17540227-6-victim76"></join>
+                     </persName>
+                      
+                   did make an assault in an open place near the king's highway, and stealing from his person one silver watch, value 50 s. one seal, value 1 s. 6 d. and one key, value 1 d. his property
+            </rs>, <rs id="t17540227-6-cd31" type="crimeDate">January 26, 1753</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-6-off30 t17540227-6-cd31"></join>.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person77">
+                  Richard 
+                  Harper 
+               <interp inst="t17540227-6-person77" type="surname" value="Harper"></interp>
+                     <interp inst="t17540227-6-person77" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-6-person77" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Cloth-Fair, am of no business; I was a <rs id="t17540227-6-deflabel32" type="occupation">gentleman's servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-6-defend71 t17540227-6-deflabel32"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-6-defend73 t17540227-6-deflabel32"></join> in the latter end of January, about the 24th, 5th, or 6th was twelvemonth, just past eight o'clock, I was going into Old-street from Justice Fielding's office; going up the middle walk in <placeName id="t17540227-6-crimeloc33">Moor-Fields</placeName>
+                  <interp inst="t17540227-6-crimeloc33" type="placeName" value="Moor-Fields"></interp>
+                  <interp inst="t17540227-6-crimeloc33" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-6-off30 t17540227-6-crimeloc33"></join>, I met a young man; he asked me what o'clock it was; I told him it was just past eight; then three men more came up to me, they asked me if I had got any money, (they had all sticks, I saw nothing else, this is one of the sticks, I have had it ever since) [holding one in his hand] I said I had no money; then one of them struck me over the head, but had asked me for my watch first, and I said I had never a one; I was stunned down with one blow, then they began to rifle me for my watch, which they found in my waistcoat pocket, (I had put it in a glove and put it there) then one said, come, let us go away, there is somebody coming; the other said, No, G - d d - n him, no, I have hold of it, I will have it, or else I will cut all the cloaths off his back. I came to myself, and said, O Lord, I think you have almost killed me. They said, G - d d - n you, if you speak another word we will kill you quite. They took my watch by cutting the glove in two, and left the string, seal, and key, which were found there the next morning. Then one of them gave me a drive on the side of the head, and said if I offered to call after them they would come back and murder me. Then they went off, and when the evidence was taken they were taken up, but confessed nothing in my hearing.</p>
+               <p>Q. Did you know them before?</p>
+               <p>Harper. I do not remember any of the prisoners, I only remember they were all of them partly of a size.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175402270005"></xptr>
+            
+                  <persName id="t17540227-6-person78">
+                  James 
+                  Palace 
+               <interp inst="t17540227-6-person78" type="surname" value="Palace"></interp>
+                     <interp inst="t17540227-6-person78" type="given" value="James"></interp>
+                     <interp inst="t17540227-6-person78" type="gender" value="male"></interp>
+                  </persName>
+            . I keep a sale-shop in the Minories, about the latter end of January 53, the evidence came into my shop, his name is 
+               <persName id="t17540227-6-person79">
+                  George 
+                  Hose 
+               <interp inst="t17540227-6-person79" type="surname" value="Hose"></interp>
+                     <interp inst="t17540227-6-person79" type="given" value="George"></interp>
+                     <interp inst="t17540227-6-person79" type="gender" value="male"></interp>
+                  </persName>
+            , he had a watch to sell, (about two o'clock in an afternoon) he asked 3 or 4 l. for it, which I cannot tell; I told him it was not worth above 50 s. he said he did not want to sell it out and out, so he desired I would let him have an old watch that hung up in my case, and a little money, and he would come and fetch it again, saying it was a family watch. I let him have 25 s. and the old watch, but if he came in a fortnight, I was to let him have it again, and take half a crown of him. A night or two after I read in the Advertiser a watch, name Ingraham, describing it to be the same I had received. I went away to the prosecutor's house by the direction of the advertisement. He was not at home, but the next morning he came to me, and I delivered him the watch, [produced in court, and deposed to by the prosecutor as his watch, which he was robbed of at the time mentioned] I said if I ever saw the man that brought it I would stop him: But it past on till the same month the next year, when this 
+               <persName id="t17540227-6-person80">
+                  George 
+                  Hore 
+               <interp inst="t17540227-6-person80" type="surname" value="Hore"></interp>
+                     <interp inst="t17540227-6-person80" type="given" value="George"></interp>
+                     <interp inst="t17540227-6-person80" type="gender" value="male"></interp>
+                  </persName>
+             came into my shop, and cheapened a case of pistols in my glass-case of my servant. I then did not recollect him again; Hore said, sir, your servant will not take my money, you should use me well, for I have dealt in your shop before. Then I began to think I had seen him, I looked at him, and said, sir, I believe I sold you a watch once. He said it was something of that kind. Sir, said I, I believe instead of selling you one it was but an exchange. He said that was very right. Then I said, I will buy my own watch of you again if you do not like it. Then he pulled it out of his pocket, and said, with all his heart. Then there came in two men that I used to trade with, I took the case in one hand and box in the other, and got to the door, then said to the two gentlemen, I desire you to assist me, this man is a robber. He said he could produce pe ople enough to his honesty, for he had bought the watch I charged him with in Cheapside of two men, he desired we would not expose him, and he would send for his friends. Soon after we took him before Justice Rickards, and he was committed till next morning, when we took him to the Angel and Crown, where the Justices sit in White-Chapel. At first he said he bought it of two men, but at last he confessed he was guilty of the fact with the two prisoners. Westbrook and Arnold were brought there. Hore looked Westbrook in the face, and cried, and said to the Justices, I am heartily sorry for Westbrook, for I believe he did not then know of our robbing the man, having met with him by chance in the street, and that he had not a farthing of the money, and that Westbrook went from them in fifteen minutes after. He said whoever sold the watch was to have the most part of the booty, and the other old watch he kept himself.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person81">
+                  George 
+                  Hore 
+               <interp inst="t17540227-6-person81" type="surname" value="Hore"></interp>
+                     <interp inst="t17540227-6-person81" type="given" value="George"></interp>
+                     <interp inst="t17540227-6-person81" type="gender" value="male"></interp>
+                  </persName>
+            . On the 26th of January 53, I went to Cheapside, where I met 
+               <persName id="t17540227-6-person82">
+                  Isaac 
+                  Summers 
+               <interp inst="t17540227-6-person82" type="surname" value="Summers"></interp>
+                     <interp inst="t17540227-6-person82" type="given" value="Isaac"></interp>
+                     <interp inst="t17540227-6-person82" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17540227-6-person83">
+                  John 
+                  Arnold 
+               <interp inst="t17540227-6-person83" type="surname" value="Arnold"></interp>
+                     <interp inst="t17540227-6-person83" type="given" value="John"></interp>
+                     <interp inst="t17540227-6-person83" type="gender" value="male"></interp>
+                  </persName>
+            ; they asked me to go and drink some purl, I said I was low, they offered to treat me; I went with them and drank part of two or three pints. I came out and left them there, Arnold promising to call on me in the afternoon to go and see for some business. I am a bricklayer, he called, and we went, but could get no business. Then he asked me if I would go on the highway with him; it startled me very much: I refused it, and then he asked me to go and drink, as night was coming on, with 
+               <persName id="t17540227-6-person84">
+                  Isaac 
+                  Summers 
+               <interp inst="t17540227-6-person84" type="surname" value="Summers"></interp>
+                     <interp inst="t17540227-6-person84" type="given" value="Isaac"></interp>
+                     <interp inst="t17540227-6-person84" type="gender" value="male"></interp>
+                  </persName>
+            . We went, and as we were going along we met him and Westbrook together. We all four agreed to drink at the Bull's Head in Bull-and-Mouth-street, and after we had been there some time, Summers and Arnold got up and went to the door, and they started the question to Westbrook and me, to go and rob the first man we met. Being in liquor we agreed to go with them, Summers had a stick, and Arnold had a screw barrel pistol. We walked about to where Summers and Arnold took us, which was into Gough Square, Fleet-street, but could find nothing. Summers said, if he could see a servant maid come out with a cup or silver mug, which he had seen people come to the Cheshire Cheese for beer with, he would knock her down and take it. Then Summers proposed to go into Moor-Fields to rob the first man we met. Westbrook agreed as we did, we were all together. Then we met with a gentleman, whom we past by, and then Westbrook and I would have gone home, but the others insisted on our staying. So we did, and came down the middle quarter, and met this Mr. Harper; Arnold went up to him first, and asked him what it was o'clock; he said he believed it had just struck eight; then Arnold asked him for his money; he said he had none; then Summers came up with a pistol in his hand, and run it against the prosecutor's head, and knocked him against the pales; then they insisted upon the watch; they felt about, and I clapped my hand on the man's shoulder, and drawing it<xptr type="pageFacsimile" doc="175402270006"></xptr> down felt something in his waistcoat pocket. I said here is something, I believe it is his watch. Then Arnold pulled a knife out of his pocket, and swore he would cut all the cloths off his back if he would not deliver the watch. Then I went from them; he cut the glove and string of the watch through, and took the watch. I saw him slip it into the waistband of his breeches, but he thought nobody had seen him take it. He gave the fingers of the glove to Summers, and Westbrook asked him what he had got: He said nothing, he thought there had been money in it, but there was none. Then we walked up Houndsditch and into White Chapel, and there we all agreed to go home when we were at the top of the Minories.</p>
+
+               <p>Q. How long was this after the robbery?</p>
+               <p>Hore. About half an hour. After that I left them all at the end of Friday-street, and went home. In the morning I went to 
+               <persName id="t17540227-6-person85">
+                  Isaac 
+                  Summers 
+               <interp inst="t17540227-6-person85" type="surname" value="Summers"></interp>
+                     <interp inst="t17540227-6-person85" type="given" value="Isaac"></interp>
+                     <interp inst="t17540227-6-person85" type="gender" value="male"></interp>
+                  </persName>
+            's, where I found Arnold and Summers's wife. I asked Arnold where Summers was; he said he was gone to dispose of the watch, but in about a quarter of an hour Summers came in with the watch, and said he would not go with it any more. Then Arnold and I was asked, but we both refused it. Then it was proposed, whoever disposed of it should have Westbrook's part, as he knew nothing of it. Then I took it, and went to this gentleman's house in the Minories, and there disposed of it for 25 s and a shagreen watch. He gave me an 18 s. piece, and the rest in silver.</p>
+               <p>Q. to Palace. Is this true?</p>
+               <p>Palace. It is. I gave him an 18 s. piece, and the rest in silver.</p>
+               <p>Evidence continues. I went and told them I had got two guineas for it, and gave Summers the 18 s. piece and 3 s. in silver to be between them, so had 4 s. and the shagreen watch; then I left them together.</p>
+               <p>Cross-Examination.</p>
+               <p>Q. Have you at any time declared Westbrook knew nothing of what you were about to do, and that he was very much in liquor?</p>
+               <p>Hore. Yes, I have before the bench of Justices; he was in liquor.</p>
+               <p>Q. Have you declared to any body that Westbrook was not in sight when you took the watch?</p>
+               <p>Hore. No, I never did.</p>
+               <p>Q. When was this discovered?</p>
+               <p>Hore. About a year after.</p>
+               <p>Q. How came it to be discovered that you was a person concerned in this robbery?</p>
+               <p>[To this question be would give no direct answer, although asked him three times over, but prevaricated, and talked of his being drawn in by the others, and that he was fuddled at the time, &amp;c.]</p>
+               <p>Q. Your art is seen in evading this question: Pray answer this plain question, on what occasion did you go to Castle's house in January last?</p>
+               <p>Hore. I went there to buy a pair of pistols for Arnold, and it was a good providenc it was prevented, for we should very likely have done some mischief with them.</p>
+               <p>Q. How came you to tell them you had sold the watch for two guineas, when you had sold it but for 25 s. and an old watch?</p>
+               <p>Hore. Summers told me he was offered two guineas for it at Mr. Briscoe's.</p>
+               <p>Q. How came you to give them an account you had sold it for two guineas?</p>
+               <p>Hore. I can give no account of that.</p>
+               <p>Westbrook's defence.</p>
+               <p>I know no more of it than the child unborn.</p>
+               <p>Arnold said the same.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person86">
+                  John 
+                  Arnold 
+               <interp inst="t17540227-6-person86" type="surname" value="Arnold"></interp>
+                     <interp inst="t17540227-6-person86" type="given" value="John"></interp>
+                     <interp inst="t17540227-6-person86" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Westbrook about a dozen years, he has worked under me as a Bricklayer. I also have known George Hore, he was my bedfellow about seven years, and on the 25th of January he related this affair, but said Westbrook was in liquor, and knew nothing of what they had done; and that they met him very promiscuously, and that he knew nothing of their design; that they had been to see some cocks fight in Moor-Fields, and he said because Summers was gone, he was obliged to mention two to save his own life. Westbrook was always very willing to work.</p>
+               <p>Mr. Best. I know Westbrook by sight, his brother is my acquaintance, he desired me to go with him to this Hore, which I did, and we told him we came to ask him whether Westbrook was with them either before or after that time; he said he had not, and that he was so fuddled he knew not what was done, and that he stood at a distance from them at the time.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person87">
+                  William 
+                  Wynne 
+               <interp inst="t17540227-6-person87" type="surname" value="Wynne"></interp>
+                     <interp inst="t17540227-6-person87" type="given" value="William"></interp>
+                     <interp inst="t17540227-6-person87" type="gender" value="male"></interp>
+                  </persName>
+            . I went along with Mr. Best and Westbrook's brother, and Hore said to Mr. Westbrook, as to your brother Frank he is very innocent, I will not hurt him; he said he was much fuddled, and that when they attacked the man Westbrook was gone forward, and knew nothing of the fact. I know the prisoner to be a working<xptr type="pageFacsimile" doc="175402270007"></xptr> man, and never loses time when he can get work. I have great reason to think him innocent.</p>
+               <p>Mr. Cleaver. I have known Westbrook about a year, he worked for me, and was very diligent in his business. I really believe him to be an honest man.</p>
+               <p>Mr. Steed. I have known him about sixteen or seventeen years, he always bore an honest character; he has worked for me four years, and behaved well.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person88">
+                  Charles 
+                  Parnel 
+               <interp inst="t17540227-6-person88" type="surname" value="Parnel"></interp>
+                     <interp inst="t17540227-6-person88" type="given" value="Charles"></interp>
+                     <interp inst="t17540227-6-person88" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him five or six years, I look upon him to be an honest industrious fellow. Hore told me, to be sure he received no benefit by the robbery, and never saw the watch.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person89">
+                  William 
+                  Norman 
+               <interp inst="t17540227-6-person89" type="surname" value="Norman"></interp>
+                     <interp inst="t17540227-6-person89" type="given" value="William"></interp>
+                     <interp inst="t17540227-6-person89" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him from his being an apprentice, I do not think he would be guilty or privy to a robbery.</p>
+               <p>Mr. Brown. I have known Westbrook in Town and Country; he is one of the soberest of the sort, and a pretty workman; I do not think him guilty of the fact.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person90">
+                  George 
+                  Whitton 
+               <interp inst="t17540227-6-person90" type="surname" value="Whitton"></interp>
+                     <interp inst="t17540227-6-person90" type="given" value="George"></interp>
+                     <interp inst="t17540227-6-person90" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him from his infancy, he is a sober industrious man; I do not imagine him guilty of such a thing as is laid to his charge.</p>
+               <p>Mr. Edan. He worked for me, and behaved very well; I never saw any other but that of an honest man by him.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person91">
+                  William 
+                  Frances 
+               <interp inst="t17540227-6-person91" type="surname" value="Frances"></interp>
+                     <interp inst="t17540227-6-person91" type="given" value="William"></interp>
+                     <interp inst="t17540227-6-person91" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him ten years, I have no reason to think from what I know of him, that he would be guilty of a robbery.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person92">
+                  Samuel 
+                  Lambeth 
+               <interp inst="t17540227-6-person92" type="surname" value="Lambeth"></interp>
+                     <interp inst="t17540227-6-person92" type="given" value="Samuel"></interp>
+                     <interp inst="t17540227-6-person92" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the Prisoner Arnold about eight years, he is a bricklayer; his general character is that of a very good one.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person93">
+                  Jonathan 
+                  Reed 
+               <interp inst="t17540227-6-person93" type="surname" value="Reed"></interp>
+                     <interp inst="t17540227-6-person93" type="given" value="Jonathan"></interp>
+                     <interp inst="t17540227-6-person93" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him near two years, his general character is that of an honest man.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person94">
+                  Martha 
+                  Hotskins 
+               <interp inst="t17540227-6-person94" type="surname" value="Hotskins"></interp>
+                     <interp inst="t17540227-6-person94" type="given" value="Martha"></interp>
+                     <interp inst="t17540227-6-person94" type="gender" value="female"></interp>
+                  </persName>
+            . I have known him about two years, he is a very honest good boy in working for his mother.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person95">
+                  Henry 
+                  Allen 
+               <interp inst="t17540227-6-person95" type="surname" value="Allen"></interp>
+                     <interp inst="t17540227-6-person95" type="given" value="Henry"></interp>
+                     <interp inst="t17540227-6-person95" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Arnold ten years, I live near his mother where he lives; I believe he would be far from doing such a thing as he is charged with.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person96">
+                  John 
+                  How 
+               <interp inst="t17540227-6-person96" type="surname" value="How"></interp>
+                     <interp inst="t17540227-6-person96" type="given" value="John"></interp>
+                     <interp inst="t17540227-6-person96" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him fifteen or sixteen years, he is a well-behaved lad; he has worked for me: I never lost any thing by him.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person97">
+                  Charles 
+                  Burgess 
+               <interp inst="t17540227-6-person97" type="surname" value="Burgess"></interp>
+                     <interp inst="t17540227-6-person97" type="given" value="Charles"></interp>
+                     <interp inst="t17540227-6-person97" type="gender" value="male"></interp>
+                  </persName>
+            . I live in the Old-Bailey, I have known him fourteen years: I never heard any ill of him 'till this, and I do not think he would be guilty of a street-robbery.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person98">
+                  John 
+                  Rose 
+               <interp inst="t17540227-6-person98" type="surname" value="Rose"></interp>
+                     <interp inst="t17540227-6-person98" type="given" value="John"></interp>
+                     <interp inst="t17540227-6-person98" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Angel-street; I have employed Arnold three summers and part of three winters at several houses; I never heard any ill of him, he was always industrious, and then bore a good character.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person99">
+                  Benjamin 
+                  Humphreys 
+               <interp inst="t17540227-6-person99" type="surname" value="Humphreys"></interp>
+                     <interp inst="t17540227-6-person99" type="given" value="Benjamin"></interp>
+                     <interp inst="t17540227-6-person99" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Arnold ten years, he is very industrious, and is an extraordinary sober young man.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person100">
+                  Thomas 
+                  Cruff 
+               <interp inst="t17540227-6-person100" type="surname" value="Cruff"></interp>
+                     <interp inst="t17540227-6-person100" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-6-person100" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Arnold upwards of three years, he is very industrious : I believe he wholly maintained his mother, brother and sister. I do not think him any way inclinable to do such a thing as he is now charged with.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person101">
+                  John 
+                  Morgan 
+               <interp inst="t17540227-6-person101" type="surname" value="Morgan"></interp>
+                     <interp inst="t17540227-6-person101" type="given" value="John"></interp>
+                     <interp inst="t17540227-6-person101" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Green-Arbour-Court, I have known Arnold about seven years; I always took him to be a sober and hard working fellow; I do not think he would commit a robbery.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person102">
+                  Gabriel 
+                  Hartle 
+               <interp inst="t17540227-6-person102" type="surname" value="Hartle"></interp>
+                     <interp inst="t17540227-6-person102" type="given" value="Gabriel"></interp>
+                     <interp inst="t17540227-6-person102" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Smithfield; I have known Arnold sixteen years: he is a very sober lad, I always look'd upon him to be honest. I do not think him guilty of committing a street-robbery.</p>
+               <p>Mr. Neel. I have known Arnold ever since he was a child: I always believed him to be a very honest lad. I believe he would not commit a street-robbery.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person103">
+                  Agnes 
+                  Rockall 
+               <interp inst="t17540227-6-person103" type="surname" value="Rockall"></interp>
+                     <interp inst="t17540227-6-person103" type="given" value="Agnes"></interp>
+                     <interp inst="t17540227-6-person103" type="gender" value="female"></interp>
+                  </persName>
+            . I have known Arnold ten years, I never heard any thing amiss of him before this. I look upon him to be an industrious lad. Upon my word I do not believe he would be guilty of a street-robbery.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person104">
+                  William 
+                  Willet 
+               <interp inst="t17540227-6-person104" type="surname" value="Willet"></interp>
+                     <interp inst="t17540227-6-person104" type="given" value="William"></interp>
+                     <interp inst="t17540227-6-person104" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Arnold about three years; he has behaved very well in getting a livelihood for himself and his mother.</p>
+               <p>Westbrook <rs id="t17540227-6-verdict34" type="verdictDescription">
+                     <interp inst="t17540227-6-verdict34" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+            
+                  <persName id="t17540227-6-person105">
+                  Arnold
+               <interp inst="t17540227-6-person105" type="given" value="Arnold"></interp>
+                     <interp inst="t17540227-6-person105" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t17540227-6-verdict35" type="verdictDescription">
+                     <interp inst="t17540227-6-verdict35" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17540227-6-punish36" type="punishmentDescription">
+                     <interp inst="t17540227-6-punish36" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-6-defend73 t17540227-6-punish36"></join>
+               Death
+            </rs>.</p>
+            </div1>

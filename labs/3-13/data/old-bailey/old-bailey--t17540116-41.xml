@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-41">
+               <interp inst="t17540116-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-41" type="year" value="1754"></interp>
+               <interp inst="t17540116-41" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-41" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-41-off219-c341" targOrder="Y" targets="t17540116-41-defend414 t17540116-41-off219 t17540116-41-verdict223"></join>
+         
+               <p>129. (M.) 
+               
+                  <persName id="t17540116-41-defend414" type="defendantName">
+                     Joshua 
+                     Kidden 
+                  <interp inst="t17540116-41-defend414" type="surname" value="Kidden"></interp>
+                     <interp inst="t17540116-41-defend414" type="given" value="Joshua"></interp>
+                     <interp inst="t17540116-41-defend414" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-41-off219" type="offenceDescription">
+                     <interp inst="t17540116-41-off219" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17540116-41-off219" type="offenceSubcategory" value="highwayRobbery"></interp>
+               that he, on the king's highway, on 
+                     
+                        <persName id="t17540116-41-victim416" type="victimName">
+                           Mary 
+                           Jones 
+                        <interp inst="t17540116-41-victim416" type="surname" value="Jones"></interp>
+                        <interp inst="t17540116-41-victim416" type="given" value="Mary"></interp>
+                        <interp inst="t17540116-41-victim416" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-41-off219 t17540116-41-victim416"></join>
+                     </persName>
+                      
+                   
+                     <rs id="t17540116-41-viclabel220" type="occupation">widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-41-victim416 t17540116-41-viclabel220"></join>, did make an assault, putting her in corporal fear, and danger of her life, and stealing from her person one guinea and 4 s. 6 d. in money numbered.
+            </rs> 
+                  <rs id="t17540116-41-cd221" type="crimeDate">Jan. 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-41-off219 t17540116-41-cd221"></join>. + .</p>
+               <p>
+            
+                  <persName id="t17540116-41-person417">
+                  Mary 
+                  Jones 
+               <interp inst="t17540116-41-person417" type="surname" value="Jones"></interp>
+                     <interp inst="t17540116-41-person417" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-41-person417" type="gender" value="female"></interp>
+                  </persName>
+            . I live in Brooker's alley, Drury-lane. Last Monday was se'nnight, in the morning, I went to Mr. Burry, and asked him to go along with me to Edmonton. We set out in a chaise, about twelve or one at noon, from Hatton-garden, and going to the Bell at Edmonton, staid there very near three hours. We went to inquire for a man whom I wanted to see, and set out between five and six to come home. I got out at the Plough in <placeName id="t17540116-41-crimeloc222">Tottenham</placeName>
+                  <interp inst="t17540116-41-crimeloc222" type="placeName" value="Tottenham"></interp>
+                  <interp inst="t17540116-41-crimeloc222" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-41-off219 t17540116-41-crimeloc222"></join> by reason the horse kicked very much, and we had two pints of hot ale and rum. Mr. Burry desired me to walk a little, to see how the horse would go, and I believe I did walk about a quarter of a mile; he then called to me, and said the horse went very well, and he believed I might get in. As I was going to get into the chaise, two fellows came round me and said, You shall not get in, we must have what you have. One of them held my arms, and taking a great knife out of his pocket, said he'd stick me, and that fellow in the chaise too, if I spoke a word. The other took my pocket, in which was a guinea, half a crown, two shillings, and a trifle more. They then ran away, and I stood by a post, not being able to stand for some time.</p>
+               <p>Q. How near was this to the chaise?</p>
+               <p>Jones. It was just by the chaise.</p>
+               <p>Q. Why do you charge the prisoner?</p>
+               <p>Jones. He is the man that held the knife to me and said, You old bitch, if you say a word, I'll run you thro', and the man too.</p>
+               <p>Q. Did you see his face?</p>
+               <p>Jones. I had time enough to see his face; it was a very fine moonlight night, and as light as day.</p>
+               <p>Q. Did you ever see the prisoner before?</p>
+               <p>Jones. No, never to my knowledge.</p>
+               <p>Q. How was he dress'd ?</p>
+               <p>Jones. He had a white waistcoat, coat and a flannel cap. The other had a blue coat, and a great slouch hat. Mr. Burry called to a man that was coming by, and desired him to help me into the chaise. I got in, and we then went on to the Cross keys, where we had a glass of rum, and at the turnpike were told, that two men had run thro' there as fast as they could, and that they had been thereabout for two or three nights. Mr. Burry pursued them as fast as he could to Newington, where he inquired after such men, and the patroles answered that two men had run by. They were then in my sight, and I desired them to stop them; one of the thieves jumpt the ditch and got off, but the prisoner was taken. This was at the farther end of Newington, and we took him to a public house a little way from the town. He was in the same dress as when he committed the robbery, and he owned every thing, saving another man brought him that way, but he did not know for what, and that he was not the person who took the money. He owned he held me by the arm, and that he pull'd out a knife upon me. He confess'd the same before the justice.</p>
+               <p>Cross Examination.</p>
+               <p>Q. What was your business at Edmonton ?</p>
+               <p>Jones. I went there to inquire for a man who owed me money.</p>
+               <p>Q. How long had you been acquainted with Mr. Burry?</p>
+               <p>Jones. Many years.</p>
+               <p>Q. What time was this robbery?</p>
+               <p>Jones. It was between five and six, near six.</p>
+               <p>Q. Was you ever robbed before?</p>
+               <p>Jones. No, never in my life.</p>
+               <p>
+            
+                  <persName id="t17540116-41-person418">
+                  John 
+                  Burry 
+               <interp inst="t17540116-41-person418" type="surname" value="Burry"></interp>
+                     <interp inst="t17540116-41-person418" type="given" value="John"></interp>
+                     <interp inst="t17540116-41-person418" type="gender" value="male"></interp>
+                  </persName>
+            . Last Monday was se'nnight Mrs. Jones came to me and desired me to go with her to Edmonton, to see for a man who owed her about 9 l. We set out from thence about six o'clock, and coming back the buckle of the strap had got thro'. and the horse fell a kicking up much, on which I desired her to get out; this was near the Plough at Tottenham, where we drank two pints of rum and ale; there was another man with us. I desired her to walk a little, till I saw how the horse would go. She walked about a quarter of a mile, and then I<xptr type="pageFacsimile" doc="175401160032"></xptr> said to her, You may get in; but as she was geting in, two men caught hold of her; the prisoner was one of them. His stockings were tied below knee, and he had a white waistcoat on. I believe it was the prisoner who held a knife to her, and said, You old bitch, if you make a noise, I'll stick you, and the man in the chaise too. They took her away, and the other person took her money. This was just facing the seven trees, called the Seven Sisters. I being lame, could not get out of the chaise; then they ran as fast as they could.</p>
+               <p>Q. Did you see them take her money?</p>
+               <p>Burry. I saw them put a hand to her pocket, and I know she had that money about her when she came out of the house. I got a man to help her into the chaise, and we called at the first house on the left hand, where we had a quartern of rum. I drove along, inquiring of every body, and at Newington called at a house, and told them how we had been served; a man came out along with me. I asked the patrole if they saw such persons, and at about 20 yards distance I saw them both running; this was before we came to Kingsland turnpike. The other man got over a ditch, and the prisoner was taken. We carried him to a house on this side the turnpike. I said, How could you take the money from this poor woman? He said, he did not take the money, but only stood by. We then had him before Justice Withers, and he there said his name was 
+               <persName id="t17540116-41-person419">
+                  Isaac 
+                  Kidden 
+               <interp inst="t17540116-41-person419" type="surname" value="Kidden"></interp>
+                     <interp inst="t17540116-41-person419" type="given" value="Isaac"></interp>
+                     <interp inst="t17540116-41-person419" type="gender" value="male"></interp>
+                  </persName>
+            , and that he lived in Black-boy-alley. He had on two waistcoats and a cap.</p>
+               <p>Cross Examination.</p>
+               <p>Q. How many people have you prosecuted here?</p>
+               <p>Burry. I believe I prosecuted a man about eight or ten years ago. He stole horses, and I stopped him; that is the only person I have been concerned in the prosecution of in my life.</p>
+               <p>Q. What is that man's name who took the prisoner?</p>
+               <p>Burry. It was the officer who went with us to take the man at Edmonton. He is a Marshalsea Court officer, and his name Macdonald.</p>
+               <p>Q. Did you know the prisoner?</p>
+               <p>Burry. I have seen him a year or two ago about the New Market, I believe, but am not positive.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I know nothing of robbing the man.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17540116-41-person420">
+                  George 
+                  Carr 
+               <interp inst="t17540116-41-person420" type="surname" value="Carr"></interp>
+                     <interp inst="t17540116-41-person420" type="given" value="George"></interp>
+                     <interp inst="t17540116-41-person420" type="gender" value="male"></interp>
+                  </persName>
+            , I have known the prisoner ten years. He always bore quite a good character, that of an honest young fellow.</p>
+               <p>
+            
+                  <persName id="t17540116-41-person421">
+                  Samuel 
+                  Roobins 
+               <interp inst="t17540116-41-person421" type="surname" value="Roobins"></interp>
+                     <interp inst="t17540116-41-person421" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-41-person421" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him ten years. He lives in my neighbourhood in Little Britain; he is a ticket-porter. I don't know but that he is a very honest man. I am a watch-gilder; he has carried many watches to and from me, and I never heard of his doing any thing dishonest.</p>
+               <p>
+            
+                  <persName id="t17540116-41-person422">
+                  Richard 
+                  Andrews 
+               <interp inst="t17540116-41-person422" type="surname" value="Andrews"></interp>
+                     <interp inst="t17540116-41-person422" type="given" value="Richard"></interp>
+                     <interp inst="t17540116-41-person422" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him from a little child, but never heard any thing dishonest of him in a I my life. I am a jeweller, and if he was now out. I would imploy him to carry jewels for me, and now I really can't believe the thing against him.</p>
+               <p>
+            
+                  <persName id="t17540116-41-person423">
+                  George 
+                  Marshal 
+               <interp inst="t17540116-41-person423" type="surname" value="Marshal"></interp>
+                     <interp inst="t17540116-41-person423" type="given" value="George"></interp>
+                     <interp inst="t17540116-41-person423" type="gender" value="male"></interp>
+                  </persName>
+            . I am a watchmaker. I have known him nineteen or twenty years. He has come backwards and forwards with watch-cases to me. I took him to be an honest young man, and was he out. I would trust him to carry goods for me.</p>
+               <p>
+                  <rs id="t17540116-41-verdict223" type="verdictDescription">
+                     <interp inst="t17540116-41-verdict223" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17540116-41-punish224" type="punishmentDescription">
+                     <interp inst="t17540116-41-punish224" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-41-defend414 t17540116-41-punish224"></join>
+               Death
+            </rs>.</p>
+            </div1>

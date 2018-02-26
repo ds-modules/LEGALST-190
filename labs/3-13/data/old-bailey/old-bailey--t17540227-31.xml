@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-31">
+               <interp inst="t17540227-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-31" type="year" value="1754"></interp>
+               <interp inst="t17540227-31" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-31" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-31-off175-c250" targOrder="Y" targets="t17540227-31-defend312 t17540227-31-off175 t17540227-31-verdict178"></join>
+         
+               <p>187. (M.) 
+               
+                  <persName id="t17540227-31-defend312" type="defendantName">
+                     George 
+                     Larmer 
+                  <interp inst="t17540227-31-defend312" type="surname" value="Larmer"></interp>
+                     <interp inst="t17540227-31-defend312" type="given" value="George"></interp>
+                     <interp inst="t17540227-31-defend312" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540227-31-off175" type="offenceDescription">
+                     <interp inst="t17540227-31-off175" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-31-off175" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one wig, value 5 s. the property of 
+                     
+                        <persName id="t17540227-31-victim314" type="victimName">
+                           William 
+                           Bird 
+                        <interp inst="t17540227-31-victim314" type="surname" value="Bird"></interp>
+                        <interp inst="t17540227-31-victim314" type="given" value="William"></interp>
+                        <interp inst="t17540227-31-victim314" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and one wig, value 5 s. the property of 
+                     <persName id="t17540227-31-victim315" type="victimName">
+                        Tho 
+                        Copley 
+                     <interp inst="t17540227-31-victim315" type="surname" value="Copley"></interp>
+                        <interp inst="t17540227-31-victim315" type="given" value="Tho"></interp>
+                        <interp inst="t17540227-31-victim315" type="gender" value="male"></interp>
+                     </persName>
+                   , and one wig, value 5 s.
+            </rs> the property of 
+               
+                  <persName id="t17540227-31-victim317" type="victimName">
+                     John 
+                     Wilson 
+                  <interp inst="t17540227-31-victim317" type="surname" value="Wilson"></interp>
+                     <interp inst="t17540227-31-victim317" type="given" value="John"></interp>
+                     <interp inst="t17540227-31-victim317" type="gender" value="male"></interp>
+                  </persName>
+                
+            . <rs id="t17540227-31-cd176" type="crimeDate">Feb. 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-31-off175 t17540227-31-cd176"></join>.</p>
+               <p>The Prosecutrix 
+               <persName id="t17540227-31-person318">
+                  Jane 
+                  Watson 
+               <interp inst="t17540227-31-person318" type="surname" value="Watson"></interp>
+                     <interp inst="t17540227-31-person318" type="given" value="Jane"></interp>
+                     <interp inst="t17540227-31-person318" type="gender" value="female"></interp>
+                  </persName>
+             deposed, she was a barber's widow, and employed the Prisoner as a <rs id="t17540227-31-deflabel177" type="occupation">journeyman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540227-31-defend312 t17540227-31-deflabel177"></join>, who had been there four months: that on the 8th of Feb. she went out and left him in the shop, which was about half an hour after twelve, and that she came back again before the clock struck one, and he was gone; and that her wig boxes were turned upside-down, which gave her suspicion that all the wigs were not there; and that upon searching the boxes, she missed those wigs laid in the indictment. She likewise deposed, that one 
+               <persName id="t17540227-31-person319">
+                  Arman 
+                  Loins 
+               <interp inst="t17540227-31-person319" type="surname" value="Loins"></interp>
+                     <interp inst="t17540227-31-person319" type="given" value="Arman"></interp>
+                     <interp inst="t17540227-31-person319" type="gender" value="male"></interp>
+                  </persName>
+             brought the Prisoner back to a publick-house and sent for her, and that she charged him with having stolen the wigs, which he deased saying, he knew nothing of them; but after some examination before justice Bennet, he at last confessed the fact.</p>
+
+               <p>
+            
+                  <persName id="t17540227-31-person320">
+                  Thomas 
+                  Wilson 
+               <interp inst="t17540227-31-person320" type="surname" value="Wilson"></interp>
+                     <interp inst="t17540227-31-person320" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-31-person320" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17540227-31-person321">
+                  Thomas 
+                  Copley 
+               <interp inst="t17540227-31-person321" type="surname" value="Copley"></interp>
+                     <interp inst="t17540227-31-person321" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-31-person321" type="gender" value="male"></interp>
+                  </persName>
+             were the proprietors of two of the wigs. The first deposed, that he shaved with the Prosecutrix, and that when he came for his wig it was gone; that when the Prisoner was taken he was before the justice with him, and heard him confess the selling of the three wigs, and said he sold his wig for nine pence, tho' he owned before the justice it was worth five shillings, and that he sold Bird's wig upon the same footing as his, for nine pence. The second deposed, that when he heard the Prisoner was taken he went down to Tothill-Fields-Bridewell to him, where the Prisoner confessed to him, that he sold his wig for a shilling to a hackney-coachman and the coachman's old wig.</p>
+               <p>The Prisoner in his defence said, that when he went out he left all the wigs in the shop, and that he went out to seek for a better place.</p>
+               <p>
+                  <rs id="t17540227-31-verdict178" type="verdictDescription">
+                     <interp inst="t17540227-31-verdict178" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540227-31-punish179" type="punishmentDescription">
+                     <interp inst="t17540227-31-punish179" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-31-defend312 t17540227-31-punish179"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

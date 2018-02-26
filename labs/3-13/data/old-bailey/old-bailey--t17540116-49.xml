@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-49">
+               <interp inst="t17540116-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-49" type="year" value="1754"></interp>
+               <interp inst="t17540116-49" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-49" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-49-off257-c387" targOrder="Y" targets="t17540116-49-defend474 t17540116-49-off257 t17540116-49-verdict260"></join>
+               <join result="criminalCharge" id="t17540116-49-off261-c387" targOrder="Y" targets="t17540116-49-defend474 t17540116-49-off261 t17540116-49-verdict260"></join>
+         
+               <p>137. (M.) 
+               
+                  <persName id="t17540116-49-defend474" type="defendantName">
+                     John Wright 
+                     Newark 
+                  <interp inst="t17540116-49-defend474" type="surname" value="Newark"></interp>
+                     <interp inst="t17540116-49-defend474" type="given" value="John Wright"></interp>
+                     <interp inst="t17540116-49-defend474" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted <rs id="t17540116-49-off257" type="offenceDescription">
+                     <interp inst="t17540116-49-off257" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t17540116-49-off257" type="offenceSubcategory" value="bigamy"></interp>
+               for that he on the <rs id="t17540116-49-cd258" type="crimeDate">11th of April, 1751</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-49-off257 t17540116-49-cd258"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-49-off261 t17540116-49-cd258"></join>, did marry one 
+                     <persName id="t17540116-49-victim475" type="victimName">
+                        Mary 
+                        Green 
+                     <interp inst="t17540116-49-victim475" type="surname" value="Green"></interp>
+                        <interp inst="t17540116-49-victim475" type="given" value="Mary"></interp>
+                        <interp inst="t17540116-49-victim475" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-49-off257 t17540116-49-victim475"></join>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-49-off261 t17540116-49-victim475"></join>
+                     </persName>
+                   , <rs id="t17540116-49-viclabel259" type="occupation">widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-49-victim475 t17540116-49-viclabel259"></join>, his former wife being then living. ||
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-49-verdict260" type="verdictDescription">
+                     <interp inst="t17540116-49-verdict260" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>See Number 353 in Sir 
+               <persName id="t17540116-49-person476">
+                  William 
+                  Calvert 
+               <interp inst="t17540116-49-person476" type="surname" value="Calvert"></interp>
+                     <interp inst="t17540116-49-person476" type="given" value="William"></interp>
+                     <interp inst="t17540116-49-person476" type="gender" value="male"></interp>
+                  </persName>
+            's Mayoralty, and Number 369 in Alderman Alsop's.</p>
+               <p>He was a second time indicted <rs id="t17540116-49-off261" type="offenceDescription">
+                     <interp inst="t17540116-49-off261" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t17540116-49-off261" type="offenceSubcategory" value="pervertingJustice"></interp>
+               as an accessary after the fact, in harbouring, comforting, and concealing 
+                     <persName id="t17540116-49-person477">
+                        John 
+                        Hambleton 
+                     <interp inst="t17540116-49-person477" type="surname" value="Hambleton"></interp>
+                        <interp inst="t17540116-49-person477" type="given" value="John"></interp>
+                        <interp inst="t17540116-49-person477" type="gender" value="male"></interp>
+                     </persName>
+                  , after the murder of Lord Harrington's cook. ||
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-49-verdict262" type="verdictDescription">
+                     <interp inst="t17540116-49-verdict262" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>See Hambleton's trial in the last Sessions Paper.</p>
+            </div1>

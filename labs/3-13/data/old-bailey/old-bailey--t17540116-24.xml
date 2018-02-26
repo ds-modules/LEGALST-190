@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-24">
+               <interp inst="t17540116-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-24" type="year" value="1754"></interp>
+               <interp inst="t17540116-24" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-24" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-24-off129-c185" targOrder="Y" targets="t17540116-24-defend227 t17540116-24-off129 t17540116-24-verdict131"></join>
+         
+               <p>109. (M) 
+               
+                  <persName id="t17540116-24-defend227" type="defendantName">
+                     Thomas 
+                     Cooke 
+                  <interp inst="t17540116-24-defend227" type="surname" value="Cooke"></interp>
+                     <interp inst="t17540116-24-defend227" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-24-defend227" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted <rs id="t17540116-24-off129" type="offenceDescription">
+                     <interp inst="t17540116-24-off129" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-24-off129" type="offenceSubcategory" value="shoplifting"></interp>
+               for stealing 144 silk handkerchiefs, value 10 l. the goods of 
+                     <persName id="t17540116-24-victim228" type="victimName">
+                        Godard 
+                        Williams 
+                     <interp inst="t17540116-24-victim228" type="surname" value="Williams"></interp>
+                        <interp inst="t17540116-24-victim228" type="given" value="Godard"></interp>
+                        <interp inst="t17540116-24-victim228" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-24-off129 t17540116-24-victim228"></join>
+                     </persName>
+                   , privately in his shop
+            </rs>, <rs id="t17540116-24-cd130" type="crimeDate">December 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-24-off129 t17540116-24-cd130"></join>. + .</p>
+               <p>Godard Williams. I can only say I lost these goods on the 15th of Dec. a little after five o'clock, but who took them I cannot say of my own knowledge. They were tied up between two boards in the shop window. A much larger quantity than is laid in the indictment, for I believe there were in the parcel above sixteen dozen. [Some handkerchiefs produced in Court, cut in single handkerchiefs, and the marks taken off.] What convinces me they are mine, some are a pattern of my own drawing. and some spoiled in the printing I have great reason to think are mine. Nay, I have great reason to think they are all mine. One has the printer's name on the selvage of the handkerchief of whom I bought it. The name is 
+               <persName id="t17540116-24-person229">
+                  Robert 
+                  Davis 
+               <interp inst="t17540116-24-person229" type="surname" value="Davis"></interp>
+                     <interp inst="t17540116-24-person229" type="given" value="Robert"></interp>
+                     <interp inst="t17540116-24-person229" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+
+               <p>Cross-Examined.</p>
+               <p>Q. How long has that pattern been made of your drawing?</p>
+               <p>Williams. About eighteen months.</p>
+               <p>Q May not other tradesmen have of the same sort?</p>
+               <p>Williams. They may.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160013"></xptr>Q. Do you take upon you to swear to that handkerchief you say is spoiled in the printing?</p>
+               <p>Williams. Yes, I do.</p>
+               <p>Q May not there be others spoiled as well as this ?</p>
+               <p>Williams. There may for what I know.</p>
+               <p>Bevil Bird. As 
+               <persName id="t17540116-24-person230">
+                  Thomas 
+                  Cooke 
+               <interp inst="t17540116-24-person230" type="surname" value="Cooke"></interp>
+                     <interp inst="t17540116-24-person230" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-24-person230" type="gender" value="male"></interp>
+                  </persName>
+             and I were going down the Strand together, we saw this window belonging to Mr. Williams; I lifted it up and shut it down again. This was just before the time of shop shutting. After this Cooke lifted the window up, and took the goods out, of which these are a part. They were packed up between two boards. We went home, and parted them betwixt us. Cooke pawned one in Chick-Lane, at Mr. Keys's; the next day he went and sold some of them, and afterwards shewed me the money. After that he sold a parcel more, which I think was either in Bishopsgate-Street, or Aldersgate-Street. This was all in one day. The next day he sold some more, and shewed me the money. I went not with him at any of the times. The next day he sold some more, and bought the cloaths he has on now.</p>
+               <p>Cross-Examination.</p>
+               <p>Q How long have you known him?</p>
+               <p>Bird. I have known him ever since he kept shop in Holborn.</p>
+               <p>Q. What are you?</p>
+               <p>Bird. I am a watchmaker.</p>
+               <p>Q. How long is this ago?</p>
+               <p>Bird. It is about a month or five weeks ago.</p>
+               <p>Q Had the prisoner, you, and his mother, been together at the Crown and Anchor in Little New-Street, near Shoe-Lane, that night the thing was done ?</p>
+               <p>Bird. Yes, we were.</p>
+               <p>Q. Did not you propose there to get him into business?</p>
+               <p>Bird. Yes, I did, and in the same business I am in, when I could get work.</p>
+               <p>
+            
+                  <persName id="t17540116-24-person231">
+                  William 
+                  Mensils 
+               <interp inst="t17540116-24-person231" type="surname" value="Mensils"></interp>
+                     <interp inst="t17540116-24-person231" type="given" value="William"></interp>
+                     <interp inst="t17540116-24-person231" type="gender" value="male"></interp>
+                  </persName>
+            . On the 18th of December I was upon parliament duty at Charing-Cross, being a constable for the parish of St. Martin's After it was out I came home, being about six o'clock, to my house in Hemans's Row, St. Martin's Lane, and a person told me there were Bevil Bird and Cooke that had robbed a shop in the Strand, and were at the Crown alehouse at the bottom of Church-Lane in the Strand, and desired me to go and help to take them. There was Bird drinking with some women of the town, I took him, and carried him to the Roundhouse. I was told there was a little bundle dropt under the table, then I returned, and found this handkerchief and six new ones tied up in it. I took them, went back to the Roundhouse, and shewed him this old handkerchief; he said it was his; I replied, then what was in it must belong to you. Upon this he confessed, that he and 
+               <persName id="t17540116-24-person232">
+                  Thomas 
+                  Cooke 
+               <interp inst="t17540116-24-person232" type="surname" value="Cooke"></interp>
+                     <interp inst="t17540116-24-person232" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-24-person232" type="gender" value="male"></interp>
+                  </persName>
+             took these from Mr. Williams's shop in the Strand; and six of these handkerchiefs have been in my custody ever since. On the 20th I took him before Justice Cox, there he said part of these handkerchiefs were concealed in one Harrison's house, who was his father in law, and lived in St. John's Street. There I was sent with a search-warrant, and found some more concealed in a bed. Cooke was taken up by another constable, but he told me that Bevil Bird had given him five of the handkerchiefs to dispose of, that he had disposed of them, spent some of the money, and was debtor to Bird for the money.</p>
+               <p>
+            
+                  <persName id="t17540116-24-person233">
+                  George 
+                  Purcel 
+               <interp inst="t17540116-24-person233" type="surname" value="Purcel"></interp>
+                     <interp inst="t17540116-24-person233" type="given" value="George"></interp>
+                     <interp inst="t17540116-24-person233" type="gender" value="male"></interp>
+                  </persName>
+            . On the 28th of December the prisoner at the bar was apprehended in the Fleet-Market, and brought to my house. I am a constable, and was charged with him. He said he was taken up for robbing Mr. Williams in the Strand. At the same time there were two handkerchiefs picked up off the floor that lay near the prisoner, [produced in Court] and I asked the prisoner if he dropt them; he denied it. I went to Bridewell, and delivered him. After that I took the prisoner as far as the bounds of the city, to deliver him to the constable, and went to Justice Cox's with him: there he denied having these two handkerchiefs in his possession.</p>
+               <p>Q. to Williams. Look upon these two handkerchiefs, do you think they are yours?</p>
+               <p>Williams. I have reason to think they are mine, by having some of the same pattern.</p>
+               <p>
+            
+                  <persName id="t17540116-24-person234">
+                  James 
+                  Brittin 
+               <interp inst="t17540116-24-person234" type="surname" value="Brittin"></interp>
+                     <interp inst="t17540116-24-person234" type="given" value="James"></interp>
+                     <interp inst="t17540116-24-person234" type="gender" value="male"></interp>
+                  </persName>
+            . I found Cooke at the Magpye by Holborn-Bridge, and seized him. I was at the constable's house, and saw two handkerchiefs on the ground; the constable asked him if he dropped them, he said yes.</p>
+               <p>Cross-Examination.</p>
+               <p>Q. What are you?</p>
+               <p>Brittin. I am a watchmaker.</p>
+               <p>
+            
+                  <persName id="t17540116-24-person235">
+                  William 
+                  Harrison 
+               <interp inst="t17540116-24-person235" type="surname" value="Harrison"></interp>
+                     <interp inst="t17540116-24-person235" type="given" value="William"></interp>
+                     <interp inst="t17540116-24-person235" type="gender" value="male"></interp>
+                  </persName>
+            . I was at the taking the prisoner at the Magpye by Holborn-Bridge. He endeavoured to make his escape, but was stopt, and carried to the constable's house. I saw the handkerchiefs on the ground, but do not know that they belonged to the prisoner.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160014"></xptr>Prisoner's Defence.</p>
+               <p>I know nothing at all of them, nor never had them.</p>
+               <p>To his Character.</p>
+               <p>
+            
+                  <persName id="t17540116-24-person236">
+                  Samuel 
+                  Mason 
+               <interp inst="t17540116-24-person236" type="surname" value="Mason"></interp>
+                     <interp inst="t17540116-24-person236" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-24-person236" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner eleven months. He is a very honest man for whatever I heard. He is a scowrer and dyer, and has got an income of about thirteen pounds a year. I do not look upon him to be in necessitous circumstances.</p>
+               <p>
+            
+                  <persName id="t17540116-24-person237">
+                  Mary 
+                  Mason 
+               <interp inst="t17540116-24-person237" type="surname" value="Mason"></interp>
+                     <interp inst="t17540116-24-person237" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-24-person237" type="gender" value="female"></interp>
+                  </persName>
+            . I am wife to the last witness. I have known him about a year, and have been in his company many times. I never heard any ill of him. I have been informed he has thirty pounds a year.</p>
+               <p>Sydney Cross. I have known him three or four years, and never knew any ill of him in my life, or heard any. He is a sober young man, and has thirty pounds a year to live on. I know that.</p>
+               <p>
+            
+                  <persName id="t17540116-24-person238">
+                  Eleanor 
+                  Gillet 
+               <interp inst="t17540116-24-person238" type="surname" value="Gillet"></interp>
+                     <interp inst="t17540116-24-person238" type="given" value="Eleanor"></interp>
+                     <interp inst="t17540116-24-person238" type="gender" value="female"></interp>
+                  </persName>
+            . I have known him these two years, and never heard any ill of him. He always kept company with reputable tradesmen.</p>
+               <p>
+                  <rs id="t17540116-24-verdict131" type="verdictDescription">
+                     <interp inst="t17540116-24-verdict131" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-24-verdict131" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of stealing, but not in the shop
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-24-punish132" type="punishmentDescription">
+                     <interp inst="t17540116-24-punish132" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-24-defend227 t17540116-24-punish132"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

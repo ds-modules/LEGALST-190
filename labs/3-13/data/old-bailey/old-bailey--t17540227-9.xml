@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-9">
+               <interp inst="t17540227-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-9" type="year" value="1754"></interp>
+               <interp inst="t17540227-9" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-9" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-9-off47-c103" targOrder="Y" targets="t17540227-9-defend120 t17540227-9-off47 t17540227-9-verdict48"></join>
+         
+               <p>162. (M.) 
+               <persName id="t17540227-9-defend120" type="defendantName">
+                  Eleanor, <rs id="t17540227-9-deflabel46" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540227-9-defend120 t17540227-9-deflabel46"></join> of 
+                     <persName id="t17540227-9-person121">
+                        John 
+                        Conner 
+                     <interp inst="t17540227-9-person121" type="surname" value="Conner"></interp>
+                        <interp inst="t17540227-9-person121" type="given" value="John"></interp>
+                        <interp inst="t17540227-9-person121" type="gender" value="male"></interp>
+                     </persName>
+                  , otherwise <rs id="t17540227-9-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17540227-9-defend120 t17540227-9-alias-1"></join>Tobin</rs>, otherwise <rs id="t17540227-9-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17540227-9-defend120 t17540227-9-alias-2"></join>Woods</rs>
+                     <interp inst="t17540227-9-defend120" type="surname" value="Conner"></interp>
+                     <interp inst="t17540227-9-defend120" type="given" value="Eleanor"></interp>
+                     <interp inst="t17540227-9-defend120" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17540227-9-off47" type="offenceDescription">
+                     <interp inst="t17540227-9-off47" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t17540227-9-off47" type="offenceSubcategory" value="returnFromTransportation"></interp>
+               returning from transportation before the expiration of her time
+            </rs>.</p>
+               <p>The copy of the record of her conviction was read in Court, the purport of which was, that she, on the 4th of April, 1748, was in due course of law tried for a capital felony, at the goal-delivery for the city of Bristol, and convicted, and received sentence of death; and after that it appeared, she received his majesty's royal mercy, upon condition of transportation for fourteen years. which she accepted upon that condition, and the Court did award the same on the 29th of August following.</p>
+               <p>
+            
+                  <persName id="t17540227-9-person122">
+                  Thomas 
+                  Stokes 
+               <interp inst="t17540227-9-person122" type="surname" value="Stokes"></interp>
+                     <interp inst="t17540227-9-person122" type="given" value="Thomas"></interp>
+                     <interp inst="t17540227-9-person122" type="gender" value="male"></interp>
+                  </persName>
+            . I am clerk to the town-clerk at Bristol, I believe the Prisoner at the bar is the very person that was tried and convicted as here mentioned. I attended the Court at the time.</p>
+               <p>
+            
+                  <persName id="t17540227-9-person123">
+                  John 
+                  Mason 
+               <interp inst="t17540227-9-person123" type="surname" value="Mason"></interp>
+                     <interp inst="t17540227-9-person123" type="given" value="John"></interp>
+                     <interp inst="t17540227-9-person123" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Bristol. The Prisoner was near two years in Newgate in Bristol at or about 1748, I had custody of her: I was in Court when she was convicted for a capital felony before Sir 
+               <persName id="t17540227-9-person124">
+                  Michael 
+                  Foster 
+               <interp inst="t17540227-9-person124" type="surname" value="Foster"></interp>
+                     <interp inst="t17540227-9-person124" type="given" value="Michael"></interp>
+                     <interp inst="t17540227-9-person124" type="gender" value="male"></interp>
+                  </persName>
+            , and I remember her being under sentence of transportation afterwards for the same, and put on board a vessel, I know not the name, but the captain's name was Whitare; the ship belonged to Benson of Biddeford.</p>
+               <p>
+            
+                  <persName id="t17540227-9-person125">
+                  James 
+                  Perrit 
+               <interp inst="t17540227-9-person125" type="surname" value="Perrit"></interp>
+                     <interp inst="t17540227-9-person125" type="given" value="James"></interp>
+                     <interp inst="t17540227-9-person125" type="gender" value="male"></interp>
+                  </persName>
+            . I was night constable in Bristol when the Prisoner was convicted there. I saw her tried there, it is near five years ago, for picking one farmer Hewit's pocket. I saw her when she received sentence of death, and after that I was there present when she was on her knees and desired his Majesty's pardon, and saw her receive sentence of transportation for fourteen years. On the 18th of December last I had business in London, and coming down Bridges-street, I there saw the Prisoner at large; I apprehended her, and took her before justice Fielding, and she was committed.</p>
+               <p>Prisoner's Defence.</p>
+               <p>My name is not Conner, and I am not the person. Captain 
+               <persName id="t17540227-9-person126">
+                  Lancey
+               <interp inst="t17540227-9-person126" type="given" value="Lancey"></interp>
+                     <interp inst="t17540227-9-person126" type="gender" value="indeterminate"></interp>
+                  </persName>
+            , now in Newgate, saw me, and said, I was not the person named 
+               <persName id="t17540227-9-person127">
+                  Eleanor 
+                  Conner 
+               <interp inst="t17540227-9-person127" type="surname" value="Conner"></interp>
+                     <interp inst="t17540227-9-person127" type="given" value="Eleanor"></interp>
+                     <interp inst="t17540227-9-person127" type="gender" value="female"></interp>
+                  </persName>
+            , and that she was drowned; for she went in the ship Nightingale, of which he was captain.</p>
+               <p>Lancey being capitally convicted at the sessions of admiralty, held on Monday the 15th of this inst. could not be admitted an evidence.</p>
+               <p>
+                  <rs id="t17540227-9-verdict48" type="verdictDescription">
+                     <interp inst="t17540227-9-verdict48" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17540227-9-punish49" type="punishmentDescription">
+                     <interp inst="t17540227-9-punish49" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t17540227-9-punish49" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-9-defend120 t17540227-9-punish49"></join>
+               Death
+            </rs>.</p>
+               <p>See the remarkable trial of Lancey, in the admiralty-paper, published by Mr. Griffith, in St. Paul's Church-yard.</p>
+            </div1>

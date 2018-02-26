@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-32">
+               <interp inst="t17540116-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-32" type="year" value="1754"></interp>
+               <interp inst="t17540116-32" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-32" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-32-off169-c247" targOrder="Y" targets="t17540116-32-defend303 t17540116-32-off169 t17540116-32-verdict172"></join>
+         
+               <p>119. (L.) 
+               
+                  <persName id="t17540116-32-defend303" type="defendantName">
+                     Benjamin 
+                     Ditto 
+                  <interp inst="t17540116-32-defend303" type="surname" value="Ditto"></interp>
+                     <interp inst="t17540116-32-defend303" type="given" value="Benjamin"></interp>
+                     <interp inst="t17540116-32-defend303" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for that he, <rs id="t17540116-32-off169" type="offenceDescription">
+                     <interp inst="t17540116-32-off169" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17540116-32-off169" type="offenceSubcategory" value="highwayRobbery"></interp>
+               together with 
+                     <persName id="t17540116-32-person304">
+                        Sarah 
+                        Holt 
+                     <interp inst="t17540116-32-person304" type="surname" value="Holt"></interp>
+                        <interp inst="t17540116-32-person304" type="given" value="Sarah"></interp>
+                        <interp inst="t17540116-32-person304" type="gender" value="female"></interp>
+                     </persName>
+                   and 
+                     <persName id="t17540116-32-person305">
+                        Mary 
+                        Merrit 
+                     <interp inst="t17540116-32-person305" type="surname" value="Merrit"></interp>
+                        <interp inst="t17540116-32-person305" type="given" value="Mary"></interp>
+                        <interp inst="t17540116-32-person305" type="gender" value="female"></interp>
+                     </persName>
+                  , not yet taken, on the king's highway, on 
+                     
+                        <persName id="t17540116-32-victim307" type="victimName">
+                           Robert 
+                           Colter 
+                        <interp inst="t17540116-32-victim307" type="surname" value="Colter"></interp>
+                        <interp inst="t17540116-32-victim307" type="given" value="Robert"></interp>
+                        <interp inst="t17540116-32-victim307" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-32-off169 t17540116-32-victim307"></join>
+                     </persName>
+                      
+                   did make an assault, putting him in corporal fear, and danger of his life, and one handkerchief made of silk and cotton, val. 4 d. one linen handkerchief, val. 4 d. and eight shillings in money number'd, from his person did steal, take, and carry away
+            </rs>, <rs id="t17540116-32-cd170" type="crimeDate">Jan. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-32-off169 t17540116-32-cd170"></join>.* </p> 
+               <p>Robert Colter. On the 6th of January, about nine in the evening, going from out of Little Britain to my house, the prisoner suddenly seized me with his hands at my breast, in <placeName id="t17540116-32-crimeloc171">Gravel-lane, near Aldgate</placeName>
+                  <interp inst="t17540116-32-crimeloc171" type="placeName" value="Gravel-lane, near Aldgate"></interp>
+                  <interp inst="t17540116-32-crimeloc171" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-32-off169 t17540116-32-crimeloc171"></join>; the two women came and pinion'd me down behind, and one of them stopped my mouth with her hand. The prisoner said something to me when he stopped me; but they gave me no time for an answer; they put me in fear, and took from me eight shillings in money, a silk and cotton handkerchief, and a linen blue check one.</p>
+               <p>Q. From whence did they take them?</p>
+               <p>Colter. The handkerchiefs were taken from out of my coat pocket, and the money from my breeches pocket. As soon as they let me go I ran in at the Ship alehouse, which was directly before me, and not twenty yards off. I asked for the landlord, who was not at home; I told the landlady I had been robbed near her house, and desired her to assist me by sending for a proper officer; she sent for a constable, and I looking round the house, saw 
+               <persName id="t17540116-32-person308">
+                  Daniel 
+                  Martin 
+               <interp inst="t17540116-32-person308" type="surname" value="Martin"></interp>
+                     <interp inst="t17540116-32-person308" type="given" value="Daniel"></interp>
+                     <interp inst="t17540116-32-person308" type="gender" value="male"></interp>
+                  </persName>
+            , whom I knew. He, I, and the constable, with some other people that were there, went out into the street. A woman looked out at a house near where I was robbed and said, The house is beset. I directly went in with the constable, and in a lower room there was a woman, a boy, and a child. I said none of these were the people I wanted. I went up stairs to a room, but the people within refused to open the door. We then returned into the street.</p>
+               <p>Q. Did any body within that room answer you?</p>
+               <p>Colter. They said they would not open the door. When we were in the street, I looked amongst the crowd, and there espied the prisoner at the bar, and 
+               <persName id="t17540116-32-person309">
+                  Mary 
+                  Merrit 
+               <interp inst="t17540116-32-person309" type="surname" value="Merrit"></interp>
+                     <interp inst="t17540116-32-person309" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-32-person309" type="gender" value="female"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Was you acquainted with either of them before?</p>
+               <p>Colter. No, I was not. I gave the constable charge of the prisoner; but he would not take him into custody, for which I have indicted him. He is not here, he said, his name is Dolphin. I went then immediately home, for fear of being ill used. The next day I went and inquired about, and having got the name of the prisoner and Merrit, I had the prisoner apprehended.</p>
+               <p>Q. Do you know who took your money and handkerchiefs from you ?</p>
+               <p>Colter. The prisoner took the money out of my pocket.</p>
+               <p>Q. Was it light enough to discern him?</p>
+               <p>Colter. There was a lamp before, and another behind me, by the help of which I took observations of his face and habit.</p>
+               <p>
+            
+                  <persName id="t17540116-32-person310">
+                  John 
+                  Plumer 
+               <interp inst="t17540116-32-person310" type="surname" value="Plumer"></interp>
+                     <interp inst="t17540116-32-person310" type="given" value="John"></interp>
+                     <interp inst="t17540116-32-person310" type="gender" value="male"></interp>
+                  </persName>
+            . I was along with Mr. Hambleton the constable, and the prosecutor, before my Lord mayor. There the prisoner confessed that 
+               <persName id="t17540116-32-person311">
+                  Mary 
+                  Merrit 
+               <interp inst="t17540116-32-person311" type="surname" value="Merrit"></interp>
+                     <interp inst="t17540116-32-person311" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-32-person311" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t17540116-32-person312">
+                  Sarah 
+                  Holt 
+               <interp inst="t17540116-32-person312" type="surname" value="Holt"></interp>
+                     <interp inst="t17540116-32-person312" type="given" value="Sarah"></interp>
+                     <interp inst="t17540116-32-person312" type="gender" value="female"></interp>
+                  </persName>
+             were in company with him when the gentleman was robb'd.</p>
+               <p>
+            
+                  <persName id="t17540116-32-person313">
+                  Rebecca 
+                  Torrant 
+               <interp inst="t17540116-32-person313" type="surname" value="Torrant"></interp>
+                     <interp inst="t17540116-32-person313" type="given" value="Rebecca"></interp>
+                     <interp inst="t17540116-32-person313" type="gender" value="female"></interp>
+                  </persName>
+            . The prosecutor came into our house, and said he had been robbed. I sent for an officer to assist him, and they took the prisoner that night, and brought him into my house. There the prisoner said he knew nothing of the robbery.</p>
+               <p>
+            
+                  <persName id="t17540116-32-person314">
+                  Daniel 
+                  Hambleton 
+               <interp inst="t17540116-32-person314" type="surname" value="Hambleton"></interp>
+                     <interp inst="t17540116-32-person314" type="given" value="Daniel"></interp>
+                     <interp inst="t17540116-32-person314" type="gender" value="male"></interp>
+                  </persName>
+            . I am constable. The prosecutor and Plumer came to me, and gave me a warrant against the prisoner and 
+               <persName id="t17540116-32-person315">
+                  Mary 
+                  Merrit 
+               <interp inst="t17540116-32-person315" type="surname" value="Merrit"></interp>
+                     <interp inst="t17540116-32-person315" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-32-person315" type="gender" value="female"></interp>
+                  </persName>
+            . I went to the ship in Gravel-lane, but could not find them there. As I knew Merrit and the prisoner, I then went to Merrit's house, and laid hold of her. She made a noise, and a great number of people came out, among whom was the prisoner, blustering, and asking what was the matter. I quitted the woman and laid hold on him. There I took him aside, and questioned him. He told me then where to find the two women that were concerned with him. I asked him who was the third person concerned with him, and he said her name was Holt.</p>
+               <p>Q. What did he mean by the words concerned with him?</p>
+               <p>Hambleton. It was not explained, and I did not ask him.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160018"></xptr>Prisoner's Defence.</p>
+               <p>Moll Merrit keeps the house where I lodge. The prosecutor brought two women up stairs when I was in my bed. He gave one sixpence to be concerned with him. After she had got hold of the sixpence she would not let him. They awaked me, and I awaked myself, and saw he had a white great coat on. He pulled it off, and put it upon the bed. I got out of bed, and when he saw me he went down stairs, saying to Merrit. Don't use me ill. She took a candle, and lighted him down stairs, for which he gave her a halfpenny. I never saw him down stairs after that night, neither did I go down.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17540116-32-person316">
+                  David 
+                  Thomas 
+               <interp inst="t17540116-32-person316" type="surname" value="Thomas"></interp>
+                     <interp inst="t17540116-32-person316" type="given" value="David"></interp>
+                     <interp inst="t17540116-32-person316" type="gender" value="male"></interp>
+                  </persName>
+            . I was in a room joining to that in which were the prosecutor and two womem, who came that night into this house. I was washing myself, and going to put on a clean shirt. They went into my room, and I was in the prisoner's room. As I was going into the room I saw the prosecutor give one of the women sixpennyworth of halfpence; 
+               <persName id="t17540116-32-person317">
+                  Anne 
+                  Rowley 
+               <interp inst="t17540116-32-person317" type="surname" value="Rowley"></interp>
+                     <interp inst="t17540116-32-person317" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-32-person317" type="gender" value="female"></interp>
+                  </persName>
+             was one of them. He had a roqueleau on, which he pulled off, and laid it on a chest in my room. After he had given away the halfpence, having a stick in his hand, he was going to lick these two women.</p>
+               <p>Q. What did he want to lick them for?</p>
+               <p>Thomas. Because he wanted to lie with them for the sixpennyworth of halfpence, and they would not let him. I then spoke to the prisoner to go out and see what was the matter. He went out of his room into mine, and the prosecutor went down stairs. Nobody stirred out of the room till such time as the prosecutor brought the constable.</p>
+               <p>
+            
+                  <persName id="t17540116-32-person318">
+                  Jane 
+                  James 
+               <interp inst="t17540116-32-person318" type="surname" value="James"></interp>
+                     <interp inst="t17540116-32-person318" type="given" value="Jane"></interp>
+                     <interp inst="t17540116-32-person318" type="gender" value="female"></interp>
+                  </persName>
+            . I live next door to the house where this thing was acted. I was over the way, and my children came and told me, there was a great crowd about the door. I looked out, and there was the prosecutor, the constable, and a carman. They wanted to break open a door above stairs. I said the people were hard-working people, and I believed they were in bed, and that sure they must be mistaken in the house. The prosecutor insisted upon it that it was the house, and that he was robb'd up one pair of stairs. He told the constable he'd return him if he did not go up and break open the door. Presently came down a woman, who, he said, had robbed him, and he desired Dolphin, the constable, to take her in charge; but he would not.</p>
+               <p>Q. What is the prisoner's general character?</p>
+               <p>J. James. I never knew any ill of him in my life.</p>
+               <p>
+            
+                  <persName id="t17540116-32-person319">
+                  Sarah 
+                  White 
+               <interp inst="t17540116-32-person319" type="surname" value="White"></interp>
+                     <interp inst="t17540116-32-person319" type="given" value="Sarah"></interp>
+                     <interp inst="t17540116-32-person319" type="gender" value="female"></interp>
+                  </persName>
+            . I saw the prosecutor, as I was coming home with a pennyworth of turnips and a leek, under the alley gate with two women, and heard him make a bargain with them for sixpence; he said he had no more money, and if they would go they might; then I saw them go in at this house where 
+               <persName id="t17540116-32-person320">
+                  David 
+                  Thomas 
+               <interp inst="t17540116-32-person320" type="surname" value="Thomas"></interp>
+                     <interp inst="t17540116-32-person320" type="given" value="David"></interp>
+                     <interp inst="t17540116-32-person320" type="gender" value="male"></interp>
+                  </persName>
+             lives.</p>
+               <p>
+                  <rs id="t17540116-32-verdict172" type="verdictDescription">
+                     <interp inst="t17540116-32-verdict172" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-12">
+               <interp inst="t17540116-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-12" type="year" value="1754"></interp>
+               <interp inst="t17540116-12" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-12" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-12-off62-c94" targOrder="Y" targets="t17540116-12-defend115 t17540116-12-off62 t17540116-12-verdict66"></join>
+         
+               <p>92. (L.) 
+               
+                  <persName id="t17540116-12-defend115" type="defendantName">
+                     Anne 
+                     Ashley 
+                  <interp inst="t17540116-12-defend115" type="surname" value="Ashley"></interp>
+                     <interp inst="t17540116-12-defend115" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-12-defend115" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540116-12-deflabel61" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-12-defend115 t17540116-12-deflabel61"></join>, was indicted for <rs id="t17540116-12-off62" type="offenceDescription">
+                     <interp inst="t17540116-12-off62" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-12-off62" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one stuff gown, value 6 d. one pair of stays, value 3 s. and one pair of sheets, value 2 s.
+            </rs> the goods of 
+               
+                  <persName id="t17540116-12-victim117" type="victimName">
+                     John 
+                     Smith 
+                  <interp inst="t17540116-12-victim117" type="surname" value="Smith"></interp>
+                     <interp inst="t17540116-12-victim117" type="given" value="John"></interp>
+                     <interp inst="t17540116-12-victim117" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-12-off62 t17540116-12-victim117"></join>
+                  </persName>
+                
+            , <rs id="t17540116-12-cd63" type="crimeDate">Dec. 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-12-off62 t17540116-12-cd63"></join>. ++.</p>
+               <p>
+            
+                  <persName id="t17540116-12-person118">
+                  John 
+                  Smith 
+               <interp inst="t17540116-12-person118" type="surname" value="Smith"></interp>
+                     <interp inst="t17540116-12-person118" type="given" value="John"></interp>
+                     <interp inst="t17540116-12-person118" type="gender" value="male"></interp>
+                  </persName>
+            . I lodge in <placeName id="t17540116-12-crimeloc64">Bishop's Court in the Old-Bailey</placeName>
+                  <interp inst="t17540116-12-crimeloc64" type="placeName" value="Bishop's Court in the Old-Bailey"></interp>
+                  <interp inst="t17540116-12-crimeloc64" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-12-off62 t17540116-12-crimeloc64"></join>, and am a <rs id="t17540116-12-viclabel65" type="occupation">printer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-12-victim117 t17540116-12-viclabel65"></join>. I lock'd my door, and went out to work at nine in the morning on the 29th of December, and found it broke open when I return'd, (being sent for about eleven in the morning) and the things mentioned were taken away, which I left in the room when I went out. The prisoner was taken with the things upon her.</p>
+               <p>Q. Did she lodge in the house?</p>
+               <p>Smith. No, I never saw her before as I know of. The constable was charged with her before I was sent for, and she begged I would excuse her. I took her before my Lord Mayor, and there she did not own the taking the goods, as I remember, but said the door was open.</p>
+               <p>John-Matthews Graydon. I live in Ratcliff-Highway. I was going to Mr. Eliot, that lives in that house above Mr. Smith, and met the woman with her lap full of things, who told me no such person lived there. I called Mr. Eliot, and he answered; I asked him what sort of a neighbour lived the stairs below, he said they were not at home; then I replied there was a thief, and told him I had met a woman with some things in her lap; upon which we pursued her, and took her in St. Sepulchre's church porch with the goods upon her; we sent for the prosecutor, and the prisoner owned she took the goods.</p>
+               <p>
+            
+                  <persName id="t17540116-12-person119">
+                  John 
+                  Eliot 
+               <interp inst="t17540116-12-person119" type="surname" value="Eliot"></interp>
+                     <interp inst="t17540116-12-person119" type="given" value="John"></interp>
+                     <interp inst="t17540116-12-person119" type="gender" value="male"></interp>
+                  </persName>
+            . I lodge over Mr. Smith. The last evidence told me he met a woman on the stairs which he suspected to be a thief; I looked into the room, and found the sheets were gone off the bed; we pursued, and took her in St. Sepulchre's church porch.</p>
+               <p>[The goods produced in court, and deposed to by the prosecutor.]</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was in liquor, and did not know what I did.</p>
+               <p>
+                  <rs id="t17540116-12-verdict66" type="verdictDescription">
+                     <interp inst="t17540116-12-verdict66" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-12-punish67" type="punishmentDescription">
+                     <interp inst="t17540116-12-punish67" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-12-defend115 t17540116-12-punish67"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

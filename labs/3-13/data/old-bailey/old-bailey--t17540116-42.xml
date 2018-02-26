@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-42">
+               <interp inst="t17540116-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-42" type="year" value="1754"></interp>
+               <interp inst="t17540116-42" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-42" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-42-off225-c350" targOrder="Y" targets="t17540116-42-defend425 t17540116-42-off225 t17540116-42-verdict228"></join>
+         
+               <p>130. (L.) 
+               
+                  <persName id="t17540116-42-defend425" type="defendantName">
+                     Richard 
+                     Gandy 
+                  <interp inst="t17540116-42-defend425" type="surname" value="Gandy"></interp>
+                     <interp inst="t17540116-42-defend425" type="given" value="Richard"></interp>
+                     <interp inst="t17540116-42-defend425" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-42-off225" type="offenceDescription">
+                     <interp inst="t17540116-42-off225" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-42-off225" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one man's hat. val. 5 s.
+            </rs> the property of 
+               <persName id="t17540116-42-victim426" type="victimName">
+                  Samuel 
+                  Hall 
+               <interp inst="t17540116-42-victim426" type="surname" value="Hall"></interp>
+                     <interp inst="t17540116-42-victim426" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-42-victim426" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-42-off225 t17540116-42-victim426"></join>
+                  </persName>
+             , <rs id="t17540116-42-cd226" type="crimeDate">December 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-42-off225 t17540116-42-cd226"></join>*.</p>
+               <p>Samuel Hall. I am <rs id="t17540116-42-viclabel227" type="occupation">clerk</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-42-victim426 t17540116-42-viclabel227"></join> of Walbrook ward in the city. I was holding the wardmote on St. Thomas's day. I was taking the poll, and my hat, which I have under my arm, was then hanging up. The poll was closed at two; during the time of it the prisoner came in, and my hat was taken from him; which is all I know. I did not see him take it; he behaved as if he did not know what he did, and I did not take him to be in his senses.</p>
+               <p>
+            
+                  <persName id="t17540116-42-person427">
+                  Thomas 
+                  Hambleton 
+               <interp inst="t17540116-42-person427" type="surname" value="Hambleton"></interp>
+                     <interp inst="t17540116-42-person427" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-42-person427" type="gender" value="male"></interp>
+                  </persName>
+            . I saw the prisoner knock the hat off a peg, as it was hanging that day; after which he put his own on his head, and the other under his coat. We let him go as far as the door that leads into Salters-hall yard. We then carried him back, and took the hat from under his coat. When the alderman said he must commit him, he talked as if he was not in his senses.</p>
+               <p>Q. Was the prisoner sober?</p>
+               <p>Hambleton. He was not fuddled.</p>
+               <p>Prisoner. I was going to return the hat to the place from whence I took it.</p>
+               <p>Hambleton. He was not. He was going out with it till we made him come back.</p>
+
+               <p>Prisoner's Defence.</p>
+               <p>I never was charged with a criminal action before in my life, and believe it will be made to appear that I have behaved with decency, and kept the best of company, that I was not given to liquor<xptr type="pageFacsimile" doc="175401160033"></xptr> or bad language; and I think nobody ever behaved with more modesty, both in public and private conversation.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17540116-42-person428">
+                  Thomas 
+                  Dale 
+               <interp inst="t17540116-42-person428" type="surname" value="Dale"></interp>
+                     <interp inst="t17540116-42-person428" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-42-person428" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner twenty years, but never knew him guilty of an ill thing in my life. About seven years ago he collected a great deal of money for me, and did his business very faithfully.</p>
+               <p>Q. How has his behaviour been of late?</p>
+               <p>Dale. For this year or two I have seldom seen him. I believe he has not been in his senses these seven years last past.</p>
+               <p>
+            
+                  <persName id="t17540116-42-person429">
+                  Charles 
+                  Holloway 
+               <interp inst="t17540116-42-person429" type="surname" value="Holloway"></interp>
+                     <interp inst="t17540116-42-person429" type="given" value="Charles"></interp>
+                     <interp inst="t17540116-42-person429" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him above twenty years.</p>
+               <p>Q. What is his general character?</p>
+               <p>Holloway. He is a man of a sober inclination as any living, a good liver, and an honest man. I am very positive of it, that his misfortunes in his family have had an effect upon his understanding.</p>
+               <p>
+            
+                  <persName id="t17540116-42-person430">
+                  John 
+                  Brownridge 
+               <interp inst="t17540116-42-person430" type="surname" value="Brownridge"></interp>
+                     <interp inst="t17540116-42-person430" type="given" value="John"></interp>
+                     <interp inst="t17540116-42-person430" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him about eight years, and he all that time bore an exceeding good character; but I have not, for this year past, had much intercourse with him. I have often heard him relate his care on account of his wife, but can say nothing to that.</p>
+               <p>
+            
+                  <persName id="t17540116-42-person431">
+                  Randolph 
+                  Latture 
+               <interp inst="t17540116-42-person431" type="surname" value="Latture"></interp>
+                     <interp inst="t17540116-42-person431" type="given" value="Randolph"></interp>
+                     <interp inst="t17540116-42-person431" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him upwards of ten years. He always had the character of an honest man, and was well respected by those that kept him company.</p>
+               <p>
+            
+                  <persName id="t17540116-42-person432">
+                  Robert 
+                  Bucker 
+               <interp inst="t17540116-42-person432" type="surname" value="Bucker"></interp>
+                     <interp inst="t17540116-42-person432" type="given" value="Robert"></interp>
+                     <interp inst="t17540116-42-person432" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him three years last past. I never knew but he was a very just man, and constant at church every Sunday.</p>
+               <p>
+                  <rs id="t17540116-42-verdict228" type="verdictDescription">
+                     <interp inst="t17540116-42-verdict228" type="verdictCategory" value="notGuilty"></interp>
+               Acq
+            </rs>.</p>
+            </div1>

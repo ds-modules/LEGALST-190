@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-19">
+               <interp inst="t17540227-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-19" type="year" value="1754"></interp>
+               <interp inst="t17540227-19" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-19" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-19-off101-c164" targOrder="Y" targets="t17540227-19-defend200 t17540227-19-off101 "></join>
+         
+               <p>172. (L.) 
+               
+                  <persName id="t17540227-19-defend200" type="defendantName">
+                     John 
+                     Weatley 
+                  <interp inst="t17540227-19-defend200" type="surname" value="Weatley"></interp>
+                     <interp inst="t17540227-19-defend200" type="given" value="John"></interp>
+                     <interp inst="t17540227-19-defend200" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540227-19-off101" type="offenceDescription">
+                     <interp inst="t17540227-19-off101" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-19-off101" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one silk handkerchief, value 2 s. 6 d. the property of 
+                     
+                        <persName id="t17540227-19-victim202" type="victimName">
+                           Charles 
+                           Appleby 
+                        <interp inst="t17540227-19-victim202" type="surname" value="Appleby"></interp>
+                        <interp inst="t17540227-19-victim202" type="given" value="Charles"></interp>
+                        <interp inst="t17540227-19-victim202" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540227-19-off101 t17540227-19-victim202"></join>
+                     </persName>
+                      
+                   privately from his person
+            </rs>, <rs id="t17540227-19-cd102" type="crimeDate">February 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-19-off101 t17540227-19-cd102"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-19-person203">
+                  Charles 
+                  Appleby 
+               <interp inst="t17540227-19-person203" type="surname" value="Appleby"></interp>
+                     <interp inst="t17540227-19-person203" type="given" value="Charles"></interp>
+                     <interp inst="t17540227-19-person203" type="gender" value="male"></interp>
+                  </persName>
+            . On Saturday the 2d of this instant, about seven in the evening, going along <placeName id="t17540227-19-crimeloc103">Ludgate-Hill</placeName>
+                  <interp inst="t17540227-19-crimeloc103" type="placeName" value="Ludgate-Hill"></interp>
+                  <interp inst="t17540227-19-crimeloc103" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-19-off101 t17540227-19-crimeloc103"></join>, I saw the glimpse of something fly by the side of my face, and turning saw the prisoner with my silk handkerchief in his hand. I took him by the collar. He said he would go with me where I pleased. I took him to the Fountain Tavern, sent for a constable, and he was secured.</p>
+               <p>Q. When do you remember you had it last?</p>
+               <p>Appleby. I had used it about three minutes before.</p>
+               <p>Prisoner's defence.</p>
+               <p>I never did such a thing in my life. Please to examine Mr. Lilley to my character.</p>
+               <p>Mr. Lilley. He is a very bad boy, I have seen him a drawer at an alehouse, he has been here two or three times, and is as bad a boy as can be.</p>
+               <p>See him an evidence on the trial of Fairbrother by the name of Degon, No 467, in Alderman Gascoigne's mayoralty.</p>
+               <p>
+                  <rs id="t17540227-19-punish104" type="punishmentDescription">
+                     <interp inst="t17540227-19-punish104" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-19-defend200 t17540227-19-punish104"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

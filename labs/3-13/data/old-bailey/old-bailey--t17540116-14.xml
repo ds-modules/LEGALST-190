@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-14">
+               <interp inst="t17540116-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-14" type="year" value="1754"></interp>
+               <interp inst="t17540116-14" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-14" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-14-off74-c104" targOrder="Y" targets="t17540116-14-defend128 t17540116-14-off74 t17540116-14-verdict77"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160008"></xptr>91. (M) 
+               
+                  <persName id="t17540116-14-defend128" type="defendantName">
+                     Elizabeth 
+                     Pettit 
+                  <interp inst="t17540116-14-defend128" type="surname" value="Pettit"></interp>
+                     <interp inst="t17540116-14-defend128" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-14-defend128" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17540116-14-off74" type="offenceDescription">
+                     <interp inst="t17540116-14-off74" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-14-off74" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one stock bed, value 1 s. 6 d. one blanket, one boulster, one pillow, one pair of bellows, and three chairs
+            </rs>, the goods of 
+               
+                  <persName id="t17540116-14-victim130" type="victimName">
+                     Rebecca 
+                     Smith 
+                  <interp inst="t17540116-14-victim130" type="surname" value="Smith"></interp>
+                     <interp inst="t17540116-14-victim130" type="given" value="Rebecca"></interp>
+                     <interp inst="t17540116-14-victim130" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-14-off74 t17540116-14-victim130"></join>
+                  </persName>
+                
+            , <rs id="t17540116-14-viclabel75" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-14-victim130 t17540116-14-viclabel75"></join>, <rs id="t17540116-14-cd76" type="crimeDate">October 15.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-14-off74 t17540116-14-cd76"></join>*</p>
+               <p>
+            
+                  <persName id="t17540116-14-person131">
+                  Rebecca 
+                  Smith 
+               <interp inst="t17540116-14-person131" type="surname" value="Smith"></interp>
+                     <interp inst="t17540116-14-person131" type="given" value="Rebecca"></interp>
+                     <interp inst="t17540116-14-person131" type="gender" value="female"></interp>
+                  </persName>
+            . I took the prisoner to lodge with me, and being taken very ill. I was obliged to go to St. James's Infirmary, and left her there. when I came back again, I missed the things mentioned in the indictment, and several other things.</p>
+               <p>Q. Upon what conditions did you take her in?</p>
+               <p>Smith. She was to be there for nothing.</p>
+               <p>Q. When did you go to the Infirmary ?</p>
+               <p>Smith. On the 25th of September. I was there seven weeks. The prisoner sold the goods to Mr. Hartley in Tothill-Street, and I have seen them there; since the prisoner confessed she sold them before me and several others.</p>
+               <p>
+            
+                  <persName id="t17540116-14-person132">
+                  Sarah 
+                  Strughton 
+               <interp inst="t17540116-14-person132" type="surname" value="Strughton"></interp>
+                     <interp inst="t17540116-14-person132" type="given" value="Sarah"></interp>
+                     <interp inst="t17540116-14-person132" type="gender" value="female"></interp>
+                  </persName>
+            . I live next door to the prosecutrix. I know the prisoner lay with her. The prisoner told me, after the prosecutrix was gone to the Infirmary, she had received an order to sell the goods, to get a little money to buy her a little wine to comfort her, so I help'd to carry the goods to the broker's, and saw her sell them for one and twenty pence. After this I went to the prosecutrix, and asking her if the prisoner had brought her the money she made of her goods, she replied she sent her no such order.</p>
+               <p>Q. to prosecutrix. Did you give her an order to sell the goods?</p>
+               <p>Prosecutrix. No, I did not.</p>
+               <p>Prisoner's Defence.</p>
+               <p>The prosecutrix sent me a letter to sell them by a woman.</p>
+               <p>
+                  <rs id="t17540116-14-verdict77" type="verdictDescription">
+                     <interp inst="t17540116-14-verdict77" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-14-verdict77" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17540116-14-punish78" type="punishmentDescription">
+                     <interp inst="t17540116-14-punish78" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17540116-14-punish78" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-14-defend128 t17540116-14-punish78"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

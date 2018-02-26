@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-13">
+               <interp inst="t17540227-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-13" type="year" value="1754"></interp>
+               <interp inst="t17540227-13" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-13" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-13-off71-c128" targOrder="Y" targets="t17540227-13-defend154 t17540227-13-off71 t17540227-13-verdict74"></join>
+         
+               <p>166. (L.) 
+               
+                  <persName id="t17540227-13-defend154" type="defendantName">
+                     James 
+                     Mitchel 
+                  <interp inst="t17540227-13-defend154" type="surname" value="Mitchel"></interp>
+                     <interp inst="t17540227-13-defend154" type="given" value="James"></interp>
+                     <interp inst="t17540227-13-defend154" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540227-13-off71" type="offenceDescription">
+                     <interp inst="t17540227-13-off71" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-13-off71" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one linen handkerchief, value 12 d. the property of 
+                     
+                        <persName id="t17540227-13-victim156" type="victimName">
+                           Richard 
+                           Hughes 
+                        <interp inst="t17540227-13-victim156" type="surname" value="Hughes"></interp>
+                        <interp inst="t17540227-13-victim156" type="given" value="Richard"></interp>
+                        <interp inst="t17540227-13-victim156" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540227-13-off71 t17540227-13-victim156"></join>
+                     </persName>
+                      
+                  , privately from his person
+            </rs>, <rs id="t17540227-13-cd72" type="crimeDate">Feb. 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-13-off71 t17540227-13-cd72"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540227-13-person157">
+                  Richard 
+                  Hughes 
+               <interp inst="t17540227-13-person157" type="surname" value="Hughes"></interp>
+                     <interp inst="t17540227-13-person157" type="given" value="Richard"></interp>
+                     <interp inst="t17540227-13-person157" type="gender" value="male"></interp>
+                  </persName>
+            . I was coming along <placeName id="t17540227-13-crimeloc73">Fleet-street</placeName>
+                  <interp inst="t17540227-13-crimeloc73" type="placeName" value="Fleet-street"></interp>
+                  <interp inst="t17540227-13-crimeloc73" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540227-13-off71 t17540227-13-crimeloc73"></join> on the 11th of Feb. between seven and eight of the clock at night, there was no body near me but the prisoner; I felt something at my pocket, and turning about, saw the prisoner had my handkerchief in his hand. I charged him with stealing my handkerchief, upon which he immediately ran away, but was taken. There was an evidence saw him drop the handkerchief, but he is now ill in bed. I carried him before Justice Fielding, who sent me back with him into the city, the fact being committed there. Coming along he pulled out a knife, and swore he would stick me if I would not let him go. He got away, but I knocked him down, and retook him again, and took up the knife, [producing it in court] the prisoner said if ever he got his liberty, and could meet me in an open field, he would make fine sport with me.</p>
+               <p>Prisoner's defence.</p>
+               <p>I was not near him, and know nothing of this handkerchief; they took and dragged me about, and knocked me down, and used me very ill.</p>
+               <p>
+                  <rs id="t17540227-13-verdict74" type="verdictDescription">
+                     <interp inst="t17540227-13-verdict74" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>After the prisoner found he was <rs id="t17540227-13-punish75" type="punishmentDescription">
+                     <interp inst="t17540227-13-punish75" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540227-13-defend154 t17540227-13-punish75"></join>
+               to be transported
+            </rs>, he thanked the court, and said, if he had staid at home he should have been hanged in three sessions more.</p>
+            </div1>

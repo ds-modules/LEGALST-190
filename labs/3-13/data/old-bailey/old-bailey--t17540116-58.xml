@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-58">
+               <interp inst="t17540116-58" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-58" type="year" value="1754"></interp>
+               <interp inst="t17540116-58" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-58" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-58-off301-c431" targOrder="Y" targets="t17540116-58-defend537 t17540116-58-off301 t17540116-58-verdict303"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160039"></xptr>147. (L.) 
+               
+                  <persName id="t17540116-58-defend537" type="defendantName">
+                     Mary 
+                     Boyd 
+                  <interp inst="t17540116-58-defend537" type="surname" value="Boyd"></interp>
+                     <interp inst="t17540116-58-defend537" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-58-defend537" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17540116-58-deflabel300" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-58-defend537 t17540116-58-deflabel300"></join>, was indicted for <rs id="t17540116-58-off301" type="offenceDescription">
+                     <interp inst="t17540116-58-off301" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-58-off301" type="offenceSubcategory" value="other"></interp>
+               stealing two yards of striped lawn
+            </rs>, the property of 
+               
+                  <persName id="t17540116-58-victim539" type="victimName">
+                     John 
+                     Rishton 
+                  <interp inst="t17540116-58-victim539" type="surname" value="Rishton"></interp>
+                     <interp inst="t17540116-58-victim539" type="given" value="John"></interp>
+                     <interp inst="t17540116-58-victim539" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-58-off301 t17540116-58-victim539"></join>
+                  </persName>
+                
+            , <rs id="t17540116-58-cd302" type="crimeDate">Dec. 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-58-off301 t17540116-58-cd302"></join>. ++ .</p>
+               <p>
+                  <rs id="t17540116-58-verdict303" type="verdictDescription">
+                     <interp inst="t17540116-58-verdict303" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-58-punish304" type="punishmentDescription">
+                     <interp inst="t17540116-58-punish304" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-58-defend537 t17540116-58-punish304"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

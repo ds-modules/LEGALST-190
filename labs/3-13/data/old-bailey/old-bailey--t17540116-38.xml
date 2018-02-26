@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-38">
+               <interp inst="t17540116-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-38" type="year" value="1754"></interp>
+               <interp inst="t17540116-38" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-38" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-38-off202-c317" targOrder="Y" targets="t17540116-38-defend382 t17540116-38-off202 t17540116-38-verdict204"></join>
+               <join result="criminalCharge" id="t17540116-38-off202-c318" targOrder="Y" targets="t17540116-38-defend384 t17540116-38-off202 t17540116-38-verdict204"></join>
+         
+               <p>125, 126. (M.) 
+               <persName id="t17540116-38-defend382" type="defendantName">
+                  
+                     William 
+                     Irons 
+                  , otherwise <rs id="t17540116-38-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17540116-38-defend382 t17540116-38-alias-2"></join>Isles</rs>
+                     <interp inst="t17540116-38-defend382" type="surname" value="Irons"></interp>
+                     <interp inst="t17540116-38-defend382" type="given" value="William"></interp>
+                     <interp inst="t17540116-38-defend382" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17540116-38-defend384" type="defendantName">
+                  
+                     Benjamin 
+                     Richford 
+                  , otherwise <rs id="t17540116-38-alias-3" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17540116-38-defend384 t17540116-38-alias-3"></join>Richmond</rs>
+                     <interp inst="t17540116-38-defend384" type="surname" value="Richford"></interp>
+                     <interp inst="t17540116-38-defend384" type="given" value="Benjamin"></interp>
+                     <interp inst="t17540116-38-defend384" type="gender" value="male"></interp>
+                  </persName>
+            , were indicted for <rs id="t17540116-38-off202" type="offenceDescription">
+                     <interp inst="t17540116-38-off202" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-38-off202" type="offenceSubcategory" value="burglary"></interp>
+               that they, on the <rs id="t17540116-38-cd203" type="crimeDate">16th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-38-off202 t17540116-38-cd203"></join>, about the hour of two in the night, the dwelling-house of 
+                     
+                        <persName id="t17540116-38-victim387" type="victimName">
+                           William 
+                           Briley 
+                        <interp inst="t17540116-38-victim387" type="surname" value="Briley"></interp>
+                        <interp inst="t17540116-38-victim387" type="given" value="William"></interp>
+                        <interp inst="t17540116-38-victim387" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-38-off202 t17540116-38-victim387"></join>
+                     </persName>
+                      
+                   did break and enter, and three pigs, val. 3 s. his property, did steal
+            </rs>.</p>
+               <p>
+            
+                  <persName id="t17540116-38-person388">
+                  William 
+                  Briley 
+               <interp inst="t17540116-38-person388" type="surname" value="Briley"></interp>
+                     <interp inst="t17540116-38-person388" type="given" value="William"></interp>
+                     <interp inst="t17540116-38-person388" type="gender" value="male"></interp>
+                  </persName>
+            . On the 16th of December, about six or seven in the morning, I got up and found a window below, belonging to the dwelling-house, broke.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160028"></xptr>Q. In what manner was it broke?</p>
+               <p>Riley. I had nailed up boards against it, because I would not pay window-light, which were pulled down. This was a lodging room, where sometimes I have laid. There were three sucking pigs, which I had bought the night before, taken away, and going to the place where I keep my sows for breeding, I found the lock of that door broke. I was informed by a person near me, that his lodgers had been out all night, who were Irons and the evidence Price; upon which I took up Price, and he confessed the whole. I went on the Monday following to the White Hart in White-Chapel, where he said they were sold, and there I was informed it was truth.</p>
+               <p>Q. Did you ever get your pigs again?</p>
+               <p>Briley. No, I never did.</p>
+               <p>
+            
+                  <persName id="t17540116-38-person389">
+                  William 
+                  Price 
+               <interp inst="t17540116-38-person389" type="surname" value="Price"></interp>
+                     <interp inst="t17540116-38-person389" type="given" value="William"></interp>
+                     <interp inst="t17540116-38-person389" type="gender" value="male"></interp>
+                  </persName>
+            . The two prisoners and I had been together at an alehouse in Goswell-Street till about four o'clock, on the 16th of December; they both asked me to go along with them, and we all went to the prosecutor's house. Richford and I went over into the yard, and Irons staid by the pales. We broke open one place, where were three hogs; then we went to the window of the house, and Richford pulled away the boards that were nailed up against it, pushed away the straw that was tucked in, and put me into the room, where I found three sucking pigs, which I took and gave to him, and he to Irons. One of the pigs was given away. We were all three together when Richford sold two for a shilling and a full pot of beer each; one to a carman, and another to a woman. Richford asked us to go first of all, for we did not know where the pigs were.</p>
+               <p>
+            
+                  <persName id="t17540116-38-person390">
+                  Jacob 
+                  Harvey 
+               <interp inst="t17540116-38-person390" type="surname" value="Harvey"></interp>
+                     <interp inst="t17540116-38-person390" type="given" value="Jacob"></interp>
+                     <interp inst="t17540116-38-person390" type="gender" value="male"></interp>
+                  </persName>
+            . I was with the prosecutor at the taking the prisoners and evidence; we had them all three together, and I heard them all confess this fact, of breaking the house and taking the pigs out. Richford owned he stuck the pigs with this knife, (producing it) which I took out of his pocket.</p>
+               <p>
+            
+                  <persName id="t17540116-38-person391">
+                  Samuel 
+                  Philipson 
+               <interp inst="t17540116-38-person391" type="surname" value="Philipson"></interp>
+                     <interp inst="t17540116-38-person391" type="given" value="Samuel"></interp>
+                     <interp inst="t17540116-38-person391" type="gender" value="male"></interp>
+                  </persName>
+            . I was present when the two prisoners and evidence confessed they broke into the house, and took the pigs out.</p>
+               <p>
+            
+                  <persName id="t17540116-38-person392">
+                  William 
+                  Norden 
+               <interp inst="t17540116-38-person392" type="surname" value="Norden"></interp>
+                     <interp inst="t17540116-38-person392" type="given" value="William"></interp>
+                     <interp inst="t17540116-38-person392" type="gender" value="male"></interp>
+                  </persName>
+            . I was along with Harvey and Philips, and heard the two prisoners and evidence confess as before mentioned.</p>
+               <p>William-Palmer Hide. I have known Richford many years, and was at the Barley-Mow when he was brought in there. He desired I would intercede for him to be admitted an evidence. There he confessed he broke the boards down at the prosecutor's window, that the pigs were handed to him by the evidence, and he handed them to Irons.</p>
+               <p>
+            
+                  <persName id="t17540116-38-person393">
+                  John 
+                  Evans 
+               <interp inst="t17540116-38-person393" type="surname" value="Evans"></interp>
+                     <interp inst="t17540116-38-person393" type="given" value="John"></interp>
+                     <interp inst="t17540116-38-person393" type="gender" value="male"></interp>
+                  </persName>
+            . I met the two prisoners at the bar in Whitechapel on the 16th of December, about nine in the morning, and they offered to sell two dead pigs to me.</p>
+               <p>Irons's Defence.</p>
+               <p>When I came out of the alehouse about twelve o'clock I was fuddled, and went into that yard to lie down on the straw; there was Richford, who came to me with a pig in his hand; I said, Where had you it? he answered, What is that to you. He then went and fetched two more, and I went with him into Whitechapel.</p>
+               <p>Richford's Defence.</p>
+               <p>The evidence got in the place, took the pigs out, and gave them to me. I never was near the window, nor did I know that the man kept pigs before.</p>
+               <p>
+            
+                  <persName id="t17540116-38-person394">
+                  William 
+                  Wright 
+               <interp inst="t17540116-38-person394" type="surname" value="Wright"></interp>
+                     <interp inst="t17540116-38-person394" type="given" value="William"></interp>
+                     <interp inst="t17540116-38-person394" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-38-person395">
+                  Mary 
+                  Williams 
+               <interp inst="t17540116-38-person395" type="surname" value="Williams"></interp>
+                     <interp inst="t17540116-38-person395" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-38-person395" type="gender" value="female"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-38-person396">
+                  Elizabeth 
+                  Walker 
+               <interp inst="t17540116-38-person396" type="surname" value="Walker"></interp>
+                     <interp inst="t17540116-38-person396" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-38-person396" type="gender" value="female"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-38-person397">
+                  Anne 
+                  Hartley 
+               <interp inst="t17540116-38-person397" type="surname" value="Hartley"></interp>
+                     <interp inst="t17540116-38-person397" type="given" value="Anne"></interp>
+                     <interp inst="t17540116-38-person397" type="gender" value="female"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-38-person398">
+                  Mary 
+                  Haynes 
+               <interp inst="t17540116-38-person398" type="surname" value="Haynes"></interp>
+                     <interp inst="t17540116-38-person398" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-38-person398" type="gender" value="female"></interp>
+                  </persName>
+            , and James Burnet, appeared for Irons, and gave him a good character.</p>
+               <p>Both <rs id="t17540116-38-verdict204" type="verdictDescription">
+                     <interp inst="t17540116-38-verdict204" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, <rs id="t17540116-38-punish205" type="punishmentDescription">
+                     <interp inst="t17540116-38-punish205" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-38-defend382 t17540116-38-punish205"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-38-defend384 t17540116-38-punish205"></join>
+               Death
+            </rs>.</p>
+            </div1>

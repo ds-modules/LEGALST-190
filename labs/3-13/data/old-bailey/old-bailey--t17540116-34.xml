@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-34">
+               <interp inst="t17540116-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-34" type="year" value="1754"></interp>
+               <interp inst="t17540116-34" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-34" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-34-off178-c274" targOrder="Y" targets="t17540116-34-defend333 t17540116-34-off178 t17540116-34-verdict182"></join>
+         
+               <p>121. (L.) 
+               <persName id="t17540116-34-defend333" type="defendantName">
+                  
+                     Thomas 
+                     Barnard 
+                  , otherwise <rs id="t17540116-34-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17540116-34-defend333 t17540116-34-alias-1"></join>Barnett</rs>
+                     <interp inst="t17540116-34-defend333" type="surname" value="Barnard"></interp>
+                     <interp inst="t17540116-34-defend333" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-34-defend333" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17540116-34-off178" type="offenceDescription">
+                     <interp inst="t17540116-34-off178" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-34-off178" type="offenceSubcategory" value="burglary"></interp>
+               that he, together with one other person unknown, on the <rs id="t17540116-34-cd179" type="crimeDate">4th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-34-off178 t17540116-34-cd179"></join>, about the hour of two in the night of the same day, the dwelling-house of 
+                     <persName id="t17540116-34-person335">
+                        Boyce 
+                        Tree 
+                     <interp inst="t17540116-34-person335" type="surname" value="Tree"></interp>
+                        <interp inst="t17540116-34-person335" type="given" value="Boyce"></interp>
+                        <interp inst="t17540116-34-person335" type="gender" value="male"></interp>
+                     </persName>
+                   did break and enter, with intent the goods, chattles, and monies of the said 
+                     
+                        <persName id="t17540116-34-victim337" type="victimName">
+                           Boyce 
+                           Tree 
+                        <interp inst="t17540116-34-victim337" type="surname" value="Tree"></interp>
+                        <interp inst="t17540116-34-victim337" type="given" value="Boyce"></interp>
+                        <interp inst="t17540116-34-victim337" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-34-off178 t17540116-34-victim337"></join>
+                     </persName>
+                      
+                  , to steal, take, and carry away
+            </rs>.</p>
+               <p>He was a second time indicted for breaking the said dwelling-house, and stealing a cheese, the property of the said Boyce Tree*.</p>
+               <p>
+            
+                  <persName id="t17540116-34-person338">
+                  Boyce 
+                  Tree 
+               <interp inst="t17540116-34-person338" type="surname" value="Tree"></interp>
+                     <interp inst="t17540116-34-person338" type="given" value="Boyce"></interp>
+                     <interp inst="t17540116-34-person338" type="gender" value="male"></interp>
+                  </persName>
+            . On Friday the 4th of this instant my servant, going to shut up the counting house and hall windows, observed the padlock was broke off the cellar door, which is just under the hall window; he came and acquainted me with it. Upon this I went with him to inquire into the cause of it, and found a very large bolt withinside was wrenched off; then I went down into the cellar to see whether I had lost any thing, and I missed one cheese off from a hanging shelf; I then went to examine the door, that goes out of the cellar into the house, and there I found somebody had been wrenching with a crow, that the lower bolt of the door was broke off, and that they had cut away the rabbit of the door, to strain it inwards, because they could not get it open the other way; but that would not do, for there were two screw bolts on the other side. I then went out into the street, and desired my servant to shut the door as he found it; he did, and I observed several places where they had put the crow through; upon this I thought they did not want to steal cheese, but to come to my counting-house. I then sent for a person, whose name is Kiddel, to sit up with my clerk, myself, and servant; they in the counting-house, and I above stairs in the dining-room with my wife, who was very much frighted. He came between nine and ten o'clock, and they began watch about twelve. They had a candle shut up in a closet, so that it could shew no light, and I armed them with a brace of pistols among them, and a sword each, charging them not to stir, nor make the least noise. till they heard somebody in the cellar, and that then they should rush out into the street, and I would come down and screw the cellar door upon them; which I thought was a very good trap. A little after two I heard the street door open, (I had left the window-shutter of the dining-room open, in order to call assistance ) I threw up the window and looked out; there I saw my men struggling against the cellar door, and from the inside I heard a noise of thumping against the door with an iron instrument, in order to make their way out, and before I got down stairs, I heard a pistol go off. Upon the pistol's firing, and my man's calling out for the watch, some of my neighbours got up. I went down stairs into the house, but did not go into the street, not knowing what number there were; and my neighbours coming. I sent down to the watch-house for the constable of the night, but he was gone home to bed; they sent home to his house, and got him up, and he came in about a quarter of an hour's time to my house. There were two watchmen came in before he came, but when he came, the man that I hired, and my own servant, went down to the cellar door with the constable; the man that I hired took the prisoner by the collar, and brought him into the hall. When he came up, I was surprized to see him, I knowing him very well. He is a <rs id="t17540116-34-deflabel180" type="occupation">master carman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-34-defend333 t17540116-34-deflabel180"></join>, and works constantly at Queenhithe.</p>
+
+         
+               <p>In a few days will be published the Second Part of these Proceedings.</p>
+         
+               <div1 type="frontMatter" id="t17540116-34">
+                  <interp inst="t17540116-34" type="collection" value="BAILEY"></interp>
+                  <interp inst="t17540116-34" type="year" value="1754"></interp>
+                  <interp inst="t17540116-34" type="uri" value="sessionsPapers/17540116"></interp>
+                  <interp inst="t17540116-34" type="date" value="17540116"></interp>
+            
+                  <p>
+                     <xptr type="pageFacsimile" doc="175401160021"></xptr>THE PROCEEDINGS ON THE King's Commissions of the Peace, Oyer and Terminer, and Gaol Delivery FOR THE CITY of LONDON; And also the Gaol Delivery for the County of MIDDLESEX, HELD AT JUSTICE-HALL in the OLD-BAILEY, On Wednesday the 16th, Thursday the 17th, Friday the 18th, Saturday the 19th, and Monday the 21st, of JANUARY.</p>
+                  <p>In the 27th Year of His MAJESTY's Reign. NUMBER II. PART II. for the Year 1754. BEING THE Second SESSIONS in the MAYORALTY of the Right Hon. 
+                  <persName id="t17540116-34-person339">
+                     Thomas 
+                     Rawlinson 
+                  <interp inst="t17540116-34-person339" type="surname" value="Rawlinson"></interp>
+                        <interp inst="t17540116-34-person339" type="given" value="Thomas"></interp>
+                        <interp inst="t17540116-34-person339" type="gender" value="male"></interp>
+                     </persName>
+               , Esq; LORD-MAYOR of the CITY of LONDON.</p>
+                  <p>LONDON:</p>
+                  <p>Printed, and sold by M. COOPER, at the Globe in Pater-noster Row. 1754,</p>
+                  <p>[Price Four-Pence.]</p>
+                  <p>
+                     <xptr type="pageFacsimile" doc="175401160022"></xptr>THE PROCEEDINGS ON THE</p>
+                  <p>Kings Commissions of the Peace, Oyer and Terminer, and Gaol Delivery held for the City of London, &amp;c.</p>
+               </div1>
+               <p>Q. HAVE you ever employed him as a carman?</p>
+               <p>Tree. I am a <rs id="t17540116-34-viclabel181" type="occupation">malt factor</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-34-victim337 t17540116-34-viclabel181"></join>, and he very often works for brewers; he has workt for gentlemen who have dealt with me, but they always paid the carman. As soon as he saw me, he begged of me to be merciful to him, and said he could be of very great service to me in making discoveries; I asked him what he could discover; he replied that there was one Peters, a carman, (whom I find since was a partner in the business) concerned with him; that he and Peters had been there the night before, and broke off the lock from the cellar door; and that they stole a cheese; which was all they did take. I then said to him, As you took the cheese only, what was your intent? his answer was, No good, Sir, you may be sure. I then said to him, Had I heard you in my house, and come down to you, what would have been the consequence? for you know that I knew you, and you me, you would have murdered me. No, says he, upon the honour of a man I did not come for murder. I asked him again what he did come for; his answer was, Money. He then fell down on his knees, and begged of me to be merciful to him, and let him be admitted an evidence. I then bid the constable and my men take him away, and they carried him to the watch-house; but I forgetting to examine him before he went away, sent a man to desire they would bring him back, or examine him there, and they brought him back again. I searched his pockets, and took a very large knife out of his coat pocket, and with the knife there was a very large saw, which shut up together. [The knife produced in Court.] In the other pocket I found a tinder box, the matches and steel were not in it, but they were found afterwards on the cellar stairs. I asked him whether he had any other tools; he replied he had an iron crow with him, which he dropt in straining against the cellar-door to get out. The crow was found by my servant, and this is it, producing it. [It was a band crow about eighteen inches long.] My servant also found the dark lanthorn; producing it. [It was a small one, fit to carry in the pocket.] After I saw all these things, I desired they would carry him away to the Compter; they did, and the next morning I was with him before my Lord Mayor. There he owned the taking of the cheese, and said that these tools were his. I went to the prisoner's house on a search-warrant, which one Mr. Pope had got, who had had his counting house broke open a little before, and there I found my cheese.</p>
+               <p>Q. Do you know any thing of securing your cellar the night Before?</p>
+               <p>Tree. I believe it was fast, for I always keep the key of the padlock myself.</p>
+               <p>Q. Had you the key in your possession at that time?</p>
+               <p>Tree. I had.</p>
+               <p>Q. Do you know any thing of locking it before you took the key.</p>
+               <p>Tree. I keep wine in the cellar, and the prisoner's partner brought a pipe of wine into it about three months before, and it never has been opened since.</p>
+               <p>Cross-Examined.</p>
+               <p>Q. You say the prisoner owned several facts to you, were they owned freely and openly?</p>
+               <p>Tree. It was all done freely and voluntary.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160023"></xptr>
+            
+                  <persName id="t17540116-34-person340">
+                  Lionel 
+                  Kiddel 
+               <interp inst="t17540116-34-person340" type="surname" value="Kiddel"></interp>
+                     <interp inst="t17540116-34-person340" type="given" value="Lionel"></interp>
+                     <interp inst="t17540116-34-person340" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to Mr. Pelton, a cooper in Wood-Street, and on Friday sev'nnight I was sent for to Mr. Tree's. When I went in, he told me what had happened, as that he had had his house broke open, and a cheese stole out of the cellar, and that another door was wrenched at the top of the cellar stairs. I bargained with him to sit up. He brought us two pistols and two swords; I had one of the pistols, and loaded it with a ball. We went into the counting-house about eleven at night, and the candle we had we shut up in a closet, so that there was no light to be seen; we sat there till twelve o'clock, and concluding we were not near enough to hear if they came to the cellar window, we agreed that we should go out one at a time, and so take it by turn, to watch at the bulk of the cellar window. We did, and we watched till pretty near one o'clock, when we heard them at the cellar window and hall door. I cannot tell who they were. They tapt at the hall door with their knuckles, which I apprehend was to see whether there was a dog. I stood quite still at the door, the others were in the counting-house, and they thinking I knocked for them to come, came softly to me; I desired them to go back; they did. Then they tapped again, and said we are all right, or it will do, I cannot say which. I was not a foot from the door at that time. I then went back into the counting-house to them, there we resolved for us all three to go and stand by the bulk; we did, the clerk stood at the door with a sword in his hand, and in the other hand the latch of the door, I stood next to him, and the footman next to me, and on a signal I was to give to touch the clerk, he was to open the door, and I was to go out. We stood there till two o'clock, and just as the clock struck two, we heard somebody come to open the cellar door, the watch not having been gone by but a very little time; he was not got a hundred yards. We stood still for near five minutes, when I heard somebody at work in the cellar, as though they were breaking the door open; I laid my head down on the bulk to listen, and heard something break. Upon this I bobbed the clerk to open the door, and went out immediately, the footman following me, and the clerk after him. When we came out, we found the cellar door shut, and the bar upon the staple, in the same manner as it was left the night before, which a little surprized me. I had hardly recovered my surprize, before the prisoner at the bar came up to the door, and knocked the bar off from the staple, and the door a little open; I ran directly to the door, and laying hold of it, clapped my knees to the door, and forced it too again. Both the clerk and footman assisted me to keep the door shut. The prisoner made a strong resistance, and got the door open so far, that I could see the head of a man, but not to know him. We shut it too again, and kept it close. The prisoner then beat out part of the bottom pannel of the door, and got it partly open again: he continued forcing, and trying to get out, and with the forcing I slipt, and fell upon my knees, and the others with me; I got up again upon my legs, but before I could get up to the door to shove it too, the prisoner struck me over the eye with some instrument he had in his hand, (he said at the watch-house he believed it was the iron bar he took off from the cellar door) which partly stunned me. I thought I should have fell backwards, but the clerk being near me, saved me from that, and I fell down on one side; I soon recovered myself, and getting upon my knees, I turned my eye towards the cellar window, and saw the prisoner getting out. I then fired a pistol at him, which missed him, and afterwards forced the cellar door quite too again. I then heard no pushing, nor any noise, for the space of two or three minutes; presently after we heard a sudden noise against the door again, upon which I called to the footman for his pistol to fire at him; he made answer he would fire at him himself, and presented the pistol to him, which did not go off, but only flashed in the pan. We then got all to the door, shoved it close upon him, and called out for more pistols. I asked the prisoner if he would surrender, and he said he would; I then put the bar up which goes across the window, and put the footman's pistol in the staple, in order to fasten it; I then bid the prisoner put his hands through the hole that he had broke, that I might tie them, and he put them out. I then said, Take your hands in again, I will not tie them, but I will come down to you the other way. Just about this time some watchmen came to our assistance, (all the while before none came, though we were continually calling out for them) and I charged one of them to aid and assist me; but he said it was out of his beat. Out of your beat! says I, stir at your peril, for here is a thief in the cellar; then some watchmen came from Queenhithe watch-house, and the constable being sent for, the watchman brought word back there was no constable there; then two or three more watchmen went and fetched the constable. I would have gone into the cellar before, but I was advised not to go down till the constable came; when the constable came, he and I went down into the cellar;<xptr type="pageFacsimile" doc="175401160024"></xptr> I took the key and opened the cellar door, the constable being behind me on the stairs. As soon as I opened the door the footman went in, and I followed him; the footman had the candle in his hand, but did not see him: I went in, and turning my head towards the cellar stairs, I saw the prisoner sitting upon them. I had a pistol in my hand, and as soon as I saw him, I cocked it, and said, You, Sir, come down; Sir, says he, I am coming. He came from the stairs, and got upon a stand which they put beer upon. I then laid hold on his collar, and asked if he had any thing in his hands; he opened his hands, and said, No, indeed. I asked him whether there was any body else in the cellar with him; he said no, there was not; then says I, Come along up stairs; he came with me and the watchman to the foot of the stairs, and then the watchman and constable took charge of him. I have known him these eight or nine years, but I did not take notice who he was at that time. After he was taken up stairs, we went into the cellar to see if there was any body else; we found no body, but looking about, we found a dark lanthorn and a carman's white apron, both which we carried up, and gave to Mr. Tree. We then brought the prisoner to Mr. Tree, before whom he fell on his knees, and begged for mercy. I was present at that time. He said his poor wife was brought to bed, and in the straw at that time; adding, that it was one Peters that had brought him to it, who, he said, was with him at that time. Mr. Tree said to him, You are a pretty fellow, what was your design? No good, Sir, says he, to be sure. Then says Mrs. Tree, I suppose you would have murdered all you came near. No, indeed, Madam, replied he. What was your design? said Mrs. Tree. My design was, answered he, for your money. He then said he could be of great service to them; that one Peters had brought him to ruin; that Peters and he were there the night before, and that Peters broke the lock off the door, and took away a cheese. He then desired Mr. Tree to make enquiry after Peters. We went down to the watch-house with him; there he said he believed Peters was gone to the stables, and that we should find him there in the hay loft. Some watchmen and we went down to the stables, but could not find any such person; we returned, and told the prisoner so. Then he desired we would go to Red-Lion-Street, Holborn, and there we might find him, because he kept house there. The prisoner was then brought to Mr. Tree's house again, and was searched. I was present then, and was close to his pockets; in one of which we found a large knife with a saw in it, and a tug pin. He was then carried to the Compter, and the next morning before my Lord Mayor; and we also carried the things we found before his Lordship. There he owned that the iron crow, and the rest of the things, were his.</p>
+               <p>Cross-Examination.</p>
+               <p>Q. At what time of the night was this when you heard him come to the door, and say we are all right?</p>
+               <p>Kiddel. A little after one o'clock. They went away and came again afterwards, but I don't know who they were.</p>
+               <p>Q. What condition was the prisoner in when you found him in the cellar, was he sober?</p>
+               <p>Kiddel. I really believe he was.</p>
+               <p>Philip Richbill and William Tarver confirmed the testimony of the two former witness; only Tarver said he did not remember any thing said about the cheese to the prisoner.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was in a surprize when I was brought out of the cellar, and did not know what I said. The gentleman asked me if I was there the night before, and I said yes; but I was not, for I was in bed by ten o'clock; and the cheese that was found at my house, was brought by Peters. The next morning my horse-keeper saw him come in with it; and he coming up for a candle, saw me in bed.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17540116-34-person341">
+                  Robert 
+                  Hup 
+               <interp inst="t17540116-34-person341" type="surname" value="Hup"></interp>
+                     <interp inst="t17540116-34-person341" type="given" value="Robert"></interp>
+                     <interp inst="t17540116-34-person341" type="gender" value="male"></interp>
+                  </persName>
+            . I am horse-keeper to the prisoner at the bar, and have been about three months. This Peters came to our house on the third of January in the morning. My master was in bed then.</p>
+               <p>Q. How do you know he was?</p>
+               <p>Hup. He was in bed about four o'clock, when I went up for the keys. I always carry hsm the keys the last thing I do at night, and fetch them the first thing in the morning, and when I went to fetch the keys, he was at home in his bed. I went into Peter's stable to light my candle, and I found him lying on some sacks, which I took particular notice of; and there was a carman's apron tied up, which lay just by his head, and which to me seemed much like a cheese.</p>
+               <p>
+            
+                  <persName id="t17540116-34-person342">
+                  Richard 
+                  Crevill 
+               <interp inst="t17540116-34-person342" type="surname" value="Crevill"></interp>
+                     <interp inst="t17540116-34-person342" type="given" value="Richard"></interp>
+                     <interp inst="t17540116-34-person342" type="gender" value="male"></interp>
+                  </persName>
+            . On Friday morning, between five and six, I saw Peters lying on the sacks in his own stable.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160025"></xptr>Q. Did you observe any parcel at that time?</p>
+               <p>Crevill. No, I did not; but I wondered to see him lie upon the sacks.</p>
+               <p>
+            
+                  <persName id="t17540116-34-person343">
+                  Godfrey 
+                  Gimbart 
+               <interp inst="t17540116-34-person343" type="surname" value="Gimbart"></interp>
+                     <interp inst="t17540116-34-person343" type="given" value="Godfrey"></interp>
+                     <interp inst="t17540116-34-person343" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-34-person344">
+                  Henry 
+                  Haynes 
+               <interp inst="t17540116-34-person344" type="surname" value="Haynes"></interp>
+                     <interp inst="t17540116-34-person344" type="given" value="Henry"></interp>
+                     <interp inst="t17540116-34-person344" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17540116-34-person345">
+                  Benjamin 
+                  Davie 
+               <interp inst="t17540116-34-person345" type="surname" value="Davie"></interp>
+                     <interp inst="t17540116-34-person345" type="given" value="Benjamin"></interp>
+                     <interp inst="t17540116-34-person345" type="gender" value="male"></interp>
+                  </persName>
+            , Wilkinson Barwell, and Mr. Townsend, appeared to give the prisoner a good character, and said they never heard any thing amiss of him before this time.</p>
+               <p>
+                  <rs id="t17540116-34-verdict182" type="verdictDescription">
+                     <interp inst="t17540116-34-verdict182" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17540116-34-punish183" type="punishmentDescription">
+                     <interp inst="t17540116-34-punish183" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-34-defend333 t17540116-34-punish183"></join>
+               Death
+            </rs>.</p>
+            </div1>

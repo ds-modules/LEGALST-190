@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540227-37">
+               <interp inst="t17540227-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540227-37" type="year" value="1754"></interp>
+               <interp inst="t17540227-37" type="uri" value="sessionsPapers/17540227"></interp>
+               <interp inst="t17540227-37" type="date" value="17540227"></interp>
+               <join result="criminalCharge" id="t17540227-37-off199-c271" targOrder="Y" targets="t17540227-37-defend343 t17540227-37-off199 t17540227-37-verdict201"></join>
+         
+               <p>193. (M.) 
+               <persName id="t17540227-37-defend343" type="defendantName">
+                  Matth.ew 
+                  Barrot 
+               <interp inst="t17540227-37-defend343" type="surname" value="Barrot"></interp>
+                     <interp inst="t17540227-37-defend343" type="given" value="Matth.ew"></interp>
+                     <interp inst="t17540227-37-defend343" type="gender" value="male"></interp>
+                  </persName>
+             was indicted for <rs id="t17540227-37-off199" type="offenceDescription">
+                     <interp inst="t17540227-37-off199" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540227-37-off199" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two gate irons, value 1 s. the property of 
+                     
+                        <persName id="t17540227-37-victim345" type="victimName">
+                           Daniel 
+                           Cluing 
+                        <interp inst="t17540227-37-victim345" type="surname" value="Cluing"></interp>
+                        <interp inst="t17540227-37-victim345" type="given" value="Daniel"></interp>
+                        <interp inst="t17540227-37-victim345" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540227-37-off199 t17540227-37-victim345"></join>
+                     </persName>
+                      
+                  , four gate irons, value 2 s and one iron lock and iron chain
+            </rs>, the goods of persons unknown, <rs id="t17540227-37-cd200" type="crimeDate">Jan. 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540227-37-off199 t17540227-37-cd200"></join>.*</p>
+               <p> 
+                  <rs id="t17540227-37-verdict201" type="verdictDescription">
+                     <interp inst="t17540227-37-verdict201" type="verdictCategory" value="notGuilty"></interp>
+               Acquit
+            </rs>.</p>
+            </div1>
