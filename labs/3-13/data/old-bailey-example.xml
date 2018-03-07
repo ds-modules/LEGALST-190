@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17031013-13">
+               <interp inst="t17031013-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t17031013-13" type="year" value="1703"></interp>
+               <interp inst="t17031013-13" type="uri" value="sessionsPapers/17031013"></interp>
+               <interp inst="t17031013-13" type="date" value="17031013"></interp>
+               <join result="criminalCharge" id="t17031013-13-off60-c52" targOrder="Y" targets="t17031013-13-defend52 t17031013-13-off60 t17031013-13-verdict64"></join>
+         
+               <p>
+            
+                  <persName id="t17031013-13-defend52" type="defendantName">
+                  Samuel 
+                  Davis
+               <interp inst="t17031013-13-defend52" type="surname" value="Davis"></interp>
+                     <interp inst="t17031013-13-defend52" type="given" value="Samuel"></interp>
+                     <interp inst="t17031013-13-defend52" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17031013-13-defloc59">St. James Westminster</placeName>
+                  <interp inst="t17031013-13-defloc59" type="placeName" value="St. James Westminster"></interp>
+                  <interp inst="t17031013-13-defloc59" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17031013-13-defend52 t17031013-13-defloc59"></join>, was indicted for <rs id="t17031013-13-off60" type="offenceDescription">
+                     <interp inst="t17031013-13-off60" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17031013-13-off60" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously Stealing 58 Diamonds set in Silver gilt, value 250 l.
+            </rs> the Goods of the Honourable 
+               <persName id="t17031013-13-victim53" type="victimName">
+                  Catherine 
+                  <rs id="t17031013-13-viclabel61" type="occupation">Lady</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17031013-13-victim53 t17031013-13-viclabel61"></join> 
+                  Herbert
+               <interp inst="t17031013-13-victim53" type="surname" value="Herbert"></interp>
+                     <interp inst="t17031013-13-victim53" type="given" value="Catherine"></interp>
+                     <interp inst="t17031013-13-victim53" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17031013-13-off60 t17031013-13-victim53"></join>
+                  </persName>
+            , on the <rs id="t17031013-13-cd62" type="crimeDate">28th of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17031013-13-off60 t17031013-13-cd62"></join> last. It appeared that the Jewels were put up in a Closet, which was lockt, and the Prisoner being a <rs id="t17031013-13-deflabel63" type="occupation">Coachman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17031013-13-defend52 t17031013-13-deflabel63"></join> in the House, took his opportunity to take them; the Lady, when missing them, offered a Reward of Fourscore Pounds to any that could give any notice of it; upon enquiry, the Lady heard that a Diamond was sold on London-Bridge, and they described the Prisoner who sold it, and pursuing him, found the Prisoner at East-Ham, with all his Goods bundled up ready to be gone, and in his Trunk found all the Diamonds but one, which was found upon him in the Role of his Stocking, when searcht before the Justice. He denied the Fact, saying, He found them upon a great Heap of Rubbish, but could not prove it; and that being but a weak Excuse, the Jury found him <rs id="t17031013-13-verdict64" type="verdictDescription">
+                     <interp inst="t17031013-13-verdict64" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17031013-13-punish65" type="punishmentDescription">
+                     <interp inst="t17031013-13-punish65" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17031013-13-punish65" type="punishmentSubcategory" value="brandingOnCheek"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17031013-13-defend52 t17031013-13-punish65"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
