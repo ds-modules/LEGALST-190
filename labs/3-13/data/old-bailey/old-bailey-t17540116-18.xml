@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-18">
+               <interp inst="t17540116-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-18" type="year" value="1754"></interp>
+               <interp inst="t17540116-18" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-18" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-18-off98-c146" targOrder="Y" targets="t17540116-18-defend180 t17540116-18-off98 t17540116-18-verdict100"></join>
+         
+               <p>102. (L.) 
+               
+                  <persName id="t17540116-18-defend180" type="defendantName">
+                     Michael 
+                     Riley 
+                  <interp inst="t17540116-18-defend180" type="surname" value="Riley"></interp>
+                     <interp inst="t17540116-18-defend180" type="given" value="Michael"></interp>
+                     <interp inst="t17540116-18-defend180" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-18-off98" type="offenceDescription">
+                     <interp inst="t17540116-18-off98" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-18-off98" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one linen handkerchief. val. 2 d.
+            </rs> the property of 
+               
+                  <persName id="t17540116-18-victim182" type="victimName">
+                     John 
+                     Randall 
+                  <interp inst="t17540116-18-victim182" type="surname" value="Randall"></interp>
+                     <interp inst="t17540116-18-victim182" type="given" value="John"></interp>
+                     <interp inst="t17540116-18-victim182" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-18-off98 t17540116-18-victim182"></join>
+                  </persName>
+                
+            , <rs id="t17540116-18-cd99" type="crimeDate">Dec. 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-18-off98 t17540116-18-cd99"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17540116-18-person183">
+                  John 
+                  Randall 
+               <interp inst="t17540116-18-person183" type="surname" value="Randall"></interp>
+                     <interp inst="t17540116-18-person183" type="given" value="John"></interp>
+                     <interp inst="t17540116-18-person183" type="gender" value="male"></interp>
+                  </persName>
+            . On Christmas Friday a woman came to me in Cheapside, and said, she had found a chain of a watch. She said, she wished the right owner had it again; I gave no heed to her, the prisoner was with her just behind me. I put my hand in my pocket, and missing my handkerchief, said somebody had got it, and then turning about, saw the prisoner drop it out of his hand on the ground. I got assistance and took him before my Lord Mayor, where he denied it.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175401160010"></xptr>Prisoner's Defence.</p>
+               <p>A woman said to the prosecutor. You have dropped something, you have dropped your handkerchief, and the prosecutor took it up.</p>
+               <p>For the Prisoner.</p>
+               <p>On the 28th of December, about six at night, I walked side by side with the prosecutor and seeing him drop something, said, I believe a dozen times, Why do not you pick it up? The prisoner was coming along, but made a stop, and a woman in a black bonnet and scarlet cloak came by and took up a handkerchief, which she gave to me. He then flung his basket from his shoulder, and taking the prisoner by the collar, said he had picked his pocket.</p>
+               <p>Prosecutor. This is all false, and this is the woman that said she had pick'd up a chain of a watch.</p>
+               <p>Q. Did not the prisoner belong to you?</p>
+               <p>Elener. No, I was coming side by side all alone. The prosecutor was in liquor.</p>
+               <p>Q. to Prosecutor. Was you sober?</p>
+               <p>Prosecutor. I was very sober.</p>
+               <p>
+            
+                  <persName id="t17540116-18-person184">
+                  Eleanor 
+                  Brown 
+               <interp inst="t17540116-18-person184" type="surname" value="Brown"></interp>
+                     <interp inst="t17540116-18-person184" type="given" value="Eleanor"></interp>
+                     <interp inst="t17540116-18-person184" type="gender" value="female"></interp>
+                  </persName>
+            . I have known the prisoner ever since he was born, but never knew him to wrong any body.</p>
+               <p>Bridget Green. I have known him from six years of age, but never knew any ill of him in my life.</p>
+               <p>
+            
+                  <persName id="t17540116-18-person185">
+                  Hugh 
+                  Scandon 
+               <interp inst="t17540116-18-person185" type="surname" value="Scandon"></interp>
+                     <interp inst="t17540116-18-person185" type="given" value="Hugh"></interp>
+                     <interp inst="t17540116-18-person185" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner worked for me two or three years, and never wrong'd me.</p>
+               <p>
+                  <rs id="t17540116-18-verdict100" type="verdictDescription">
+                     <interp inst="t17540116-18-verdict100" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-18-punish101" type="punishmentDescription">
+                     <interp inst="t17540116-18-punish101" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-18-defend180 t17540116-18-punish101"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

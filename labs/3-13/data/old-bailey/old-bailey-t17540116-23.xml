@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-23">
+               <interp inst="t17540116-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-23" type="year" value="1754"></interp>
+               <interp inst="t17540116-23" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-23" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-23-off126-c183" targOrder="Y" targets="t17540116-23-defend224 t17540116-23-off126 t17540116-23-verdict127"></join>
+         
+               <p>108. (M.) 
+               <persName id="t17540116-23-defend224" type="defendantName">
+                  Henry 
+                  Champness 
+               <interp inst="t17540116-23-defend224" type="surname" value="Champness"></interp>
+                     <interp inst="t17540116-23-defend224" type="given" value="Henry"></interp>
+                     <interp inst="t17540116-23-defend224" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17540116-23-off126" type="offenceDescription">
+                     <interp inst="t17540116-23-off126" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-23-off126" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one pair of linen sheets, two blankets, two brass pots, a linen tablecloth, a looking-glass, one pair of bellows, one iron poker, and one iron shovel, the goods of 
+                     <persName id="t17540116-23-victim225" type="victimName">
+                        John 
+                        Tempest 
+                     <interp inst="t17540116-23-victim225" type="surname" value="Tempest"></interp>
+                        <interp inst="t17540116-23-victim225" type="given" value="John"></interp>
+                        <interp inst="t17540116-23-victim225" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-23-off126 t17540116-23-victim225"></join>
+                     </persName>
+                   , in a certain lodging room
+            </rs> let by contract, &amp;c.</p>
+               <p>
+                  <rs id="t17540116-23-verdict127" type="verdictDescription">
+                     <interp inst="t17540116-23-verdict127" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-23-punish128" type="punishmentDescription">
+                     <interp inst="t17540116-23-punish128" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17540116-23-punish128" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-23-defend224 t17540116-23-punish128"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

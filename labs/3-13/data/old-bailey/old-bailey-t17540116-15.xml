@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-15">
+               <interp inst="t17540116-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-15" type="year" value="1754"></interp>
+               <interp inst="t17540116-15" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-15" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-15-off80-c108" targOrder="Y" targets="t17540116-15-defend133 t17540116-15-off80 t17540116-15-verdict84"></join>
+         
+               <p>95. (M.) 
+               <persName id="t17540116-15-defend133" type="defendantName">
+                  Sarah 
+                  Barefoot 
+               <interp inst="t17540116-15-defend133" type="surname" value="Barefoot"></interp>
+                     <interp inst="t17540116-15-defend133" type="given" value="Sarah"></interp>
+                     <interp inst="t17540116-15-defend133" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17540116-15-deflabel79" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-15-defend133 t17540116-15-deflabel79"></join>, was indicted for <rs id="t17540116-15-off80" type="offenceDescription">
+                     <interp inst="t17540116-15-off80" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-15-off80" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one silver watch, value 40 s. the property of 
+                     
+                        <persName id="t17540116-15-victim135" type="victimName">
+                           Richard 
+                           Tomley 
+                        <interp inst="t17540116-15-victim135" type="surname" value="Tomley"></interp>
+                        <interp inst="t17540116-15-victim135" type="given" value="Richard"></interp>
+                        <interp inst="t17540116-15-victim135" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-15-off80 t17540116-15-victim135"></join>
+                     </persName>
+                      
+                  , privately from his person
+            </rs>. <rs id="t17540116-15-cd81" type="crimeDate">December 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-15-off80 t17540116-15-cd81"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17540116-15-person136">
+                  Richard 
+                  Tomley 
+               <interp inst="t17540116-15-person136" type="surname" value="Tomley"></interp>
+                     <interp inst="t17540116-15-person136" type="given" value="Richard"></interp>
+                     <interp inst="t17540116-15-person136" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17540116-15-viclabel82" type="occupation">chairman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-15-victim135 t17540116-15-viclabel82"></join>, and waiting for a lady in <placeName id="t17540116-15-crimeloc83">Welbank Street by Oxford Market</placeName>
+                  <interp inst="t17540116-15-crimeloc83" type="placeName" value="Welbank Street by Oxford Market"></interp>
+                  <interp inst="t17540116-15-crimeloc83" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-15-off80 t17540116-15-crimeloc83"></join>, I lighted of this prisoner and another woman. It was a very snowy night. I went into a watchman's apartment, the man went out, and I fell asleep in a chair, being tired. When the man came in he awaked me, and the two women were gone, I then missed my watch, but do not know who took it. The man said he would endeavour to right me. We both ran down Oxford-Road, and the first house we went into was the Two Brewers near St. Giles's Church, where we took them both. We had a soldier to assist us, and he had the watch put into his hand by the other woman, who owned before the Justice she took the watch from me, but the prisoner owned nothing.</p>
+               <p>
+            
+                  <persName id="t17540116-15-person137">
+                  Daniel 
+                  Kelley 
+               <interp inst="t17540116-15-person137" type="surname" value="Kelley"></interp>
+                     <interp inst="t17540116-15-person137" type="given" value="Daniel"></interp>
+                     <interp inst="t17540116-15-person137" type="gender" value="male"></interp>
+                  </persName>
+            . The prosecutrix and others were coming down Oxford-Road, inquiring after two women, and I went to their assistance: we took the prisoner and another woman at the Two Brewers, where I saw the soldier deliver the watch to the constable, and say it was 
+               <persName id="t17540116-15-person138">
+                  Bess 
+                  Perry 
+               <interp inst="t17540116-15-person138" type="surname" value="Perry"></interp>
+                     <interp inst="t17540116-15-person138" type="given" value="Bess"></interp>
+                     <interp inst="t17540116-15-person138" type="gender" value="female"></interp>
+                  </persName>
+             that gave it to him; which is the other woman.</p>
+               <p>
+            
+                  <persName id="t17540116-15-person139">
+                  John 
+                  Price 
+               <interp inst="t17540116-15-person139" type="surname" value="Price"></interp>
+                     <interp inst="t17540116-15-person139" type="given" value="John"></interp>
+                     <interp inst="t17540116-15-person139" type="gender" value="male"></interp>
+                  </persName>
+            . I am a watchman at Oxford Market. I had a fire, which the prosecutor desired he might sit by, and sent me for a full pot or hot; when I came in I awaked him, he missed his watch, and the two women were gone that came in with him; we went out to look for them, and found them at the Two Brewers in St. Giles's. When we came to the constable's house, at the Hampshire Hog, the prisoner said the soldier had got the watch; then the soldier owned he had hid the watch in a spout under some snow, so he went and brought it in.</p>
+               <p>
+            
+                  <persName id="t17540116-15-person140">
+                  William 
+                  Cooper 
+               <interp inst="t17540116-15-person140" type="surname" value="Cooper"></interp>
+                     <interp inst="t17540116-15-person140" type="given" value="William"></interp>
+                     <interp inst="t17540116-15-person140" type="gender" value="male"></interp>
+                  </persName>
+            . I am a watchman, and was at the taking the prisoner. [He confirmed the testimony of the others]</p>
+               <p>Prisoner's Defence.</p>
+               <p>Going to look for my husband I saw the prosecutor talking with 
+               <persName id="t17540116-15-person141">
+                  Elizabeth 
+                  Perry 
+               <interp inst="t17540116-15-person141" type="surname" value="Perry"></interp>
+                     <interp inst="t17540116-15-person141" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-15-person141" type="gender" value="female"></interp>
+                  </persName>
+            , and asked her to drink; then she asked me, and we went in at the crown, where he called for two pints of hot. After that Price came in, Perry asked him to let us go to his house; we went, and he and she were together at one end of the room a good while. He was very much fuddled. After which Perry and I went to the Two Brewers in St. Giles's. where they came and took us, had us to Mr. Flanerkin's the constable, and there searched us. I said to Perry, if you have the watch, give it him; she replied, you fool, the soldier has got it; upon whic h he delivered it. The bill was found ignoramus at Hicks's Hall against Perry, which was intended for me, but they mistook the prisoner for me.</p>
+               <p>
+                  <rs id="t17540116-15-verdict84" type="verdictDescription">
+                     <interp inst="t17540116-15-verdict84" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

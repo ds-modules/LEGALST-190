@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-10">
+               <interp inst="t17540116-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-10" type="year" value="1754"></interp>
+               <interp inst="t17540116-10" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-10" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-10-off50-c66" targOrder="Y" targets="t17540116-10-defend83 t17540116-10-off50 t17540116-10-verdict53"></join>
+               <join result="criminalCharge" id="t17540116-10-off50-c67" targOrder="Y" targets="t17540116-10-defend85 t17540116-10-off50 t17540116-10-verdict53"></join>
+         
+               <p>89, 90. (M.) 
+               
+                  <persName id="t17540116-10-defend83" type="defendantName">
+                     Elizabeth 
+                     Eaton 
+                  <interp inst="t17540116-10-defend83" type="surname" value="Eaton"></interp>
+                     <interp inst="t17540116-10-defend83" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-10-defend83" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17540116-10-defend85" type="defendantName">
+                     Catherine 
+                     Davis 
+                  <interp inst="t17540116-10-defend85" type="surname" value="Davis"></interp>
+                     <interp inst="t17540116-10-defend85" type="given" value="Catherine"></interp>
+                     <interp inst="t17540116-10-defend85" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17540116-10-deflabel49" type="occupation">spinsters</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-10-defend83 t17540116-10-deflabel49"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-10-defend85 t17540116-10-deflabel49"></join>, were indicted for <rs id="t17540116-10-off50" type="offenceDescription">
+                     <interp inst="t17540116-10-off50" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-10-off50" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one steel tobacco box, val. 2 s. and 3 s. in money, the property of 
+                     
+                        <persName id="t17540116-10-victim87" type="victimName">
+                           Mark 
+                           Verit 
+                        <interp inst="t17540116-10-victim87" type="surname" value="Verit"></interp>
+                        <interp inst="t17540116-10-victim87" type="given" value="Mark"></interp>
+                        <interp inst="t17540116-10-victim87" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-10-off50 t17540116-10-victim87"></join>
+                     </persName>
+                      
+                  , privately from his person
+            </rs>, <rs id="t17540116-10-cd51" type="crimeDate">Dec. 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-10-off50 t17540116-10-cd51"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17540116-10-person88">
+                  Mark 
+                  Verit 
+               <interp inst="t17540116-10-person88" type="surname" value="Verit"></interp>
+                     <interp inst="t17540116-10-person88" type="given" value="Mark"></interp>
+                     <interp inst="t17540116-10-person88" type="gender" value="male"></interp>
+                  </persName>
+            . I was coming down <placeName id="t17540116-10-crimeloc52">Bow-street, Covent-garden</placeName>
+                  <interp inst="t17540116-10-crimeloc52" type="placeName" value="Bow-street, Covent-garden"></interp>
+                  <interp inst="t17540116-10-crimeloc52" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-10-off50 t17540116-10-crimeloc52"></join>, the 16th of December last, betwixt three and four in the morning; 
+               <persName id="t17540116-10-person89">
+                  Elizabeth 
+                  Eaton 
+               <interp inst="t17540116-10-person89" type="surname" value="Eaton"></interp>
+                     <interp inst="t17540116-10-person89" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-10-person89" type="gender" value="female"></interp>
+                  </persName>
+             came and took hold on me round the waist, and 
+               <persName id="t17540116-10-person90">
+                  Catharine 
+                  Davis 
+               <interp inst="t17540116-10-person90" type="surname" value="Davis"></interp>
+                     <interp inst="t17540116-10-person90" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-10-person90" type="gender" value="female"></interp>
+                  </persName>
+             and the evidence 
+               <persName id="t17540116-10-person91">
+                  Mary 
+                  Williams 
+               <interp inst="t17540116-10-person91" type="surname" value="Williams"></interp>
+                     <interp inst="t17540116-10-person91" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-10-person91" type="gender" value="female"></interp>
+                  </persName>
+             coming on one side, with the other prisoner on the other, they picked my pocket of 3 s. and a tobacco box; they then crossed the way. I told my friend who was with me, that they had robbed me, and we then went and took them.</p>
+               <p>Q. How near was he to you when they stopped you?</p>
+               <p>Verit. He was close by me when they first came up, but was gone forwards. There were two men came up to me, and one to my friend, who came to rescue them. One of them d - n'd me for medling with his wife, as he called her. Then we got the assistance of the watchmen, and carried 
+               <persName id="t17540116-10-person92">
+                  Elizabeth 
+                  Eaton 
+               <interp inst="t17540116-10-person92" type="surname" value="Eaton"></interp>
+                     <interp inst="t17540116-10-person92" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-10-person92" type="gender" value="female"></interp>
+                  </persName>
+             to the watch-house; the next day the other prisoner came to the watch-house to see her, and said to Mr. Harrison, the constable, in my hearing, There will be no danger, if I go and bring the tobacco box. She went, and bringing it delivered it to him; then he secured her.</p>
+               <p>Q. Which picked your pocket?</p>
+               <p>Verit. I can't say. One says it was one, and the other says it was the other.</p>
+               <p>
+            
+                  <persName id="t17540116-10-person93">
+                  William 
+                  Middleton 
+               <interp inst="t17540116-10-person93" type="surname" value="Middleton"></interp>
+                     <interp inst="t17540116-10-person93" type="given" value="William"></interp>
+                     <interp inst="t17540116-10-person93" type="gender" value="male"></interp>
+                  </persName>
+            . I was along with the prosecutor at the time. He was before me, and I saw 
+               <persName id="t17540116-10-person94">
+                  Elizabeth 
+                  Eaton 
+               <interp inst="t17540116-10-person94" type="surname" value="Eaton"></interp>
+                     <interp inst="t17540116-10-person94" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17540116-10-person94" type="gender" value="female"></interp>
+                  </persName>
+             lay hold on him round the waist. I walked forward to a cellar in Russel-street, and had a glass of rum. He called out, he was robbed; we went after the women into Charles-street, and there laid hold of Eaton. Several people came to her assistance, one of whom took me by the collar,<xptr type="pageFacsimile" doc="175401160005"></xptr> and asked, what I had to do with his wife? I desired the man to let me alone, and he did; she ran into Russel-street, where, with other assistance, we took her, and the watch carried her to the Round-house, which is all I know.</p>
+               <p>
+            
+                  <persName id="t17540116-10-person95">
+                  Thomas 
+                  Carey 
+               <interp inst="t17540116-10-person95" type="surname" value="Carey"></interp>
+                     <interp inst="t17540116-10-person95" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-10-person95" type="gender" value="male"></interp>
+                  </persName>
+            . Upon the 16th of December Eaton was brought to Covent-garden watch-house. I am watch house-keeper. She was charged with picking the prosecutor's pocket of a tobacco box and 3 s. In a little time after the other prisoner came, and said, if it would make matters up, she could bring the box again; the constable incouraging her, she went and fetched it, upon which he detained her.</p>
+               <p>
+            
+                  <persName id="t17540116-10-person96">
+                  George 
+                  Harrison 
+               <interp inst="t17540116-10-person96" type="surname" value="Harrison"></interp>
+                     <interp inst="t17540116-10-person96" type="given" value="George"></interp>
+                     <interp inst="t17540116-10-person96" type="gender" value="male"></interp>
+                  </persName>
+            . I was at the Round-house, and asked the prosecutor who he charged? He said, nobody but Eaton; I then said, Turn every body out, but Catharine Davis desired to stay. She then said, if matters could be accommodated, she could bring the box again. I said, How long will you be gone? she said, About half an hour. She then w ent and fetched it, and we detained her. He produced the tobacco box, which was deposed to by the prosecutor. 
+               <persName id="t17540116-10-person97">
+                  Catharine 
+                  Davis 
+               <interp inst="t17540116-10-person97" type="surname" value="Davis"></interp>
+                     <interp inst="t17540116-10-person97" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-10-person97" type="gender" value="female"></interp>
+                  </persName>
+             said, the money was spent; after she had brought the tobacco box, she said, she hoped she should come to no harm; I said, she was only to go to a goal to be admitted an evidence; but 
+               <persName id="t17540116-10-person98">
+                  Mary 
+                  Williams 
+               <interp inst="t17540116-10-person98" type="surname" value="Williams"></interp>
+                     <interp inst="t17540116-10-person98" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-10-person98" type="gender" value="female"></interp>
+                  </persName>
+             went and surrendered herself, and was admitted. I am constable.</p>
+               <p>
+            
+                  <persName id="t17540116-10-person99">
+                  Mary 
+                  Williams 
+               <interp inst="t17540116-10-person99" type="surname" value="Williams"></interp>
+                     <interp inst="t17540116-10-person99" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-10-person99" type="gender" value="female"></interp>
+                  </persName>
+            . On the 16th of December the two Prisoners and I met the Prosecutor in Russel-street. We took his tobacco box, and ran away; 
+               <persName id="t17540116-10-person100">
+                  Catharine 
+                  Davis 
+               <interp inst="t17540116-10-person100" type="surname" value="Davis"></interp>
+                     <interp inst="t17540116-10-person100" type="given" value="Catharine"></interp>
+                     <interp inst="t17540116-10-person100" type="gender" value="female"></interp>
+                  </persName>
+            's man, or bully, who lives on her gettings, came to help her when taken. When they opened the box, she said there were but two shillings in it. Davis's bully and I went into the Round-house to Eaton; but the prosecutor said he had nothing against any body but Eaton, so did not meddle with me.</p>
+               <p>Eaton's Defence.</p>
+               <p>I was going down to Covent-garden, and saw the prosecutor running after the evidence; he could not take her, and so took hold on me. He carried me to the Round-house, where being searched, nothing was found about me.</p>
+               <p>Davis had nothing to say in her defence.</p>
+               <p>Both <rs id="t17540116-10-verdict53" type="verdictDescription">
+                     <interp inst="t17540116-10-verdict53" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17540116-10-verdict53" type="verdictSubcategory" value="lesserOffence"></interp>
+               guilty of felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-10-punish54" type="punishmentDescription">
+                     <interp inst="t17540116-10-punish54" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-10-defend83 t17540116-10-punish54"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-10-defend85 t17540116-10-punish54"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-19">
+               <interp inst="t17540116-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-19" type="year" value="1754"></interp>
+               <interp inst="t17540116-19" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-19" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-19-off102-c151" targOrder="Y" targets="t17540116-19-defend187 t17540116-19-off102 t17540116-19-verdict106"></join>
+         
+               <p>103. (M.) 
+               
+                  <persName id="t17540116-19-defend187" type="defendantName">
+                     Edward 
+                     Allen 
+                  <interp inst="t17540116-19-defend187" type="surname" value="Allen"></interp>
+                     <interp inst="t17540116-19-defend187" type="given" value="Edward"></interp>
+                     <interp inst="t17540116-19-defend187" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540116-19-off102" type="offenceDescription">
+                     <interp inst="t17540116-19-off102" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-19-off102" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing one black weather sheep, val. 5 s.
+            </rs> the property of 
+               
+                  <persName id="t17540116-19-victim189" type="victimName">
+                     Thomas 
+                     Rant 
+                  <interp inst="t17540116-19-victim189" type="surname" value="Rant"></interp>
+                     <interp inst="t17540116-19-victim189" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-19-victim189" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540116-19-off102 t17540116-19-victim189"></join>
+                  </persName>
+                
+            , <rs id="t17540116-19-viclabel103" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540116-19-victim189 t17540116-19-viclabel103"></join>; <rs id="t17540116-19-cd104" type="crimeDate">Dec. 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-19-off102 t17540116-19-cd104"></join>.* </p> 
+               <p>William Banes. I am Shepherd to Mr. 
+               <persName id="t17540116-19-person190">
+                  Thomas 
+                  Rant 
+               <interp inst="t17540116-19-person190" type="surname" value="Rant"></interp>
+                     <interp inst="t17540116-19-person190" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-19-person190" type="gender" value="male"></interp>
+                  </persName>
+            . We lost 57 sheep 5 weeks ago last Monday from out of a piece of turnips at <placeName id="t17540116-19-crimeloc105">Northall in Hertfordshire</placeName>
+                  <interp inst="t17540116-19-crimeloc105" type="placeName" value="Northall in Hertfordshire"></interp>
+                  <interp inst="t17540116-19-crimeloc105" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540116-19-off102 t17540116-19-crimeloc105"></join>. I went in search of them, and found some of them in a field at the Ram at Islington, on the Thursday after; and I found another parcel of them, among which was the black weather sheep, on Christmas-day, at a place of which I don't know the name; but I received this parcel, consisting of nineteen, besides the black one, of one Story, a Butcher. They were branded with R. L.</p>
+               <p>Q. Whose property was the black sheep?</p>
+               <p>Banes. It is the property of Mr. Rant.</p>
+               <p>Q. By what did you know it to be his?</p>
+               <p>Banes. By the brand, by its countenance, and every thing.</p>
+               <p>
+            
+                  <persName id="t17540116-19-person191">
+                  George 
+                  Story 
+               <interp inst="t17540116-19-person191" type="surname" value="Story"></interp>
+                     <interp inst="t17540116-19-person191" type="given" value="George"></interp>
+                     <interp inst="t17540116-19-person191" type="gender" value="male"></interp>
+                  </persName>
+            . I am a butcher, and bought twenty sheep of the prisoner at the bar. We bargained for fifteen guineas, they were then in the ground of Mr. Thomas, at Edmonton; the prisoner deliver'd them to me, and I took them to my own ground; he told me he sold them for one 
+               <persName id="t17540116-19-person192">
+                  Robert 
+                  Lucas 
+               <interp inst="t17540116-19-person192" type="surname" value="Lucas"></interp>
+                     <interp inst="t17540116-19-person192" type="given" value="Robert"></interp>
+                     <interp inst="t17540116-19-person192" type="gender" value="male"></interp>
+                  </persName>
+            , who, he said, was his father in law. This was on the 14th of December, and on the 15th John Plastow came and owned them in the name of 'Squire Rant, who is now very ill.</p>
+               <p>Q. Was there ever a black weather sheep among them ?</p>
+               <p>Story. There was. Banes came on the 25th, and owned them in his master's name, upon which I delivered them to him.</p>
+               <p>Q. Did you pay the prisoner the money?</p>
+               <p>Story. No. I was to have paid him on the Friday or the Monday following; but they being owned, I did not. I had given him half a guinea earnest.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>Story. No, my Lord. I never saw him before, to my knowledge.</p>
+               <p>
+            
+                  <persName id="t17540116-19-person193">
+                  John 
+                  Beecher 
+               <interp inst="t17540116-19-person193" type="surname" value="Beecher"></interp>
+                     <interp inst="t17540116-19-person193" type="given" value="John"></interp>
+                     <interp inst="t17540116-19-person193" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant at the town mill at Hertford. On the 11th of December I was at the mill door about half an hour after four o'clock in the morning, where I saw the prisoner standing with a parcel of sheep.</p>
+               <p>Q. Did you know him before?</p>
+               <p>Beecher. I did, my Lord. He asked me to help him along with the sheep; I asked him where he brought them from; he said from Cattery. I ask'd him where he was going with the sheep, and he said to Mr. Boreham's at Hodsdon. I took one of the sheep by the horns, and dragged her about twenty yards. Finding the other would not follow, I went in and called two dogs, which I set upon them; then they parted into three or four parts, the biggest whereof went thro' Hertford for London. I and master went away to Hitchen market, and heard no more of the prisoner till the Thursday following, when two men enquired after such a parcel of sheep, saying they were stole from Mr. Rant. I then took a horse, and going to him, told him what I knew.</p>
+               <p>
+            
+                  <persName id="t17540116-19-person194">
+                  Herbert 
+                  Thomas 
+               <interp inst="t17540116-19-person194" type="surname" value="Thomas"></interp>
+                     <interp inst="t17540116-19-person194" type="given" value="Herbert"></interp>
+                     <interp inst="t17540116-19-person194" type="gender" value="male"></interp>
+                  </persName>
+            . On Wednesday the 12th or 13th of December, the prisoner inquired whether he could not leave some sheep in my ground, in ordea to take them to Smithfield market; they were put in, and on Thursday, about one o'clock, Mr. Story, who is my tenant, came to my house, and desired me to go with him, and see him make a bargain for some sheep. I went there, and the prisoner agreed to sell him a score of sheep for fifteen guineas. I asked him whose property these sheep were, and he said, they were his father's. I drew<xptr type="pageFacsimile" doc="175401160011"></xptr> the agreement, and he gave in his name Allen, saying he married 
+               <persName id="t17540116-19-person195">
+                  Robert 
+                  Lucas 
+               <interp inst="t17540116-19-person195" type="surname" value="Lucas"></interp>
+                     <interp inst="t17540116-19-person195" type="given" value="Robert"></interp>
+                     <interp inst="t17540116-19-person195" type="gender" value="male"></interp>
+                  </persName>
+            's daughter. The sheep were branded with R. L. Mr. Story gave him half a guinea in part of the agreement, in my presence,</p>
+               <p>Q. Where is this ground of yours ?</p>
+               <p>Thomas. It is in the county of Middlesex. On the Friday morning Mr. Story came and informed me, that he heard the sheep were stolen; after which there came two men and claimed them in the name of Mr. 
+               <persName id="t17540116-19-person196">
+                  Thomas 
+                  Rant 
+               <interp inst="t17540116-19-person196" type="surname" value="Rant"></interp>
+                     <interp inst="t17540116-19-person196" type="given" value="Thomas"></interp>
+                     <interp inst="t17540116-19-person196" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Prisoner's Defence.</p>
+               <p>What defence can I make? I don't know. I leave it to Mr. Rant to do just as he pleases.</p>
+               <p>
+                  <rs id="t17540116-19-verdict106" type="verdictDescription">
+                     <interp inst="t17540116-19-verdict106" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17540116-19-punish107" type="punishmentDescription">
+                     <interp inst="t17540116-19-punish107" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-19-defend187 t17540116-19-punish107"></join>
+               Death
+            </rs>.</p>
+            </div1>

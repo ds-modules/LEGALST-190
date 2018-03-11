@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540116-2">
+               <interp inst="t17540116-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540116-2" type="year" value="1754"></interp>
+               <interp inst="t17540116-2" type="uri" value="sessionsPapers/17540116"></interp>
+               <interp inst="t17540116-2" type="date" value="17540116"></interp>
+               <join result="criminalCharge" id="t17540116-2-off7-c31" targOrder="Y" targets="t17540116-2-defend32 t17540116-2-off7 t17540116-2-verdict9"></join>
+               <join result="criminalCharge" id="t17540116-2-off7-c32" targOrder="Y" targets="t17540116-2-defend34 t17540116-2-off7 t17540116-2-verdict9"></join>
+         
+               <p>81. (M.) 
+               <persName id="t17540116-2-defend32" type="defendantName">
+                  
+                     
+                        
+                           <persName id="t17540116-2-defend34" type="defendantName">
+                              Peter 
+                              Foreman 
+                           <interp inst="t17540116-2-defend34" type="surname" value="Foreman"></interp>
+                        <interp inst="t17540116-2-defend34" type="given" value="Peter"></interp>
+                        <interp inst="t17540116-2-defend34" type="gender" value="male"></interp>
+                     </persName>
+                        
+                     
+                   and Mary
+                   his 
+                  <rs id="t17540116-2-deflabel6" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540116-2-defend32 t17540116-2-deflabel6"></join>
+                     <interp inst="t17540116-2-defend32" type="surname" value="Foreman"></interp>
+                     <interp inst="t17540116-2-defend32" type="given" value="Mary"></interp>
+                     <interp inst="t17540116-2-defend32" type="gender" value="female"></interp>
+                  </persName>
+             were indicted for <rs id="t17540116-2-off7" type="offenceDescription">
+                     <interp inst="t17540116-2-off7" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540116-2-off7" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one pair of linen sheets, value 6 d. one copper sauce-pan, value 2 d. one bolster, value 2 d. the goods of 
+                     
+                        <persName id="t17540116-2-victim36" type="victimName">
+                           Joseph 
+                           Sheers 
+                        <interp inst="t17540116-2-victim36" type="surname" value="Sheers"></interp>
+                        <interp inst="t17540116-2-victim36" type="given" value="Joseph"></interp>
+                        <interp inst="t17540116-2-victim36" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17540116-2-off7 t17540116-2-victim36"></join>
+                     </persName>
+                      
+                  , in a certain lodging-room
+            </rs> let by contract <rs id="t17540116-2-cd8" type="crimeDate">Dec. 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540116-2-off7 t17540116-2-cd8"></join>. ++</p>
+               <p>The prosecutor missed the goods mentioned out of the prisoners lodgings; they were taken up, and both confessed the taking them, and also where they were pawned; and they were found accordingly. The prisoners had nothing to say in their defence.</p>
+               <p>Both <rs id="t17540116-2-verdict9" type="verdictDescription">
+                     <interp inst="t17540116-2-verdict9" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540116-2-punish10" type="punishmentDescription">
+                     <interp inst="t17540116-2-punish10" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-2-defend34 t17540116-2-punish10"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17540116-2-punish11" type="punishmentDescription">
+                     <interp inst="t17540116-2-punish11" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17540116-2-punish11" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540116-2-defend32 t17540116-2-punish11"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
