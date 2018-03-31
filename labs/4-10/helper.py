@@ -1,6 +1,16 @@
 ## -*- coding: utf-8 -*-
 
+from gensim import models
 import numpy as np
+
+
+def show_topics(model):
+    """Shows topic number and corresponding feature names to be used with a gensim model."""
+    assert type(model) is models.LdaModel, "Not Gensim LDA instance."
+    for i in model.show_topics():
+        print('Topic ' + str(i[0]))
+        print(i[1])
+        print()
 
 def topic_words(model, feature_names, n_top_words):
     """
