@@ -1,0 +1,43 @@
+<p>
+
+
+ <persName id="t17200427-2-defend31" type="defendantName">
+ Alice 
+ Jones 
+ <interp inst="t17200427-2-defend31" type="surname" value="Jones"/>
+ <interp inst="t17200427-2-defend31" type="given" value="Alice"/>
+ <interp inst="t17200427-2-defend31" type="gender" value="female"/>
+ </persName> 
+
+ , of <placeName id="t17200427-2-defloc7">St. Michael's Cornhill</placeName> 
+ <interp inst="t17200427-2-defloc7" type="placeName" value="St. Michael's Cornhill"/>
+ <interp inst="t17200427-2-defloc7" type="type" value="defendantHome"/>
+ <join result="persNamePlace" targOrder="Y" targets="t17200427-2-defend31 t17200427-2-defloc7"/>, was indicted for <rs id="t17200427-2-off8" type="offenceDescription">
+ <interp inst="t17200427-2-off8" type="offenceCategory" value="theft"/>
+ <interp inst="t17200427-2-off8" type="offenceSubcategory" value="shoplifting"/>
+ privately stealing a Bermundas Hat, value 10 s. out of the Shop of 
+
+ <persName id="t17200427-2-victim33" type="victimName">
+ Edward 
+ Hillior 
+ <interp inst="t17200427-2-victim33" type="surname" value="Hillior"/>
+ <interp inst="t17200427-2-victim33" type="given" value="Edward"/>
+ <interp inst="t17200427-2-victim33" type="gender" value="male"/>
+ <join result="offenceVictim" targOrder="Y" targets="t17200427-2-off8 t17200427-2-victim33"/>
+ </persName> 
+
+
+
+ </rs> , on the <rs id="t17200427-2-cd9" type="crimeDate">21st of April</rs> 
+ <join result="offenceCrimeDate" targOrder="Y" targets="t17200427-2-off8 t17200427-2-cd9"/> last. The Prosecutor's Servant deposed that the Prisner came into his Master's Shop and ask'd for a Hat of about 10 s. price; that he shewed several, and at last they agreed for one; but she said it was to go into the Country, and that she would stop into Bishopsgate-street. and if the Coach was not gone she would come and fetch it; that she went out of the Shop but he perceiving she could hardly walk fetcht her back again, and the Hat mentioned in the Indictment fell from between her Legs. Another deposed that he saw the former Evidence take the Hat from under her Petticoats. The Prisoner denyed the Fact, and called two Persons to her Reputation, who gave her a good Character, and said that she rented a House of 10 l. a Year in Petty France, at Westminster, but she had told the Justice that she liv'd in King-Street. The Jury considering the whole matter, found her <rs id="t17200427-2-verdict10" type="verdictDescription">
+ <interp inst="t17200427-2-verdict10" type="verdictCategory" value="guilty"/>
+ <interp inst="t17200427-2-verdict10" type="verdictSubcategory" value="theftunder1s"/>
+ Guilty to the value of 10 d.
+ </rs> 
+ <rs id="t17200427-2-punish11" type="punishmentDescription">
+ <interp inst="t17200427-2-punish11" type="punishmentCategory" value="transport"/>
+ <join result="defendantPunishment" targOrder="Y" targets="t17200427-2-defend31 t17200427-2-punish11"/>
+ Transportation
+ </rs> .</p>
+
+
