@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-19">
+               <interp inst="t17500117-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-19" type="year" value="1750"></interp>
+               <interp inst="t17500117-19" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-19" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-19-off82-c142" targOrder="Y" targets="t17500117-19-defend185 t17500117-19-off82 t17500117-19-verdict85"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175001170010"></xptr>132. 
+               
+                  <persName id="t17500117-19-defend185" type="defendantName">
+                     Sarah 
+                     Alcon 
+                  <interp inst="t17500117-19-defend185" type="surname" value="Alcon"></interp>
+                     <interp inst="t17500117-19-defend185" type="given" value="Sarah"></interp>
+                     <interp inst="t17500117-19-defend185" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-19-off82" type="offenceDescription">
+                     <interp inst="t17500117-19-off82" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-19-off82" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing a silver watch, value 30 s. one silver seal, value 5 s. the goods of 
+                     
+                        <persName id="t17500117-19-victim187" type="victimName">
+                           Henry 
+                           Gregory 
+                        <interp inst="t17500117-19-victim187" type="surname" value="Gregory"></interp>
+                        <interp inst="t17500117-19-victim187" type="given" value="Henry"></interp>
+                        <interp inst="t17500117-19-victim187" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-19-off82 t17500117-19-victim187"></join>
+                     </persName>
+                      
+                  , from his person
+            </rs>, <rs id="t17500117-19-cd83" type="crimeDate">Jan. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-19-off82 t17500117-19-cd83"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-19-person188">
+                  Henry 
+                  Gregory 
+               <interp inst="t17500117-19-person188" type="surname" value="Gregory"></interp>
+                     <interp inst="t17500117-19-person188" type="given" value="Henry"></interp>
+                     <interp inst="t17500117-19-person188" type="gender" value="male"></interp>
+                  </persName>
+            . On the 10th of January I was coming over Devonshire Square, about 12 at Night; the prisoner ask'd if I would go with her, I being pretty much in liquor, went with her into a private room, in <placeName id="t17500117-19-crimeloc84">Gravel-lane, Houndsditch</placeName>
+                  <interp inst="t17500117-19-crimeloc84" type="placeName" value="Gravel-lane, Houndsditch"></interp>
+                  <interp inst="t17500117-19-crimeloc84" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-19-off82 t17500117-19-crimeloc84"></join>. There was a person who brought us a quartern of liquor, and no body else in the room but the prisoner and I: I staid there about 10 minutes. I miss'd my watch when I was but about 10 yards from the house; however I went home. The next evening I went with a friend or two to the place, and we found the prisoner at a publick house. I charg'd a Constable with her, and sent her to the Compter; and went the next day before the Alderman at Guild-hall. She owned she had the Watch, and gave it to 
+               <persName id="t17500117-19-person189">
+                  Solomon 
+                  Lewis 
+               <interp inst="t17500117-19-person189" type="surname" value="Lewis"></interp>
+                     <interp inst="t17500117-19-person189" type="given" value="Solomon"></interp>
+                     <interp inst="t17500117-19-person189" type="gender" value="male"></interp>
+                  </persName>
+            , a Jew; and said, if I would not prosecute her she would give it me again.</p>
+               <p>
+            
+                  <persName id="t17500117-19-person190">
+                  George 
+                  Wardling 
+               <interp inst="t17500117-19-person190" type="surname" value="Wardling"></interp>
+                     <interp inst="t17500117-19-person190" type="given" value="George"></interp>
+                     <interp inst="t17500117-19-person190" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17500117-19-person191">
+                  Henry 
+                  Keys 
+               <interp inst="t17500117-19-person191" type="surname" value="Keys"></interp>
+                     <interp inst="t17500117-19-person191" type="given" value="Henry"></interp>
+                     <interp inst="t17500117-19-person191" type="gender" value="male"></interp>
+                  </persName>
+             confirmed this confession of the prisoner.</p>
+               <p>
+                  <rs id="t17500117-19-verdict85" type="verdictDescription">
+                     <interp inst="t17500117-19-verdict85" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17500117-19-punish86" type="punishmentDescription">
+                     <interp inst="t17500117-19-punish86" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-19-defend185 t17500117-19-punish86"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

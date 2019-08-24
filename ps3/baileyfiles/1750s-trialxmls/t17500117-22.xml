@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-22">
+               <interp inst="t17500117-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-22" type="year" value="1750"></interp>
+               <interp inst="t17500117-22" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-22" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-22-off96-c158" targOrder="Y" targets="t17500117-22-defend206 t17500117-22-off96 t17500117-22-verdict98"></join>
+         
+               <p>135. 
+               
+                  <persName id="t17500117-22-defend206" type="defendantName">
+                     James 
+                     Johnson 
+                  <interp inst="t17500117-22-defend206" type="surname" value="Johnson"></interp>
+                     <interp inst="t17500117-22-defend206" type="given" value="James"></interp>
+                     <interp inst="t17500117-22-defend206" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-22-off96" type="offenceDescription">
+                     <interp inst="t17500117-22-off96" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500117-22-off96" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17500117-22-victim208" type="victimName">
+                           George 
+                           Merryman 
+                        <interp inst="t17500117-22-victim208" type="surname" value="Merryman"></interp>
+                        <interp inst="t17500117-22-victim208" type="given" value="George"></interp>
+                        <interp inst="t17500117-22-victim208" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-22-off96 t17500117-22-victim208"></join>
+                     </persName>
+                      
+                  , on the King's highway, putting him in bodily fear, and danger of his life; one hat, val. 10 d. one peruke, val. 10 d. and 2 d. in monies number'd, from his person, the goods of the said George, did steal, take, and carry away
+            </rs>, <rs id="t17500117-22-cd97" type="crimeDate">Jan. 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-22-off96 t17500117-22-cd97"></join>.</p>
+               <p>
+                  <rs id="t17500117-22-verdict98" type="verdictDescription">
+                     <interp inst="t17500117-22-verdict98" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

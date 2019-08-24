@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-22">
+               <interp inst="t17500228-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-22" type="year" value="1750"></interp>
+               <interp inst="t17500228-22" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-22" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-22-off90-c111" targOrder="Y" targets="t17500228-22-defend151 t17500228-22-off90 t17500228-22-verdict91"></join>
+         
+               <p>202. 
+               <persName id="t17500228-22-defend151" type="defendantName">
+                  
+                     John 
+                     Carbold 
+                  , otherwise <rs id="t17500228-22-alias-3" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17500228-22-defend151 t17500228-22-alias-3"></join>Giffling Jack</rs>
+                     <interp inst="t17500228-22-defend151" type="surname" value="Carbold"></interp>
+                     <interp inst="t17500228-22-defend151" type="given" value="John"></interp>
+                     <interp inst="t17500228-22-defend151" type="gender" value="male"></interp>
+                  </persName>
+            , of <placeName id="t17500228-22-defloc89">Great Yarmouth</placeName>
+                  <interp inst="t17500228-22-defloc89" type="placeName" value="Great Yarmouth"></interp>
+                  <interp inst="t17500228-22-defloc89" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17500228-22-defend151 t17500228-22-defloc89"></join>, was indicted <rs id="t17500228-22-off90" type="offenceDescription">
+                     <interp inst="t17500228-22-off90" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t17500228-22-off90" type="offenceSubcategory" value="other"></interp>
+               for not surrendering himself according to the King's order in Council
+            </rs>.</p>
+               <p>To prove that proper steps had been taken in order to render the prisoner a felon already convicted, Justice Kellett depos'd, that 
+               <persName id="t17500228-22-person153">
+                  John 
+                  Leader 
+               <interp inst="t17500228-22-person153" type="surname" value="Leader"></interp>
+                     <interp inst="t17500228-22-person153" type="given" value="John"></interp>
+                     <interp inst="t17500228-22-person153" type="gender" value="male"></interp>
+                  </persName>
+             came before him, Feb. 15, 1747, and made an information against the prisoner, for being assembled together at Benacre, with divers other persons, to the number of 30 and upwards, to be aiding and assisting in landing and running goods, liable to pay custom, &amp;c. and that on the 16th he sent it to the Duke of Newcastle, one of his Majesty's Principal Secretaries of State, by the post.</p>
+               <p>Mr. Sharpe, Clerk to the Council, depos'd, it being laid before his Majesty in Council, on the 22nd of March, 1747, by the Duke; and that he was directed to issue out an Order of Council, requiring the prisoner, and others mentioned in the information, to surrender themselves within forty days, &amp;c. which order was issued the 22d from the court at St. James's.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175002280007"></xptr>
+            
+                  <persName id="t17500228-22-person154">
+                  Edward 
+                  Owen 
+               <interp inst="t17500228-22-person154" type="surname" value="Owen"></interp>
+                     <interp inst="t17500228-22-person154" type="given" value="Edward"></interp>
+                     <interp inst="t17500228-22-person154" type="gender" value="male"></interp>
+                  </persName>
+            , Printer of the London Gazette, depos'd, he received two copies of this order from Mr. Sharpe, and put them in the very next Gts, to wit, the 22nd and 26th of March.</p>
+               <p>
+            
+                  <persName id="t17500228-22-person155">
+                  Thomas 
+                  Parker 
+               <interp inst="t17500228-22-person155" type="surname" value="Parker"></interp>
+                     <interp inst="t17500228-22-person155" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-22-person155" type="gender" value="male"></interp>
+                  </persName>
+             depos'd, he carried the order of council the 22d of March, and deliver'd it to Mr. Lamb Barry, the Sheriff for the County of Suffolk, the 25th, 1748.</p>
+               <p>
+            
+                  <persName id="t17500228-22-person156">
+                  Richard 
+                  Growper 
+               <interp inst="t17500228-22-person156" type="surname" value="Growper"></interp>
+                     <interp inst="t17500228-22-person156" type="given" value="Richard"></interp>
+                     <interp inst="t17500228-22-person156" type="gender" value="male"></interp>
+                  </persName>
+             Under sheriff, depos'd, he received this order from Mr. Barry, and caus'd it to be copy'd and examin'd, and gave it to his clerk to declare, &amp;c.</p>
+               <p>Mr. Swackman, his clerk, depos'd, he copy'd it true, and proclaim'd it at Beccles, on Saturday the 26th, about a quarter of an hour past twelve; and at Southwold, on the Friday following, the 31st of March, and afterwards fix'd up a true copy on each market-cross.</p>
+               <p>The Jury found the Issues for the King.</p>
+
+               <p>
+                  <rs id="t17500228-22-verdict91" type="verdictDescription">
+                     <interp inst="t17500228-22-verdict91" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17500228-22-punish92" type="punishmentDescription">
+                     <interp inst="t17500228-22-punish92" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-22-defend151 t17500228-22-punish92"></join>
+               Death
+            </rs>.</p>
+            </div1>

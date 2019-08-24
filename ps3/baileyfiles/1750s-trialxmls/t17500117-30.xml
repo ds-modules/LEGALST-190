@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-30">
+               <interp inst="t17500117-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-30" type="year" value="1750"></interp>
+               <interp inst="t17500117-30" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-30" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-30-off133-c199" targOrder="Y" targets="t17500117-30-defend261 t17500117-30-off133 t17500117-30-verdict135"></join>
+         
+               <p>143. 
+               
+                  <persName id="t17500117-30-defend261" type="defendantName">
+                     Philip 
+                     Williams 
+                  <interp inst="t17500117-30-defend261" type="surname" value="Williams"></interp>
+                     <interp inst="t17500117-30-defend261" type="given" value="Philip"></interp>
+                     <interp inst="t17500117-30-defend261" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted, that <rs id="t17500117-30-off133" type="offenceDescription">
+                     <interp inst="t17500117-30-off133" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-30-off133" type="offenceSubcategory" value="burglary"></interp>
+               he, on the <rs id="t17500117-30-cd134" type="crimeDate">2d of Jan</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-30-off133 t17500117-30-cd134"></join>. about the hour of three in the night, of the same day, the dwelling house of 
+                     
+                        <persName id="t17500117-30-victim263" type="victimName">
+                           Solomon 
+                           Gibard 
+                        <interp inst="t17500117-30-victim263" type="surname" value="Gibard"></interp>
+                        <interp inst="t17500117-30-victim263" type="given" value="Solomon"></interp>
+                        <interp inst="t17500117-30-victim263" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-30-off133 t17500117-30-victim263"></join>
+                     </persName>
+                      
+                  , did break, and enter; 3 iron vices, val. 14 s. a piece of iron, call'd a goose, val. 15. one rasp, the goods of the said Solomon, did steal, take, and carry away
+            </rs>, Jan 2d.</p>
+               <p>The prisoner had work'd with the prosecutor; he was stopp'd by a watchman, with the the things upon him.</p>
+               <p>
+                  <rs id="t17500117-30-verdict135" type="verdictDescription">
+                     <interp inst="t17500117-30-verdict135" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-30-verdict135" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty, Felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-30-punish136" type="punishmentDescription">
+                     <interp inst="t17500117-30-punish136" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-30-defend261 t17500117-30-punish136"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-40">
+               <interp inst="t17500228-40" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-40" type="year" value="1750"></interp>
+               <interp inst="t17500228-40" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-40" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-40-off174-c229" targOrder="Y" targets="t17500228-40-defend308 t17500228-40-off174 t17500228-40-verdict178"></join>
+         
+               <p>229. 
+               
+                  <persName id="t17500228-40-defend308" type="defendantName">
+                     Mary 
+                     Maschal 
+                  <interp inst="t17500228-40-defend308" type="surname" value="Maschal"></interp>
+                     <interp inst="t17500228-40-defend308" type="given" value="Mary"></interp>
+                     <interp inst="t17500228-40-defend308" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17500228-40-deflabel173" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-40-defend308 t17500228-40-deflabel173"></join>, was indicted for that <rs id="t17500228-40-off174" type="offenceDescription">
+                     <interp inst="t17500228-40-off174" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500228-40-off174" type="offenceSubcategory" value="highwayRobbery"></interp>
+               she on the king's highway on Mary the <rs id="t17500228-40-viclabel175" type="occupation">wife of 
+                        <persName id="t17500228-40-person309">
+                           William 
+                           Jackson 
+                        <interp inst="t17500228-40-person309" type="surname" value="Jackson"></interp>
+                           <interp inst="t17500228-40-person309" type="given" value="William"></interp>
+                           <interp inst="t17500228-40-person309" type="gender" value="male"></interp>
+                        </persName>
+                     
+                     </rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17500228-40-victim311 t17500228-40-viclabel175"></join> did make an assault, one pocket-apron, no value, and 18 shillings in moneys numbered, from her person did steal, take, and carry away
+            </rs>, <rs id="t17500228-40-cd176" type="crimeDate">February 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-40-off174 t17500228-40-cd176"></join>.</p>
+               <p>
+            
+               
+                  <persName id="t17500228-40-victim311" type="victimName">
+                     Mary 
+                     Jackson 
+                  <interp inst="t17500228-40-victim311" type="surname" value="Jackson"></interp>
+                     <interp inst="t17500228-40-victim311" type="given" value="Mary"></interp>
+                     <interp inst="t17500228-40-victim311" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500228-40-off174 t17500228-40-victim311"></join>
+                  </persName>
+                
+             deposed, she was in company with 
+               <persName id="t17500228-40-person312">
+                  James 
+                  Stevens 
+               <interp inst="t17500228-40-person312" type="surname" value="Stevens"></interp>
+                     <interp inst="t17500228-40-person312" type="given" value="James"></interp>
+                     <interp inst="t17500228-40-person312" type="gender" value="male"></interp>
+                  </persName>
+             about half an hour after 12 at night <placeName id="t17500228-40-crimeloc177">at the corner of Suffolk Street, by the Hay-market</placeName>
+                  <interp inst="t17500228-40-crimeloc177" type="placeName" value="at the corner of Suffolk Street, by the Hay-market"></interp>
+                  <interp inst="t17500228-40-crimeloc177" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500228-40-off174 t17500228-40-crimeloc177"></join>; the Prisoner knocked her down, took her pocket-apron with the money mention'd in it, and ran away.</p>
+               <p>
+            
+                  <persName id="t17500228-40-person313">
+                  James 
+                  Stevens 
+               <interp inst="t17500228-40-person313" type="surname" value="Stevens"></interp>
+                     <interp inst="t17500228-40-person313" type="given" value="James"></interp>
+                     <interp inst="t17500228-40-person313" type="gender" value="male"></interp>
+                  </persName>
+            , a Sailor, deposed, he was so affrighted that he ran away, and could give no account of the robbery ; that he ran about for near 2 hours, and could find no watchman.</p>
+               <p>
+            
+                  <persName id="t17500228-40-person314">
+                  Edward 
+                  Milbourne 
+               <interp inst="t17500228-40-person314" type="surname" value="Milbourne"></interp>
+                     <interp inst="t17500228-40-person314" type="given" value="Edward"></interp>
+                     <interp inst="t17500228-40-person314" type="gender" value="male"></interp>
+                  </persName>
+            , who came in court accidentally, deposed, he had known the prosecutor many years, and that she had been a common street-walker, and new keeps a house of ill fame in Prince's Court, Hedge Lane, the regulator of the watch had before deposed, the prisoner was a common prostitute, and had said, he knew no ill of the prosecutor, but to that Mr. Milbourne said he must know as well as he to the contrary, for which this regulator of the watch was justly blamed by the court.</p>
+               <p>
+                  <rs id="t17500228-40-verdict178" type="verdictDescription">
+                     <interp inst="t17500228-40-verdict178" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

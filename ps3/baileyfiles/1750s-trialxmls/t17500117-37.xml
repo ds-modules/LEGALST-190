@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-37">
+               <interp inst="t17500117-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-37" type="year" value="1750"></interp>
+               <interp inst="t17500117-37" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-37" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-37-off162-c229" targOrder="Y" targets="t17500117-37-defend302 t17500117-37-off162 t17500117-37-verdict164"></join>
+         
+               <p>150. 
+               
+                  <persName id="t17500117-37-defend302" type="defendantName">
+                     William 
+                     Courne 
+                  <interp inst="t17500117-37-defend302" type="surname" value="Courne"></interp>
+                     <interp inst="t17500117-37-defend302" type="given" value="William"></interp>
+                     <interp inst="t17500117-37-defend302" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-37-off162" type="offenceDescription">
+                     <interp inst="t17500117-37-off162" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-37-off162" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 15 s. 8 d.
+            </rs> the monies of 
+               
+                  <persName id="t17500117-37-victim304" type="victimName">
+                     Thomas 
+                     Walker 
+                  <interp inst="t17500117-37-victim304" type="surname" value="Walker"></interp>
+                     <interp inst="t17500117-37-victim304" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-37-victim304" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-37-off162 t17500117-37-victim304"></join>
+                  </persName>
+                
+            , <rs id="t17500117-37-cd163" type="crimeDate">Jan. 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-37-off162 t17500117-37-cd163"></join>.</p>
+               <p>The prisoner was drawn into a confession, in order to accuse himself, with a promise to interceed with the prosecutor to discharge him.</p>
+               <p>He was <rs id="t17500117-37-verdict164" type="verdictDescription">
+                     <interp inst="t17500117-37-verdict164" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

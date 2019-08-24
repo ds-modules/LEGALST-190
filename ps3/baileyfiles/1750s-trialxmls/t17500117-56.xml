@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-56">
+               <interp inst="t17500117-56" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-56" type="year" value="1750"></interp>
+               <interp inst="t17500117-56" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-56" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-56-off242-c302" targOrder="Y" targets="t17500117-56-defend409 t17500117-56-off242 t17500117-56-verdict245"></join>
+               <join result="criminalCharge" id="t17500117-56-off242-c303" targOrder="Y" targets="t17500117-56-defend411 t17500117-56-off242 t17500117-56-verdict245"></join>
+         
+               <p>172, 173. 
+               
+                  <persName id="t17500117-56-defend409" type="defendantName">
+                     Elizabeth 
+                     Howard 
+                  <interp inst="t17500117-56-defend409" type="surname" value="Howard"></interp>
+                     <interp inst="t17500117-56-defend409" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500117-56-defend409" type="gender" value="female"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17500117-56-defend411" type="defendantName">
+                     Sarah 
+                     Bennet 
+                  <interp inst="t17500117-56-defend411" type="surname" value="Bennet"></interp>
+                     <interp inst="t17500117-56-defend411" type="given" value="Sarah"></interp>
+                     <interp inst="t17500117-56-defend411" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17500117-56-deflabel241" type="occupation">Spinsters</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-56-defend409 t17500117-56-deflabel241"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-56-defend411 t17500117-56-deflabel241"></join>, were indicted for <rs id="t17500117-56-off242" type="offenceDescription">
+                     <interp inst="t17500117-56-off242" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-56-off242" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver watch, val. 40 s. one pair of buckles, val. 10 s
+            </rs> the goods of 
+               
+                  <persName id="t17500117-56-victim413" type="victimName">
+                     William 
+                     Jewel 
+                  <interp inst="t17500117-56-victim413" type="surname" value="Jewel"></interp>
+                     <interp inst="t17500117-56-victim413" type="given" value="William"></interp>
+                     <interp inst="t17500117-56-victim413" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-56-off242 t17500117-56-victim413"></join>
+                  </persName>
+                
+            , <rs id="t17500117-56-cd243" type="crimeDate">Jan. 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-56-off242 t17500117-56-cd243"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-56-person414">
+                  William 
+                  Jewel 
+               <interp inst="t17500117-56-person414" type="surname" value="Jewel"></interp>
+                     <interp inst="t17500117-56-person414" type="given" value="William"></interp>
+                     <interp inst="t17500117-56-person414" type="gender" value="male"></interp>
+                  </persName>
+             Last monday about half an hour before one in the morning, I went along with Howard into <placeName id="t17500117-56-crimeloc244">Stony-lane</placeName>
+                  <interp inst="t17500117-56-crimeloc244" type="placeName" value="Stony-lane"></interp>
+                  <interp inst="t17500117-56-crimeloc244" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-56-off242 t17500117-56-crimeloc244"></join>; she carried me up into a room, where the prisoner Bennet was: I was there about 3 or 4 minutes. I pull'd my watch out of my pocket, and told them I could not stay. Bennet snatched it out of my hand, but they were both in the room. I went to take it from her; they took me directly, flung me down, and took my silver buckles out of my shoes. I took hold of Howard's hand, while they were taking my buckles, and she had one of them, which tore my thumb with the tongue of it, as she wrenched her hand out of mine.</p>
+               <p>Q. Did they fling you down on the floor?</p>
+               <p>Jewel It was upon a sort of a bed. One of them got out of the room, I clap'd my back against the door, and kept Howard in: I believe I kept her there two hours. Then there came up a man, with a candle in one hand, and a stick in the other; I let him come into the room: He goes to the upper end of the room,<xptr type="pageFacsimile" doc="175001170019"></xptr> and said, What does this fellow do in my room? He set down the candle, takes the stick by the middle, and came towards me; I went down stairs, and into the street, and kept an eye on the door for two or three hours longer. I told 20 people of what had been done, but no body would assist me. 
+               <persName id="t17500117-56-person415">
+                  Ann 
+                  Howard 
+               <interp inst="t17500117-56-person415" type="surname" value="Howard"></interp>
+                     <interp inst="t17500117-56-person415" type="given" value="Ann"></interp>
+                     <interp inst="t17500117-56-person415" type="gender" value="female"></interp>
+                  </persName>
+             came out, and a sort of a sailor with her: It was the man that came into the room to me. They went arm in arm together, half way up Petticoat lane; I followed them, and met with two men: I desired they would assist me, saying, I had been robbed by that woman. Says one of them, I'll assist you. I jumped across the way directly: The sailor ran away; I took her to Aldgate watch house. The man that assisted me I have not seen since. I took the prisoner on Tuesday last. A man came to me to the sign of the Bee-hive, and said, if I would go along with him, he would help me to the woman who took my watch.</p>
+               <p>Q. Who was that man?</p>
+               <p>Jewel He desired I would not bring him here, for fear he should have his brains knock'd out, as he lives in that neighbourhood. He brought me to the house where she was in Stony-lane, within a door or two of the house where I was robb'd. When she saw me, she throw'd herself on her knees to me, and said, she would go along with me, and shew me where my buckles and watch were sold. She went first of all to Mr. Clay, a silver-smith, opposite Houndsditch. The servant show'd me the buckles directly; saying, he bought them for 10 s. and he could not deliver them, without his master was at home; and his master said, when he came home, he would have 10 s. which he gave for them. The woman kept on the other side of the way. Then after that, she went with me to Mr. Green, a Whitechapel Court-Officer, where they had sold the watch; he lives in Half-moon-court, Whitechapel. A woman told me, he was not at home; but would be in about eleven o'clock. Then I charged an officer with the prisoner. Bennet and she were committed. I went again to Mr. Green, and asked him about my watch. Said he, I have not the watch; but I can help you to it; it is my business, said he, to help people to their things when lost.</p>
+               <p>
+            
+                  <persName id="t17500117-56-person416">
+                  John 
+                  Dawson 
+               <interp inst="t17500117-56-person416" type="surname" value="Dawson"></interp>
+                     <interp inst="t17500117-56-person416" type="given" value="John"></interp>
+                     <interp inst="t17500117-56-person416" type="gender" value="male"></interp>
+                  </persName>
+            . The prosecutor came to me to be a witness where the buckles were carried to. Bennet said, she would go along with us; she and I stood just by Aldgate, while the prosecutor went to the silver-smith's shop, where she directed him to, faceing Hounsditch. She said, they were sold in that shop.</p>
+               <p>Howard's Defence.</p>
+               <p>I had lodg'd with 
+               <persName id="t17500117-56-person417">
+                  Sarah 
+                  Bennet 
+               <interp inst="t17500117-56-person417" type="surname" value="Bennet"></interp>
+                     <interp inst="t17500117-56-person417" type="given" value="Sarah"></interp>
+                     <interp inst="t17500117-56-person417" type="gender" value="female"></interp>
+                  </persName>
+             two Days. I was coming home to her, and met the prosecutor in Bishopsgate-street; he stopp'd me, and asked me where I was going? I said, what makes you ask me? because, said he, I'll go along with you; which he did, up into the room. He know'd Bennet, and she him; said he. I have got no money, but take my buckles out of my breeches knees. He pulled them out himself, and she pawn'd them for gin and bitters; she went down stairs; as soon as he missed her, he seized me, saying, she had robb'd him. Of what? said I; said he, of my buckles; said I, you gave her them yourself for liquor. I know that, said he, but she has robb'd me of my watch and shoe-buckles said he, I'll keep you. So I let him search me; he found nothing upon me. After I had been in Newgate, he sent word he had found her, and she had been with him to the places where she sold the buckles and watch.</p>
+               <p>Bennet's Defence.</p>
+               <p>
+            
+                  <persName id="t17500117-56-person418">
+                  Elizabeth 
+                  Howard 
+               <interp inst="t17500117-56-person418" type="surname" value="Howard"></interp>
+                     <interp inst="t17500117-56-person418" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500117-56-person418" type="gender" value="female"></interp>
+                  </persName>
+             brought the Prosecutor home with her; I knew him; he gave me the buckles to pawn, and after that, he laid down on the bed with me. Said he, do you take care of my watch; and when I went down and came up again, he had got another woman in the room, and I had laid the watch down on the table, and another woman took it away.</p>
+               <p>Both <rs id="t17500117-56-verdict245" type="verdictDescription">
+                     <interp inst="t17500117-56-verdict245" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-56-punish246" type="punishmentDescription">
+                     <interp inst="t17500117-56-punish246" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-56-defend409 t17500117-56-punish246"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-56-defend411 t17500117-56-punish246"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

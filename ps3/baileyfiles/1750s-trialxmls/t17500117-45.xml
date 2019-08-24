@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-45">
+               <interp inst="t17500117-45" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-45" type="year" value="1750"></interp>
+               <interp inst="t17500117-45" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-45" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-45-off194-c254" targOrder="Y" targets="t17500117-45-defend341 t17500117-45-off194 t17500117-45-verdict197"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175001170016"></xptr>159. 
+               
+                  <persName id="t17500117-45-defend341" type="defendantName">
+                     James 
+                     Ventrus 
+                  <interp inst="t17500117-45-defend341" type="surname" value="Ventrus"></interp>
+                     <interp inst="t17500117-45-defend341" type="given" value="James"></interp>
+                     <interp inst="t17500117-45-defend341" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted <rs id="t17500117-45-off194" type="offenceDescription">
+                     <interp inst="t17500117-45-off194" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-45-off194" type="offenceSubcategory" value="pocketpicking"></interp>
+               for stealing a silk handkerchief, val. 3 s. the goods of 
+                     
+                        <persName id="t17500117-45-victim343" type="victimName">
+                           William 
+                           Cox 
+                        <interp inst="t17500117-45-victim343" type="surname" value="Cox"></interp>
+                        <interp inst="t17500117-45-victim343" type="given" value="William"></interp>
+                        <interp inst="t17500117-45-victim343" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-45-off194 t17500117-45-victim343"></join>
+                     </persName>
+                      
+                  , privately from his person
+            </rs>, <rs id="t17500117-45-cd195" type="crimeDate">Dec. 20th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-45-off194 t17500117-45-cd195"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-45-person344">
+                  William 
+                  Cox 
+               <interp inst="t17500117-45-person344" type="surname" value="Cox"></interp>
+                     <interp inst="t17500117-45-person344" type="given" value="William"></interp>
+                     <interp inst="t17500117-45-person344" type="gender" value="male"></interp>
+                  </persName>
+            . I was on <placeName id="t17500117-45-crimeloc196">Fish-street-hill</placeName>
+                  <interp inst="t17500117-45-crimeloc196" type="placeName" value="Fish-street-hill"></interp>
+                  <interp inst="t17500117-45-crimeloc196" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-45-off194 t17500117-45-crimeloc196"></join>, Dec. the 20th; and, was informed the prisoner had picked my pocket. I felt in my pocket, and miss'd my silk handkerchief. He went up Crooked-lane, and joined with several others, who appeared to me to be his conserts. I went after him; he looking back, saw me, and went into a shop. I went in, and took him, and had him before my Lord Mayor. I did not find my handkerchief.</p>
+               <p>
+            
+                  <persName id="t17500117-45-person345">
+                  Margaret 
+                  Roberts 
+               <interp inst="t17500117-45-person345" type="surname" value="Roberts"></interp>
+                     <interp inst="t17500117-45-person345" type="given" value="Margaret"></interp>
+                     <interp inst="t17500117-45-person345" type="gender" value="female"></interp>
+                  </persName>
+            . I was coming along Fish-street-hill, Dec. 20th; I saw the prisoner take a handkerchief out of the prosecutor's pocket. I directly informed the gentleman of it. He turned up Crooked-lane; there were several fellows with him, who made away from him; they seemed to be his companions. He made into a shop, and there was taken.</p>
+               <p>
+                  <rs id="t17500117-45-verdict197" type="verdictDescription">
+                     <interp inst="t17500117-45-verdict197" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-45-verdict197" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d
+            </rs>.</p>
+               <p>This is the same Ventrus who was an accomplice with 
+               <persName id="t17500117-45-person346">
+                  John 
+                  Rogers 
+               <interp inst="t17500117-45-person346" type="surname" value="Rogers"></interp>
+                     <interp inst="t17500117-45-person346" type="given" value="John"></interp>
+                     <interp inst="t17500117-45-person346" type="gender" value="male"></interp>
+                  </persName>
+            , and was admitted an evidence against him. No 361 in the last Mayoralty.</p>
+               <p>
+                  <rs id="t17500117-45-punish198" type="punishmentDescription">
+                     <interp inst="t17500117-45-punish198" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-45-defend341 t17500117-45-punish198"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

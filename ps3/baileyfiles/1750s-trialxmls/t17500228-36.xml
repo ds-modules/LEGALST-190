@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-36">
+               <interp inst="t17500228-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-36" type="year" value="1750"></interp>
+               <interp inst="t17500228-36" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-36" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-36-off159-c215" targOrder="Y" targets="t17500228-36-defend286 t17500228-36-off159 t17500228-36-verdict163"></join>
+               <join result="criminalCharge" id="t17500228-36-off159-c216" targOrder="Y" targets="t17500228-36-defend287 t17500228-36-off159 t17500228-36-verdict163"></join>
+               <join result="criminalCharge" id="t17500228-36-off161-c218" targOrder="Y" targets="t17500228-36-defend290 t17500228-36-off161 t17500228-36-verdict163"></join>
+         
+               <p>222, 223, 224. 
+               
+                  <persName id="t17500228-36-defend286" type="defendantName">
+                     Abraham 
+                     Cribb 
+                  <interp inst="t17500228-36-defend286" type="surname" value="Cribb"></interp>
+                     <interp inst="t17500228-36-defend286" type="given" value="Abraham"></interp>
+                     <interp inst="t17500228-36-defend286" type="gender" value="male"></interp>
+                  </persName>
+                
+            , a second time, and 
+               <persName id="t17500228-36-defend287" type="defendantName">
+                  Campbel 
+                  Hambleton 
+               <interp inst="t17500228-36-defend287" type="surname" value="Hambleton"></interp>
+                     <interp inst="t17500228-36-defend287" type="given" value="Campbel"></interp>
+                     <interp inst="t17500228-36-defend287" type="gender" value="male"></interp>
+                  </persName>
+             , were indicted for <rs id="t17500228-36-off159" type="offenceDescription">
+                     <interp inst="t17500228-36-off159" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-36-off159" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one silver watch, val. 4 l. the goods of 
+                     
+                        <persName id="t17500228-36-victim289" type="victimName">
+                           Jonathan 
+                           Schriven 
+                        <interp inst="t17500228-36-victim289" type="surname" value="Schriven"></interp>
+                        <interp inst="t17500228-36-victim289" type="given" value="Jonathan"></interp>
+                        <interp inst="t17500228-36-victim289" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , in the dwelling house of the said Jonathan
+            </rs>, and 
+               <persName id="t17500228-36-defend290" type="defendantName">
+                  Catherine 
+                  Hall 
+               <interp inst="t17500228-36-defend290" type="surname" value="Hall"></interp>
+                     <interp inst="t17500228-36-defend290" type="given" value="Catherine"></interp>
+                     <interp inst="t17500228-36-defend290" type="gender" value="female"></interp>
+                  </persName>
+             , <rs id="t17500228-36-deflabel160" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-36-defend290 t17500228-36-deflabel160"></join>, for <rs id="t17500228-36-off161" type="offenceDescription">
+                     <interp inst="t17500228-36-off161" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-36-off161" type="offenceSubcategory" value="receiving"></interp>
+               receiving it, knowing it to be stolen
+            </rs>, <rs id="t17500228-36-cd162" type="crimeDate">Dec. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-36-off159 t17500228-36-cd162"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-36-off161 t17500228-36-cd162"></join>.</p>
+               <p>
+            
+                  <persName id="t17500228-36-person291">
+                  Mary 
+                  Schriven 
+               <interp inst="t17500228-36-person291" type="surname" value="Schriven"></interp>
+                     <interp inst="t17500228-36-person291" type="given" value="Mary"></interp>
+                     <interp inst="t17500228-36-person291" type="gender" value="female"></interp>
+                  </persName>
+            . My husband lost his watch, and the witness can give a better account how.</p>
+               <p>
+            
+                  <persName id="t17500228-36-person292">
+                  Charles 
+                  Speckman 
+               <interp inst="t17500228-36-person292" type="surname" value="Speckman"></interp>
+                     <interp inst="t17500228-36-person292" type="given" value="Charles"></interp>
+                     <interp inst="t17500228-36-person292" type="gender" value="male"></interp>
+                  </persName>
+            . 
+               <persName id="t17500228-36-person293">
+                  Abraham 
+                  Cribb 
+               <interp inst="t17500228-36-person293" type="surname" value="Cribb"></interp>
+                     <interp inst="t17500228-36-person293" type="given" value="Abraham"></interp>
+                     <interp inst="t17500228-36-person293" type="gender" value="male"></interp>
+                  </persName>
+            , Hambleton, and I, stole the watch. We had seen the watch hang up in an inward room, and made two or three essays to get it, but could not till the last time. I went into the shop with a pretence to buy a half-penny worth of sugar; I had some half-pence in my pocket and I took out one, gave it a trundle into the room where the watch was hanging; I followed it, took the watch, put it into my breeches pocket. The man was weighing<xptr type="pageFacsimile" doc="175002280013"></xptr> my sugar, and told me I should have asked his leave before I went into that room; I told him it was to take up my money which had fell on one edge and run in there. He asked me if I wanted any thing else, I told him no, nor would I have the sugar, so I flung it into his eyes, and ran away. The others stood without the door, so we all ran away together. We all three lodge just by, at the prisoner Catherine Hall's in Drury-lane. We have been concerned in many robberies together. We sold it to Catherine Hall, who is mother to Hambleton, for 25 s. we took 4 s. a piece, and the rest we put up to buy cloaths. This is the same witness as in No. 187, 188.</p>
+               <p>All three <rs id="t17500228-36-verdict163" type="verdictDescription">
+                     <interp inst="t17500228-36-verdict163" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

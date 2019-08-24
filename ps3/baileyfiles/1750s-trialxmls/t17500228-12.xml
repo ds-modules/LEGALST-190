@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-12">
+               <interp inst="t17500228-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-12" type="year" value="1750"></interp>
+               <interp inst="t17500228-12" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-12" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-12-off49-c67" targOrder="Y" targets="t17500228-12-defend89 t17500228-12-off49 t17500228-12-verdict51"></join>
+         
+               <p>190. 
+               
+                  <persName id="t17500228-12-defend89" type="defendantName">
+                     Bryan 
+                     Gwinn 
+                  <interp inst="t17500228-12-defend89" type="surname" value="Gwinn"></interp>
+                     <interp inst="t17500228-12-defend89" type="given" value="Bryan"></interp>
+                     <interp inst="t17500228-12-defend89" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500228-12-off49" type="offenceDescription">
+                     <interp inst="t17500228-12-off49" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-12-off49" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 20 lb. wt. of cheshire cheese, val. 5 s.
+            </rs> the goods of 
+               
+                  <persName id="t17500228-12-victim91" type="victimName">
+                     James 
+                     Crawford 
+                  <interp inst="t17500228-12-victim91" type="surname" value="Crawford"></interp>
+                     <interp inst="t17500228-12-victim91" type="given" value="James"></interp>
+                     <interp inst="t17500228-12-victim91" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500228-12-off49 t17500228-12-victim91"></join>
+                  </persName>
+                
+            , and Co.</p>
+               <p>
+                  <rs id="t17500228-12-cd50" type="crimeDate">Feb. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-12-off49 t17500228-12-cd50"></join>.</p>
+               <p>
+                  <rs id="t17500228-12-verdict51" type="verdictDescription">
+                     <interp inst="t17500228-12-verdict51" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-12-punish52" type="punishmentDescription">
+                     <interp inst="t17500228-12-punish52" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-12-defend89 t17500228-12-punish52"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-40">
+               <interp inst="t17500117-40" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-40" type="year" value="1750"></interp>
+               <interp inst="t17500117-40" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-40" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-40-off173-c236" targOrder="Y" targets="t17500117-40-defend315 t17500117-40-off173 t17500117-40-verdict176"></join>
+         
+               <p>153. 
+               
+                  <persName id="t17500117-40-defend315" type="defendantName">
+                     James 
+                     Hammond 
+                  <interp inst="t17500117-40-defend315" type="surname" value="Hammond"></interp>
+                     <interp inst="t17500117-40-defend315" type="given" value="James"></interp>
+                     <interp inst="t17500117-40-defend315" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-40-off173" type="offenceDescription">
+                     <interp inst="t17500117-40-off173" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-40-off173" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing six pair of mens gray worsted stockings, val. 16 s. the goods of 
+                     
+                        <persName id="t17500117-40-victim317" type="victimName">
+                           John 
+                           Eliot 
+                        <interp inst="t17500117-40-victim317" type="surname" value="Eliot"></interp>
+                        <interp inst="t17500117-40-victim317" type="given" value="John"></interp>
+                        <interp inst="t17500117-40-victim317" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-40-off173 t17500117-40-victim317"></join>
+                     </persName>
+                      
+                  , in the shop of the said John
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-40-cd174" type="crimeDate">Jan. 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-40-off173 t17500117-40-cd174"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-40-person318">
+                  John 
+                  Eliot 
+               <interp inst="t17500117-40-person318" type="surname" value="Eliot"></interp>
+                     <interp inst="t17500117-40-person318" type="given" value="John"></interp>
+                     <interp inst="t17500117-40-person318" type="gender" value="male"></interp>
+                  </persName>
+            . I am <rs id="t17500117-40-viclabel175" type="occupation">a hosier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-40-victim317 t17500117-40-viclabel175"></join>; the prisoner came into my shop: between 3 and 4 o'clock in the afternoon, Jan. 16. and stole 6 pair of stockings : They are here in court; they were taken upon him, by 
+               <persName id="t17500117-40-person319">
+                  Joseph 
+                  Plaxton 
+               <interp inst="t17500117-40-person319" type="surname" value="Plaxton"></interp>
+                     <interp inst="t17500117-40-person319" type="given" value="Joseph"></interp>
+                     <interp inst="t17500117-40-person319" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17500117-40-person320">
+                  John 
+                  Davenport 
+               <interp inst="t17500117-40-person320" type="surname" value="Davenport"></interp>
+                     <interp inst="t17500117-40-person320" type="given" value="John"></interp>
+                     <interp inst="t17500117-40-person320" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t17500117-40-person321">
+                  Mary 
+                  Cox 
+               <interp inst="t17500117-40-person321" type="surname" value="Cox"></interp>
+                     <interp inst="t17500117-40-person321" type="given" value="Mary"></interp>
+                     <interp inst="t17500117-40-person321" type="gender" value="female"></interp>
+                  </persName>
+            . I was coming along the Strand, Jan. 16, and saw the prisoner take the stockings out of the shop window ; he put them under his arm. I told what I saw him do, to one that is here for a witness, who took him.</p>
+               <p>
+            
+                  <persName id="t17500117-40-person322">
+                  Joseph 
+                  Plaxton 
+               <interp inst="t17500117-40-person322" type="surname" value="Plaxton"></interp>
+                     <interp inst="t17500117-40-person322" type="given" value="Joseph"></interp>
+                     <interp inst="t17500117-40-person322" type="gender" value="male"></interp>
+                  </persName>
+            . 
+               <persName id="t17500117-40-person323">
+                  Mary 
+                  Cox 
+               <interp inst="t17500117-40-person323" type="surname" value="Cox"></interp>
+                     <interp inst="t17500117-40-person323" type="given" value="Mary"></interp>
+                     <interp inst="t17500117-40-person323" type="gender" value="female"></interp>
+                  </persName>
+             told me, last Tuesday, that the prisoner had taken some stockings; I saw him, and I followed him to Bull's-alley: I saw him run into a house, a woman came to the door, and said, who is that, that is run up stairs? I ran up stairs, and, almost at the top of the stairs, there was he, and the stockings: I brought him down stairs, and Davenport went and brought the stockings down; so we carried him to Mr. Eliot's shop, who owned the stockings.</p>
+               <p>
+            
+                  <persName id="t17500117-40-person324">
+                  John 
+                  Davenport 
+               <interp inst="t17500117-40-person324" type="surname" value="Davenport"></interp>
+                     <interp inst="t17500117-40-person324" type="given" value="John"></interp>
+                     <interp inst="t17500117-40-person324" type="gender" value="male"></interp>
+                  </persName>
+             confirmed what this last Witness said.</p>
+               <p>Prosecutor. This man was but that very morning clear'd from the Gate house; he behaved so very ill, that I never saw a man behave so in in my life. The Justice would not do any thing till he was handcuff'd ; he threatened to shoot the Justice thro' the head, to run a knife into his heart, &amp;c. and called him all the odd names he could think on.</p>
+               <p>Davenport and Plaxton confirmed the said account.</p>
+               <p>
+                  <rs id="t17500117-40-verdict176" type="verdictDescription">
+                     <interp inst="t17500117-40-verdict176" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17500117-40-punish177" type="punishmentDescription">
+                     <interp inst="t17500117-40-punish177" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-40-defend315 t17500117-40-punish177"></join>
+               Death
+            </rs>.</p>
+            </div1>

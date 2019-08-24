@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-30">
+               <interp inst="t17500228-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-30" type="year" value="1750"></interp>
+               <interp inst="t17500228-30" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-30" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-30-off125-c169" targOrder="Y" targets="t17500228-30-defend223 t17500228-30-off125 t17500228-30-verdict126"></join>
+         
+               <p>211. 
+               <persName id="t17500228-30-defend223" type="defendantName">
+                  
+                     Charles 
+                     Gaven 
+                   otherwise <rs id="t17500228-30-alias-6" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17500228-30-defend223 t17500228-30-alias-6"></join>the Papist of Beckles</rs>
+                     <interp inst="t17500228-30-defend223" type="surname" value="Gaven"></interp>
+                     <interp inst="t17500228-30-defend223" type="given" value="Charles"></interp>
+                     <interp inst="t17500228-30-defend223" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17500228-30-off125" type="offenceDescription">
+                     <interp inst="t17500228-30-off125" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t17500228-30-off125" type="offenceSubcategory" value="other"></interp>
+               not surrendering himself according to the King's order in council
+            </rs>. This was upon the same information with that of 
+               <persName id="t17500228-30-person225">
+                  John 
+                  Cobold 
+               <interp inst="t17500228-30-person225" type="surname" value="Cobold"></interp>
+                     <interp inst="t17500228-30-person225" type="given" value="John"></interp>
+                     <interp inst="t17500228-30-person225" type="gender" value="male"></interp>
+                  </persName>
+             N. 202. Advertised in the London Gazette, and proclaim'd at the same time, to which the reader is referr'd. <rs id="t17500228-30-verdict126" type="verdictDescription">
+                     <interp inst="t17500228-30-verdict126" type="verdictCategory" value="guilty"></interp>
+               The issues were found for the King
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-30-punish127" type="punishmentDescription">
+                     <interp inst="t17500228-30-punish127" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-30-defend223 t17500228-30-punish127"></join>
+               Death
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-20">
+               <interp inst="t17500228-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-20" type="year" value="1750"></interp>
+               <interp inst="t17500228-20" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-20" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-20-off79-c92" targOrder="Y" targets="t17500228-20-defend129 t17500228-20-off79 t17500228-20-verdict81"></join>
+         
+               <p>199. 
+               
+                  <persName id="t17500228-20-defend129" type="defendantName">
+                     John 
+                     Duckett 
+                  <interp inst="t17500228-20-defend129" type="surname" value="Duckett"></interp>
+                     <interp inst="t17500228-20-defend129" type="given" value="John"></interp>
+                     <interp inst="t17500228-20-defend129" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted, for that <rs id="t17500228-20-off79" type="offenceDescription">
+                     <interp inst="t17500228-20-off79" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500228-20-off79" type="offenceSubcategory" value="highwayRobbery"></interp>
+               he on the King's Highway, on 
+                     
+                        <persName id="t17500228-20-victim131" type="victimName">
+                           John 
+                           Slugh 
+                        <interp inst="t17500228-20-victim131" type="surname" value="Slugh"></interp>
+                        <interp inst="t17500228-20-victim131" type="given" value="John"></interp>
+                        <interp inst="t17500228-20-victim131" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500228-20-off79 t17500228-20-victim131"></join>
+                     </persName>
+                      
+                  , did make an assault, putting him in corporal fear, and danger of his life, one hat, val. 2 s. one peruke, val. 2 s. the goods of the said John, did steal, take, and carry away
+            </rs>, <rs id="t17500228-20-cd80" type="crimeDate">Feb. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-20-off79 t17500228-20-cd80"></join>.</p>
+               <p>
+            
+                  <persName id="t17500228-20-person132">
+                  John 
+                  Slugh 
+               <interp inst="t17500228-20-person132" type="surname" value="Slugh"></interp>
+                     <interp inst="t17500228-20-person132" type="given" value="John"></interp>
+                     <interp inst="t17500228-20-person132" type="gender" value="male"></interp>
+                  </persName>
+            . On the 15th of February, between the hours of eleven and twelve at night, I went for a pot of beer to an ale-house, in Mansfield-street, Goodmans-fields; coming back, two fellows, the prisoner one of them, ran up to me, and asked me for some beer; I told him he had no business with it; with that he would not let me pass. He penn'd me up against a shelf, with his arms on each side. I call'd out for the assistance of the watch; he then struck me on the head with his fist, took my hat and wigg, and ran away towards Rosemary-branch-alley. I ran after him, calling out, Watch! Stop Thief! &amp;c. He, finding himself pursued, flung my hat and wigg down. He had carried them about twenty or thirty yards; the watchman took him presently, and carried him into the George ale-house; and in the morning, before Justice Ricards, he confess'd the fact, and also that he had committed another robbery that same night. The other person I saw with him, said nothing to me.</p>
+               <p>Being cross-examined, he said he did not know he ever saw the prisoner in his life before that time. He was asked if the prisoner did not say to him, give me them halfpence you snatch'd from me some time ago. He answer'd, no such word was ever mentioned to him. To how old he was? he said he was sixteen, last December.</p>
+               <p>
+            
+                  <persName id="t17500228-20-person133">
+                  John 
+                  Buckmaster 
+               <interp inst="t17500228-20-person133" type="surname" value="Buckmaster"></interp>
+                     <interp inst="t17500228-20-person133" type="given" value="John"></interp>
+                     <interp inst="t17500228-20-person133" type="gender" value="male"></interp>
+                  </persName>
+            . I keep the George ale-house ; I heard the cry, Stop Thief! &amp;c. I went out at my door, and the watchman and I took hold of the prisoner together, and brought him into the house. He own'd he gave the prosecutor a knock on the pate, and took his hat and wigg.</p>
+               <p>Cross-Examined.</p>
+               <p>Q. Was the constable by at this confession?</p>
+               <p>Buckmaster. No, he was not.</p>
+               <p>Q. Did you hear talk of 140 l. on his Conviction ?</p>
+               <p>Buckmaster. No, Sir, I did not.</p>
+               <p>Q. to the prosecutor. Was you afraid of him when he penn'd you up?</p>
+               <p>Slugh. Yes, Sir, because there was another fellow stood by.</p>
+               <p>Q. Should you have been afraid of him, had he been alone ?</p>
+               <p>Slugh. I cannot tell. The prisoner seem'd to be about the age of the prosecutor; or, if any thing, a little older.</p>
+               <p>A Watchman. I heard the prosecutor cry out, Watch! Stop Thief! &amp;c. I seeing him with a pot of beer in his hand, bare-headed, I pursued the prisoner, and going to strike him, he said don't abuse me, I'll stand; I'll stand still. The other witness came out of his house; we took hold of him, and carried him from thence to Whitechapel watchhouse, and the next day to Justice Ricards. The Justice, not being in the way, we took him to the Golden lyon, just by; and before the Justice's Clerk, he own'd he had struck the lad, and took away his hat and wigg, and ran away with them, and also, that he and another person committed another robbery that night.</p>
+               <p>
+            
+                  <persName id="t17500228-20-person134">
+                  John 
+                  Randolph 
+               <interp inst="t17500228-20-person134" type="surname" value="Randolph"></interp>
+                     <interp inst="t17500228-20-person134" type="given" value="John"></interp>
+                     <interp inst="t17500228-20-person134" type="gender" value="male"></interp>
+                  </persName>
+            . I am a gun-stock-maker, and live within a hundred yards of the place where the robbery was committed; coming home the 5th of February, between 11 and 12 o'clock, I pass'd the prisoner at the bar, and another man, near the bottom of Mansfield-street. I had not got 50 yards farther, before I heard the cry of Stop Thief! &amp;c. I directly ran, and, by the moon-light, I saw the prisoner running, and a watchman in close pursuit of him. I was the third person that came to him; we took him into Mr. Buckmaster's house; he there own'd he gave the prosecutor a knock on the pate, and took off his hat and wigg.</p>
+               <p>Prisoner's Defence. I and the prosecutor have play'd together many a time; and once when I was sick, he took some halfpence from me. I said, will you give me some beer, Doctor? he said, he would not. I then asked him for the money he took from me. He said he would not give it me. I then said, I'll keep your hat and wigg. Then he cry'd out, Watch.</p>
+               <p>
+            
+                  <persName id="t17500228-20-person135">
+                  Thomas 
+                  Dunn 
+               <interp inst="t17500228-20-person135" type="surname" value="Dunn"></interp>
+                     <interp inst="t17500228-20-person135" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-20-person135" type="gender" value="male"></interp>
+                  </persName>
+             I was coming down Prescot-street. about three weeks ago, one night, past 11 o'clock. I heard two or three boys quarrelling about some beer; then one of them said, will you give me the money you snatch'd from me? the other said, I have none of your money, nor none I will give you. Then he said, I'll keep your hat and wigg till you give me the money. And, accordingly, I saw a boy run across the way with a hat in his hand,<xptr type="pageFacsimile" doc="175002280006"></xptr> and I heard the cry Stop Thief! and upon that, as I was lame, I made the best of my way home. I cannot swear to either of the boys.</p>
+               <p>Q. What are you?</p>
+               <p>Dunn. I live in Sherbourn-lane, and am a ticket porter, and ply at Change alley.</p>
+               <p>Q. How came you to know of this tryal, to give your Evidence?</p>
+               <p>Dunn. About a night or two after that, I was in Whitechapel, I was telling it to a butcher, who told me there was a boy committed upon it, and that his father was in the house; saying, he would call him; so he desired I would tell him where I liv'd, and he would call upon me.</p>
+               <p>
+            
+                  <persName id="t17500228-20-person136">
+                  John 
+                  Kitchen 
+               <interp inst="t17500228-20-person136" type="surname" value="Kitchen"></interp>
+                     <interp inst="t17500228-20-person136" type="given" value="John"></interp>
+                     <interp inst="t17500228-20-person136" type="gender" value="male"></interp>
+                  </persName>
+            . I have come through the place by Goodman's-fields wells, in the taphouse-yard, and there, smoaking a pipe, have seen these two boys at play together at marbles, and tossing up halfpence, and I have seen the prosecutor ride horses there several times. The prisoner's father had a horse there.</p>
+               <p>
+            
+                  <persName id="t17500228-20-person137">
+                  John 
+                  Slugh 
+               <interp inst="t17500228-20-person137" type="surname" value="Slugh"></interp>
+                     <interp inst="t17500228-20-person137" type="given" value="John"></interp>
+                     <interp inst="t17500228-20-person137" type="gender" value="male"></interp>
+                  </persName>
+            . What this witness says is absolutely false. I have been bound to Mr. Brown, an Apothecary, who is here in court, for a year, and I have not rid a horse but once since, and that is about half a year ago, and then went on my own business to Tottenham. I am certain I have not been in that yard this two months, and not above two or three times this twelve-month, and then only as I had occasion to go that way on my master's business; and I am sure I never did toss up for a farthing or a halfpenny in all my life. Upon my Oath, what he has swore is false, and I never saw the prisoner in my life, before he robb'd me.</p>
+               <p>
+            
+                  <persName id="t17500228-20-person138">
+                  John 
+                  Bradshaw 
+               <interp inst="t17500228-20-person138" type="surname" value="Bradshaw"></interp>
+                     <interp inst="t17500228-20-person138" type="given" value="John"></interp>
+                     <interp inst="t17500228-20-person138" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17500228-20-person139">
+                  Thomas 
+                  Moss 
+               <interp inst="t17500228-20-person139" type="surname" value="Moss"></interp>
+                     <interp inst="t17500228-20-person139" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-20-person139" type="gender" value="male"></interp>
+                  </persName>
+            , being accidentally in court, desired to be heard as to the two last witnesses. Bradshaw depos'd, he lives in Leadenhall-street; he said, he knew Dunn's Licence was taken from him for keeping a disorderly house, when he liv'd within six doors of him.</p>
+
+               <p>
+            
+                  <persName id="t17500228-20-person140">
+                  Thomas 
+                  Moss 
+               <interp inst="t17500228-20-person140" type="surname" value="Moss"></interp>
+                     <interp inst="t17500228-20-person140" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-20-person140" type="gender" value="male"></interp>
+                  </persName>
+             depos'd, he knew the witness Kitchen, and that his general Character was that of a gambler, and said he really did believe he was not to be credited upon oath.</p>
+               <p>
+                  <rs id="t17500228-20-verdict81" type="verdictDescription">
+                     <interp inst="t17500228-20-verdict81" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17500228-20-punish82" type="punishmentDescription">
+                     <interp inst="t17500228-20-punish82" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-20-defend129 t17500228-20-punish82"></join>
+               Death
+            </rs>.</p>
+            </div1>

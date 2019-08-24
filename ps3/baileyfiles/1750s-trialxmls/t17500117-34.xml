@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-34">
+               <interp inst="t17500117-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-34" type="year" value="1750"></interp>
+               <interp inst="t17500117-34" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-34" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-34-off148-c207" targOrder="Y" targets="t17500117-34-defend275 t17500117-34-off148 t17500117-34-verdict150"></join>
+         
+               <p>147. 
+               
+                  <persName id="t17500117-34-defend275" type="defendantName">
+                     Timothy 
+                     Evans 
+                  <interp inst="t17500117-34-defend275" type="surname" value="Evans"></interp>
+                     <interp inst="t17500117-34-defend275" type="given" value="Timothy"></interp>
+                     <interp inst="t17500117-34-defend275" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-34-off148" type="offenceDescription">
+                     <interp inst="t17500117-34-off148" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-34-off148" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one Iron half hundred weight, value 2 s. 6 d.
+            </rs> the goods of 
+               
+                  <persName id="t17500117-34-victim277" type="victimName">
+                     Thomas 
+                     Halfhead 
+                  <interp inst="t17500117-34-victim277" type="surname" value="Halfhead"></interp>
+                     <interp inst="t17500117-34-victim277" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-34-victim277" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-34-off148 t17500117-34-victim277"></join>
+                  </persName>
+                
+            , <rs id="t17500117-34-cd149" type="crimeDate">Jan. 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-34-off148 t17500117-34-cd149"></join>.</p>
+               <p>The prosecutor took the prisoner, with the weight upon him, in the Custom-house Gate.</p>
+               <p>
+                  <rs id="t17500117-34-verdict150" type="verdictDescription">
+                     <interp inst="t17500117-34-verdict150" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-34-punish151" type="punishmentDescription">
+                     <interp inst="t17500117-34-punish151" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-34-defend275 t17500117-34-punish151"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

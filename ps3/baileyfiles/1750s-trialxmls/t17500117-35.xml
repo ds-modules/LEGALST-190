@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-35">
+               <interp inst="t17500117-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-35" type="year" value="1750"></interp>
+               <interp inst="t17500117-35" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-35" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-35-off152-c209" targOrder="Y" targets="t17500117-35-defend279 t17500117-35-off152 t17500117-35-verdict154"></join>
+         
+               <p>148. 
+               
+                  <persName id="t17500117-35-defend279" type="defendantName">
+                     John 
+                     Leminghau 
+                  <interp inst="t17500117-35-defend279" type="surname" value="Leminghau"></interp>
+                     <interp inst="t17500117-35-defend279" type="given" value="John"></interp>
+                     <interp inst="t17500117-35-defend279" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-35-off152" type="offenceDescription">
+                     <interp inst="t17500117-35-off152" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-35-off152" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one large book, entitled, A Collection of all the Statues now in Use, with Notes in the Margin, &amp;c. by 
+                     <persName id="t17500117-35-person280">
+                        Thomas 
+                        Manby 
+                     <interp inst="t17500117-35-person280" type="surname" value="Manby"></interp>
+                        <interp inst="t17500117-35-person280" type="given" value="Thomas"></interp>
+                        <interp inst="t17500117-35-person280" type="gender" value="male"></interp>
+                     </persName>
+                  , Esq; of Lincoln's-Inn, val. 4 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17500117-35-victim282" type="victimName">
+                     John 
+                     King 
+                  <interp inst="t17500117-35-victim282" type="surname" value="King"></interp>
+                     <interp inst="t17500117-35-victim282" type="given" value="John"></interp>
+                     <interp inst="t17500117-35-victim282" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-35-off152 t17500117-35-victim282"></join>
+                  </persName>
+                
+            , <rs id="t17500117-35-cd153" type="crimeDate">Dec. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-35-off152 t17500117-35-cd153"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-35-person283">
+                  John 
+                  King 
+               <interp inst="t17500117-35-person283" type="surname" value="King"></interp>
+                     <interp inst="t17500117-35-person283" type="given" value="John"></interp>
+                     <interp inst="t17500117-35-person283" type="gender" value="male"></interp>
+                  </persName>
+            , deposed, the Book was his Property, but he was in a back room, and did not see the prisoner take it.</p>
+               <p>
+            
+                  <persName id="t17500117-35-person284">
+                  Thomas 
+                  Robinson 
+               <interp inst="t17500117-35-person284" type="surname" value="Robinson"></interp>
+                     <interp inst="t17500117-35-person284" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-35-person284" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner was looking at the books in Mr. King's window, for about half an hour; he looked about to see if any body saw him, then put it under his arm and walked away: I took hold of him by the posts, near little Moorgate ; he throw'd the book down, and I took him back to Mr. King's shop, and another person brought back the book.</p>
+               <p>For the Prisoner.</p>
+               <p>Lockyer 
+               <persName id="t17500117-35-person285">
+                  John 
+                  Davis 
+               <interp inst="t17500117-35-person285" type="surname" value="Davis"></interp>
+                     <interp inst="t17500117-35-person285" type="given" value="John"></interp>
+                     <interp inst="t17500117-35-person285" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner is a Russian, he has been at my house very frequently with his Father, who was priest to the Russian Chapel, in the Strand. Last summer he was sent to Henley upon Thames, for his education: His appearance, education, and behaviour is that of a gentleman. I never heard any ill of him before. I think this must be done for real want.</p>
+               <p>
+            
+                  <persName id="t17500117-35-person286">
+                  Charles 
+                  Drew 
+               <interp inst="t17500117-35-person286" type="surname" value="Drew"></interp>
+                     <interp inst="t17500117-35-person286" type="given" value="Charles"></interp>
+                     <interp inst="t17500117-35-person286" type="gender" value="male"></interp>
+                  </persName>
+            . I have been acquainted with the prisoner upwards of two Years and a half, from his first coming into England; he behaved himself always like a gentleman, express'd great duty to his Father upon all occasions, and, in short, was the moral man as far as I am capable of judging. I am of the other gentleman's opinion, that it must be real necessity that drove him to it; his own Father is chaplain to her Imperial Majesty of Russia; his Father was recalled, and the young person unfortunately left in the Country.</p>
+               <p>
+            
+                  <persName id="t17500117-35-person287">
+                  Nicholas 
+                  Cavanah 
+               <interp inst="t17500117-35-person287" type="surname" value="Cavanah"></interp>
+                     <interp inst="t17500117-35-person287" type="given" value="Nicholas"></interp>
+                     <interp inst="t17500117-35-person287" type="gender" value="male"></interp>
+                  </persName>
+            . I knew his Father in Russia, who is a Man of great Character in the Russian Church: His Father left him here for his Education, and furnish'd him with apparel and money; but the young man was guilty of some extravagancies, and his Father left him without letting him know of his departure ; and I believe this thing was merely out of necessity.</p>
+               <p>He was tried at his request by a Jury of half Foreigners.</p>
+               <p>
+                  <rs id="t17500117-35-verdict154" type="verdictDescription">
+                     <interp inst="t17500117-35-verdict154" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-35-verdict154" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>. <rs id="t17500117-35-punish155" type="punishmentDescription">
+                     <interp inst="t17500117-35-punish155" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17500117-35-punish155" type="punishmentSubcategory" value="privateWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-35-defend279 t17500117-35-punish155"></join>
+               privately whipped
+            </rs>.</p>
+               <p>There was a messenger came from the Russian Embassador, to assure the Court, that if his crime would admit of corporal Punishment, the Ambassador would order him a safe passage to Russia.</p>
+            </div1>

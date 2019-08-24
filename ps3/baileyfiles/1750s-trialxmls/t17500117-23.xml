@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-23">
+               <interp inst="t17500117-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-23" type="year" value="1750"></interp>
+               <interp inst="t17500117-23" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-23" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-23-off99-c160" targOrder="Y" targets="t17500117-23-defend210 t17500117-23-off99 t17500117-23-verdict101"></join>
+         
+               <p>136. 
+               
+                  <persName id="t17500117-23-defend210" type="defendantName">
+                     Daniel 
+                     Steel 
+                  <interp inst="t17500117-23-defend210" type="surname" value="Steel"></interp>
+                     <interp inst="t17500117-23-defend210" type="given" value="Daniel"></interp>
+                     <interp inst="t17500117-23-defend210" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17500117-23-off99" type="offenceDescription">
+                     <interp inst="t17500117-23-off99" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-23-off99" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 12 pounds weight of Lead
+            </rs>, the goods of the parish of St. Christopher's Lestocks, <rs id="t17500117-23-cd100" type="crimeDate">Dec. 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-23-off99 t17500117-23-cd100"></join>.</p>
+               <p>
+                  <rs id="t17500117-23-verdict101" type="verdictDescription">
+                     <interp inst="t17500117-23-verdict101" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

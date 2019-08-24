@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-26">
+               <interp inst="t17500228-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-26" type="year" value="1750"></interp>
+               <interp inst="t17500228-26" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-26" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-26-off106-c141" targOrder="Y" targets="t17500228-26-defend188 t17500228-26-off106 t17500228-26-verdict110"></join>
+               <join result="criminalCharge" id="t17500228-26-off106-c142" targOrder="Y" targets="t17500228-26-defend190 t17500228-26-off106 t17500228-26-verdict110"></join>
+         
+               <p>206, 207. 
+               
+                  <persName id="t17500228-26-defend188" type="defendantName">
+                     John 
+                     Wilkinson 
+                  <interp inst="t17500228-26-defend188" type="surname" value="Wilkinson"></interp>
+                     <interp inst="t17500228-26-defend188" type="given" value="John"></interp>
+                     <interp inst="t17500228-26-defend188" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17500228-26-defend190" type="defendantName">
+                     William 
+                     North 
+                  <interp inst="t17500228-26-defend190" type="surname" value="North"></interp>
+                     <interp inst="t17500228-26-defend190" type="given" value="William"></interp>
+                     <interp inst="t17500228-26-defend190" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for that <rs id="t17500228-26-off106" type="offenceDescription">
+                     <interp inst="t17500228-26-off106" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500228-26-off106" type="offenceSubcategory" value="highwayRobbery"></interp>
+               they on the King's highway, on 
+                     
+                        <persName id="t17500228-26-victim192" type="victimName">
+                           William 
+                           Crompton 
+                        <interp inst="t17500228-26-victim192" type="surname" value="Crompton"></interp>
+                        <interp inst="t17500228-26-victim192" type="given" value="William"></interp>
+                        <interp inst="t17500228-26-victim192" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500228-26-off106 t17500228-26-victim192"></join>
+                     </persName>
+                      
+                  , <rs id="t17500228-26-viclabel107" type="occupation">Esq;</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17500228-26-victim192 t17500228-26-viclabel107"></join> did make an assault, putting him in corporal fear and danger of his life, and taking from him one gold watch, val. 8 l. and 12 s. in money number'd
+            </rs>, <rs id="t17500228-26-cd108" type="crimeDate">Jan. 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-26-off106 t17500228-26-cd108"></join>.</p>
+               <p>
+            
+                  <persName id="t17500228-26-person193">
+                  William 
+                  Crompton 
+               <interp inst="t17500228-26-person193" type="surname" value="Crompton"></interp>
+                     <interp inst="t17500228-26-person193" type="given" value="William"></interp>
+                     <interp inst="t17500228-26-person193" type="gender" value="male"></interp>
+                  </persName>
+             On the 30th of January I had been abroad, and Mr. Spillage along with me; returning home on horseback, <placeName id="t17500228-26-crimeloc109">in a path that comes from Hide-park-hospital, into the road</placeName>
+                  <interp inst="t17500228-26-crimeloc109" type="placeName" value="in a path that comes from Hide-park-hospital, into the road"></interp>
+                  <interp inst="t17500228-26-crimeloc109" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500228-26-off106 t17500228-26-crimeloc109"></join>, it being a very rainy night, about half an hour past six o'clock, I felt something pull my coat; I was plucked off my horse in a moment; when I was on the ground, a man had hold of me, and he pull'd a Scymiter out of his breast, held it over my face, and demanded my money, in a low tone. I begg'd he would give me leave to pull my gloves off; but before I could, he took my watch out, and put it into his pocket. Another man came up, with either a stick or a sword, which he wav'd over my head; one of them put his hand into my pocket, and took my money all out, which was about 12 or 13 s. I saw but two men, it being dark; I cannot swear to either of the prisoners.</p>
+               <p>
+            
+                  <persName id="t17500228-26-person194">
+                  William 
+                  Spillage 
+               <interp inst="t17500228-26-person194" type="surname" value="Spillage"></interp>
+                     <interp inst="t17500228-26-person194" type="given" value="William"></interp>
+                     <interp inst="t17500228-26-person194" type="gender" value="male"></interp>
+                  </persName>
+            . I live at Knightsbridge ; I was in company with the prosecutor; the affair happen'd near a house call'd Bloody-bridge-house ; I believe I might be about 100 yards before the prosecutor; and coming near a stile, there were two men seemingly coming over it; I think I saw three men, when I came to turn out of the King's-road to St. George's-hospital. I all the time heard a horse galloping after me; when I came to this gate, I cry'd, Crompton, where are you? I turn'd about, the horse was behind me, and nobody on him ; I was under much concern, and rode back up the road; riding about 150 yards, I met him in a terrible fright ; said he, I have been robb'd, telling me as he mentioned before.</p>
+               <p>
+            
+                  <persName id="t17500228-26-person195">
+                  Richard 
+                  Armour 
+               <interp inst="t17500228-26-person195" type="surname" value="Armour"></interp>
+                     <interp inst="t17500228-26-person195" type="given" value="Richard"></interp>
+                     <interp inst="t17500228-26-person195" type="gender" value="male"></interp>
+                  </persName>
+            . The day after Mr. Crompton was robb'd, the prisoners at the bar, and one Blake, came to my house, the Hog in armour, in Field-lane; they call'd for a pint of beer, and asked for one John, a Countryman; they asked for the news-paper; I told 'em it was in use. After I carried the paper to them, I saw all their heads together over the table, and saw a watch in the hands of North, which they suddenly snatch'd away upon my approach. After some time, I came into the room again, and Wilkinson had got it open, shewing it to another man in the room, saying, his uncle died and left it him, and that it cost him thirty guineas, but he would be glad to sell it for fifteen. They then paid for three pints of beer, and went their ways.</p>
+               <p>
+            
+                  <persName id="t17500228-26-person196">
+                  Henry 
+                  Price 
+               <interp inst="t17500228-26-person196" type="surname" value="Price"></interp>
+                     <interp inst="t17500228-26-person196" type="given" value="Henry"></interp>
+                     <interp inst="t17500228-26-person196" type="gender" value="male"></interp>
+                  </persName>
+            . I was at the Hog in armour, in Field-lane, this time; Wilkinson, North, and Blake, were in another box; North had his sword under his arm; (the prisoners were soldiers) they had a watch to dispose of, and this John, that was mentioned before, was asked, if he could sell it? John said, here is a watch maker in company, (meaning myself) may-be he'll buy it, or help you to a chapman. Then Wilkinson pull'd the watch out of his pocket; it was a gold one, with an enamell'd dial-plate. I open'd it, and look'd at it; there was a stone upon the cock; I took it to be a jewel watch; the name was 
+               <persName id="t17500228-26-person197">
+                  John 
+                  Merrit 
+               <interp inst="t17500228-26-person197" type="surname" value="Merrit"></interp>
+                     <interp inst="t17500228-26-person197" type="given" value="John"></interp>
+                     <interp inst="t17500228-26-person197" type="gender" value="male"></interp>
+                  </persName>
+            ; but the number I do not know. After this, I heard it was in the Advertiser, and eight guineas reward offer'd.</p>
+               <p>The Prosecutor depos'd, that the watch he lost was as describ'd by the last witness.</p>
+               <p>
+            
+                  <persName id="t17500228-26-person198">
+                  Thomas 
+                  Fennel 
+               <interp inst="t17500228-26-person198" type="surname" value="Fennel"></interp>
+                     <interp inst="t17500228-26-person198" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-26-person198" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17500228-26-person199">
+                  John 
+                  Townsend 
+               <interp inst="t17500228-26-person199" type="surname" value="Townsend"></interp>
+                     <interp inst="t17500228-26-person199" type="given" value="John"></interp>
+                     <interp inst="t17500228-26-person199" type="gender" value="male"></interp>
+                  </persName>
+             his servant, depos'd Wilkinson having his watch, and his offering it to sale to the former, &amp;c.</p>
+               <p>Corporal 
+               <persName id="t17500228-26-person200">
+                  Day
+               <interp inst="t17500228-26-person200" type="given" value="Day"></interp>
+                     <interp inst="t17500228-26-person200" type="gender" value="indeterminate"></interp>
+                  </persName>
+             confirm'd the account of Wilkinson having such a watch and shewing it him, telling him his uncle left it him, and that it cost 30 guineas.</p>
+               <p>
+            
+                  <persName id="t17500228-26-person201">
+                  Abraham 
+                  Holbridge 
+               <interp inst="t17500228-26-person201" type="surname" value="Holbridge"></interp>
+                     <interp inst="t17500228-26-person201" type="given" value="Abraham"></interp>
+                     <interp inst="t17500228-26-person201" type="gender" value="male"></interp>
+                  </persName>
+             depos'd, that going to guard Wilkinson to New Prison he began to confess, saying, he pull'd the Prosecutor from off his House, and that Blake, and North, and himself robb'd him, and that he told him, if he designed it to be any advantage to himself, he must confess before a justice of the peace.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175002280009"></xptr>The five last witnesses being cross examined, as to North could not say any thing more against him, than that he was in company with the other two when Wilkinson wanted to sell the watch at the Hog in Armour.</p>
+               <p>Both <rs id="t17500228-26-verdict110" type="verdictDescription">
+                     <interp inst="t17500228-26-verdict110" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-18">
+               <interp inst="t17500117-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-18" type="year" value="1750"></interp>
+               <interp inst="t17500117-18" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-18" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-18-off76-c120" targOrder="Y" targets="t17500117-18-defend161 t17500117-18-off76 t17500117-18-verdict79"></join>
+         
+               <p>131. 
+               
+                  <persName id="t17500117-18-defend161" type="defendantName">
+                     William 
+                     Hopton 
+                  <interp inst="t17500117-18-defend161" type="surname" value="Hopton"></interp>
+                     <interp inst="t17500117-18-defend161" type="given" value="William"></interp>
+                     <interp inst="t17500117-18-defend161" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for that <rs id="t17500117-18-off76" type="offenceDescription">
+                     <interp inst="t17500117-18-off76" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17500117-18-off76" type="offenceSubcategory" value="murder"></interp>
+               he, in company with 
+                     <persName id="t17500117-18-person162">
+                        James 
+                        Parkinson 
+                     <interp inst="t17500117-18-person162" type="surname" value="Parkinson"></interp>
+                        <interp inst="t17500117-18-person162" type="given" value="James"></interp>
+                        <interp inst="t17500117-18-person162" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17500117-18-person163">
+                        John 
+                        Griffiths 
+                     <interp inst="t17500117-18-person163" type="surname" value="Griffiths"></interp>
+                        <interp inst="t17500117-18-person163" type="given" value="John"></interp>
+                        <interp inst="t17500117-18-person163" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17500117-18-person164">
+                        Edmund 
+                        Jones 
+                     <interp inst="t17500117-18-person164" type="surname" value="Jones"></interp>
+                        <interp inst="t17500117-18-person164" type="given" value="Edmund"></interp>
+                        <interp inst="t17500117-18-person164" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17500117-18-person165">
+                        Thomas 
+                        Piercy 
+                     <interp inst="t17500117-18-person165" type="surname" value="Piercy"></interp>
+                        <interp inst="t17500117-18-person165" type="given" value="Thomas"></interp>
+                        <interp inst="t17500117-18-person165" type="gender" value="male"></interp>
+                     </persName>
+                  , and 
+                     <persName id="t17500117-18-person166">
+                        John 
+                        Davis 
+                     <interp inst="t17500117-18-person166" type="surname" value="Davis"></interp>
+                        <interp inst="t17500117-18-person166" type="given" value="John"></interp>
+                        <interp inst="t17500117-18-person166" type="gender" value="male"></interp>
+                     </persName>
+                  , Gents. on the 10th of Dec. on 
+                     
+                        <persName id="t17500117-18-victim168" type="victimName">
+                           Henry 
+                           Bradley 
+                        <interp inst="t17500117-18-victim168" type="surname" value="Bradley"></interp>
+                        <interp inst="t17500117-18-victim168" type="given" value="Henry"></interp>
+                        <interp inst="t17500117-18-victim168" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-18-off76 t17500117-18-victim168"></join>
+                     </persName>
+                      
+                  , against the peace of God, and our Sovereign Lord the King, did make an assault, and the said Henry did kill or murder, &amp;c
+            </rs>.</p>
+               <p>
+            
+                  <persName id="t17500117-18-person169">
+                  Mary 
+                  Bradley 
+               <interp inst="t17500117-18-person169" type="surname" value="Bradley"></interp>
+                     <interp inst="t17500117-18-person169" type="given" value="Mary"></interp>
+                     <interp inst="t17500117-18-person169" type="gender" value="female"></interp>
+                  </persName>
+            . I am widow to the deceased 
+               <persName id="t17500117-18-person170">
+                  Henry 
+                  Bradley 
+               <interp inst="t17500117-18-person170" type="surname" value="Bradley"></interp>
+                     <interp inst="t17500117-18-person170" type="given" value="Henry"></interp>
+                     <interp inst="t17500117-18-person170" type="gender" value="male"></interp>
+                  </persName>
+             ; he died on the first of January of the blows and wounds he received of those gentlemen, on the <rs id="t17500117-18-cd77" type="crimeDate">10th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-18-off76 t17500117-18-cd77"></join>, on the king's road near Chelsea. My husband <rs id="t17500117-18-viclabel78" type="occupation">was a bricklayer , and kept a publick-house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-18-victim168 t17500117-18-viclabel78"></join>; he was sitting by the fire side: about 8 o'clock that night these people came and knock'd violently at the door, my husband got up and opened it, and ask'd them what they would please to have; one of them said d - n you, you son of a b - h, I'll soon tell you what I want, and with a stick knock'd him down : My husband got up, and being a strong man, went to resent it; they knock'd him down again; I saw him knock'd down the 2d time. I saw four of them upon him altogether, beating him, some with sticks, some with their fists, and treading upon him: They had all sticks. I said, for God's sake, don't murder my husband ; then they knock'd me down in the mud with a great rail. I saw the prisoner strike my husband, as well as the other's. I went to a neighbour's house to call help, my husband then had scuffled out of the mud, and two of them were upon him: The prisoner was not one of them. Then by intreaties they became a little easy, and they came into my house and call'd for a pot of beer; and 'Squire Martin came with his pistols and some people, and surrounded them, saying, if they would not be civil he would shoot them. My husband went to Bow-street, Covent-garden ; he could not come home, being forc'd to be put to bed there,<xptr type="pageFacsimile" doc="175001170008"></xptr> and was obliged to come home in a Coach. One of his eyes was almost torn out of his head, his head, face, neck, and breast was bruis'd and very black; he complained much of inward pain: There was a black spot on his breast, where I suppose one of them had trod upon him: He was attended by one Mr. Greenwood, an Apothecary. He began complaining from the same night, and never was well afterwards; before he was a very healthy man, I never knew him to all any thing, crve an hour's, illness, since he was my husband.</p>
+               <p>Q. Do you really believe he died of the wounds and bruises he received that night ?</p>
+               <p>Mary Bradley I really do believe it; his head was swell'd almost as big as three, and his eye tore in a terrible manner: about an hour before he died, he sent for a neighbour, one 
+               <persName id="t17500117-18-person171">
+                  Philip 
+                  Lumpley 
+               <interp inst="t17500117-18-person171" type="surname" value="Lumpley"></interp>
+                     <interp inst="t17500117-18-person171" type="given" value="Philip"></interp>
+                     <interp inst="t17500117-18-person171" type="gender" value="male"></interp>
+                  </persName>
+            , that he might declare what he had to say; he came, and said, how do you do Mr. Bradley? My husband made answer, and said, never worse; but I hope I shall be better soon : Said he, do you think this is owing to the blows you got from those Gentlemen, for, said he, I believe you are a dying man, do you lay it to any one in particular? Said he, I lay it to one and all; and added, pray be so good as to see them brought to justice, that I may be righted. About an hour after which he turn'd himself and died.</p>
+               <p>Q. Did he spit any blood?</p>
+               <p>
+            
+                  <persName id="t17500117-18-person172">
+                  Mary 
+                  Bradley 
+               <interp inst="t17500117-18-person172" type="surname" value="Bradley"></interp>
+                     <interp inst="t17500117-18-person172" type="given" value="Mary"></interp>
+                     <interp inst="t17500117-18-person172" type="gender" value="female"></interp>
+                  </persName>
+            . He began to spit blood on the wednesday following, and after that it became like a spungy matter, of all manner of colours: I shewed the pot to Mr. Greenwood, who said, he never saw a man spit such like before. His belly was swell'd, and he complained of pains and aches all over him. Upon his spitting of blood, I asked the apothecary where it came from? said he, where do you think? but from the bruises your husband has receiv'd.</p>
+               <p>
+            
+                  <persName id="t17500117-18-person173">
+                  Dorothy 
+                  Gains 
+               <interp inst="t17500117-18-person173" type="surname" value="Gains"></interp>
+                     <interp inst="t17500117-18-person173" type="given" value="Dorothy"></interp>
+                     <interp inst="t17500117-18-person173" type="gender" value="female"></interp>
+                  </persName>
+            . I lodged in the deceased's house, I was in my own room the 10th of December, and he was sitting smoaking his pipe below; those people came and knock'd at the window shutter, then at the door, as if they would break it: Mr. Bradley opened the door, and said, gentlemen, what do you want? I was come down stairs, and was then behind his back: There was a little fellow (a Baker) said d - n you, for a son of a b - h, I'll let you know, and he instantly knock'd Mr. Bradley down, and broke his stick on the side of his face; there were the other five men behind, about five yards from the door. Mr. Bradley recovered himself, and being a strong, hail, haroy man, went to strike the man again, and went to the middle of the road; they all come up and struck him, and knock'd him down again; they had all sticks, and he nothing in his hands: They all struck him I know every one of them: I took the Candle, and looked at them one by one, after they came into the house. The prisoner had a stick in his hand. The tall fellow, 
+               <persName id="t17500117-18-person174">
+                  James 
+                  Parkinson 
+               <interp inst="t17500117-18-person174" type="surname" value="Parkinson"></interp>
+                     <interp inst="t17500117-18-person174" type="given" value="James"></interp>
+                     <interp inst="t17500117-18-person174" type="gender" value="male"></interp>
+                  </persName>
+            , said, if they were taken they were dead men; they were all surrounded, and carried to the Justice. They put about a pound of Candles in the fire, and were for fighting in the house. I saw Mr. Bradley every day after this. She described his branks the same, or worse than the former Witness, sash his head would hardly go into a peck measure, his spitting, corruption, &amp;c. &amp;c. She said the prisoner at the  was the civilest of them all, and that Jemmy Parkinson, and the Baker, were the Death of the deceased.</p>
+
+               <p>Cross Examined.</p>
+               <p>Q. Did you tell the same before the Coroner you do now?</p>
+               <p>Gains. No, the Coroner would not hear me, I believe he was see'd; he made a laughing at me, and stopp'd me, and so did the gentlemen that sat by him.</p>
+               <p>
+            
+                  <persName id="t17500117-18-person175">
+                  Philip 
+                  Lantley 
+               <interp inst="t17500117-18-person175" type="surname" value="Lantley"></interp>
+                     <interp inst="t17500117-18-person175" type="given" value="Philip"></interp>
+                     <interp inst="t17500117-18-person175" type="gender" value="male"></interp>
+                  </persName>
+            , deposed, he went three or four times to see the deceased in his Illness, and confirm'd what the Widow had sworn as to his dying words, and that he complained much about his breast, stomach, and head; and that he saw him when he was dead, and he was very black about his shoulders, head, breast, and neck; he also said, the prisoner behaved the best of the six persons.</p>
+               <p>Eliz. Ridley. I live in the neighbourhood; those six persons knock'd at my door that very night : we let them all go by, we stood a little while, and we heard murder cry'd; we went out, and went to the first Red Lyon, and there we heard there were a heap of young men beating Mr. Bradley, I saw the deceased the next day after he came back from the justice, his head was swelled, he was terribly bruised about the face, and said he was extream bad. I went to see him two or three days after, he said he could eat nothing at all: I saw him in his illness I believe ten times; sometimes I thought he would recover, and sometimes I thought he would not. I said a week before he died. he would not live, he seemed to heave, and could hardly fetch his breath, which he said was from an inward bruise; I did not observe his spitting.</p>
+               <p>
+            
+                  <persName id="t17500117-18-person176">
+                  Francis 
+                  Gains 
+               <interp inst="t17500117-18-person176" type="surname" value="Gains"></interp>
+                     <interp inst="t17500117-18-person176" type="given" value="Francis"></interp>
+                     <interp inst="t17500117-18-person176" type="gender" value="male"></interp>
+                  </persName>
+            . I am husband to the witness Dorothy; I came home that night, and I saw the deceased going; with 'Squire Martin towards home in a very bad condition, his eye almost torn out; he complained always after of inwards pains, and spit blood and corruption; afterwards, this I observed till within two or three days of his death.<xptr type="pageFacsimile" doc="175001170009"></xptr> I saw him that very night he died, and heard him say, his death proceeded from those six men beating of him: He said several times to his wife, make yourself easy, and I hope in God those fellows will be made to suffer; and after he was dead, I saw conjealed blood round his neck and on his breast. I wanted to have been heard before the coroner, but a gentleman belonging to him would not let me in.</p>
+               <p>
+            
+                  <persName id="t17500117-18-person177">
+                  Hannah 
+                  Francis 
+               <interp inst="t17500117-18-person177" type="surname" value="Francis"></interp>
+                     <interp inst="t17500117-18-person177" type="given" value="Hannah"></interp>
+                     <interp inst="t17500117-18-person177" type="gender" value="female"></interp>
+                  </persName>
+            . I lodge in Mr. Bradley's house, up one pair of stairs. I saw the deceas'd beat by those men; I was but a very little time by, I was so frightned, but cannot say I saw the Prisoner near enough him to strike him. I saw the deceased every day, and he never was well afterwards. He was very much beat about the head and body, and some very bad marks appeared about his neck after he was dead. Was the others at the bar, I could say something against them, but as to the prisoner I cannot.</p>
+               <p>For the prisoner.</p>
+               <p>
+            
+                  <persName id="t17500117-18-person178">
+                  John 
+                  Robertson 
+               <interp inst="t17500117-18-person178" type="surname" value="Robertson"></interp>
+                     <interp inst="t17500117-18-person178" type="given" value="John"></interp>
+                     <interp inst="t17500117-18-person178" type="gender" value="male"></interp>
+                  </persName>
+            . I had some knowledge of the prisoner, being a townsman; hearing of his being taken into custody for this unhappy affair, I went to the coroner's inquest to see what proofs were made against him. I was present when the woman Gains was examined. I did not observe the least obstruction made by the coroner. There was one witness came when Mr. Wright the coroner was summing up the evidence, and that person was refused. On his cross-examination, he said, whether the coroner laugh'd or not, he could not tell, and that he thought, upon the whole evidence, that the matter was a trifling affair.</p>
+               <p>
+            
+                  <persName id="t17500117-18-person179">
+                  William 
+                  Baker 
+               <interp inst="t17500117-18-person179" type="surname" value="Baker"></interp>
+                     <interp inst="t17500117-18-person179" type="given" value="William"></interp>
+                     <interp inst="t17500117-18-person179" type="gender" value="male"></interp>
+                  </persName>
+            . I am the surgeon ; I was sent for between one and two o'clock on monday morning to the 
+               <persName id="t17500117-18-person180">
+                  Brown 
+                  Bear 
+               <interp inst="t17500117-18-person180" type="surname" value="Bear"></interp>
+                     <interp inst="t17500117-18-person180" type="given" value="Brown"></interp>
+                     <interp inst="t17500117-18-person180" type="gender" value="male"></interp>
+                  </persName>
+             in Bow-street, Covent-garden, to the deceased. He told me he had a pain over his shoulders, breast, and head. It was very evident he had received sad blows on his head, which was a good deal swelled; his pulse was very quick; I bled him very largely; I thought he had been drinking. I saw him again the next day, between ten and eleven, he was prodigiously better, but still complain'd of pain, but I have seen people at a boxing-match beat a great deal more, and done well again; his eye was only a common black eye, it was very much swelled. I went before justice Fielding, and said I did not think his Life was in danger, and the affair was made up: (to another Q. he says, he thought him in but very little danger) adding, his head was swelled about as big as half my fist about the face. I saw the deceased when dead, the day the coroner attended his body. There was nothing particular appeared that could be the cause of his death, neither do I think his death was occasioned by what he received this 10th of December.</p>
+               <p>
+            
+                  <persName id="t17500117-18-person181">
+                  John 
+                  Greenwood 
+               <interp inst="t17500117-18-person181" type="surname" value="Greenwood"></interp>
+                     <interp inst="t17500117-18-person181" type="given" value="John"></interp>
+                     <interp inst="t17500117-18-person181" type="gender" value="male"></interp>
+                  </persName>
+            . I was sent for to attend the deceas'd after this action happened. I come to him on Sunday morning about 8 o'clock, 8 days after he had been beat; he complained of pains all over him; he was short breath'd and severish; he said he had been out and got a great cold, by being carried about and going to town, and I bled him.</p>
+               <p>Q to the Prosecutrix. Did you hear your husband complain of getting cold?</p>
+               <p>Prosecutrix. No. my Lord, I did not.</p>
+               <p>Q. to Greenwood. Did you see any blood in the pot, or corruption?</p>
+               <p>Greenwood. I always looked in the pot, there was a rough matter, but not the least appearance of blood; his head was tied up, and as to his eye, I did not see it needed any surgeon's business; there was a little fullness on one eye more than the other; I did not examine his head; I laid two blisters on his arms, and two on his back, and had he been bruised, as mentioned, I must have seen it when I stripp'd down his cloathes ; I saw no bruises. The day after he was dead I saw him, he was very black in those parts, and down one side; but this is common to persons who die a natural death, I have seen it in children and grown persons. I believe the catching of cold was the occasion of his death, and not his being beat; he complained of very short breath; I talked with the deceased in conversation; he said he had been beat a great deal worse than this, and got well sooner.</p>
+               <p>
+            
+                  <persName id="t17500117-18-person182">
+                  John 
+                  Richards 
+               <interp inst="t17500117-18-person182" type="surname" value="Richards"></interp>
+                     <interp inst="t17500117-18-person182" type="given" value="John"></interp>
+                     <interp inst="t17500117-18-person182" type="gender" value="male"></interp>
+                  </persName>
+            . I went to the deceased at Bow-street, and he was sitting leaning with his head upon a table, and seemed to be wet through; it was a very rainy night. The constable told me the surgeon had been there, and said there was no danger, and that he was willing to take six guineas of the gentlemen to make it up.</p>
+               <p>Ten Persons gave the Prisoner a good character, and 
+               <persName id="t17500117-18-person183">
+                  George 
+                  Norris 
+               <interp inst="t17500117-18-person183" type="surname" value="Norris"></interp>
+                     <interp inst="t17500117-18-person183" type="given" value="George"></interp>
+                     <interp inst="t17500117-18-person183" type="gender" value="male"></interp>
+                  </persName>
+            , the foreman of the jury, before the Coroner, deposed, that the witness Gains met with no obstruction at all as he saw; and that the coroner took much pains to explain the nature of wilful murder, at that time.</p>
+               <p>
+                  <rs id="t17500117-18-verdict79" type="verdictDescription">
+                     <interp inst="t17500117-18-verdict79" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-18-verdict79" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty, Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-18-punish80" type="punishmentDescription">
+                     <interp inst="t17500117-18-punish80" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17500117-18-punish80" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-18-defend161 t17500117-18-punish80"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+                  <rs id="t17500117-18-punish81" type="punishmentDescription">
+                     <interp inst="t17500117-18-punish81" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17500117-18-punish81" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-18-defend161 t17500117-18-punish81"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

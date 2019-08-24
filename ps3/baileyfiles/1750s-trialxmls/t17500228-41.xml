@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-41">
+               <interp inst="t17500228-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-41" type="year" value="1750"></interp>
+               <interp inst="t17500228-41" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-41" type="date" value="17500228"></interp>
+         
+               <p>230, 231, 232, 233, 234, 235, 236, 237. 
+               
+                  <persName id="t17500228-41-defend316" type="defendantName">
+                     John 
+                     Bowen 
+                  <interp inst="t17500228-41-defend316" type="surname" value="Bowen"></interp>
+                     <interp inst="t17500228-41-defend316" type="given" value="John"></interp>
+                     <interp inst="t17500228-41-defend316" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17500228-41-defend318" type="defendantName">
+                     Edward 
+                     Mullins 
+                  <interp inst="t17500228-41-defend318" type="surname" value="Mullins"></interp>
+                     <interp inst="t17500228-41-defend318" type="given" value="Edward"></interp>
+                     <interp inst="t17500228-41-defend318" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               <persName id="t17500228-41-defend319" type="defendantName">
+                  
+                     William 
+                     Smith 
+                  , otherwise <rs id="t17500228-41-alias-7" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17500228-41-defend319 t17500228-41-alias-7"></join>Norton</rs>
+                     <interp inst="t17500228-41-defend319" type="surname" value="Smith"></interp>
+                     <interp inst="t17500228-41-defend319" type="given" value="William"></interp>
+                     <interp inst="t17500228-41-defend319" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               
+                  <persName id="t17500228-41-defend322" type="defendantName">
+                     Robert 
+                     Carmitchell 
+                  <interp inst="t17500228-41-defend322" type="surname" value="Carmitchell"></interp>
+                     <interp inst="t17500228-41-defend322" type="given" value="Robert"></interp>
+                     <interp inst="t17500228-41-defend322" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17500228-41-defend324" type="defendantName">
+                     Joseph 
+                     Uptebacke 
+                  <interp inst="t17500228-41-defend324" type="surname" value="Uptebacke"></interp>
+                     <interp inst="t17500228-41-defend324" type="given" value="Joseph"></interp>
+                     <interp inst="t17500228-41-defend324" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17500228-41-defend326" type="defendantName">
+                     Garret 
+                     Lawler 
+                  <interp inst="t17500228-41-defend326" type="surname" value="Lawler"></interp>
+                     <interp inst="t17500228-41-defend326" type="given" value="Garret"></interp>
+                     <interp inst="t17500228-41-defend326" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17500228-41-defend328" type="defendantName">
+                     Joseph 
+                     Dowdle 
+                  <interp inst="t17500228-41-defend328" type="surname" value="Dowdle"></interp>
+                     <interp inst="t17500228-41-defend328" type="given" value="Joseph"></interp>
+                     <interp inst="t17500228-41-defend328" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17500228-41-defend330" type="defendantName">
+                     Thomas 
+                     Quin 
+                  <interp inst="t17500228-41-defend330" type="surname" value="Quin"></interp>
+                     <interp inst="t17500228-41-defend330" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-41-defend330" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for making an assault upon 
+               
+                  <persName id="t17500228-41-victim332" type="victimName">
+                     William 
+                     Salt 
+                  <interp inst="t17500228-41-victim332" type="surname" value="Salt"></interp>
+                     <interp inst="t17500228-41-victim332" type="given" value="William"></interp>
+                     <interp inst="t17500228-41-victim332" type="gender" value="male"></interp>
+                  </persName>
+                
+             and others, and rescuing 
+               <persName id="t17500228-41-person333">
+                  Thomas 
+                  Jones 
+               <interp inst="t17500228-41-person333" type="surname" value="Jones"></interp>
+                     <interp inst="t17500228-41-person333" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-41-person333" type="gender" value="male"></interp>
+                  </persName>
+             otherwise Harper out of the <placeName id="t17500228-41-crimeloc179">Gatehouse, Westminster</placeName>
+                  <interp inst="t17500228-41-crimeloc179" type="placeName" value="Gatehouse, Westminster"></interp>
+                  <interp inst="t17500228-41-crimeloc179" type="type" value="crimeLocation"></interp>, <rs id="t17500228-41-cd180" type="crimeDate">January 20, 1748</rs>.</p>
+               <p>Mr. Salt. I am <rs id="t17500228-41-viclabel181" type="occupation">keeper of the Gatehouse, Westminister</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-41-victim332 t17500228-41-viclabel181"></join>; on the <rs id="t17500228-41-cd182" type="crimeDate">20th of January, 1748</rs>, 
+               <persName id="t17500228-41-person334">
+                  Thomas 
+                  Jones 
+               <interp inst="t17500228-41-person334" type="surname" value="Jones"></interp>
+                     <interp inst="t17500228-41-person334" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-41-person334" type="gender" value="male"></interp>
+                  </persName>
+            , otherwise Harper, was committed to the Gatehouse by Gwyn Vaughan, Esq; for picking the honourable General St. Clair's Pocket of a Gold Watch, in Company with 
+               <persName id="t17500228-41-person335">
+                  Thomas 
+                  Allen 
+               <interp inst="t17500228-41-person335" type="surname" value="Allen"></interp>
+                     <interp inst="t17500228-41-person335" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-41-person335" type="gender" value="male"></interp>
+                  </persName>
+            , (the Commitment was read in Court) on the same evening, it was nearer eight o'clock than seven; a person knocked at the prison door, it was opened to let them in; there are two doors in the nature of folding doors, with an upper and lower bolt; one of the doors is always shut; there is a cross bar, with a lock to keep it shut. When the Door was opened, that is, the folding part, usually opened, the turnkey was prevented closing it again; a stick, or something like it, being thrust in betwixt the post; and that in the same instant there was a great rushing to force it open; there were seven or eight of us within; we guessed there might be five or six of them; thus we shov'd force against force ; at length we closed the door; but betwixt the time of closing it there were five pistols shot off from without; one was fired the moment the door was opened, which almost blinded us; the balls and shot stick now in the wood within; there is also a little wicket with four small iron bars in it, to peep through. The prisoner Mullins had just before been with Jones in the prison, and the door of this wicket was that evening forced away and lost; so that they without could have an opportunity of seeing us within through this hole, or the door when opened; two persons within were stabbed, 
+               <persName id="t17500228-41-person336">
+                  Patrick 
+                  Henley 
+               <interp inst="t17500228-41-person336" type="surname" value="Henley"></interp>
+                     <interp inst="t17500228-41-person336" type="given" value="Patrick"></interp>
+                     <interp inst="t17500228-41-person336" type="gender" value="male"></interp>
+                  </persName>
+             and another man, a prisoner, who assisted us at the gate, was run quite through the elbow. No ball or shot touched any of us; one of them made himself an evidence; we have nobody but he and some circumstances corresponding with it to prove the identity of the prisoners, it being<xptr type="pageFacsimile" doc="175002280014"></xptr> dark, and we almost blinded with their powder, could not see them. Jones crept out in this struggle at the door-way, and they carried him ff in triumph, and great shouting; the next morning one of the soldiers (which we sent for to guard the prison) found a pistol, which was burst in the string near the prison. It was produced in court.</p>
+               <p>Q. from Bowen. Did not Brian say, that at that time I was in a salivation.</p>
+               <p>Salt. I believe Brian said Bowen was in a walking fall.</p>
+               <p>
+            
+                  <persName id="t17500228-41-person337">
+                  John 
+                  Brian 
+               <interp inst="t17500228-41-person337" type="surname" value="Brian"></interp>
+                     <interp inst="t17500228-41-person337" type="given" value="John"></interp>
+                     <interp inst="t17500228-41-person337" type="gender" value="male"></interp>
+                  </persName>
+            . I have been acquainted with all the prisoners about two or three months before this affair at the Gatehouse happened. We were often at the Fox in Drury-lane together; on the 20th of January was twelve-months, betwixt the hours of six and seven in the evening, there was news brought to Field's house in Angel-Court, Drury-lane, by one 
+               <persName id="t17500228-41-person338">
+                  John 
+                  Folley 
+               <interp inst="t17500228-41-person338" type="surname" value="Folley"></interp>
+                     <interp inst="t17500228-41-person338" type="given" value="John"></interp>
+                     <interp inst="t17500228-41-person338" type="gender" value="male"></interp>
+                  </persName>
+            , to 
+               <persName id="t17500228-41-person339">
+                  Tom 
+                  Jones 
+               <interp inst="t17500228-41-person339" type="surname" value="Jones"></interp>
+                     <interp inst="t17500228-41-person339" type="given" value="Tom"></interp>
+                     <interp inst="t17500228-41-person339" type="gender" value="male"></interp>
+                  </persName>
+            's companions, that he was committed to the Gatehouse, for picking the pocket of General St. Clair, of a gold watch; there were then at that house, 
+               <persName id="t17500228-41-person340">
+                  John 
+                  Bowen 
+               <interp inst="t17500228-41-person340" type="surname" value="Bowen"></interp>
+                     <interp inst="t17500228-41-person340" type="given" value="John"></interp>
+                     <interp inst="t17500228-41-person340" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17500228-41-person341">
+                  Garret 
+                  Lawler 
+               <interp inst="t17500228-41-person341" type="surname" value="Lawler"></interp>
+                     <interp inst="t17500228-41-person341" type="given" value="Garret"></interp>
+                     <interp inst="t17500228-41-person341" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17500228-41-person342">
+                  Joseph 
+                  Dowdle 
+               <interp inst="t17500228-41-person342" type="surname" value="Dowdle"></interp>
+                     <interp inst="t17500228-41-person342" type="given" value="Joseph"></interp>
+                     <interp inst="t17500228-41-person342" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17500228-41-person343">
+                  George 
+                  Carter 
+               <interp inst="t17500228-41-person343" type="surname" value="Carter"></interp>
+                     <interp inst="t17500228-41-person343" type="given" value="George"></interp>
+                     <interp inst="t17500228-41-person343" type="gender" value="male"></interp>
+                  </persName>
+            , and myself in company; 
+               <persName id="t17500228-41-person344">
+                  George 
+                  Carter 
+               <interp inst="t17500228-41-person344" type="surname" value="Carter"></interp>
+                     <interp inst="t17500228-41-person344" type="given" value="George"></interp>
+                     <interp inst="t17500228-41-person344" type="gender" value="male"></interp>
+                  </persName>
+             is not yet taken; we were drinking gin and beer; we concluded to go and rescue Jones out; we come out of Field's house in order to go down to York-buildings; but we went first to the Fox in Drury-lane, where we found the other four, Norton otherwise Smith, Uptebacke otherwise Mills, 
+               <persName id="t17500228-41-person345">
+                  Bob 
+                  Carmitchell 
+               <interp inst="t17500228-41-person345" type="surname" value="Carmitchell"></interp>
+                     <interp inst="t17500228-41-person345" type="given" value="Bob"></interp>
+                     <interp inst="t17500228-41-person345" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17500228-41-person346">
+                  James 
+                  Quin 
+               <interp inst="t17500228-41-person346" type="surname" value="Quin"></interp>
+                     <interp inst="t17500228-41-person346" type="given" value="James"></interp>
+                     <interp inst="t17500228-41-person346" type="gender" value="male"></interp>
+                  </persName>
+            ; we told them what we were going about; they said they would go with us. I had nothing but a broomstick with me, nor did I know they had any instrument till we came to St. Martin's Church-yard, where we met 
+               <persName id="t17500228-41-person347">
+                  Edward 
+                  Mullings 
+               <interp inst="t17500228-41-person347" type="surname" value="Mullings"></interp>
+                     <interp inst="t17500228-41-person347" type="given" value="Edward"></interp>
+                     <interp inst="t17500228-41-person347" type="gender" value="male"></interp>
+                  </persName>
+            ; he told us he had been drinking with Jones; we talked of the affair, Mullings said, the turnkey knew me and himself, so we were not to go in; adding, he had been drinking with him and Jones for better than an hour there, so it was concluded to put my stick in at the door, to keep it open, then fire and cut away; and while our heads were all together, this was concluded on; says Bowen, I have got a pistol and cutlass; says a second, I have another, and so on. Dowdle had a pistol and a hanger by his side, Bowen the same, 
+               <persName id="t17500228-41-person348">
+                  Garret 
+                  Lawler 
+               <interp inst="t17500228-41-person348" type="surname" value="Lawler"></interp>
+                     <interp inst="t17500228-41-person348" type="given" value="Garret"></interp>
+                     <interp inst="t17500228-41-person348" type="gender" value="male"></interp>
+                  </persName>
+            , had a pistol, Mullins had a pistol, which burst in the barrel ; after which, he threw it away, it hurt his right hand ; Carmitchell had a knife and a stick in his hand, the short end of a broomstick; Smith had a hanger and a stick; Bowen first knocked at the door, and when it was open, I put my stick between the door and the post; we strove to get in, but the Chain being fastened across the gate, we could not; we met with a strong resistance from within, Harper got his body between the gate and the post, and was squeezed; Bowen stabbed somebody within in the time with his hanger, betwixt the gate and gate-post, over his head; he got hold of Harper's arm, and somebody within got hold of him behind, but he was pulled out. I heard a Man cry out he was stabb'd; afterwards the gate was shut; there were about three pistols fired, or more; I was in much hurry, and can't remember the number; I saw Jones otherwise Harper, after he was taken out, as far as King-street, Westminster; we came all away together, making a great noise ; about Whitehall we dispersed, some one way, and some another.</p>
+               <p>Q. from Bowen. Did not you say before the justice that I was all that time in a sallivation ?</p>
+               <p>Brian. I might say he was in a sort of a walking fall.</p>
+               <p>Q. from Dowdle. How was I arm'd?</p>
+               <p>Brian. With a pistol and cutlass.</p>
+               <p>Q. from Smith, otherwise Norton. How was I armed?</p>
+               <p>Brian. With a hanger and an oaken stick; I knew him this three or four years; I belonged to a privateer, and we retook him, and brought him to England.</p>
+               <p>Bowen. My Lord, Brian would never have discovered any thing had he not been taken up upon my information.</p>
+               <p>
+            
+                  <persName id="t17500228-41-person349">
+                  Patrick 
+                  Henley 
+               <interp inst="t17500228-41-person349" type="surname" value="Henley"></interp>
+                     <interp inst="t17500228-41-person349" type="given" value="Patrick"></interp>
+                     <interp inst="t17500228-41-person349" type="gender" value="male"></interp>
+                  </persName>
+            . I am under turnkey to Mr. Salt, at the Gatehouse: when Jones was brought prisoner there, that day about four o'clock Mullins came to visit him; about five they were about the yard backwards and forwards by themselves; he staid there till about seven; he asked me what o'clock it was, I said a little after seven ; he said blood and ouns let me go, it is time for me to go, and I let him out, and this fray happened about eight o'clock; somebody come and knocked at the door; it was opened to let them in; there was a stick put in between the door and the post, so that it could not shut too to lock; the chain was on the door in the inside, or they had all rushed in; they forced on the outside, we for our shoulders to force within against them; in the mean time, Harper got some way betwixt our legs, and was pulled away from us; as soon as the door was opened, and they pushing without, Harper bounced directly to the door; the powder hurt our eyes; there were five pistols fired ; I<xptr type="pageFacsimile" doc="175002280015"></xptr> cannot tell how many there were without, but we found by their thrusting against the door they were very strong, there must be a great many. Allen who came in with Jones, was got to the door, but we pulled him back again. I was the first man that was wounded with a stab on my forehead, (he shewed the scar ) this was done through the wicket; after they had got Jones out, they made a terrible huzzaing; after they had got him out, I heard them say they would come back and pull down the goal; there was a pistol burst, which was found next morning under our gateway, by one of the soldiers.</p>
+               <p>
+            
+                  <persName id="t17500228-41-person350">
+                  John 
+                  Diamond 
+               <interp inst="t17500228-41-person350" type="surname" value="Diamond"></interp>
+                     <interp inst="t17500228-41-person350" type="given" value="John"></interp>
+                     <interp inst="t17500228-41-person350" type="gender" value="male"></interp>
+                  </persName>
+            . I was turnkey to Mr. Salt, in January, 1748; he went on and confirmed the last two witnesses.</p>
+               <p>
+            
+                  <persName id="t17500228-41-person351">
+                  Steven 
+                  Macdaniel 
+               <interp inst="t17500228-41-person351" type="surname" value="Macdaniel"></interp>
+                     <interp inst="t17500228-41-person351" type="given" value="Steven"></interp>
+                     <interp inst="t17500228-41-person351" type="gender" value="male"></interp>
+                  </persName>
+            . I know all the prisoners, and they know me. I saw them three or four days before this fray happened, at the Fox in Drury-lane ; that house harboured nothing but thieves and highwaymen. I know they used to go to the plough; I dined along with Mullins, Lawler, and Brian the witness, once at the Fox, about a Week after this affair happened; some of these belong to what they call themselves the Royal Family: I am an Officer (two of them, Carter and Dowdle, stopped me one night in Drury-lane, and desired me to deliver my Money ; I said, what I have got, you may take very easy ; I drew my hanger, and pinned one of them up against a Cheesemonger's pop.) Mr. Maycroft was there at that time. Mullings came in when we were at dinner, with his hand tied up, his thumb being hurt; he said it was done by quarrelling; he called Brian stagging dog, (the English of that is, he thought if I wanted to take any one, he would help me to him) Mr. Jones belonging to Bridewell, and I, took Brian; Jones took a pistol out of his pocket, who said, don't use me ill, I'll make myself an evidence, and before Mr. Fielding, he confessed this affair ; I had some conversation about this with Bowen, in the Press-yard in Newgate; he sent me two letters about two months ago; he said to me when I came there, if he was sure he should be sent to the place were Brian then was, he would come as an evidence about this rescue ; said I, why did not you put it into your first Information, then there would have been some credit in it; I knew Jones who was rescued, and have seen him along with Quin several times at the Fox.</p>
+               <p>
+            
+                  <persName id="t17500228-41-person352">
+                  Robert 
+                  Maycrost 
+               <interp inst="t17500228-41-person352" type="surname" value="Maycrost"></interp>
+                     <interp inst="t17500228-41-person352" type="given" value="Robert"></interp>
+                     <interp inst="t17500228-41-person352" type="gender" value="male"></interp>
+                  </persName>
+            . I am an Officer, and we generally make use of people that will answer our purposes. I was once treating Brian with a tankard of beer, and Mullins took an opportunity of quarrelling with him; he imagined he was going to speak the truth; he had a handkerchief tied about one hand, and said he would tie one hand and fight Brian, &amp;c. he said he had an injury done to his hand; this was a few days after the advertisement of the rescue.</p>
+               <p>Bowen's defence.</p>
+               <p>
+            
+                  <persName id="t17500228-41-person353">
+                  William 
+                  Merrychurch 
+               <interp inst="t17500228-41-person353" type="surname" value="Merrychurch"></interp>
+                     <interp inst="t17500228-41-person353" type="given" value="William"></interp>
+                     <interp inst="t17500228-41-person353" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Kent-street, Surrey ; Bowen came into my house on the 13th of January, and never went out till the 19th of February 1748, being ill; he then was in a salivation.</p>
+               <p>Cross-Examined.</p>
+               <p>Q. How came you to have a house of your own to lay people down in a salivation, when at the same time you yourself was forced to go to the Lock to be laid down yourself?</p>
+               <p>Merrychurch. I never was in one in my life.</p>
+               <p>Mullin's defence. I have always served the King till I was disabled, and have now got a Pension.</p>
+               <p>Smith otherwise Norton's Defence. I know nothing at all of the affair.</p>
+               <p>
+            
+                  <persName id="t17500228-41-person354">
+                  Elizabeth 
+                  Lee 
+               <interp inst="t17500228-41-person354" type="surname" value="Lee"></interp>
+                     <interp inst="t17500228-41-person354" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500228-41-person354" type="gender" value="female"></interp>
+                  </persName>
+            . Norton was at the same time at his uncle Jackson's chambers, ill of a fever, which took him the beginning of January 1748. and I was with him till the middle of February, I believe he did not go out above a fortnight before I left him: his uncle is an attorney in Barnard's-Inn, No. 3, up one pair of stairs: his uncle is now confined to his chamber, I saw him this morning very ill.</p>
+               <p>On her cross-examination she said the prisoner lay in a little room, on the left hand coming in; he had a blister, there were green cheney curtains to his bed, and a raised Tester, and nothing in the room, it being small, but one chair by his bed.</p>
+               <p>
+            
+                  <persName id="t17500228-41-person355">
+                  Thomas 
+                  Fox 
+               <interp inst="t17500228-41-person355" type="surname" value="Fox"></interp>
+                     <interp inst="t17500228-41-person355" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-41-person355" type="gender" value="male"></interp>
+                  </persName>
+            . Smith was a patient of mine, from the 4th or 5th of January, a year ago, to the 2d of February after: he had a fever, I bleeded and blistered him, and several other attendances, and he was not capable to get out of his bed for four weeks, to my knowledge ; this was at Mr. Jackson's chambers, up one pair of stairs, No. 3. Barnard's Inn.</p>
+
+               <p>On his cross-examination he said, the prisoner lay in a large back room, that he never saw the prisoner out of his bed for four weeks together; there were blue curtains to his bed, and that the room was on the right hand coming in; there were a large table in the room, and several chairs and a looking-glass, and that he visited him once or twice a day.</p>
+               <p>
+            
+                  <persName id="t17500228-41-person356">
+                  Thomas 
+                  Lee 
+               <interp inst="t17500228-41-person356" type="surname" value="Lee"></interp>
+                     <interp inst="t17500228-41-person356" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-41-person356" type="gender" value="male"></interp>
+                  </persName>
+            , husband to the aforesaid nurse. Smith was taken ill some time before twelfth-day, and continued ill about six weeks, he was not capable after three weeks end, to go any farther than<xptr type="pageFacsimile" doc="175002280016"></xptr> just down in the inn, for the benefit of the air. I have been acquainted with him this six or seven years, and had used to call on my Wife the time she was nursing him.</p>
+               <p>On his cross-examination he said, the prisoner lay on a room on the left hand, a room big enough for half a dozen people to sit down by the side of the bed; the curtains were blue, and there was a table in the room. (The two last witnesses being known, were asked how often they had been to insure bail at Westminster-hall, who at first denied, and at last both acknowledged they had)</p>
+               <p>
+            
+                  <persName id="t17500228-41-person357">
+                  Mary 
+                  Jackson 
+               <interp inst="t17500228-41-person357" type="surname" value="Jackson"></interp>
+                     <interp inst="t17500228-41-person357" type="given" value="Mary"></interp>
+                     <interp inst="t17500228-41-person357" type="gender" value="female"></interp>
+                  </persName>
+            . Norton lay at my husband's chambers the beginning of January 1748, he kept his bed, and was very ill five or six weeks: I believe he was not capable of going out during all that time.</p>
+               <p>On her cross-examination she said, her husband was then very ill at home, that her two chambers are much of a size; there are only a chair or two in the room, no table or looking-glass; the curtains of a blue green, that he, the prisoner, used to lie sometimes in one room, and sometimes in the other; but she was not sure of that; then she said she had seen him in only one bed, and not in the other.</p>
+               <p>Thomas Quin's defence. I have nothing to say for myself; I am just come from Sea, and know nothing of the matter, and have no witnesses.</p>
+               <p>Dowdle's defence. I was at Sea at the same time the fact was committed, but have nobody here to prove it. I came to receive some Prize-Money here last Summer, and as soon as I received it I went to Ireland, and there was taken up and brought hither.</p>
+               <p>Lawler's defence. He called 
+               <persName id="t17500228-41-person358">
+                  Thomas 
+                  Stanly 
+               <interp inst="t17500228-41-person358" type="surname" value="Stanly"></interp>
+                     <interp inst="t17500228-41-person358" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-41-person358" type="gender" value="male"></interp>
+                  </persName>
+            , who is now a prisoner in Newgate, who deposed the same he did on the tryal of 
+               <persName id="t17500228-41-person359">
+                  Garret 
+                  Lawler 
+               <interp inst="t17500228-41-person359" type="surname" value="Lawler"></interp>
+                     <interp inst="t17500228-41-person359" type="given" value="Garret"></interp>
+                     <interp inst="t17500228-41-person359" type="gender" value="male"></interp>
+                  </persName>
+             in December sessions, to which the reader is referred.</p>
+               <p>Mr. Row. I am keeper of Newgate in Dublin ; Stanley came over to assist me with some of these prisoners, and Jones, we landed the 6th of October at Liverpool, and came to London the 11th. Lawler was not a Prisoner, as Stanley has related, in Ireland at that time. From a Letter I received in answer to one I sent upon Stanley's giving in this Evidence, (the letter not being Evidence could not be read ) when I brought him over he well knew what he was to be tried for here, it being advertised, and he taken up upon it; yet he never told me of his being a prisoner in the Marshalsea prison in Dublin, or made any such pretensions.</p>
+               <p>
+            
+                  <persName id="t17500228-41-person360">
+                  Joseph 
+                  Uptebacke 
+               <interp inst="t17500228-41-person360" type="surname" value="Uptebacke"></interp>
+                     <interp inst="t17500228-41-person360" type="given" value="Joseph"></interp>
+                     <interp inst="t17500228-41-person360" type="gender" value="male"></interp>
+                  </persName>
+            's Defence. I have been seven years at sea in his majesty's service, and in that time most of my friends are dead.</p>
+               <p>All eight <rs id="t17500228-41-verdict183" type="verdictDescription">
+                     <interp inst="t17500228-41-verdict183" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-41-punish184" type="punishmentDescription">
+                     <interp inst="t17500228-41-punish184" type="punishmentCategory" value="noPunish"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-41-defend316 t17500228-41-punish184"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-41-defend318 t17500228-41-punish184"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-41-defend319 t17500228-41-punish184"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-41-defend322 t17500228-41-punish184"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-41-defend324 t17500228-41-punish184"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-41-defend326 t17500228-41-punish184"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-41-defend328 t17500228-41-punish184"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-41-defend330 t17500228-41-punish184"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

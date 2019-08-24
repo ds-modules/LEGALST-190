@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-38">
+               <interp inst="t17500117-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-38" type="year" value="1750"></interp>
+               <interp inst="t17500117-38" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-38" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-38-off165-c231" targOrder="Y" targets="t17500117-38-defend306 t17500117-38-off165 t17500117-38-verdict167"></join>
+         
+               <p>151. 
+               
+                  <persName id="t17500117-38-defend306" type="defendantName">
+                     Patrick 
+                     Dawsey 
+                  <interp inst="t17500117-38-defend306" type="surname" value="Dawsey"></interp>
+                     <interp inst="t17500117-38-defend306" type="given" value="Patrick"></interp>
+                     <interp inst="t17500117-38-defend306" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-38-off165" type="offenceDescription">
+                     <interp inst="t17500117-38-off165" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-38-off165" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one linnen shirt, val. 4 s. 6 d. the goods of 
+                     
+                        <persName id="t17500117-38-victim308" type="victimName">
+                           Michael 
+                           Cachae 
+                        <interp inst="t17500117-38-victim308" type="surname" value="Cachae"></interp>
+                        <interp inst="t17500117-38-victim308" type="given" value="Michael"></interp>
+                        <interp inst="t17500117-38-victim308" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   ; one flannel waistcoat, val. 1 s. 6 d.
+            </rs> the goods of 
+               <persName id="t17500117-38-victim309" type="victimName">
+                  John 
+                  Jentee 
+               <interp inst="t17500117-38-victim309" type="surname" value="Jentee"></interp>
+                     <interp inst="t17500117-38-victim309" type="given" value="John"></interp>
+                     <interp inst="t17500117-38-victim309" type="gender" value="male"></interp>
+                  </persName>
+             , <rs id="t17500117-38-cd166" type="crimeDate">January 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-38-off165 t17500117-38-cd166"></join>.</p>
+               <p>
+                  <rs id="t17500117-38-verdict167" type="verdictDescription">
+                     <interp inst="t17500117-38-verdict167" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-38-verdict167" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-38-punish168" type="punishmentDescription">
+                     <interp inst="t17500117-38-punish168" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-38-defend306 t17500117-38-punish168"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

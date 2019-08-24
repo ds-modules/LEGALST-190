@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-52">
+               <interp inst="t17500117-52" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-52" type="year" value="1750"></interp>
+               <interp inst="t17500117-52" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-52" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-52-off225-c289" targOrder="Y" targets="t17500117-52-defend388 t17500117-52-off225 t17500117-52-verdict228"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175001170018"></xptr>167. 
+               
+                  <persName id="t17500117-52-defend388" type="defendantName">
+                     John 
+                     Waller 
+                  <interp inst="t17500117-52-defend388" type="surname" value="Waller"></interp>
+                     <interp inst="t17500117-52-defend388" type="given" value="John"></interp>
+                     <interp inst="t17500117-52-defend388" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17500117-52-off225" type="offenceDescription">
+                     <interp inst="t17500117-52-off225" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-52-off225" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing a silver watch, value 39 s. the goods of 
+                     
+                        <persName id="t17500117-52-victim390" type="victimName">
+                           John 
+                           Gordon 
+                        <interp inst="t17500117-52-victim390" type="surname" value="Gordon"></interp>
+                        <interp inst="t17500117-52-victim390" type="given" value="John"></interp>
+                        <interp inst="t17500117-52-victim390" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-52-off225 t17500117-52-victim390"></join>
+                     </persName>
+                      
+                  , from the person of the said John
+            </rs>, <rs id="t17500117-52-cd226" type="crimeDate">Oct. 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-52-off225 t17500117-52-cd226"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-52-person391">
+                  James 
+                  Welch 
+               <interp inst="t17500117-52-person391" type="surname" value="Welch"></interp>
+                     <interp inst="t17500117-52-person391" type="given" value="James"></interp>
+                     <interp inst="t17500117-52-person391" type="gender" value="male"></interp>
+                  </persName>
+            . I was in <placeName id="t17500117-52-crimeloc227">Cheapside</placeName>
+                  <interp inst="t17500117-52-crimeloc227" type="placeName" value="Cheapside"></interp>
+                  <interp inst="t17500117-52-crimeloc227" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-52-off225 t17500117-52-crimeloc227"></join> on Lord Mayor's Day, seeing the show; I happened to see the prisoner: I had not seen him some time: before I spoke to him, he gave me the wink, not to take any notice. I saw him take a watch out of a man's pocket ; the man had a blew apron on. Then the prisoner went down Friday-street, and call'd me after him. Said he, now I'll go and make away with this, as soon as I can, left it should be found upon me; but in the Crowd I lost him. About two hours after this I happened to be drinking at More-gate, with a Coachman: The prisoner came by and gave me the hint: he was along with one 
+               <persName id="t17500117-52-person392">
+                  Isaac 
+                  Sheffield 
+               <interp inst="t17500117-52-person392" type="surname" value="Sheffield"></interp>
+                     <interp inst="t17500117-52-person392" type="given" value="Isaac"></interp>
+                     <interp inst="t17500117-52-person392" type="gender" value="male"></interp>
+                  </persName>
+            : I did not go with him: About 11 o'clock I was going home, just by Cripple-gate he came behind me, and took hold of my shoulder, saying, you shall go home with me to-night ; which I did, and lay with him. In the morning, before he got up, he told me he had sold the watch for three pounds: We spent about 11 s. of the money that day. I cannot swear to the gentleman he took it from.</p>
+               <p>
+            
+                  <persName id="t17500117-52-person393">
+                  John 
+                  Gordon 
+               <interp inst="t17500117-52-person393" type="surname" value="Gordon"></interp>
+                     <interp inst="t17500117-52-person393" type="given" value="John"></interp>
+                     <interp inst="t17500117-52-person393" type="gender" value="male"></interp>
+                  </persName>
+            . I do not know any thing of the prisoner: I lost my watch about the middle of Cheap-side, on Lord Mayor's Day last, between 3 and 4 o'clock.</p>
+               <p>Q. to Welch. What time did you see the prisoner take the watch you talk of?</p>
+               <p>Welch. About three o'clock.</p>
+               <p>Q. to Gordon. What cloaths had you then on?</p>
+               <p>Gordon. The same I have now, with a blew apron on.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I have not seen that young fellow this 4 or 5 years, till between 12 and 1 in the morning, the day after Lord Mayor's Day; then I met him at the end of Aldergate-street, near Long-lane. He said he had got no money; I said, why don't you go home to your mother? Said he, d - n the bitch, I will not. Said I, where have you been to day? He said, to help a man to drive a coach, who gave him 3 d. and I lent him 3 d.</p>
+               <p>
+                  <rs id="t17500117-52-verdict228" type="verdictDescription">
+                     <interp inst="t17500117-52-verdict228" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17500117-52-punish229" type="punishmentDescription">
+                     <interp inst="t17500117-52-punish229" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-52-defend388 t17500117-52-punish229"></join>
+               Death
+            </rs>.</p>
+            </div1>

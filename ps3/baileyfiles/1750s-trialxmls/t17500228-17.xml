@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-17">
+               <interp inst="t17500228-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-17" type="year" value="1750"></interp>
+               <interp inst="t17500228-17" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-17" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-17-off67-c82" targOrder="Y" targets="t17500228-17-defend112 t17500228-17-off67 t17500228-17-verdict70"></join>
+               <join result="criminalCharge" id="t17500228-17-off67-c83" targOrder="Y" targets="t17500228-17-defend113 t17500228-17-off67 t17500228-17-verdict70"></join>
+         
+               <p>195, 196. 
+               
+                  <persName id="t17500228-17-defend112" type="defendantName">
+                     James 
+                     Mercer 
+                  <interp inst="t17500228-17-defend112" type="surname" value="Mercer"></interp>
+                     <interp inst="t17500228-17-defend112" type="given" value="James"></interp>
+                     <interp inst="t17500228-17-defend112" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               <persName id="t17500228-17-defend113" type="defendantName">
+                  James 
+                  Jones 
+               <interp inst="t17500228-17-defend113" type="surname" value="Jones"></interp>
+                     <interp inst="t17500228-17-defend113" type="given" value="James"></interp>
+                     <interp inst="t17500228-17-defend113" type="gender" value="male"></interp>
+                  </persName>
+             , were indicted, for that <rs id="t17500228-17-off67" type="offenceDescription">
+                     <interp inst="t17500228-17-off67" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500228-17-off67" type="offenceSubcategory" value="highwayRobbery"></interp>
+               they on the King's Highway, on 
+                     
+                        <persName id="t17500228-17-victim115" type="victimName">
+                           Rachel 
+                           Angue 
+                        <interp inst="t17500228-17-victim115" type="surname" value="Angue"></interp>
+                        <interp inst="t17500228-17-victim115" type="given" value="Rachel"></interp>
+                        <interp inst="t17500228-17-victim115" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500228-17-off67 t17500228-17-victim115"></join>
+                     </persName>
+                      
+                  , <rs id="t17500228-17-viclabel68" type="occupation">widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17500228-17-victim115 t17500228-17-viclabel68"></join>, putting her in corporal fear and danger of her life, one cloth cloak, val. 2 s. the goods of the said Rachel, did steal, take, and carry away, 
+            </rs>
+                  <rs id="t17500228-17-cd69" type="crimeDate">Feb. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-17-off67 t17500228-17-cd69"></join>.</p>
+               <p>Both <rs id="t17500228-17-verdict70" type="verdictDescription">
+                     <interp inst="t17500228-17-verdict70" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

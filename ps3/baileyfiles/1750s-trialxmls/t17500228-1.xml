@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-1">
+               <interp inst="t17500228-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-1" type="year" value="1750"></interp>
+               <interp inst="t17500228-1" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-1" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-1-off1-c32" targOrder="Y" targets="t17500228-1-defend33 t17500228-1-off1 t17500228-1-verdict3"></join>
+         
+               <p>178. 
+               
+                  <persName id="t17500228-1-defend33" type="defendantName">
+                     Daniel 
+                     Richley 
+                  <interp inst="t17500228-1-defend33" type="surname" value="Richley"></interp>
+                     <interp inst="t17500228-1-defend33" type="given" value="Daniel"></interp>
+                     <interp inst="t17500228-1-defend33" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500228-1-off1" type="offenceDescription">
+                     <interp inst="t17500228-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-1-off1" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver Tankard, val 6 l.
+            </rs> the goods of 
+               
+                  <persName id="t17500228-1-victim35" type="victimName">
+                     William 
+                     More 
+                  <interp inst="t17500228-1-victim35" type="surname" value="More"></interp>
+                     <interp inst="t17500228-1-victim35" type="given" value="William"></interp>
+                     <interp inst="t17500228-1-victim35" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500228-1-off1 t17500228-1-victim35"></join>
+                  </persName>
+                
+            .</p>
+               <p>
+                  <rs id="t17500228-1-cd2" type="crimeDate">Jan. 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-1-off1 t17500228-1-cd2"></join>.</p>
+               <p>
+            
+                  <persName id="t17500228-1-person36">
+                  William 
+                  More 
+               <interp inst="t17500228-1-person36" type="surname" value="More"></interp>
+                     <interp inst="t17500228-1-person36" type="given" value="William"></interp>
+                     <interp inst="t17500228-1-person36" type="gender" value="male"></interp>
+                  </persName>
+             deposed, the Prisoner dined at his house that day, and at night, when he was going to bed, missed the tankard, the next day he went to Goldsmiths Hall, and had advertisements sent about.</p>
+               <p>
+            
+                  <persName id="t17500228-1-person37">
+                  James 
+                  Smith 
+               <interp inst="t17500228-1-person37" type="surname" value="Smith"></interp>
+                     <interp inst="t17500228-1-person37" type="given" value="James"></interp>
+                     <interp inst="t17500228-1-person37" type="gender" value="male"></interp>
+                  </persName>
+            , Goldsmith, at the Angel in Fleet-street, deposed the Prisoner brought the tankard to his shop the 31st, without the bottom, saying, it was sent him from Portsmouth to get it done: He stopp'd the prisoner, and then sent for Mr. More.</p>
+               <p>
+            
+                  <persName id="t17500228-1-person38">
+                  Thomas 
+                  Geary 
+               <interp inst="t17500228-1-person38" type="surname" value="Geary"></interp>
+                     <interp inst="t17500228-1-person38" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-1-person38" type="gender" value="male"></interp>
+                  </persName>
+             depos'd, the prisoner own'd the fact before the sitting Alderman.</p>
+               <p>
+            
+                  <persName id="t17500228-1-person39">
+                  Phoebe 
+                  Goodfellow 
+               <interp inst="t17500228-1-person39" type="surname" value="Goodfellow"></interp>
+                     <interp inst="t17500228-1-person39" type="given" value="Phoebe"></interp>
+                     <interp inst="t17500228-1-person39" type="gender" value="female"></interp>
+                  </persName>
+             produced the bottom, beat togegether, which she receiv'd of the prisoner, with the name engrav'd round it, answering to the advertisement.</p>
+               <p>
+                  <rs id="t17500228-1-verdict3" type="verdictDescription">
+                     <interp inst="t17500228-1-verdict3" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-1-punish4" type="punishmentDescription">
+                     <interp inst="t17500228-1-punish4" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-1-defend33 t17500228-1-punish4"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-9">
+               <interp inst="t17500228-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-9" type="year" value="1750"></interp>
+               <interp inst="t17500228-9" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-9" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-9-off35-c59" targOrder="Y" targets="t17500228-9-defend74 t17500228-9-off35 t17500228-9-verdict38"></join>
+         
+               <p>186. 
+               <persName id="t17500228-9-defend74" type="defendantName">
+                     <interp inst="t17500228-9-defend74" type="gender" value="indeterminate"></interp>
+                  </persName>
+            , <rs id="t17500228-9-deflabel34" type="occupation">Spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-9-defend74 t17500228-9-deflabel34"></join>, was indicted for <rs id="t17500228-9-off35" type="offenceDescription">
+                     <interp inst="t17500228-9-off35" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-9-off35" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two diaper tablecloths, val. 2 s. one muslin cap, val. 1 s. five linnen handkerchiefs, val. 2 s. two pair of ruffles, val. 6 d. one damask night-gown, and other things, the goods of 
+                     
+                        <persName id="t17500228-9-victim76" type="victimName">
+                           Susannah 
+                           Needham 
+                        <interp inst="t17500228-9-victim76" type="surname" value="Needham"></interp>
+                        <interp inst="t17500228-9-victim76" type="given" value="Susannah"></interp>
+                        <interp inst="t17500228-9-victim76" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  . Two silk gowns
+            </rs>, the goods of 
+               
+                  <persName id="t17500228-9-victim78" type="victimName">
+                     Francis 
+                     Hazard 
+                  <interp inst="t17500228-9-victim78" type="surname" value="Hazard"></interp>
+                     <interp inst="t17500228-9-victim78" type="given" value="Francis"></interp>
+                     <interp inst="t17500228-9-victim78" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17500228-9-viclabel36" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-9-victim78 t17500228-9-viclabel36"></join>, <rs id="t17500228-9-cd37" type="crimeDate">Jan. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-9-off35 t17500228-9-cd37"></join>,</p>
+               <p>
+                  <rs id="t17500228-9-verdict38" type="verdictDescription">
+                     <interp inst="t17500228-9-verdict38" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-9-punish39" type="punishmentDescription">
+                     <interp inst="t17500228-9-punish39" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17500228-9-punish39" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-9-defend74 t17500228-9-punish39"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

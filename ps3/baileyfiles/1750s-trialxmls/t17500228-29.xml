@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-29">
+               <interp inst="t17500228-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-29" type="year" value="1750"></interp>
+               <interp inst="t17500228-29" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-29" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-29-off120-c157" targOrder="Y" targets="t17500228-29-defend210 t17500228-29-off120 t17500228-29-verdict123"></join>
+         
+               <p>210. 
+               <persName id="t17500228-29-defend210" type="defendantName">
+                  
+                     James 
+                     Sandiland 
+                   otherwise <rs id="t17500228-29-alias-5" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17500228-29-defend210 t17500228-29-alias-5"></join>James Scot</rs>
+                     <interp inst="t17500228-29-defend210" type="surname" value="Sandiland"></interp>
+                     <interp inst="t17500228-29-defend210" type="given" value="James"></interp>
+                     <interp inst="t17500228-29-defend210" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17500228-29-off120" type="offenceDescription">
+                     <interp inst="t17500228-29-off120" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t17500228-29-off120" type="offenceSubcategory" value="taxOffences"></interp>
+               being assembled with divers other persons to the number of ten or more, at the <placeName id="t17500228-29-crimeloc121">Parish of Lidd, in the County of Kent</placeName>
+                     <interp inst="t17500228-29-crimeloc121" type="placeName" value="Parish of Lidd, in the County of Kent"></interp>
+                     <interp inst="t17500228-29-crimeloc121" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17500228-29-off120 t17500228-29-crimeloc121"></join>, there to be aiding and assisting in the landing and running goods liable to pay duty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-29-cd122" type="crimeDate">Aug. 13. 1746</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-29-off120 t17500228-29-cd122"></join>,</p>
+               <p>
+            
+                  <persName id="t17500228-29-person212">
+                  John 
+                  Pelham 
+               <interp inst="t17500228-29-person212" type="surname" value="Pelham"></interp>
+                     <interp inst="t17500228-29-person212" type="given" value="John"></interp>
+                     <interp inst="t17500228-29-person212" type="gender" value="male"></interp>
+                  </persName>
+            . I live at Lidd in the County of Kent, and follow the fishing trade; I have known the Person 6 or 7 Years, I went a fishing the 12th of Aug. 1746. off of Dungenness, coming to land the next morning, we saw a Cutter working, she lay about 40 yards from shore. I saw her boat land there some people on shore? there was Authur Gray, 
+               <persName id="t17500228-29-person213">
+                  Thomas 
+                  Peter 
+               <interp inst="t17500228-29-person213" type="surname" value="Peter"></interp>
+                     <interp inst="t17500228-29-person213" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-29-person213" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17500228-29-person214">
+                  John 
+                  Watts 
+               <interp inst="t17500228-29-person214" type="surname" value="Watts"></interp>
+                     <interp inst="t17500228-29-person214" type="given" value="John"></interp>
+                     <interp inst="t17500228-29-person214" type="gender" value="male"></interp>
+                  </persName>
+            , there might be 8 or 9 in all or more, we row'd betwixt the cutter and the boat, all when I was on shore came close by me, the Prisoner was arm'd with a Carbine or Blunderduss, on horse back with a bag of tea behind him in an oil-skin bag, they had most or all of them arms, and several drove horses loaded with casks and oilskin bags; I have seen the Prisoner many times amongst the smugglers but never saw him working goods before this time.</p>
+               <p>On his Cross Examination he said he was on a sizeable Bay Horse, and had an old blue Butcher's frack on under a great coat which was unbutton'd,' and that he was one of the Hawkhurst Gang, and that he was at Maidstone when the Prisoner was brought to Goal, and that he knew him again at first sight, and that the Prisoner upon seeing him fell down on his face.</p>
+               <p>Humphry Hatton. I live at Lidd, and in Aug. 1746, I met this same gang in the Town with their baggage, arm'd with some Pistols, Carbines or Blunderbusses with Horses loaded with oil-skin bags and half anchors, about 10 or 12 in number ; the Prisoner was one of this number, he had a Carbine or Blunderbus flung to his shoulder, and an oil-skin bag behind him; this was on the 13th of Aug. in the morning betwixt 7 and 8 o'clock; I had liv'd Ostler at the George in Lidd and have known the Prisoner this 7 years, the smuglers us'd to call at that house day and night, us'd to lay them down in the yard, this was call'd Hawkhurst gang, I knew 
+               <persName id="t17500228-29-person215">
+                  Arthur 
+                  Gray 
+               <interp inst="t17500228-29-person215" type="surname" value="Gray"></interp>
+                     <interp inst="t17500228-29-person215" type="given" value="Arthur"></interp>
+                     <interp inst="t17500228-29-person215" type="gender" value="male"></interp>
+                  </persName>
+            , he had like to have kill'd me several times, he was there at this time.</p>
+               <p>On his cross examination he said the Prisoner rode a middle size bay Horse, and had on a loose great coat of a lightish colour, being ask'd what was under that coat, he answered he did not mind, saying he had enough to do to get out of their way ; being then driving a load of corn cut of the field, and was obliged to get it out on one side of the road to let them go by.</p>
+               <p>
+            
+                  <persName id="t17500228-29-person216">
+                  John 
+                  Day 
+               <interp inst="t17500228-29-person216" type="surname" value="Day"></interp>
+                     <interp inst="t17500228-29-person216" type="given" value="John"></interp>
+                     <interp inst="t17500228-29-person216" type="gender" value="male"></interp>
+                  </persName>
+            . I don't know the Prisoner at the bar, I saw a gang of smuglers go thro' the town of Lidd, about 14 or 15 in number the 13th of August, 1746, about 7 o'clock in the morning they had half anchors and oil-skin bags and fire arms with them.</p>
+               <p>
+            
+                  <persName id="t17500228-29-person217">
+                  John 
+                  Polhil 
+               <interp inst="t17500228-29-person217" type="surname" value="Polhil"></interp>
+                     <interp inst="t17500228-29-person217" type="given" value="John"></interp>
+                     <interp inst="t17500228-29-person217" type="gender" value="male"></interp>
+                  </persName>
+            . I saw a gang of smugglers go through the town of Lidd, Aug. 13th, 1746, I know this by my Journal which I keep, I am an officer, I was not near them nor daring to do that.</p>
+               <p>On his cross examination he said he believ'd Westraham in Kent was about fourscore miles from Lidd.</p>
+               <p>Prisoner's Defence,</p>
+               <p>I never saw these people in my life except when in Maidstone Goal, some people came round the door, I had got a cat stroking her, and she ran up my shoulder, and by that they mark'd me so as to swear to me now, I never was at Lidd in my life.</p>
+               <p>To which he call'd 
+               <persName id="t17500228-29-person218">
+                  Thomas 
+                  Kellet 
+               <interp inst="t17500228-29-person218" type="surname" value="Kellet"></interp>
+                     <interp inst="t17500228-29-person218" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-29-person218" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17500228-29-person219">
+                  Samuel 
+                  Bignall 
+               <interp inst="t17500228-29-person219" type="surname" value="Bignall"></interp>
+                     <interp inst="t17500228-29-person219" type="given" value="Samuel"></interp>
+                     <interp inst="t17500228-29-person219" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17500228-29-person220">
+                  Robert 
+                  Collins 
+               <interp inst="t17500228-29-person220" type="surname" value="Collins"></interp>
+                     <interp inst="t17500228-29-person220" type="given" value="Robert"></interp>
+                     <interp inst="t17500228-29-person220" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17500228-29-person221">
+                  Elizabeth 
+                  Waldon 
+               <interp inst="t17500228-29-person221" type="surname" value="Waldon"></interp>
+                     <interp inst="t17500228-29-person221" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500228-29-person221" type="gender" value="female"></interp>
+                  </persName>
+            , and Elizabeth his own Mother, to prove, who deposed he was a Butcher in Westerham in Kent, had good business, was never known to neglect his business, killed his beast himself against Wednesday, which is a market day, (on which day the witnesses for the crown, deposed he was seen at Lidd ) that he never was missing in his business on market days, having no apprentice or journeyman, and had a wife and family of small children to engross best part of her time, and that he never bore the name of smuggler to their knowledge.</p>
+               <p>Then John Potter, at Seven-oakes within 6 or 7 miles of Westerham in Kent was call'd, who deposed he had known the Prisoner near 2 years, and that his general character is that of a great smuggler.</p>
+               <p>
+            
+                  <persName id="t17500228-29-person222">
+                  John 
+                  Newman 
+               <interp inst="t17500228-29-person222" type="surname" value="Newman"></interp>
+                     <interp inst="t17500228-29-person222" type="given" value="John"></interp>
+                     <interp inst="t17500228-29-person222" type="gender" value="male"></interp>
+                  </persName>
+            , deposed he had known him 6 years and that he always was looked upon all over the country<xptr type="pageFacsimile" doc="175002280010"></xptr> as a smuggler, that he had seen him go with fire arms, and that he belong'd to the Hawkburst gang.</p>
+               <p>
+                  <rs id="t17500228-29-verdict123" type="verdictDescription">
+                     <interp inst="t17500228-29-verdict123" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17500228-29-punish124" type="punishmentDescription">
+                     <interp inst="t17500228-29-punish124" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-29-defend210 t17500228-29-punish124"></join>
+               Death
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-29">
+               <interp inst="t17500117-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-29" type="year" value="1750"></interp>
+               <interp inst="t17500117-29" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-29" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-29-off128-c197" targOrder="Y" targets="t17500117-29-defend257 t17500117-29-off128 t17500117-29-verdict131"></join>
+         
+               <p>142. 
+               
+                  <persName id="t17500117-29-defend257" type="defendantName">
+                     Thomas 
+                     Adams 
+                  <interp inst="t17500117-29-defend257" type="surname" value="Adams"></interp>
+                     <interp inst="t17500117-29-defend257" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-29-defend257" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-29-off128" type="offenceDescription">
+                     <interp inst="t17500117-29-off128" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-29-off128" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silk handkerchief; value 1 s. 6 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17500117-29-victim259" type="victimName">
+                     Francis 
+                     Delaval 
+                  <interp inst="t17500117-29-victim259" type="surname" value="Delaval"></interp>
+                     <interp inst="t17500117-29-victim259" type="given" value="Francis"></interp>
+                     <interp inst="t17500117-29-victim259" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-29-off128 t17500117-29-victim259"></join>
+                  </persName>
+                
+            , <rs id="t17500117-29-viclabel129" type="occupation">Esq;</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-29-victim259 t17500117-29-viclabel129"></join> 
+                  <rs id="t17500117-29-cd130" type="crimeDate">Dec. 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-29-off128 t17500117-29-cd130"></join>.</p>
+               <p>
+                  <rs id="t17500117-29-verdict131" type="verdictDescription">
+                     <interp inst="t17500117-29-verdict131" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-29-verdict131" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-29-punish132" type="punishmentDescription">
+                     <interp inst="t17500117-29-punish132" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-29-defend257 t17500117-29-punish132"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

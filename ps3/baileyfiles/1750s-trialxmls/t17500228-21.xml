@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-21">
+               <interp inst="t17500228-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-21" type="year" value="1750"></interp>
+               <interp inst="t17500228-21" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-21" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-21-off83-c103" targOrder="Y" targets="t17500228-21-defend142 t17500228-21-off83 t17500228-21-verdict88"></join>
+               <join result="criminalCharge" id="t17500228-21-off83-c104" targOrder="Y" targets="t17500228-21-defend143 t17500228-21-off83 t17500228-21-verdict88"></join>
+         
+               <p>200, 201. 
+               
+                  <persName id="t17500228-21-defend142" type="defendantName">
+                     John 
+                     Stanton 
+                  <interp inst="t17500228-21-defend142" type="surname" value="Stanton"></interp>
+                     <interp inst="t17500228-21-defend142" type="given" value="John"></interp>
+                     <interp inst="t17500228-21-defend142" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               <persName id="t17500228-21-defend143" type="defendantName">
+                  
+                     James 
+                     Webster 
+                  , otherwise <rs id="t17500228-21-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17500228-21-defend143 t17500228-21-alias-2"></join>Willson</rs>
+                     <interp inst="t17500228-21-defend143" type="surname" value="Webster"></interp>
+                     <interp inst="t17500228-21-defend143" type="given" value="James"></interp>
+                     <interp inst="t17500228-21-defend143" type="gender" value="male"></interp>
+                  </persName>
+            , were indicted for <rs id="t17500228-21-off83" type="offenceDescription">
+                     <interp inst="t17500228-21-off83" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500228-21-off83" type="offenceSubcategory" value="highwayRobbery"></interp>
+               that they, on the King's Highway, upon the <rs id="t17500228-21-viclabel84" type="occupation">Right Hon. Ann</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17500228-21-victim145 t17500228-21-viclabel84"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17500228-21-victim146 t17500228-21-viclabel84"></join>, 
+                     <persName id="t17500228-21-victim145" type="victimName">
+                        Countess
+                         of Albemarle
+                     <interp inst="t17500228-21-victim145" type="surname" value="of Albemarle"></interp>
+                        <interp inst="t17500228-21-victim145" type="given" value="Countess"></interp>
+                        <interp inst="t17500228-21-victim145" type="gender" value="female"></interp>
+                     </persName>
+                  , did make an assault, putting her in corporal fear and danger of her life, one gold watch, val. 20 l. the goods of the <rs id="t17500228-21-viclabel85" type="occupation">Right Hon. the</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17500228-21-victim146 t17500228-21-viclabel85"></join> 
+                  
+                     <persName id="t17500228-21-victim146" type="victimName">
+                        Earl
+                         of Albemarle
+                     <interp inst="t17500228-21-victim146" type="surname" value="of Albemarle"></interp>
+                        <interp inst="t17500228-21-victim146" type="given" value="Earl"></interp>
+                        <interp inst="t17500228-21-victim146" type="gender" value="male"></interp>
+                     </persName>
+                  , from the person of the said Countess, did steal, take, and carry away
+            </rs>, <rs id="t17500228-21-cd86" type="crimeDate">Feb. 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-21-off83 t17500228-21-cd86"></join>.</p>
+               <p>Lord Bury depos'd, on the 14th of February, himself, Lady Albemarle, and another Lady were stopped in a coach on the <placeName id="t17500228-21-crimeloc87">top of Great Russel street, Bloomsbury</placeName>
+                  <interp inst="t17500228-21-crimeloc87" type="placeName" value="top of Great Russel street, Bloomsbury"></interp>
+                  <interp inst="t17500228-21-crimeloc87" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500228-21-off83 t17500228-21-crimeloc87"></join>, by several persons. His Lordship saw three pistols pointed into the coach, on the side he sat, and gave a particular account of the robbery, but could not fix it on either of the prisoners, it being a very dark, rainy night, and the stambeans blown out by the violence of the wind, &amp;c.</p>
+               <p>
+            
+                  <persName id="t17500228-21-person147">
+                  Thomas 
+                  Dauford 
+               <interp inst="t17500228-21-person147" type="surname" value="Dauford"></interp>
+                     <interp inst="t17500228-21-person147" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-21-person147" type="gender" value="male"></interp>
+                  </persName>
+            , the footman, who was behind the coach, confirm'd the same; but could not discern the persons, so as to know either of them.</p>
+               <p>Thomas Lewis, an accomplice, depos'd. Stanton, Webster, 
+               <persName id="t17500228-21-person148">
+                  John 
+                  Eckley 
+               <interp inst="t17500228-21-person148" type="surname" value="Eckley"></interp>
+                     <interp inst="t17500228-21-person148" type="given" value="John"></interp>
+                     <interp inst="t17500228-21-person148" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17500228-21-person149">
+                  Richard 
+                  Holland 
+               <interp inst="t17500228-21-person149" type="surname" value="Holland"></interp>
+                     <interp inst="t17500228-21-person149" type="given" value="Richard"></interp>
+                     <interp inst="t17500228-21-person149" type="gender" value="male"></interp>
+                  </persName>
+            , and himself, committed the robbery, and prov'd, to a demonstration, himself was in it.</p>
+               <p>
+            
+                  <persName id="t17500228-21-person150">
+                  Samuel 
+                  Cordosa 
+               <interp inst="t17500228-21-person150" type="surname" value="Cordosa"></interp>
+                     <interp inst="t17500228-21-person150" type="given" value="Samuel"></interp>
+                     <interp inst="t17500228-21-person150" type="gender" value="male"></interp>
+                  </persName>
+            , a Jew, depos'd, he bought three gold watches, and one metal one, of these men, and had sent them abroad the next day by a kinsman; and although he agreed with Lewis they were at his house from about half an hour after two in the morning, till about seven or eight; and also they had a candle in the room; yet he would not own he knew any of the persons, except Lewis.</p>
+               <p>The witness Lewis, not being back'd by any creditable witnesses, as to the identity of the prisoners, they were both <rs id="t17500228-21-verdict88" type="verdictDescription">
+                     <interp inst="t17500228-21-verdict88" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

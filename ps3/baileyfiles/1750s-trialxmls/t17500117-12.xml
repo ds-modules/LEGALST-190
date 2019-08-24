@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-12">
+               <interp inst="t17500117-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-12" type="year" value="1750"></interp>
+               <interp inst="t17500117-12" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-12" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-12-off48-c78" targOrder="Y" targets="t17500117-12-defend105 t17500117-12-off48 t17500117-12-verdict50"></join>
+               <join result="criminalCharge" id="t17500117-12-off51-c78" targOrder="Y" targets="t17500117-12-defend105 t17500117-12-off51 t17500117-12-verdict50"></join>
+         
+               <p>123. 
+               
+                  <persName id="t17500117-12-defend105" type="defendantName">
+                     John 
+                     Emory 
+                  <interp inst="t17500117-12-defend105" type="surname" value="Emory"></interp>
+                     <interp inst="t17500117-12-defend105" type="given" value="John"></interp>
+                     <interp inst="t17500117-12-defend105" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-12-off48" type="offenceDescription">
+                     <interp inst="t17500117-12-off48" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-12-off48" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing eleven crown pieces, twenty four half crowns, one Spanish piece, val. 4 s. 6 d. one silk purse, and 4 s. 6 d. in silver, the goods of 
+                     
+                        <persName id="t17500117-12-victim107" type="victimName">
+                           Ann 
+                           Kempster 
+                        <interp inst="t17500117-12-victim107" type="surname" value="Kempster"></interp>
+                        <interp inst="t17500117-12-victim107" type="given" value="Ann"></interp>
+                        <interp inst="t17500117-12-victim107" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , in<xptr type="pageFacsimile" doc="175001170004"></xptr> the dwelling house of 
+                     <persName id="t17500117-12-person108">
+                        Walter 
+                        Jones 
+                     <interp inst="t17500117-12-person108" type="surname" value="Jones"></interp>
+                        <interp inst="t17500117-12-person108" type="given" value="Walter"></interp>
+                        <interp inst="t17500117-12-person108" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>. <rs id="t17500117-12-cd49" type="crimeDate">December 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-12-off48 t17500117-12-cd49"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-12-off51 t17500117-12-cd49"></join>.</p>
+               <p>
+                  <rs id="t17500117-12-verdict50" type="verdictDescription">
+                     <interp inst="t17500117-12-verdict50" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>He was a second time indicted for <rs id="t17500117-12-off51" type="offenceDescription">
+                     <interp inst="t17500117-12-off51" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-12-off51" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing one pair of stockings, val. 6 d.
+            </rs> the goods of 
+               
+                  <persName id="t17500117-12-victim110" type="victimName">
+                     John 
+                     Hilliard 
+                  <interp inst="t17500117-12-victim110" type="surname" value="Hilliard"></interp>
+                     <interp inst="t17500117-12-victim110" type="given" value="John"></interp>
+                     <interp inst="t17500117-12-victim110" type="gender" value="male"></interp>
+                  </persName>
+                
+            .</p>
+               <p>
+                  <rs id="t17500117-12-cd52" type="crimeDate">Dec. 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-12-off48 t17500117-12-cd52"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-12-off51 t17500117-12-cd52"></join>.</p>
+               <p>The prosecutor took the Prisoner with the stockings upon his legs, and had him before the alderman; the stockings were marked on the heel within, to which the Prosecutor swore, also the Prisoner owned the fact.</p>
+               <p>
+                  <rs id="t17500117-12-verdict53" type="verdictDescription">
+                     <interp inst="t17500117-12-verdict53" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-12-verdict53" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-12-punish54" type="punishmentDescription">
+                     <interp inst="t17500117-12-punish54" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17500117-12-punish54" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-12-defend105 t17500117-12-punish54"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

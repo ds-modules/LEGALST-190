@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-53">
+               <interp inst="t17500117-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-53" type="year" value="1750"></interp>
+               <interp inst="t17500117-53" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-53" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-53-off230-c294" targOrder="Y" targets="t17500117-53-defend395 t17500117-53-off230 t17500117-53-verdict232"></join>
+         
+               <p>168. 
+               
+                  <persName id="t17500117-53-defend395" type="defendantName">
+                     Lucy 
+                     Drake 
+                  <interp inst="t17500117-53-defend395" type="surname" value="Drake"></interp>
+                     <interp inst="t17500117-53-defend395" type="given" value="Lucy"></interp>
+                     <interp inst="t17500117-53-defend395" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for that <rs id="t17500117-53-off230" type="offenceDescription">
+                     <interp inst="t17500117-53-off230" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17500117-53-off230" type="offenceSubcategory" value="infanticide"></interp>
+               she, on the <rs id="t17500117-53-cd231" type="crimeDate">17th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-53-off230 t17500117-53-cd231"></join>, was big with a male child, which was born alive, which, by the laws of this kingdom, was a bastard; and then, she said Lucy, not having the fear of God before her eyes, with force and arms, did make an assault, with her right hand, a certain linnen cloth, no value, did put and thrust into the mouth of the said child, by which means the said child was choak'd, &amp;c
+            </rs>.</p>
+               <p>The proof brought against the prisoner was this, that she owned to 
+               <persName id="t17500117-53-person396">
+                  Charlotte 
+                  Blinkborne 
+               <interp inst="t17500117-53-person396" type="surname" value="Blinkborne"></interp>
+                     <interp inst="t17500117-53-person396" type="given" value="Charlotte"></interp>
+                     <interp inst="t17500117-53-person396" type="gender" value="female"></interp>
+                  </persName>
+             she was with child, and also looked big: And also, she said, she had lost it about two months ago, and looked as usual. And Mary Teague deposed, she was sent for out of St. Bride's Church, to go to search the Child that was found in a Rog house, belonging to Job Harrison, wrapped up in a coarse linnen bag, with a piece of Cloath put into its mouth, on the 8th of Jan. That it was a fine Child, had gone its full time, and by all appearance it could not have been born above a week before.</p>
+               <p>
+                  <rs id="t17500117-53-verdict232" type="verdictDescription">
+                     <interp inst="t17500117-53-verdict232" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

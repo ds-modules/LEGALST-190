@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-10">
+               <interp inst="t17500228-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-10" type="year" value="1750"></interp>
+               <interp inst="t17500228-10" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-10" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-10-off40-c62" targOrder="Y" targets="t17500228-10-defend80 t17500228-10-off40 t17500228-10-verdict43"></join>
+               <join result="criminalCharge" id="t17500228-10-off42-c63" targOrder="Y" targets="t17500228-10-defend82 t17500228-10-off42 t17500228-10-verdict43"></join>
+         
+               <p>187, 188. 
+               
+                  <persName id="t17500228-10-defend80" type="defendantName">
+                     Abraham 
+                     Cribb 
+                  <interp inst="t17500228-10-defend80" type="surname" value="Cribb"></interp>
+                     <interp inst="t17500228-10-defend80" type="given" value="Abraham"></interp>
+                     <interp inst="t17500228-10-defend80" type="gender" value="male"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17500228-10-off40" type="offenceDescription">
+                     <interp inst="t17500228-10-off40" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-10-off40" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one peruke, val. 20 s.
+            </rs> 
+                  <rs id="t17500228-10-cd41" type="crimeDate">Nov. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-10-off40 t17500228-10-cd41"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-10-off42 t17500228-10-cd41"></join>, and 
+               
+                  <persName id="t17500228-10-defend82" type="defendantName">
+                     John 
+                     Beaumont 
+                  <interp inst="t17500228-10-defend82" type="surname" value="Beaumont"></interp>
+                     <interp inst="t17500228-10-defend82" type="given" value="John"></interp>
+                     <interp inst="t17500228-10-defend82" type="gender" value="male"></interp>
+                  </persName>
+                
+            , for <rs id="t17500228-10-off42" type="offenceDescription">
+                     <interp inst="t17500228-10-off42" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-10-off42" type="offenceSubcategory" value="receiving"></interp>
+               receiving the same, knowing it to be stolen
+            </rs>.</p>
+               <p>The only Evidence was 
+               <persName id="t17500228-10-person83">
+                  Charles 
+                  Speckman 
+               <interp inst="t17500228-10-person83" type="surname" value="Speckman"></interp>
+                     <interp inst="t17500228-10-person83" type="given" value="Charles"></interp>
+                     <interp inst="t17500228-10-person83" type="gender" value="male"></interp>
+                  </persName>
+            , an accomplice, of about fifteen years of age. Who depos'd, he himself had followed the business of thieving about two years; but not being back'd by evidence of credit, the prisoners were <rs id="t17500228-10-verdict43" type="verdictDescription">
+                     <interp inst="t17500228-10-verdict43" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

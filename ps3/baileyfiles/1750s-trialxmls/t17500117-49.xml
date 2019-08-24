@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-49">
+               <interp inst="t17500117-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-49" type="year" value="1750"></interp>
+               <interp inst="t17500117-49" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-49" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-49-off209-c265" targOrder="Y" targets="t17500117-49-defend359 t17500117-49-off209 t17500117-49-verdict212"></join>
+         
+               <p>163. 
+               
+                  <persName id="t17500117-49-defend359" type="defendantName">
+                     Lawrence 
+                     Savage 
+                  <interp inst="t17500117-49-defend359" type="surname" value="Savage"></interp>
+                     <interp inst="t17500117-49-defend359" type="given" value="Lawrence"></interp>
+                     <interp inst="t17500117-49-defend359" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-49-off209" type="offenceDescription">
+                     <interp inst="t17500117-49-off209" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-49-off209" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one silver watch, val 3 l. the goods of 
+                     
+                        <persName id="t17500117-49-victim361" type="victimName">
+                           Constantine 
+                           Gahagen 
+                        <interp inst="t17500117-49-victim361" type="surname" value="Gahagen"></interp>
+                        <interp inst="t17500117-49-victim361" type="given" value="Constantine"></interp>
+                        <interp inst="t17500117-49-victim361" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-49-off209 t17500117-49-victim361"></join>
+                     </persName>
+                      
+                  , privately from his person
+            </rs>, <rs id="t17500117-49-cd210" type="crimeDate">Oct. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-49-off209 t17500117-49-cd210"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-49-person362">
+                  Constantine 
+                  Gahagen 
+               <interp inst="t17500117-49-person362" type="surname" value="Gahagen"></interp>
+                     <interp inst="t17500117-49-person362" type="given" value="Constantine"></interp>
+                     <interp inst="t17500117-49-person362" type="gender" value="male"></interp>
+                  </persName>
+            . On Horn-fair-day last, I went into the country to buy goods. I live in the Borough. Coming over <placeName id="t17500117-49-crimeloc211">London-bridge</placeName>
+                  <interp inst="t17500117-49-crimeloc211" type="placeName" value="London-bridge"></interp>
+                  <interp inst="t17500117-49-crimeloc211" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-49-off209 t17500117-49-crimeloc211"></join>, there were carts, and a great throng; there were the prisoner, and either four or five men along with him; they came hurrying along. The Prisoner tore my waistcoat, and push'd my horse out of his step. I thought he had been drunk; I swore at him, but he went along, and hurry'd, swinging his hands, &amp;c. I did not think he had took my watch, 'till I came to the spurr inn in the borough. I met a friend, and went to drink a glass of wine there, going to pay for it, I missed my watch. I went home, and, as soon as I alighted from my horse, I went to the Maker, and had it advertised; and, from the 2d day of advertising it, I heard of it. I looked to see what o'clock it was, when I was at St. James's, and I saw the seal, with the anchor and the Key hung to it, as I was coming down Fish-street-hill.</p>
+               <p>
+            
+                  <persName id="t17500117-49-person363">
+                  Thomas 
+                  Brown 
+               <interp inst="t17500117-49-person363" type="surname" value="Brown"></interp>
+                     <interp inst="t17500117-49-person363" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-49-person363" type="gender" value="male"></interp>
+                  </persName>
+            . On the 18th of Oct. about 10 o'clock, a woman brought a watch to pawn. She asked 30 s. her Name is 
+               <persName id="t17500117-49-person364">
+                  Mary 
+                  Johnson 
+               <interp inst="t17500117-49-person364" type="surname" value="Johnson"></interp>
+                     <interp inst="t17500117-49-person364" type="given" value="Mary"></interp>
+                     <interp inst="t17500117-49-person364" type="gender" value="female"></interp>
+                  </persName>
+            . She was committed along with the prisoner. I asked her whose it was? she told me, it was a gentleman's at the boot in Princes-street. I thought it might be taken as people came from the play, as the play was just done. I told the woman, I should stop it 'till she brought the owner. She went out, and brought the prisoner at the bar, who told me, it was his watch; then came in another man, and said, it is mine; so give me it, or he would hurt me; then, I said, I would not give it him without his first telling the name. Upon that, he said, he would not, but he would have the watch. It had a green string to it, and the place where a seal should hang, was fresh cut. Before I gave it back, I took the name and number of it upon a card; the maker's name, Sewil, No. 540, Senier. I gave the other man the watch again. So on the 20th of October, I saw a watch advertis'd, lost upon London-bridge, the 18th of October, the name as this. No. forgot. I thought proper to let the man know, that such a thing was offered to me, which I did. The prosecutor came over the water, and asked me, what sort of a man it was? I describ'd him; he said, by the description, it was the same man that did the robbery. Then we went to Justice Fielding's, and took out a warrant, and took up the woman; and we took out a warrant, by the descriptions of the two men; the woman was in custody 'till last sessions. I being attending here, and saw this person come to give evidence, I went home, and got the warrant, and had him secured.</p>
+               <p>
+            
+                  <persName id="t17500117-49-person365">
+                  Gregory 
+                  Sewil 
+               <interp inst="t17500117-49-person365" type="surname" value="Sewil"></interp>
+                     <interp inst="t17500117-49-person365" type="given" value="Gregory"></interp>
+                     <interp inst="t17500117-49-person365" type="gender" value="male"></interp>
+                  </persName>
+            . On the 18th of October last, I took a walk to Charlton ; at my return home in the evening, my wife informed me, the prosecutor had been at my house, and said, he must speak with me that night. I went to him; he said, he had lost his watch, and wanted me to advertise it; it was put in the Tuesday's paper. The next morning came the pawnbroker, and told me, such a watch was brought to him to pawn, by one 
+               <persName id="t17500117-49-person366">
+                  Mary 
+                  Johnson 
+               <interp inst="t17500117-49-person366" type="surname" value="Johnson"></interp>
+                     <interp inst="t17500117-49-person366" type="given" value="Mary"></interp>
+                     <interp inst="t17500117-49-person366" type="gender" value="female"></interp>
+                  </persName>
+            . The prosecutor and I went on Wednesday morning, about 9 o'clock, and found 
+               <persName id="t17500117-49-person367">
+                  Mary 
+                  Johnson 
+               <interp inst="t17500117-49-person367" type="surname" value="Johnson"></interp>
+                     <interp inst="t17500117-49-person367" type="given" value="Mary"></interp>
+                     <interp inst="t17500117-49-person367" type="gender" value="female"></interp>
+                  </persName>
+             at the Fox in Drury-lane. I had advertised it,<xptr type="pageFacsimile" doc="175001170017"></xptr> 
+            
+                  <persName id="t17500117-49-person368">
+                  Gregory 
+                  Sewil 
+               <interp inst="t17500117-49-person368" type="surname" value="Sewil"></interp>
+                     <interp inst="t17500117-49-person368" type="given" value="Gregory"></interp>
+                     <interp inst="t17500117-49-person368" type="gender" value="male"></interp>
+                  </persName>
+            , sen. Numb. forgot ; but, upon looking over my book, I found it Number 540. delivered to 
+               <persName id="t17500117-49-person369">
+                  Constantine 
+                  Gahagen 
+               <interp inst="t17500117-49-person369" type="surname" value="Gahagen"></interp>
+                     <interp inst="t17500117-49-person369" type="given" value="Constantine"></interp>
+                     <interp inst="t17500117-49-person369" type="gender" value="male"></interp>
+                  </persName>
+            , about the 11th or 12th of September last.</p>
+               <p>Prosecutor. I bought it new, of 
+               <persName id="t17500117-49-person370">
+                  Gregory 
+                  Sewil 
+               <interp inst="t17500117-49-person370" type="surname" value="Sewil"></interp>
+                     <interp inst="t17500117-49-person370" type="given" value="Gregory"></interp>
+                     <interp inst="t17500117-49-person370" type="gender" value="male"></interp>
+                  </persName>
+            , for 5 l. I had had it about a Month before I lost it.</p>
+               <p>Prisoner's Defence. The woman that brought this watch to the pawnbroker's, was here a prisoner; and before the Alderman she declared, she knew nothing of me or the watch. The court discharg'd her last Sessions.</p>
+               <p>
+                  <rs id="t17500117-49-verdict212" type="verdictDescription">
+                     <interp inst="t17500117-49-verdict212" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17500117-49-punish213" type="punishmentDescription">
+                     <interp inst="t17500117-49-punish213" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-49-defend359 t17500117-49-punish213"></join>
+               Death
+            </rs>.</p>
+            </div1>

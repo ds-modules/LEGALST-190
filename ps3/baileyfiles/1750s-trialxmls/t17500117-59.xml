@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-59">
+               <interp inst="t17500117-59" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-59" type="year" value="1750"></interp>
+               <interp inst="t17500117-59" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-59" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-59-off256-c316" targOrder="Y" targets="t17500117-59-defend428 t17500117-59-off256 t17500117-59-verdict259"></join>
+         
+               <p>176. 
+               <persName id="t17500117-59-defend428" type="defendantName">
+                  Rebecca 
+                  Lovegrove 
+               <interp inst="t17500117-59-defend428" type="surname" value="Lovegrove"></interp>
+                     <interp inst="t17500117-59-defend428" type="given" value="Rebecca"></interp>
+                     <interp inst="t17500117-59-defend428" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for that <rs id="t17500117-59-off256" type="offenceDescription">
+                     <interp inst="t17500117-59-off256" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-59-off256" type="offenceSubcategory" value="pocketpicking"></interp>
+               she, together with another person unknown, stole one silver watch, the goods of 
+                     
+                        <persName id="t17500117-59-victim430" type="victimName">
+                           Amos 
+                           Stokes 
+                        <interp inst="t17500117-59-victim430" type="surname" value="Stokes"></interp>
+                        <interp inst="t17500117-59-victim430" type="given" value="Amos"></interp>
+                        <interp inst="t17500117-59-victim430" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-59-off256 t17500117-59-victim430"></join>
+                     </persName>
+                      
+                  , privately from his person
+            </rs>, <rs id="t17500117-59-cd257" type="crimeDate">Jan. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-59-off256 t17500117-59-cd257"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-59-person431">
+                  Amos 
+                  Stokes 
+               <interp inst="t17500117-59-person431" type="surname" value="Stokes"></interp>
+                     <interp inst="t17500117-59-person431" type="given" value="Amos"></interp>
+                     <interp inst="t17500117-59-person431" type="gender" value="male"></interp>
+                  </persName>
+            . I was coming along <placeName id="t17500117-59-crimeloc258">Cheapside</placeName>
+                  <interp inst="t17500117-59-crimeloc258" type="placeName" value="Cheapside"></interp>
+                  <interp inst="t17500117-59-crimeloc258" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-59-off256 t17500117-59-crimeloc258"></join>, on Friday was 7-night, about one o'clock in the morning; the prisoner at the bar, and another woman, met me: They us'd me in a very odd manner, and wanted drams of me; I told them it was a wrong time of the night to get a dram: However, they immediately call'd a woman from over the way, that sold drams; and, I believe, I might give them a dram, in order to get rid of them. I went from them, and I saw them following me: they came up with me, and began pulling me about, saying, I should go along with this and the other. I clapp'd my hand to my pocket, and miss'd my watch; I thought I felt the prisoner's hand in my pocket, I laid hold on her, and the other ran away.</p>
+               <p>Q. Was you not in liquor ?</p>
+               <p>Stokes. I cannot say that I was quite drunk: I had been drinking. The whole affair was transacted in four minutes, I believe.</p>
+               <p>Q. Did not you give another woman a dram at that place, that night, besides these two?</p>
+               <p>Stokes. I might for ought I know; I cannot tell. I charged the Constable with her, she pleaded ignorance, as such people generally do. I never found my watch again.</p>
+               <p>
+                  <rs id="t17500117-59-verdict259" type="verdictDescription">
+                     <interp inst="t17500117-59-verdict259" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

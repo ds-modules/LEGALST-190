@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-36">
+               <interp inst="t17500117-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-36" type="year" value="1750"></interp>
+               <interp inst="t17500117-36" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-36" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-36-off156-c217" targOrder="Y" targets="t17500117-36-defend288 t17500117-36-off156 t17500117-36-verdict160"></join>
+         
+               <p>149. 
+               <persName id="t17500117-36-defend288" type="defendantName">
+                  Constantine 
+                  Reynolds 
+               <interp inst="t17500117-36-defend288" type="surname" value="Reynolds"></interp>
+                     <interp inst="t17500117-36-defend288" type="given" value="Constantine"></interp>
+                     <interp inst="t17500117-36-defend288" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17500117-36-off156" type="offenceDescription">
+                     <interp inst="t17500117-36-off156" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-36-off156" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one wooden box, 3 copper japan tea-kettles, one pair of leather boots, one pair of Shag-breeches
+            </rs>, the goods of 
+               
+                  <persName id="t17500117-36-victim290" type="victimName">
+                     Edward 
+                     Hipkiss 
+                  <interp inst="t17500117-36-victim290" type="surname" value="Hipkiss"></interp>
+                     <interp inst="t17500117-36-victim290" type="given" value="Edward"></interp>
+                     <interp inst="t17500117-36-victim290" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-36-off156 t17500117-36-victim290"></join>
+                  </persName>
+                
+            , <rs id="t17500117-36-cd157" type="crimeDate">Jan. 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-36-off156 t17500117-36-cd157"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-36-person291">
+                  Edward 
+                  Hipkiss 
+               <interp inst="t17500117-36-person291" type="surname" value="Hipkiss"></interp>
+                     <interp inst="t17500117-36-person291" type="given" value="Edward"></interp>
+                     <interp inst="t17500117-36-person291" type="gender" value="male"></interp>
+                  </persName>
+            . I <rs id="t17500117-36-viclabel158" type="occupation">belong to the Birmingham Waggon</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-36-victim290 t17500117-36-viclabel158"></join>, I came into the Yard where it was, at the <placeName id="t17500117-36-crimeloc159">Sarazen's Head, on Snow-hill</placeName>
+                  <interp inst="t17500117-36-crimeloc159" type="placeName" value="Sarazen's Head, on Snow-hill"></interp>
+                  <interp inst="t17500117-36-crimeloc159" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-36-off156 t17500117-36-crimeloc159"></join>; I heard somebody in the Waggon; the prisoner jumped out of it, tumbled down, and I catched hold of him, and we had a struggle there; the Hostler came and assisted me, so we took him into the Tap-house. I had left the Waggon about 7 o'clock, with these Goods all in it, and this was between 8 and 9 o'clock. I was taking care of the prisoner when the Things were found.</p>
+               <p>
+            
+                  <persName id="t17500117-36-person292">
+                  Thomas 
+                  Tyson 
+               <interp inst="t17500117-36-person292" type="surname" value="Tyson"></interp>
+                     <interp inst="t17500117-36-person292" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-36-person292" type="gender" value="male"></interp>
+                  </persName>
+            . I am Hostler at the Sarazen's-head, I saw 
+               <persName id="t17500117-36-person293">
+                  Edward 
+                  Hipkiss 
+               <interp inst="t17500117-36-person293" type="surname" value="Hipkiss"></interp>
+                     <interp inst="t17500117-36-person293" type="given" value="Edward"></interp>
+                     <interp inst="t17500117-36-person293" type="gender" value="male"></interp>
+                  </persName>
+             and the prisoner struggling together ; I came to assist Hipkiss, I did not see the prisoner jump out of the waggon. I helped to carry him into the tap-house.</p>
+               <p>
+            
+                  <persName id="t17500117-36-person294">
+                  John 
+                  Kerby 
+               <interp inst="t17500117-36-person294" type="surname" value="Kerby"></interp>
+                     <interp inst="t17500117-36-person294" type="given" value="John"></interp>
+                     <interp inst="t17500117-36-person294" type="gender" value="male"></interp>
+                  </persName>
+            . I am porter at this Inn, and belong to the Waggon: I saw the Waggon scewer'd up about 8 o'clock that night.</p>
+               <p>
+            
+                  <persName id="t17500117-36-person295">
+                  Joseph 
+                  Plastow 
+               <interp inst="t17500117-36-person295" type="surname" value="Plastow"></interp>
+                     <interp inst="t17500117-36-person295" type="given" value="Joseph"></interp>
+                     <interp inst="t17500117-36-person295" type="gender" value="male"></interp>
+                  </persName>
+            . On Monday evening last, bet ween 8 and 9 o'clock, I saw 
+               <persName id="t17500117-36-person296">
+                  Edward 
+                  Hipkiss 
+               <interp inst="t17500117-36-person296" type="surname" value="Hipkiss"></interp>
+                     <interp inst="t17500117-36-person296" type="given" value="Edward"></interp>
+                     <interp inst="t17500117-36-person296" type="gender" value="male"></interp>
+                  </persName>
+             bring the prisoner in by the Collar; I went into the yard, and Tyson and 
+               <persName id="t17500117-36-person297">
+                  Thomas 
+                  Longly 
+               <interp inst="t17500117-36-person297" type="surname" value="Longly"></interp>
+                     <interp inst="t17500117-36-person297" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-36-person297" type="gender" value="male"></interp>
+                  </persName>
+             with me; there I saw a box marked I. W. lying at the tail of the waggon, with two tea-kettles and stands in it; and upon a bulk that was four foot high, there were lying a new pair of boots, the tops of them lined with red, a pair of shag breeches, and the prisoner's hat along with them;<xptr type="pageFacsimile" doc="175001170015"></xptr> the prisoner ask'd for his hat; I told him he should have it another time: I ask'd him how it came upon the bulk? he said it was lost in the struggle with Hipkiss, which is a thing impossible. The hat was given to the prisoner at Guild-hall.</p>
+               <p>Q. to Hipkiss. When did you see these goods last, before they were removed from the waggon?</p>
+               <p>Hipkiss. I loaded the waggon at Birmingham ; they were part of the loading: I saw them in the waggon at 7 o'clock that night.</p>
+               <p>
+            
+                  <persName id="t17500117-36-person298">
+                  Thomas 
+                  Longly 
+               <interp inst="t17500117-36-person298" type="surname" value="Longly"></interp>
+                     <interp inst="t17500117-36-person298" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-36-person298" type="gender" value="male"></interp>
+                  </persName>
+            , deposed the same with 
+               <persName id="t17500117-36-person299">
+                  Joseph 
+                  Plastow 
+               <interp inst="t17500117-36-person299" type="surname" value="Plastow"></interp>
+                     <interp inst="t17500117-36-person299" type="given" value="Joseph"></interp>
+                     <interp inst="t17500117-36-person299" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t17500117-36-person300">
+                  Michael 
+                  Bownel 
+               <interp inst="t17500117-36-person300" type="surname" value="Bownel"></interp>
+                     <interp inst="t17500117-36-person300" type="given" value="Michael"></interp>
+                     <interp inst="t17500117-36-person300" type="gender" value="male"></interp>
+                  </persName>
+            , who is principally concern'd in the bill of lading, depos'd, the things were mentioned in it.</p>
+               <p>
+                  <rs id="t17500117-36-verdict160" type="verdictDescription">
+                     <interp inst="t17500117-36-verdict160" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-36-punish161" type="punishmentDescription">
+                     <interp inst="t17500117-36-punish161" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-36-defend288 t17500117-36-punish161"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

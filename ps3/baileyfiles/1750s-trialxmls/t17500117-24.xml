@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-24">
+               <interp inst="t17500117-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-24" type="year" value="1750"></interp>
+               <interp inst="t17500117-24" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-24" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-24-off102-c161" targOrder="Y" targets="t17500117-24-defend212 t17500117-24-off102 t17500117-24-verdict107"></join>
+         
+               <p>137. 
+               
+                  <persName id="t17500117-24-defend212" type="defendantName">
+                     John 
+                     Whitaker 
+                  <interp inst="t17500117-24-defend212" type="surname" value="Whitaker"></interp>
+                     <interp inst="t17500117-24-defend212" type="given" value="John"></interp>
+                     <interp inst="t17500117-24-defend212" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-24-off102" type="offenceDescription">
+                     <interp inst="t17500117-24-off102" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-24-off102" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 10 half-inch wainscot boards, 5 inch wainscot boards, one 3 qrs. and half board, one foot of mahogany, one piece of fineer, 10 walnut-tree fineers, three tin cannisters, one tea chest, four sets of brass work for knife cases, 3 pair of brass hinges, 50 escutcheons, a bunch of keys, desk hinges, and other<xptr type="pageFacsimile" doc="175001170011"></xptr> things, all valued at 15 l. 9 s.
+            </rs> the goods of 
+               
+                  <persName id="t17500117-24-victim214" type="victimName">
+                     William 
+                     Hopkins 
+                  <interp inst="t17500117-24-victim214" type="surname" value="Hopkins"></interp>
+                     <interp inst="t17500117-24-victim214" type="given" value="William"></interp>
+                     <interp inst="t17500117-24-victim214" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-24-off102 t17500117-24-victim214"></join>
+                  </persName>
+                
+            , <rs id="t17500117-24-cd103" type="crimeDate">Jan 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-24-off102 t17500117-24-cd103"></join>
+               </p>
+               <p>The prosecutor is <rs id="t17500117-24-viclabel104" type="occupation">a Cabinet-maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-24-victim214 t17500117-24-viclabel104"></join>, lives in <placeName id="t17500117-24-crimeloc105">Fenchurch street</placeName>
+                  <interp inst="t17500117-24-crimeloc105" type="placeName" value="Fenchurch street"></interp>
+                  <interp inst="t17500117-24-crimeloc105" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-24-off102 t17500117-24-crimeloc105"></join>: The prisoner was his <rs id="t17500117-24-deflabel106" type="occupation">Journeyman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-24-defend212 t17500117-24-deflabel106"></join>, who had made it his practice, at times, to cut the wood, and convey it away; as likewise brass-work mentioned in the indictment, and had also drawn 
+               <persName id="t17500117-24-person215">
+                  Robert 
+                  Hill 
+               <interp inst="t17500117-24-person215" type="surname" value="Hill"></interp>
+                     <interp inst="t17500117-24-person215" type="given" value="Robert"></interp>
+                     <interp inst="t17500117-24-person215" type="gender" value="male"></interp>
+                  </persName>
+            , the Apprentice, into the affair, by hiring him to help carry the things away, which was fully prov'd by the Apprentice and others. Likewise the Prisoner had confest taking away all, but the brass work, to the prosecutor.</p>
+               <p>
+                  <rs id="t17500117-24-verdict107" type="verdictDescription">
+                     <interp inst="t17500117-24-verdict107" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-24-punish108" type="punishmentDescription">
+                     <interp inst="t17500117-24-punish108" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-24-defend212 t17500117-24-punish108"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

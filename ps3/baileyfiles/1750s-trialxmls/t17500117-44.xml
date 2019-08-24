@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-44">
+               <interp inst="t17500117-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-44" type="year" value="1750"></interp>
+               <interp inst="t17500117-44" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-44" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-44-off189-c251" targOrder="Y" targets="t17500117-44-defend337 t17500117-44-off189 t17500117-44-verdict192"></join>
+         
+               <p>158. 
+               
+                  <persName id="t17500117-44-defend337" type="defendantName">
+                     John 
+                     Sutton 
+                  <interp inst="t17500117-44-defend337" type="surname" value="Sutton"></interp>
+                     <interp inst="t17500117-44-defend337" type="given" value="John"></interp>
+                     <interp inst="t17500117-44-defend337" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-44-off189" type="offenceDescription">
+                     <interp inst="t17500117-44-off189" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-44-off189" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing one silk handkerchief, val. 11 d
+            </rs>. the goods of 
+               <persName id="t17500117-44-victim338" type="victimName">
+                  Francis 
+                  Hall 
+               <interp inst="t17500117-44-victim338" type="surname" value="Hall"></interp>
+                     <interp inst="t17500117-44-victim338" type="given" value="Francis"></interp>
+                     <interp inst="t17500117-44-victim338" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-44-off189 t17500117-44-victim338"></join>
+                  </persName>
+             , <rs id="t17500117-44-cd190" type="crimeDate">Dec. 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-44-off189 t17500117-44-cd190"></join>.</p>
+               <p>Francis Hall. Coming up <placeName id="t17500117-44-crimeloc191">Ludgate-street</placeName>
+                  <interp inst="t17500117-44-crimeloc191" type="placeName" value="Ludgate-street"></interp>
+                  <interp inst="t17500117-44-crimeloc191" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-44-off189 t17500117-44-crimeloc191"></join>, Dec. 11, between 4 and 5 in the afternoon, a gentleman said, Sir, your pocket is pick'd: I felt and my handkerchief was gone. Said he, that fellow has it, pointing to the prisoner. I laid hold of him, and searched him; and while I was searching him, it fell behind him, and a Man behind him took it up and gave it to me. When I was carrying him to the Constable, he swore and said, d - n you, if you don't let me go, and if you do prosecute me, you shall have your brains beat out before four days are at an end; and also it I would forgive him, he would own it.</p>
+               <p>
+            
+                  <persName id="t17500117-44-person339">
+                  John 
+                  Pickering 
+               <interp inst="t17500117-44-person339" type="surname" value="Pickering"></interp>
+                     <interp inst="t17500117-44-person339" type="given" value="John"></interp>
+                     <interp inst="t17500117-44-person339" type="gender" value="male"></interp>
+                  </persName>
+            . I was going down Ludgate-street, the 11th of December. I saw the prisoner pick the prosecutor's pocket. I laid hold of his Collar, saying, you dog you have got the gentleman's handkerchief; he said to me, I know you very well, you live in Fleet-street, and if you don't let me go, you shall be done for directly.</p>
+
+               <p>
+                  <rs id="t17500117-44-verdict192" type="verdictDescription">
+                     <interp inst="t17500117-44-verdict192" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-44-punish193" type="punishmentDescription">
+                     <interp inst="t17500117-44-punish193" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-44-defend337 t17500117-44-punish193"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

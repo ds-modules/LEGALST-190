@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-47">
+               <interp inst="t17500117-47" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-47" type="year" value="1750"></interp>
+               <interp inst="t17500117-47" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-47" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-47-off202-c261" targOrder="Y" targets="t17500117-47-defend352 t17500117-47-off202 t17500117-47-verdict204"></join>
+         
+               <p>161. 
+               
+                  <persName id="t17500117-47-defend352" type="defendantName">
+                     Mary 
+                     Hunsfield 
+                  <interp inst="t17500117-47-defend352" type="surname" value="Hunsfield"></interp>
+                     <interp inst="t17500117-47-defend352" type="given" value="Mary"></interp>
+                     <interp inst="t17500117-47-defend352" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-47-off202" type="offenceDescription">
+                     <interp inst="t17500117-47-off202" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-47-off202" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver watch, val. 20 s.
+            </rs> the goods of 
+               
+                  <persName id="t17500117-47-victim354" type="victimName">
+                     Thomas 
+                     Hathen 
+                  <interp inst="t17500117-47-victim354" type="surname" value="Hathen"></interp>
+                     <interp inst="t17500117-47-victim354" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-47-victim354" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-47-off202 t17500117-47-victim354"></join>
+                  </persName>
+                
+            , <rs id="t17500117-47-cd203" type="crimeDate">Oct. 28th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-47-off202 t17500117-47-cd203"></join>.</p>
+               <p>
+                  <rs id="t17500117-47-verdict204" type="verdictDescription">
+                     <interp inst="t17500117-47-verdict204" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

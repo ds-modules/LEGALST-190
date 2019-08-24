@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-14">
+               <interp inst="t17500117-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-14" type="year" value="1750"></interp>
+               <interp inst="t17500117-14" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-14" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-14-off59-c85" targOrder="Y" targets="t17500117-14-defend117 t17500117-14-off59 t17500117-14-verdict61"></join>
+         
+               <p>125. 
+               
+                  <persName id="t17500117-14-defend117" type="defendantName">
+                     William 
+                     Haynes 
+                  <interp inst="t17500117-14-defend117" type="surname" value="Haynes"></interp>
+                     <interp inst="t17500117-14-defend117" type="given" value="William"></interp>
+                     <interp inst="t17500117-14-defend117" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-14-off59" type="offenceDescription">
+                     <interp inst="t17500117-14-off59" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-14-off59" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 2 locks, val. 5 s. 300 pounds wt. of lead
+            </rs>, the goods of 
+               
+                  <persName id="t17500117-14-victim119" type="victimName">
+                     William 
+                     Cooper 
+                  <interp inst="t17500117-14-victim119" type="surname" value="Cooper"></interp>
+                     <interp inst="t17500117-14-victim119" type="given" value="William"></interp>
+                     <interp inst="t17500117-14-victim119" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-14-off59 t17500117-14-victim119"></join>
+                  </persName>
+                
+            , and Co.</p>
+               <p>
+                  <rs id="t17500117-14-cd60" type="crimeDate">January 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-14-off59 t17500117-14-cd60"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-14-person120">
+                  Richard 
+                  Dickman 
+               <interp inst="t17500117-14-person120" type="surname" value="Dickman"></interp>
+                     <interp inst="t17500117-14-person120" type="given" value="Richard"></interp>
+                     <interp inst="t17500117-14-person120" type="gender" value="male"></interp>
+                  </persName>
+            , servant to Dr. Manley, who lives next door to the empty house from whence these goods were taken, deposed, that he and others heard a noise in the house, they got two watchmen, with whose assistance they took the prisoner.</p>
+               <p>
+            
+                  <persName id="t17500117-14-person121">
+                  Joseph 
+                  Dillimore 
+               <interp inst="t17500117-14-person121" type="surname" value="Dillimore"></interp>
+                     <interp inst="t17500117-14-person121" type="given" value="Joseph"></interp>
+                     <interp inst="t17500117-14-person121" type="gender" value="male"></interp>
+                  </persName>
+            , one of the watchmen, deposed, he got over the wall by the assistance of the others, and jumped down into the yard, and seized the Prisoner, at which time the two locks fell from him to the ground, which was proved to be taken off from an inside and an outside door belonging to that house; and that out of the Prisoner's pocket they took some small screws belonging thereto, with the handle to one of the locks, and also that on the dresser below there lay two bags of lead, and a tinderbox and steel on a shelf just over it.</p>
+               <p>
+            
+                  <persName id="t17500117-14-person122">
+                  Nathaniel 
+                  Phillips 
+               <interp inst="t17500117-14-person122" type="surname" value="Phillips"></interp>
+                     <interp inst="t17500117-14-person122" type="given" value="Nathaniel"></interp>
+                     <interp inst="t17500117-14-person122" type="gender" value="male"></interp>
+                  </persName>
+            , the other watchman, deposed the same.</p>
+               <p>
+            
+                  <persName id="t17500117-14-person123">
+                  George 
+                  Hormey 
+               <interp inst="t17500117-14-person123" type="surname" value="Hormey"></interp>
+                     <interp inst="t17500117-14-person123" type="given" value="George"></interp>
+                     <interp inst="t17500117-14-person123" type="gender" value="male"></interp>
+                  </persName>
+             deposed, the empty house from whence the Prisoner was taken, belongs to Mr Henley and Mr. Cooper.</p>
+               <p>The Prisoner in his defence said, a person coming by him had took his hat from his head, and flung it over the wall, and he was got over the wall to get it again.</p>
+               <p>
+                  <rs id="t17500117-14-verdict61" type="verdictDescription">
+                     <interp inst="t17500117-14-verdict61" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-14-punish62" type="punishmentDescription">
+                     <interp inst="t17500117-14-punish62" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17500117-14-punish62" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-14-defend117 t17500117-14-punish62"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

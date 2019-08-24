@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-21">
+               <interp inst="t17500117-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-21" type="year" value="1750"></interp>
+               <interp inst="t17500117-21" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-21" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-21-off91-c150" targOrder="Y" targets="t17500117-21-defend196 t17500117-21-off91 t17500117-21-verdict94"></join>
+         
+               <p>134. 
+               
+                  <persName id="t17500117-21-defend196" type="defendantName">
+                     William 
+                     Williams 
+                  <interp inst="t17500117-21-defend196" type="surname" value="Williams"></interp>
+                     <interp inst="t17500117-21-defend196" type="given" value="William"></interp>
+                     <interp inst="t17500117-21-defend196" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-21-off91" type="offenceDescription">
+                     <interp inst="t17500117-21-off91" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-21-off91" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 7 silk handkerchiefs, val. 7 s.
+            </rs> the goods of 
+               
+                  <persName id="t17500117-21-victim198" type="victimName">
+                     Andrew 
+                     Paterson 
+                  <interp inst="t17500117-21-victim198" type="surname" value="Paterson"></interp>
+                     <interp inst="t17500117-21-victim198" type="given" value="Andrew"></interp>
+                     <interp inst="t17500117-21-victim198" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-21-off91 t17500117-21-victim198"></join>
+                  </persName>
+                
+            , <rs id="t17500117-21-cd92" type="crimeDate">Jan. 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-21-off91 t17500117-21-cd92"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-21-person199">
+                  Elizabeth 
+                  Whitelock 
+               <interp inst="t17500117-21-person199" type="surname" value="Whitelock"></interp>
+                     <interp inst="t17500117-21-person199" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500117-21-person199" type="gender" value="female"></interp>
+                  </persName>
+            . On the 8th of this month -</p>
+               <p>Q. How old are you?</p>
+               <p>
+            
+                  <persName id="t17500117-21-person200">
+                  Elizabeth 
+                  Whitelock 
+               <interp inst="t17500117-21-person200" type="surname" value="Whitelock"></interp>
+                     <interp inst="t17500117-21-person200" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500117-21-person200" type="gender" value="female"></interp>
+                  </persName>
+            . I am upwards of 14, my Lord. On the 8th of this month, the prisoner, and another person, came to <placeName id="t17500117-21-crimeloc93">Mr. Paterson's shop in the Cloysters</placeName>
+                  <interp inst="t17500117-21-crimeloc93" type="placeName" value="Mr. Paterson's shop in the Cloysters"></interp>
+                  <interp inst="t17500117-21-crimeloc93" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-21-off91 t17500117-21-crimeloc93"></join>; he desired to look at some silk handkerchiefs ; we did not like his looks; we told him we had none under 5 s. 6 d. there were some others lay to publick view; he desired to look on them; 
+               <persName id="t17500117-21-person201">
+                  Elizabeth 
+                  Lucas 
+               <interp inst="t17500117-21-person201" type="surname" value="Lucas"></interp>
+                     <interp inst="t17500117-21-person201" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500117-21-person201" type="gender" value="female"></interp>
+                  </persName>
+             that was with me, said, they would come to 4 s 6 d. the man with the prisoner said he would give 4 s. Upon which, they stood pausing some time; then the prisoner bid 4 s. 3 d. 
+               <persName id="t17500117-21-person202">
+                  Elizabeth 
+                  Lucas 
+               <interp inst="t17500117-21-person202" type="surname" value="Lucas"></interp>
+                     <interp inst="t17500117-21-person202" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500117-21-person202" type="gender" value="female"></interp>
+                  </persName>
+             told him, she could not 'bate a farthing of it; he desired to see how many there were of them; 
+               <persName id="t17500117-21-person203">
+                  Elizabeth 
+                  Lucas 
+               <interp inst="t17500117-21-person203" type="surname" value="Lucas"></interp>
+                     <interp inst="t17500117-21-person203" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500117-21-person203" type="gender" value="female"></interp>
+                  </persName>
+             counted seven; he did not seem very well pleased with her counting them, but desired to see them opened; he desired the other man to lay hold on the other end of the piece, and go to the other part of the shop; the other witness had hold of the other end, and the prisoner hold of the second or third handkerchief ; he counted seven of them, he put them all up in his hand and brought them to the counter; the other witness desired she might sold them up; the man that was with the prisoner said, there was no occasion to trouble herself, upon which he whipp'd them all up in his hand, and ran out of the shop with them. I being on the outside of the counter, ran first to the door, the other witness called out, stop thief ; I ran out, and called the same, to the corner of the window; the end of the handkerchief trailed on the ground, I running after stepped upon it, and with that he let them go; I gathered them all up together, and gave them to the other witness, and ran after him, calling out, stop thief, and Mr. Riley stopped him; he took hold of one arm and I the other, and brought him back to the shop door; he had ran about 20 yards. Master did not chuse to have a mob in the shop, so he desired he might be carried to an alehouse. The next witness will give an account what became of the other man.</p>
+               <p>
+            
+                  <persName id="t17500117-21-person204">
+                  Elizabeth 
+                  Lucas 
+               <interp inst="t17500117-21-person204" type="surname" value="Lucas"></interp>
+                     <interp inst="t17500117-21-person204" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500117-21-person204" type="gender" value="female"></interp>
+                  </persName>
+             confirmed this evidence in every particular, saying, she saw the former witness and Mr. Riley, are hold of one arm, and the other hold of the other, bringing him back, and that the other man ran away.</p>
+               <p>Mr. Riley deposed, concerning taking the prisoner, and bringing him back to Mr. Paterson's shop.</p>
+               <p>
+                  <rs id="t17500117-21-verdict94" type="verdictDescription">
+                     <interp inst="t17500117-21-verdict94" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-21-verdict94" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-21-punish95" type="punishmentDescription">
+                     <interp inst="t17500117-21-punish95" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-21-defend196 t17500117-21-punish95"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-51">
+               <interp inst="t17500117-51" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-51" type="year" value="1750"></interp>
+               <interp inst="t17500117-51" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-51" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-51-off220-c278" targOrder="Y" targets="t17500117-51-defend374 t17500117-51-off220 t17500117-51-verdict223"></join>
+         
+               <p>166. 
+               <persName id="t17500117-51-defend374" type="defendantName">
+                  
+                     Mary 
+                     Wood 
+                  , otherwise <rs id="t17500117-51-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17500117-51-defend374 t17500117-51-alias-2"></join>Smith</rs>
+                     <interp inst="t17500117-51-defend374" type="surname" value="Wood"></interp>
+                     <interp inst="t17500117-51-defend374" type="given" value="Mary"></interp>
+                     <interp inst="t17500117-51-defend374" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for that <rs id="t17500117-51-off220" type="offenceDescription">
+                     <interp inst="t17500117-51-off220" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17500117-51-off220" type="offenceSubcategory" value="forgery"></interp>
+               she, on the <rs id="t17500117-51-cd221" type="crimeDate">7th of April, 1749</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-51-off220 t17500117-51-cd221"></join>, did make, forge, and counterfeit, a certain paper writing, under the hand of 
+                     <persName id="t17500117-51-person376">
+                        Thomas 
+                        Massey 
+                     <interp inst="t17500117-51-person376" type="surname" value="Massey"></interp>
+                        <interp inst="t17500117-51-person376" type="given" value="Thomas"></interp>
+                        <interp inst="t17500117-51-person376" type="gender" value="male"></interp>
+                     </persName>
+                  , with intent to defraud 
+                     
+                        <persName id="t17500117-51-victim378" type="victimName">
+                           John 
+                           Barefoot 
+                        <interp inst="t17500117-51-victim378" type="surname" value="Barefoot"></interp>
+                        <interp inst="t17500117-51-victim378" type="given" value="John"></interp>
+                        <interp inst="t17500117-51-victim378" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-51-off220 t17500117-51-victim378"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>.</p>
+               <p>
+            
+                  <persName id="t17500117-51-person379">
+                  John 
+                  Barefoot 
+               <interp inst="t17500117-51-person379" type="surname" value="Barefoot"></interp>
+                     <interp inst="t17500117-51-person379" type="given" value="John"></interp>
+                     <interp inst="t17500117-51-person379" type="gender" value="male"></interp>
+                  </persName>
+            . I am <rs id="t17500117-51-viclabel222" type="occupation">book-keeper to Mr. Mass</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500117-51-victim378 t17500117-51-viclabel222"></join>ey. This woman came to me the 7th of April last, at the White Horse, Fleet-ditch, in the name of my master, 
+               <persName id="t17500117-51-person380">
+                  Thomas 
+                  Massey 
+               <interp inst="t17500117-51-person380" type="surname" value="Massey"></interp>
+                     <interp inst="t17500117-51-person380" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-51-person380" type="gender" value="male"></interp>
+                  </persName>
+            , with a note drawn upon me, payable to herself. I paid her 9 l. here is her receipt at the bottom. At first I deny'd payment; she asked me, what I meant by that? for I thought it not to be my master's writing. She then produced another Letter, she said came from my master, with the other inclosed. I read it, and found it answer'd very well with the situation of my master's affairs in the country, he being then very ill; he had not been in town for three weeks. I knew it was not his writing: but I thought he being ill, might have got some other person to write it for him. She produced another, which she said, came from her brother. The letters answering one another, I made no doubt about it, but paid her. She wrote the receipt, and went her way.</p>
+               <p>The first LETTER.</p>
+               <p>Winscomb, April 2.</p>
+               <p>'' Mr. Barefoot,</p>
+               <p>'' You'll pay to this woman 9 l. and take a '' receipt in full, by me</p>
+               <p>'' 
+               <persName id="t17500117-51-person381">
+                  THOMAS 
+                  MASSEY 
+               <interp inst="t17500117-51-person381" type="surname" value="MASSEY"></interp>
+                     <interp inst="t17500117-51-person381" type="given" value="THOMAS"></interp>
+                     <interp inst="t17500117-51-person381" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Directed to Mr. Barefoot, at the White-horse, Fleet-ditch.</p>
+               <p>At the bottom is the receipt which the woman signed for the 9 l.</p>
+               <p>The second LETTER.</p>
+               <p>Directed to Mary Wood, Scotland-yard, at the Green Man and Still.</p>
+               <p>'' Mrs. Wood,</p>
+               <p>'' I have not been in London this three weeks ; '' I have not been very well, or I had call'd on '' you, or you should have your money paid you. '' Your brother has paid me, and he tells me you '' will be out of town soon, and want the money. '' You will take that Note, and go to Mr. Barefoot, '' at the White-horse, Fleet-ditch, and he '' will pay the money, from me</p>
+               <p>'' 
+               <persName id="t17500117-51-person382">
+                  THOMAS 
+                  MASSEY 
+               <interp inst="t17500117-51-person382" type="surname" value="MASSEY"></interp>
+                     <interp inst="t17500117-51-person382" type="given" value="THOMAS"></interp>
+                     <interp inst="t17500117-51-person382" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>The third LETTER.</p>
+               <p>'' Dear Sister,</p>
+               <p>'' We hope you are all well, as we are all at '' present, thanks to God for it: I find Mr Massey '' has not paid you the money ; he has had '' it of me this month. He told me that you '' should have it of him the next time he '' came to town: He said, he would give you '' an order to go to his Book-keeper, to be paid '' very soon. Pray let me know if he does not, '' that I may have it returned by Mr. Bissey, of '' Tewksbury. I do not know what he means '' by it, to serve me in that manner, for he and I '' shall fall out; so I desire you will let me know, '' because you say you are going out of Town. '' From your loving brother,</p>
+               <p>
+            
+                  <persName id="t17500117-51-person383">
+                  JOHN 
+                  WOOD 
+               <interp inst="t17500117-51-person383" type="surname" value="WOOD"></interp>
+                     <interp inst="t17500117-51-person383" type="given" value="JOHN"></interp>
+                     <interp inst="t17500117-51-person383" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Witness. The prisoner owned before Sir 
+               <persName id="t17500117-51-person384">
+                  Joseph 
+                  Hankey 
+               <interp inst="t17500117-51-person384" type="surname" value="Hankey"></interp>
+                     <interp inst="t17500117-51-person384" type="given" value="Joseph"></interp>
+                     <interp inst="t17500117-51-person384" type="gender" value="male"></interp>
+                  </persName>
+            , that she wrote all these Letters herself, and received the money.</p>
+               <p>
+            
+                  <persName id="t17500117-51-person385">
+                  Edward 
+                  Carpenter 
+               <interp inst="t17500117-51-person385" type="surname" value="Carpenter"></interp>
+                     <interp inst="t17500117-51-person385" type="given" value="Edward"></interp>
+                     <interp inst="t17500117-51-person385" type="gender" value="male"></interp>
+                  </persName>
+            . I happened to be in the Compter, with Mr. Barefoot, and she confess'd the Fact there to us. Mr. Barefoot ask'd her what money she received at that time; she said, it was in English money; then, he said, what was it? She said, it was eight guineas and half in gold, and 1 s. 6 d. in silver. Then he ask'd her whether she wrote those letters? She said, yes. Then he said, had you no man liv'd with you at that time? She said, yes, she had; and that he drawed the draught up, and she made these letters after him : and said, she had not seen him this 6 months.</p>
+               <p>
+            
+                  <persName id="t17500117-51-person386">
+                  James 
+                  Smith 
+               <interp inst="t17500117-51-person386" type="surname" value="Smith"></interp>
+                     <interp inst="t17500117-51-person386" type="given" value="James"></interp>
+                     <interp inst="t17500117-51-person386" type="gender" value="male"></interp>
+                  </persName>
+            , deposed, he heard the prisoner own the taking the money, and that she wrote the writing, &amp;c.</p>
+               <p>
+                  <rs id="t17500117-51-verdict223" type="verdictDescription">
+                     <interp inst="t17500117-51-verdict223" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17500117-51-punish224" type="punishmentDescription">
+                     <interp inst="t17500117-51-punish224" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t17500117-51-punish224" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-51-defend374 t17500117-51-punish224"></join>
+               Death
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-27">
+               <interp inst="t17500117-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-27" type="year" value="1750"></interp>
+               <interp inst="t17500117-27" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-27" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-27-off119-c174" targOrder="Y" targets="t17500117-27-defend230 t17500117-27-off119 t17500117-27-verdict122"></join>
+         
+               <p>140. 
+               
+                  <persName id="t17500117-27-defend230" type="defendantName">
+                     John 
+                     Kible 
+                  <interp inst="t17500117-27-defend230" type="surname" value="Kible"></interp>
+                     <interp inst="t17500117-27-defend230" type="given" value="John"></interp>
+                     <interp inst="t17500117-27-defend230" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted, for that <rs id="t17500117-27-off119" type="offenceDescription">
+                     <interp inst="t17500117-27-off119" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500117-27-off119" type="offenceSubcategory" value="highwayRobbery"></interp>
+               he, on the King's highway, on 
+                     <persName id="t17500117-27-victim231" type="victimName">
+                        Hannah, <rs id="t17500117-27-viclabel120" type="occupation">the wife of 
+                              
+                                 <persName id="t17500117-27-victim233" type="victimName">
+                                    Geo 
+                                    Warfoot 
+                                 <interp inst="t17500117-27-victim233" type="surname" value="Warfoot"></interp>
+                              <interp inst="t17500117-27-victim233" type="given" value="Geo"></interp>
+                              <interp inst="t17500117-27-victim233" type="gender" value="male"></interp>
+                           </persName>
+                               
+                           
+                        </rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17500117-27-victim231 t17500117-27-viclabel120"></join>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17500117-27-victim233 t17500117-27-viclabel120"></join>
+                        <interp inst="t17500117-27-victim231" type="surname" value="Warfoot"></interp>
+                        <interp inst="t17500117-27-victim231" type="given" value="Hannah"></interp>
+                        <interp inst="t17500117-27-victim231" type="gender" value="female"></interp>
+                     </persName>
+                  , did make an assault, putting her in corporal fear and danger of her life, taking from her one linnen pocket, value 2 d. and 6 s. in monies numbered, the goods of the said George, against the will of the said Hannah
+            </rs>, <rs id="t17500117-27-cd121" type="crimeDate">Dec. 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-27-off119 t17500117-27-cd121"></join>.</p>
+               <p>
+                  <rs id="t17500117-27-verdict122" type="verdictDescription">
+                     <interp inst="t17500117-27-verdict122" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17500117-27-verdict122" type="verdictSubcategory" value="noProsecutor"></interp>
+               The Prosecutor not appearing he was Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-24">
+               <interp inst="t17500228-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-24" type="year" value="1750"></interp>
+               <interp inst="t17500228-24" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-24" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-24-off97-c136" targOrder="Y" targets="t17500228-24-defend178 t17500228-24-off97 t17500228-24-verdict101"></join>
+         
+               <p>204. 
+               
+                  <persName id="t17500228-24-defend178" type="defendantName">
+                     John Clement 
+                     Eastmead 
+                  <interp inst="t17500228-24-defend178" type="surname" value="Eastmead"></interp>
+                     <interp inst="t17500228-24-defend178" type="given" value="John Clement"></interp>
+                     <interp inst="t17500228-24-defend178" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500228-24-off97" type="offenceDescription">
+                     <interp inst="t17500228-24-off97" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-24-off97" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 82 yards of linnen cloth, val 40 s.
+            </rs> the goods of 
+               
+                  <persName id="t17500228-24-victim180" type="victimName">
+                     James 
+                     Randall 
+                  <interp inst="t17500228-24-victim180" type="surname" value="Randall"></interp>
+                     <interp inst="t17500228-24-victim180" type="given" value="James"></interp>
+                     <interp inst="t17500228-24-victim180" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17500228-24-viclabel98" type="occupation">the elder</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-24-victim180 t17500228-24-viclabel98"></join>, and 
+               
+                  <persName id="t17500228-24-victim182" type="victimName">
+                     James 
+                     Randall 
+                  <interp inst="t17500228-24-victim182" type="surname" value="Randall"></interp>
+                     <interp inst="t17500228-24-victim182" type="given" value="James"></interp>
+                     <interp inst="t17500228-24-victim182" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17500228-24-viclabel99" type="occupation">the younger</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-24-victim182 t17500228-24-viclabel99"></join>, <rs id="t17500228-24-cd100" type="crimeDate">Jan. 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-24-off97 t17500228-24-cd100"></join>.</p>
+               <p>
+                  <rs id="t17500228-24-verdict101" type="verdictDescription">
+                     <interp inst="t17500228-24-verdict101" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-15">
+               <interp inst="t17500228-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-15" type="year" value="1750"></interp>
+               <interp inst="t17500228-15" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-15" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-15-off61-c73" targOrder="Y" targets="t17500228-15-defend101 t17500228-15-off61 t17500228-15-verdict62"></join>
+         
+               <p>193. 
+               
+                  <persName id="t17500228-15-defend101" type="defendantName">
+                     John 
+                     Williams 
+                  <interp inst="t17500228-15-defend101" type="surname" value="Williams"></interp>
+                     <interp inst="t17500228-15-defend101" type="given" value="John"></interp>
+                     <interp inst="t17500228-15-defend101" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500228-15-off61" type="offenceDescription">
+                     <interp inst="t17500228-15-off61" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-15-off61" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one wooden vessel, call'd a half-hogshead, val. 2 s.
+            </rs> the goods of persons unknown.</p>
+               <p>
+                  <rs id="t17500228-15-verdict62" type="verdictDescription">
+                     <interp inst="t17500228-15-verdict62" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

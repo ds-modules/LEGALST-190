@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-48">
+               <interp inst="t17500117-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-48" type="year" value="1750"></interp>
+               <interp inst="t17500117-48" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-48" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-48-off205-c263" targOrder="Y" targets="t17500117-48-defend356 t17500117-48-off205 t17500117-48-verdict207"></join>
+         
+               <p>162. 
+               
+                  <persName id="t17500117-48-defend356" type="defendantName">
+                     Richard 
+                     Dean 
+                  <interp inst="t17500117-48-defend356" type="surname" value="Dean"></interp>
+                     <interp inst="t17500117-48-defend356" type="given" value="Richard"></interp>
+                     <interp inst="t17500117-48-defend356" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-48-off205" type="offenceDescription">
+                     <interp inst="t17500117-48-off205" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-48-off205" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one linnen shirt, val. 2 s.
+            </rs> the goods of 
+               <persName id="t17500117-48-victim357" type="victimName">
+                  Thomas 
+                  Woodward 
+               <interp inst="t17500117-48-victim357" type="surname" value="Woodward"></interp>
+                     <interp inst="t17500117-48-victim357" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-48-victim357" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-48-off205 t17500117-48-victim357"></join>
+                  </persName>
+             , <rs id="t17500117-48-cd206" type="crimeDate">Dec. the 20th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-48-off205 t17500117-48-cd206"></join>. The prisoner had confess'd the fact, and brought the prosecutor to the person who bought the shirt of him.</p>
+               <p>
+                  <rs id="t17500117-48-verdict207" type="verdictDescription">
+                     <interp inst="t17500117-48-verdict207" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-48-verdict207" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-48-punish208" type="punishmentDescription">
+                     <interp inst="t17500117-48-punish208" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-48-defend356 t17500117-48-punish208"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

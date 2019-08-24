@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-13">
+               <interp inst="t17500117-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-13" type="year" value="1750"></interp>
+               <interp inst="t17500117-13" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-13" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-13-off55-c82" targOrder="Y" targets="t17500117-13-defend112 t17500117-13-off55 t17500117-13-verdict57"></join>
+         
+               <p>124 
+               
+                  <persName id="t17500117-13-defend112" type="defendantName">
+                     Ann 
+                     Jones 
+                  <interp inst="t17500117-13-defend112" type="surname" value="Jones"></interp>
+                     <interp inst="t17500117-13-defend112" type="given" value="Ann"></interp>
+                     <interp inst="t17500117-13-defend112" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-13-off55" type="offenceDescription">
+                     <interp inst="t17500117-13-off55" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-13-off55" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three flannel waistcoats, one linnen waistcoat, one green cloth waistcoat, one scarlet cloak, and a towel
+            </rs>, the goods of 
+               
+                  <persName id="t17500117-13-victim114" type="victimName">
+                     Joseph 
+                     Townsend 
+                  <interp inst="t17500117-13-victim114" type="surname" value="Townsend"></interp>
+                     <interp inst="t17500117-13-victim114" type="given" value="Joseph"></interp>
+                     <interp inst="t17500117-13-victim114" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-13-off55 t17500117-13-victim114"></join>
+                  </persName>
+                
+            .</p>
+               <p>
+                  <rs id="t17500117-13-cd56" type="crimeDate">Jan. 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-13-off55 t17500117-13-cd56"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-13-person115">
+                  Matthew 
+                  Rose 
+               <interp inst="t17500117-13-person115" type="surname" value="Rose"></interp>
+                     <interp inst="t17500117-13-person115" type="given" value="Matthew"></interp>
+                     <interp inst="t17500117-13-person115" type="gender" value="male"></interp>
+                  </persName>
+             deposed, he lives facing the Prosecutor's house, that he saw the Prisoner take away these goods in her apron, he pursued her, she hid herself in a chimney-sweeper's cellar, with the things mentioned, which were produced in Court.</p>
+               <p>
+                  <rs id="t17500117-13-verdict57" type="verdictDescription">
+                     <interp inst="t17500117-13-verdict57" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500117-13-verdict57" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-13-punish58" type="punishmentDescription">
+                     <interp inst="t17500117-13-punish58" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17500117-13-punish58" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-13-defend112 t17500117-13-punish58"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

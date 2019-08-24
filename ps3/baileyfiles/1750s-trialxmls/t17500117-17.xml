@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-17">
+               <interp inst="t17500117-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-17" type="year" value="1750"></interp>
+               <interp inst="t17500117-17" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-17" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-17-off71-c112" targOrder="Y" targets="t17500117-17-defend150 t17500117-17-off71 t17500117-17-verdict74"></join>
+               <join result="criminalCharge" id="t17500117-17-off71-c113" targOrder="Y" targets="t17500117-17-defend152 t17500117-17-off71 t17500117-17-verdict74"></join>
+         
+               <p>129, 130. 
+               <persName id="t17500117-17-defend150" type="defendantName">
+                  Dennes 
+                  Brannam 
+               <interp inst="t17500117-17-defend150" type="surname" value="Brannam"></interp>
+                     <interp inst="t17500117-17-defend150" type="given" value="Dennes"></interp>
+                     <interp inst="t17500117-17-defend150" type="gender" value="male"></interp>
+                  </persName>
+              and 
+               
+                  <persName id="t17500117-17-defend152" type="defendantName">
+                     William 
+                     Purcel 
+                  <interp inst="t17500117-17-defend152" type="surname" value="Purcel"></interp>
+                     <interp inst="t17500117-17-defend152" type="given" value="William"></interp>
+                     <interp inst="t17500117-17-defend152" type="gender" value="male"></interp>
+                  </persName>
+                
+            ,were indicted, for that <rs id="t17500117-17-off71" type="offenceDescription">
+                     <interp inst="t17500117-17-off71" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500117-17-off71" type="offenceSubcategory" value="highwayRobbery"></interp>
+               they, on the King's highway, on 
+                     
+                        <persName id="t17500117-17-victim154" type="victimName">
+                           Thomas 
+                           Whiffin 
+                        <interp inst="t17500117-17-victim154" type="surname" value="Whiffin"></interp>
+                        <interp inst="t17500117-17-victim154" type="given" value="Thomas"></interp>
+                        <interp inst="t17500117-17-victim154" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500117-17-off71 t17500117-17-victim154"></join>
+                     </persName>
+                      
+                  , did make an assault, putting him in corporal fear and danger of his life, one hat, val. 8 s. one peruke, val. 10 s. from his person did steal, take, and carry away
+            </rs>, <rs id="t17500117-17-cd72" type="crimeDate">Dec. 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-17-off71 t17500117-17-cd72"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-17-person155">
+                  Thomas 
+                  Whiffin 
+               <interp inst="t17500117-17-person155" type="surname" value="Whiffin"></interp>
+                     <interp inst="t17500117-17-person155" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-17-person155" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Shore-ditch; I had been over the water, and coming home, <placeName id="t17500117-17-crimeloc73">near the Unicorn publick house in Shore-ditch</placeName>
+                  <interp inst="t17500117-17-crimeloc73" type="placeName" value="near the Unicorn publick house in Shore-ditch"></interp>
+                  <interp inst="t17500117-17-crimeloc73" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-17-off71 t17500117-17-crimeloc73"></join>, the two Prisoners and an evidence that is here, followed me, they dodg'd me for 8 or 10 minutes; I was knock'd down, I thought my skull was crack'd in two, I did not see who struck me, it was done so suddenly; (there was a great hug scar on his head ) this was about 3 minutes before 11 o'clock at night, the 13th of December: I lost my hat and wigg; the watch being near and in pursuit of them, they could not take any thing else. While they were following me, they d - n'd one's eyes and another's limbs. Brannam told me they sold my hat for 4 s. and my wig they lost, and that he took them from my head himself; this was after he was committed, before 
+               <persName id="t17500117-17-person156">
+                  George 
+                  St 
+               <interp inst="t17500117-17-person156" type="surname" value="St"></interp>
+                     <interp inst="t17500117-17-person156" type="given" value="George"></interp>
+                     <interp inst="t17500117-17-person156" type="gender" value="male"></interp>
+                  </persName>
+            . Lawrence was taken.</p>
+               <p>
+            
+                  <persName id="t17500117-17-person157">
+                  George 
+                  St 
+               <interp inst="t17500117-17-person157" type="surname" value="St"></interp>
+                     <interp inst="t17500117-17-person157" type="given" value="George"></interp>
+                     <interp inst="t17500117-17-person157" type="gender" value="male"></interp>
+                  </persName>
+            . Lawrence. On the 13th of Dec. the day after last Sessions, Brannam being just turned out of Newgate, I went the next day to see him in Webb-Square, there was Purcel with him; he asked me to make Purcel drink, I said I had no money; said he, pawn your ha for a shilling ; said Purcel, I'll pawn my shuttle, and at night I shall get more money; he sent me for it, I brought it, we went to the George and called for a pot of beer, he paid for it, and had three-pence half-penny left, so he would have a dram for each to put us in spirits: said Dennes Brannam, I'll go for a hammer and chissel, and I'll either have money, or I'll go where I come from again. The time he was gone from us, Purcel and I was going down Webb-Square, he made a blow at a Man with a stick and miss'd him, I hit him and knock'd him down, and took his hat, and gave it to Purcel; he went and pawned it for 1 s. 6 d. then we went to the Ship Alehouse in Webb Square, and had a pint of gin which cost 6 d. Brannam came in with two young fellows, so we drank one shilling and six-pence out there. Then we went out, (either to get money by house-breaking, or knocking people down and robbing them) we went along Shore-ditch, and opposite to the Black Dog, there was a sellar open, said Brannam, stay here, I'll go in and see if I can buy a shirt ; the boy belonging to the seller said, Brannam, what are you doing? Brannam came out, seeing the<xptr type="pageFacsimile" doc="175001170007"></xptr> master, and walked up the street, and the man followed him, and I followed the man; the man laid hold of him, I struck the man on the side of the head, he let Brannam go and run away; Mr. Whiffin and another man were walking before us.</p>
+               <p>Q. to Whiffin. Was there a man along with you?</p>
+               <p>Whiffin. There was, my Lord; it was my uncle, who had been along with me; he walked about two yards before me, but he did not see me knock'd down.</p>
+               <p>St. Lawrence. Brannam took the hammer out of his bosom, he hit the Prosecutor with it on the side of the head, I struck at him at the same time with a stick, but Brannam's blow fetched him down; I did not hurt him much; then Brannam took his hat and wig; we did intend to take what money he had, but the watch, or some people, came making a noise, so we were obliged to run; Brannam delivered the hat and wig to me; I put the wig on my head, and gave the hat to Purcel, we crossed the way, and ran down the same side of the way the robbery was done. After we had been on the other side a little time, Brannam and I went through Magpye Alley to his brother-in-law's house in Phenix-street; presently up comes Purcel, said Brannam, what signifies staying here, let's go and get some more money. The hat we left there. We went out, and going thro' Wheeler-street, we met another man, and struck at him several times before we could get him down, at last we did; Brannam gave him the last blow with the hammer ; the people came out of the houses, and the place began to be in an uproat; we took his hat and wig and ran away; then we went to White Chapel, and struck at a man there; he staggered against a shop, and we took his hat and wig, and ran away. This was about eleven o'clock.</p>
+               <p>Dugley Macanley. Brannam told me the day after the robbery, he was the man that knocked down the prosecutor, and took his hat and wig, and also that he knocked down another man in Houndsditch the same night, and another in White-Chapel: He in Houndsditch was so hurt by the blow, that the blood comes out at his ears; I saw him last Sun-day. He told me of another in Wheeler-street.</p>
+               <p>
+            
+                  <persName id="t17500117-17-person158">
+                  John 
+                  Butts 
+               <interp inst="t17500117-17-person158" type="surname" value="Butts"></interp>
+                     <interp inst="t17500117-17-person158" type="given" value="John"></interp>
+                     <interp inst="t17500117-17-person158" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner Brannam came to me between ten and eleven o'clock that night, and this evidence with him. I live in Shoreditch near the Black Dog; he struck at one of my journeymen: The man asked him, what he would have? I pursued him, and took hold of him; the other witness struck me, as before. I ran away for the Watch, and return'd in about two minutes, as soon as I had alarmed them. When I came back Mr. Whiffin had just been knock'd down and robb'd of a hat and wig, and was all of a gore blood.</p>
+               <p>
+            
+                  <persName id="t17500117-17-person159">
+                  Joseph 
+                  Whiffin 
+               <interp inst="t17500117-17-person159" type="surname" value="Whiffin"></interp>
+                     <interp inst="t17500117-17-person159" type="given" value="Joseph"></interp>
+                     <interp inst="t17500117-17-person159" type="gender" value="male"></interp>
+                  </persName>
+            , the prosecutor's uncle, deposed, he was walking before him at this time, that he turn'd back, and saw him rising without his hat and wig, in a very bloody condition; and that it was done about three stones cast from his own house, near the Unicorn Brew-house, Shoreditch.</p>
+               <p>Both <rs id="t17500117-17-verdict74" type="verdictDescription">
+                     <interp inst="t17500117-17-verdict74" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-17-punish75" type="punishmentDescription">
+                     <interp inst="t17500117-17-punish75" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-17-defend150 t17500117-17-punish75"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-17-defend152 t17500117-17-punish75"></join>
+               Death
+            </rs>.</p>
+            </div1>

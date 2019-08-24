@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-50">
+               <interp inst="t17500117-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-50" type="year" value="1750"></interp>
+               <interp inst="t17500117-50" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-50" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-50-off214-c276" targOrder="Y" targets="t17500117-50-defend372 t17500117-50-off214 t17500117-50-verdict217"></join>
+               <join result="criminalCharge" id="t17500117-50-off215-c277" targOrder="Y" targets="t17500117-50-defend373 t17500117-50-off215 t17500117-50-verdict218"></join>
+         
+               <p>164. 165. 
+               
+                  <persName id="t17500117-50-defend372" type="defendantName">
+                     Jane 
+                     Rider 
+                  <interp inst="t17500117-50-defend372" type="surname" value="Rider"></interp>
+                     <interp inst="t17500117-50-defend372" type="given" value="Jane"></interp>
+                     <interp inst="t17500117-50-defend372" type="gender" value="female"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17500117-50-off214" type="offenceDescription">
+                     <interp inst="t17500117-50-off214" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-50-off214" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three pounds weight of tallow candles
+            </rs>; and 
+               <persName id="t17500117-50-defend373" type="defendantName">
+                  Triphania 
+                  West 
+               <interp inst="t17500117-50-defend373" type="surname" value="West"></interp>
+                     <interp inst="t17500117-50-defend373" type="given" value="Triphania"></interp>
+                     <interp inst="t17500117-50-defend373" type="gender" value="female"></interp>
+                  </persName>
+             , for <rs id="t17500117-50-off215" type="offenceDescription">
+                     <interp inst="t17500117-50-off215" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-50-off215" type="offenceSubcategory" value="receiving"></interp>
+               receiving the same, knowing them to be stolen
+            </rs>, <rs id="t17500117-50-cd216" type="crimeDate">Dec. 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-50-off214 t17500117-50-cd216"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-50-off215 t17500117-50-cd216"></join>.</p>
+               <p>Rider, <rs id="t17500117-50-verdict217" type="verdictDescription">
+                     <interp inst="t17500117-50-verdict217" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>West, <rs id="t17500117-50-verdict218" type="verdictDescription">
+                     <interp inst="t17500117-50-verdict218" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-50-punish219" type="punishmentDescription">
+                     <interp inst="t17500117-50-punish219" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-50-defend372 t17500117-50-punish219"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-18">
+               <interp inst="t17500228-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-18" type="year" value="1750"></interp>
+               <interp inst="t17500228-18" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-18" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-18-off72-c85" targOrder="Y" targets="t17500228-18-defend117 t17500228-18-off72 t17500228-18-verdict74"></join>
+         
+               <p>197. 
+               
+                  <persName id="t17500228-18-defend117" type="defendantName">
+                     Judith 
+                     Dyke 
+                  <interp inst="t17500228-18-defend117" type="surname" value="Dyke"></interp>
+                     <interp inst="t17500228-18-defend117" type="given" value="Judith"></interp>
+                     <interp inst="t17500228-18-defend117" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17500228-18-deflabel71" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-18-defend117 t17500228-18-deflabel71"></join>, was indicted, for <rs id="t17500228-18-off72" type="offenceDescription">
+                     <interp inst="t17500228-18-off72" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-18-off72" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a silver tankard, val. 7 l. the goods of 
+                     
+                        <persName id="t17500228-18-victim119" type="victimName">
+                           Isaac 
+                           Kennish 
+                        <interp inst="t17500228-18-victim119" type="surname" value="Kennish"></interp>
+                        <interp inst="t17500228-18-victim119" type="given" value="Isaac"></interp>
+                        <interp inst="t17500228-18-victim119" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500228-18-off72 t17500228-18-victim119"></join>
+                     </persName>
+                      
+                  , in the dwelling-house of the said Isaac
+            </rs>, <rs id="t17500228-18-cd73" type="crimeDate">Dec. 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-18-off72 t17500228-18-cd73"></join>.</p>
+               <p>The witnesses were the same as in the tryal of 
+               <persName id="t17500228-18-person120">
+                  John 
+                  Stephens 
+               <interp inst="t17500228-18-person120" type="surname" value="Stephens"></interp>
+                     <interp inst="t17500228-18-person120" type="given" value="John"></interp>
+                     <interp inst="t17500228-18-person120" type="gender" value="male"></interp>
+                  </persName>
+            , No. 126, the last sessions, with the addition<xptr type="pageFacsimile" doc="175002280005"></xptr> of Hosier, who all seemed to agree, if the tankard was taken by either of the two, it must be by Stevens.</p>
+               <p>
+                  <rs id="t17500228-18-verdict74" type="verdictDescription">
+                     <interp inst="t17500228-18-verdict74" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

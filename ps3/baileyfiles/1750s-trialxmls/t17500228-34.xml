@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-34">
+               <interp inst="t17500228-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-34" type="year" value="1750"></interp>
+               <interp inst="t17500228-34" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-34" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-34-off146-c189" targOrder="Y" targets="t17500228-34-defend252 t17500228-34-off146 t17500228-34-verdict151"></join>
+               <join result="criminalCharge" id="t17500228-34-off146-c190" targOrder="Y" targets="t17500228-34-defend253 t17500228-34-off146 t17500228-34-verdict151"></join>
+         
+               <p>218, 219. 
+               
+                  <persName id="t17500228-34-defend252" type="defendantName">
+                     Patrick 
+                     Roney 
+                  <interp inst="t17500228-34-defend252" type="surname" value="Roney"></interp>
+                     <interp inst="t17500228-34-defend252" type="given" value="Patrick"></interp>
+                     <interp inst="t17500228-34-defend252" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               <persName id="t17500228-34-defend253" type="defendantName">
+                  John 
+                  Bastow 
+               <interp inst="t17500228-34-defend253" type="surname" value="Bastow"></interp>
+                     <interp inst="t17500228-34-defend253" type="given" value="John"></interp>
+                     <interp inst="t17500228-34-defend253" type="gender" value="male"></interp>
+                  </persName>
+             , were indicted for that <rs id="t17500228-34-off146" type="offenceDescription">
+                     <interp inst="t17500228-34-off146" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500228-34-off146" type="offenceSubcategory" value="robbery"></interp>
+               they together with J. Norman not yet taken, on the Kings high way, on 
+                     
+                        <persName id="t17500228-34-victim255" type="victimName">
+                           Joseph 
+                           Norfield 
+                        <interp inst="t17500228-34-victim255" type="surname" value="Norfield"></interp>
+                        <interp inst="t17500228-34-victim255" type="given" value="Joseph"></interp>
+                        <interp inst="t17500228-34-victim255" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   did make an an assault, putting him in corporal fear and danger of his life; and taking from him one blue cloth coat lac'd with gold value 3l. one scarlet coat value 3l. a blue silk waistcoat value 10s. one white sattin waistcoat, four linen waistcoats, two pair of breeches, one pair of gloves,<xptr type="pageFacsimile" doc="175002280011"></xptr> six shirts, and other things, the goods of 
+                     
+                        <persName id="t17500228-34-victim257" type="victimName">
+                           Thomas 
+                           Foley 
+                        <interp inst="t17500228-34-victim257" type="surname" value="Foley"></interp>
+                        <interp inst="t17500228-34-victim257" type="given" value="Thomas"></interp>
+                        <interp inst="t17500228-34-victim257" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17500228-34-cd147" type="crimeDate">Jan. 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-34-off146 t17500228-34-cd147"></join>.</p>
+               <p>Jos. Norfield, I am <rs id="t17500228-34-viclabel148" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-34-victim255 t17500228-34-viclabel148"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-34-victim257 t17500228-34-viclabel148"></join> to lieutenant 
+               <persName id="t17500228-34-person258">
+                  Thomas 
+                  Foley 
+               <interp inst="t17500228-34-person258" type="surname" value="Foley"></interp>
+                     <interp inst="t17500228-34-person258" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-34-person258" type="gender" value="male"></interp>
+                  </persName>
+            , I was going from Westminister to the Bell in Warwick-lane, to carry my master's portmanteau. Jan. 27. As I was coming along <placeName id="t17500228-34-crimeloc149">the Strand near Exeter change</placeName>
+                  <interp inst="t17500228-34-crimeloc149" type="placeName" value="the Strand near Exeter change"></interp>
+                  <interp inst="t17500228-34-crimeloc149" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500228-34-off146 t17500228-34-crimeloc149"></join>, Roney ran against me, flung me down; then ask'd my pardon and help'd me up again, then we came talking together along the Strand, coming through Temple-bar he ask'd me to let him carry the portmanteau which he did two or three times, then I let him, he carried it down Fleet-street, near to Fleet-ditch, then a sailor went across the way, he said he had found sixpence, he said as long as you are along with me you shall go in and drink part of it, saying, it shall go as easy as it came, this was 
+               <persName id="t17500228-34-person259">
+                  Patrick 
+                  Roney 
+               <interp inst="t17500228-34-person259" type="surname" value="Roney"></interp>
+                     <interp inst="t17500228-34-person259" type="given" value="Patrick"></interp>
+                     <interp inst="t17500228-34-person259" type="gender" value="male"></interp>
+                  </persName>
+             who ask'd me if I would go in and drink? I said, I did not care if I did. We went down the Fleet-market, so to the Falstaff's-head, in Fleet-lane; they call'd for a pint of beer; as we went in, we met two men both in light colour'd cloths; Bastow was one of them, who said, they had been drinking there these fourteen nights, and nobody came to them; I had not seen him before; then they asked me if I would have a dram, saying, perhaps I lik'd that better than beer; I said, I did not ; then they said, will you have any hot? I said no, I was in a hurry to go; we had drank once round out of a pint of porter ; I can't say which of them asked me to drink a dram, &amp;c. Then I took my portmanteau on my shoulder, and went out of the house, and they came after me. 
+               <persName id="t17500228-34-person260">
+                  John 
+                  Bastow 
+               <interp inst="t17500228-34-person260" type="surname" value="Bastow"></interp>
+                     <interp inst="t17500228-34-person260" type="given" value="John"></interp>
+                     <interp inst="t17500228-34-person260" type="gender" value="male"></interp>
+                  </persName>
+             went before me, and the others after me. Going to turn the corner of Fleet-lane, to go into the market, Roney asked me to let him carry the portmanteau, saying, it was heavy ; I said, no; this was between eleven and twelve o'clock at noon. Bastow laid hold round my neck, and gave me a squeeze to him, and turn'd my head the other way, while Roney took the portmanteau from my shoulder. Then I cry'd out, Thieves! and a mob got all round me, and I was in such a fright, I do not know how they got off. There came up a tradesman to me, and would have me search the King's-arms, thinking they were gone in there. I ran in, and after that into another house or two ; I could not find them. A gentleman told me, he saw them run up Fleet-street; I made the best of my way after them. A little boy came running along with me, and many people ran after me; we ran to the Temple-stairs. I asked the watermen, if they saw any such persons with a portmanteau ? there was one of them, just come from White-fryars, pointed out to a boat in the river, saying, there are the men. I told them, they had robb'd me of that portmanteau. Two boats put off immediately in pursuit of them; the boat that I was in landed at Moulston's dock, on the other side of the water ; we ran all the way by the water-side; the other boat kept down the water, and got to Bank-end as soon as the prisoners were got on the causeway. 
+               <persName id="t17500228-34-person261">
+                  Constantine 
+                  Higgins 
+               <interp inst="t17500228-34-person261" type="surname" value="Higgins"></interp>
+                     <interp inst="t17500228-34-person261" type="given" value="Constantine"></interp>
+                     <interp inst="t17500228-34-person261" type="gender" value="male"></interp>
+                  </persName>
+            , one of the water-men who was landed with me, ran and took hold of Roney, with the portmanteau on his shoulder; I was a little behind, and the others took Bastow ; but I did not see him taken.</p>
+               <p>
+            
+                  <persName id="t17500228-34-person262">
+                  Jane 
+                  Fitz 
+               <interp inst="t17500228-34-person262" type="surname" value="Fitz"></interp>
+                     <interp inst="t17500228-34-person262" type="given" value="Jane"></interp>
+                     <interp inst="t17500228-34-person262" type="gender" value="female"></interp>
+                  </persName>
+            . I live with Mr. Foley's father-in-law; I help'd pack up the things mention'd in the indictment, the night before they were stolen; (mentioning each thing separately.)</p>
+               <p>
+            
+                  <persName id="t17500228-34-person263">
+                  Constantine 
+                  Higgins 
+               <interp inst="t17500228-34-person263" type="surname" value="Higgins"></interp>
+                     <interp inst="t17500228-34-person263" type="given" value="Constantine"></interp>
+                     <interp inst="t17500228-34-person263" type="gender" value="male"></interp>
+                  </persName>
+            . I am a water-man; I ply at Temple-stairs ; the 27th of January, about eleven or twelve at noon, I was in Temple-lane, looking out for my business. Two boys came running down the lane, the last witness was one of them; who, in his fright, had not power to make me an answer when I ply'd them. When he recover'd himself, he asked, if we had not seen two men, describing their dress, with a portmanteau, come down to ask for a boat, &amp;c. saying, he had been robb'd by them, near the Fleet-market. A water-man, who had just landed his boat from White-fryars, said, I'll be hang'd if they are not the two men in that sculler, pointing to one upon the river. Then we put off two boats; two men took the two boys into one boat; the other boat had three men. We got the boys to sit in the bottom of the boat, for fear they should be seen by the prisoners. We push'd on shore at Moulston's-dock, while the other boat, with three men in it, kept in pursuit of them down the water. We ran, and just turning round by Horse-shoe-alley, the prisoners landed at Bank-end; who went round the corner talking together. I came up to them, and took hold of Roney with one hand, and the portmanteau, which was then on his shoulder, with the other. I asked him where he was going? he answer'd, d - n you, what is that to you ? I said, it was to me. Bastow took to his heels ; two of my consorts pursued him and took him in Deadman's-place. Patrick Roney made a push to get off, but was prevented in it. When we took them, they had such cloths on as the boy described.</p>
+               <p>
+            
+                  <persName id="t17500228-34-person264">
+                  John 
+                  Boyce 
+               <interp inst="t17500228-34-person264" type="surname" value="Boyce"></interp>
+                     <interp inst="t17500228-34-person264" type="given" value="John"></interp>
+                     <interp inst="t17500228-34-person264" type="gender" value="male"></interp>
+                  </persName>
+            , the other little boy. I saw the portmanteau on 
+               <persName id="t17500228-34-person265">
+                  Patrick 
+                  Roney 
+               <interp inst="t17500228-34-person265" type="surname" value="Roney"></interp>
+                     <interp inst="t17500228-34-person265" type="given" value="Patrick"></interp>
+                     <interp inst="t17500228-34-person265" type="gender" value="male"></interp>
+                  </persName>
+            's back, just before he<xptr type="pageFacsimile" doc="175002280012"></xptr> was taken ; I was along with Joseph Norfield, in Fleet-market, who told me, two men had robb'd him of a portmanteau; so he and I went up Fleet-street together, and took water as beforementioned.</p>
+               <p>
+            
+                  <persName id="t17500228-34-person266">
+                  Thomas 
+                  Richards 
+               <interp inst="t17500228-34-person266" type="surname" value="Richards"></interp>
+                     <interp inst="t17500228-34-person266" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-34-person266" type="gender" value="male"></interp>
+                  </persName>
+            . I am a waterman, and ply at Temple-stairs. He confirmed Higgin's account, as to manning out two boats, and pursuing, and also when Higgins took hold of Roney, Bastow ran away up towards Deadman's-place; that he and Christopher Armorer ran after and took him, and brought him back; and the boy declared, he was one, and that one had a light colour'd coat, and the other a blue-grey, as the boy had described them.</p>
+               <p>
+            
+                  <persName id="t17500228-34-person267">
+                  Christopher 
+                  Armorrer 
+               <interp inst="t17500228-34-person267" type="surname" value="Armorrer"></interp>
+                     <interp inst="t17500228-34-person267" type="given" value="Christopher"></interp>
+                     <interp inst="t17500228-34-person267" type="gender" value="male"></interp>
+                  </persName>
+            . I was in the boat with Higgins and the two boys. He went on, and confirmed all that had been said by the other watermen.</p>
+               <p>
+            
+                  <persName id="t17500228-34-person268">
+                  John 
+                  Chandler 
+               <interp inst="t17500228-34-person268" type="surname" value="Chandler"></interp>
+                     <interp inst="t17500228-34-person268" type="given" value="John"></interp>
+                     <interp inst="t17500228-34-person268" type="gender" value="male"></interp>
+                  </persName>
+            . I was in the boat with 
+               <persName id="t17500228-34-person269">
+                  Thomas 
+                  Richards 
+               <interp inst="t17500228-34-person269" type="surname" value="Richards"></interp>
+                     <interp inst="t17500228-34-person269" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-34-person269" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17500228-34-person270">
+                  Henry 
+                  Burkett 
+               <interp inst="t17500228-34-person270" type="surname" value="Burkett"></interp>
+                     <interp inst="t17500228-34-person270" type="given" value="Henry"></interp>
+                     <interp inst="t17500228-34-person270" type="gender" value="male"></interp>
+                  </persName>
+             ; we landed within four minutes time after the prisoners. He confirmed the other witnesses relation, saying, Roney made a push to get away after Higgins had taken hold of him, but that Burkett and himself prevented him.</p>
+               <p>
+            
+                  <persName id="t17500228-34-person271">
+                  Henry 
+                  Burkett 
+               <interp inst="t17500228-34-person271" type="surname" value="Burkett"></interp>
+                     <interp inst="t17500228-34-person271" type="given" value="Henry"></interp>
+                     <interp inst="t17500228-34-person271" type="gender" value="male"></interp>
+                  </persName>
+            . I had carried a fare from the Old Bargehouse to White-fryars, a man and a woman; they told me they should stay about two hours, and if they saw me they would go with me back; I rowed up to the Temple, thinking I had time enough to get another fare before they returned. I kept my eye upon White-friars causeway while I was at the Temple-stairs, there I saw a man in white coat come down, and another in a blue-grey coat after him, with a portmanteau on his shoulder. The boy came down asking after two such men, saying he had been robbed, &amp;c. Said I, I'll be hanged if they are not the two men, then we mann'd two boats. The rest as the former witnesses.</p>
+               <p>
+            
+                  <persName id="t17500228-34-person272">
+                  Thomas 
+                  Ingram 
+               <interp inst="t17500228-34-person272" type="surname" value="Ingram"></interp>
+                     <interp inst="t17500228-34-person272" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-34-person272" type="gender" value="male"></interp>
+                  </persName>
+            . I am a waterman, and ply at White-sriars. The two prisoners at the bar came down there, and I plyed them Jan 27. Bastow answered when I plyed, taking them into the boat. Said Bastow, pray lend my servant a hand into the boat, (meaning Roney with the portmanteau) which I did. I asked them where they would land? they said, row downwards; I said whereabouts? they said, Pull down. I said, on which side? they said, On the other side. When I got against Horseshoe-alley they bid me pull in there; I was got farther down towards Bank-end, so I landed them there. Bastow said, what must I give you? I said he paid me, and away they went. The other boat with the three watermen put in about three minutes after they were landed.</p>
+               <p>Roney's Defence. I carried the portmanteau into the house in Fleet-lane. So I said I would carry it out, which I did. When I was got into the Market I lost the boy ; I was told he was gone up Fleet-street, so I ran up Fleet-street, then I was told he had taken water, and gone to the George in the Borough : I took boat to go there with the portmanteau to enquire for him, and they stopp'd me.</p>
+               <p>
+            
+                  <persName id="t17500228-34-person273">
+                  Joseph 
+                  Norfield 
+               <interp inst="t17500228-34-person273" type="surname" value="Norfield"></interp>
+                     <interp inst="t17500228-34-person273" type="given" value="Joseph"></interp>
+                     <interp inst="t17500228-34-person273" type="gender" value="male"></interp>
+                  </persName>
+            . There was a direction to the Bell in Warwick-lane, but the prisoners had taken that off.</p>
+               <p>Bastow's Defence. I never set eyes on Roney before I was going into the boat in my life, I am a <rs id="t17500228-34-deflabel150" type="occupation">cooper</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-34-defend253 t17500228-34-deflabel150"></join> by trade, and I was going to the other side of the water to enquire for business, and happened to go in the same boat.</p>
+               <p>Both <rs id="t17500228-34-verdict151" type="verdictDescription">
+                     <interp inst="t17500228-34-verdict151" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, <rs id="t17500228-34-punish152" type="punishmentDescription">
+                     <interp inst="t17500228-34-punish152" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-34-defend252 t17500228-34-punish152"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-34-defend253 t17500228-34-punish152"></join>
+               Death
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-19">
+               <interp inst="t17500228-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-19" type="year" value="1750"></interp>
+               <interp inst="t17500228-19" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-19" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-19-off75-c88" targOrder="Y" targets="t17500228-19-defend122 t17500228-19-off75 t17500228-19-verdict77"></join>
+         
+               <p>198. 
+               
+                  <persName id="t17500228-19-defend122" type="defendantName">
+                     James 
+                     Blanthorn 
+                  <interp inst="t17500228-19-defend122" type="surname" value="Blanthorn"></interp>
+                     <interp inst="t17500228-19-defend122" type="given" value="James"></interp>
+                     <interp inst="t17500228-19-defend122" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500228-19-off75" type="offenceDescription">
+                     <interp inst="t17500228-19-off75" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-19-off75" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing two cloth coats, val. 2 l. one alapeen waistcoat, val. 20 s. the goods of 
+                     
+                        <persName id="t17500228-19-victim124" type="victimName">
+                           William 
+                           Rowland 
+                        <interp inst="t17500228-19-victim124" type="surname" value="Rowland"></interp>
+                        <interp inst="t17500228-19-victim124" type="given" value="William"></interp>
+                        <interp inst="t17500228-19-victim124" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and 
+                     
+                        <persName id="t17500228-19-victim126" type="victimName">
+                           James 
+                           Bouger 
+                        <interp inst="t17500228-19-victim126" type="surname" value="Bouger"></interp>
+                        <interp inst="t17500228-19-victim126" type="given" value="James"></interp>
+                        <interp inst="t17500228-19-victim126" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , in the dwelling-house of 
+                     <persName id="t17500228-19-person127">
+                        James 
+                        Ling 
+                     <interp inst="t17500228-19-person127" type="surname" value="Ling"></interp>
+                        <interp inst="t17500228-19-person127" type="given" value="James"></interp>
+                        <interp inst="t17500228-19-person127" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17500228-19-cd76" type="crimeDate">Sept. 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-19-off75 t17500228-19-cd76"></join>.</p>
+               <p>
+                  <rs id="t17500228-19-verdict77" type="verdictDescription">
+                     <interp inst="t17500228-19-verdict77" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500228-19-verdict77" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty, 39 s
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-19-punish78" type="punishmentDescription">
+                     <interp inst="t17500228-19-punish78" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-19-defend122 t17500228-19-punish78"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

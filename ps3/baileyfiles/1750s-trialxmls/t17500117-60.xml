@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-60">
+               <interp inst="t17500117-60" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-60" type="year" value="1750"></interp>
+               <interp inst="t17500117-60" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-60" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-60-off260-c319" targOrder="Y" targets="t17500117-60-defend433 t17500117-60-off260 t17500117-60-verdict261"></join>
+         
+               <p>177. 
+               
+                  <persName id="t17500117-60-defend433" type="defendantName">
+                     Thomas 
+                     Upton 
+                  <interp inst="t17500117-60-defend433" type="surname" value="Upton"></interp>
+                     <interp inst="t17500117-60-defend433" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-60-defend433" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-60-off260" type="offenceDescription">
+                     <interp inst="t17500117-60-off260" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17500117-60-off260" type="offenceSubcategory" value="perjury"></interp>
+               wilful and corrupt perjury
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-60-verdict261" type="verdictDescription">
+                     <interp inst="t17500117-60-verdict261" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17500117-60-verdict261" type="verdictSubcategory" value="noProsecutor"></interp>
+               The Prosecutor not appearing, he was acquitted
+            </rs>.</p>
+            </div1>

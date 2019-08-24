@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-6">
+               <interp inst="t17500228-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-6" type="year" value="1750"></interp>
+               <interp inst="t17500228-6" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-6" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-6-off22-c48" targOrder="Y" targets="t17500228-6-defend59 t17500228-6-off22 t17500228-6-verdict24"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175002280003"></xptr>183. 
+               
+                  <persName id="t17500228-6-defend59" type="defendantName">
+                     John 
+                     Chilton 
+                  <interp inst="t17500228-6-defend59" type="surname" value="Chilton"></interp>
+                     <interp inst="t17500228-6-defend59" type="given" value="John"></interp>
+                     <interp inst="t17500228-6-defend59" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500228-6-off22" type="offenceDescription">
+                     <interp inst="t17500228-6-off22" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-6-off22" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a quantity of old Iron, belonging to gates, carts, and ploughs
+            </rs>, the goods of 
+               
+                  <persName id="t17500228-6-victim61" type="victimName">
+                     John 
+                     Freeman 
+                  <interp inst="t17500228-6-victim61" type="surname" value="Freeman"></interp>
+                     <interp inst="t17500228-6-victim61" type="given" value="John"></interp>
+                     <interp inst="t17500228-6-victim61" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500228-6-off22 t17500228-6-victim61"></join>
+                  </persName>
+                
+            , and others, <rs id="t17500228-6-cd23" type="crimeDate">Feb. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-6-off22 t17500228-6-cd23"></join>.</p>
+               <p>
+                  <rs id="t17500228-6-verdict24" type="verdictDescription">
+                     <interp inst="t17500228-6-verdict24" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500228-6-verdict24" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty. 10 d
+            </rs>.</p>
+            </div1>

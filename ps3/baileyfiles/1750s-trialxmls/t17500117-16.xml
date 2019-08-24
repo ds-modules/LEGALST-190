@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-16">
+               <interp inst="t17500117-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-16" type="year" value="1750"></interp>
+               <interp inst="t17500117-16" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-16" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-16-off67-c102" targOrder="Y" targets="t17500117-16-defend138 t17500117-16-off67 t17500117-16-verdict69"></join>
+               <join result="criminalCharge" id="t17500117-16-off67-c103" targOrder="Y" targets="t17500117-16-defend140 t17500117-16-off67 t17500117-16-verdict69"></join>
+         
+               <p>127, 128. 
+               
+                  <persName id="t17500117-16-defend138" type="defendantName">
+                     Samuel 
+                     Taylor 
+                  <interp inst="t17500117-16-defend138" type="surname" value="Taylor"></interp>
+                     <interp inst="t17500117-16-defend138" type="given" value="Samuel"></interp>
+                     <interp inst="t17500117-16-defend138" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17500117-16-defend140" type="defendantName">
+                     William 
+                     Joyner 
+                  <interp inst="t17500117-16-defend140" type="surname" value="Joyner"></interp>
+                     <interp inst="t17500117-16-defend140" type="given" value="William"></interp>
+                     <interp inst="t17500117-16-defend140" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17500117-16-off67" type="offenceDescription">
+                     <interp inst="t17500117-16-off67" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-16-off67" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing twelve ten Foot double Deals, val. 10 s. and ten Deal Battins, val. 5 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17500117-16-victim142" type="victimName">
+                     John 
+                     Riggs 
+                  <interp inst="t17500117-16-victim142" type="surname" value="Riggs"></interp>
+                     <interp inst="t17500117-16-victim142" type="given" value="John"></interp>
+                     <interp inst="t17500117-16-victim142" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-16-off67 t17500117-16-victim142"></join>
+                  </persName>
+                
+            , <rs id="t17500117-16-cd68" type="crimeDate">Jan. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-16-off67 t17500117-16-cd68"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-16-person143">
+                  John 
+                  Riggs 
+               <interp inst="t17500117-16-person143" type="surname" value="Riggs"></interp>
+                     <interp inst="t17500117-16-person143" type="given" value="John"></interp>
+                     <interp inst="t17500117-16-person143" type="gender" value="male"></interp>
+                  </persName>
+            . The Goods landed at Shadwell, I believe, are mine, the mate of the Ship will give the Court an Account of them.</p>
+               <p>
+            
+                  <persName id="t17500117-16-person144">
+                  James 
+                  Eley 
+               <interp inst="t17500117-16-person144" type="surname" value="Eley"></interp>
+                     <interp inst="t17500117-16-person144" type="given" value="James"></interp>
+                     <interp inst="t17500117-16-person144" type="gender" value="male"></interp>
+                  </persName>
+            . I am a Watchman; I was going my bear, crying the Hour of Eleven o'Clock at<xptr type="pageFacsimile" doc="175001170006"></xptr> night, the 5th of January; my Brother Watchman desired me to step that way, which I did; he gave me charge of Taylor; a little time after this came 
+               <persName id="t17500117-16-person145">
+                  William 
+                  Joyner 
+               <interp inst="t17500117-16-person145" type="surname" value="Joyner"></interp>
+                     <interp inst="t17500117-16-person145" type="given" value="William"></interp>
+                     <interp inst="t17500117-16-person145" type="gender" value="male"></interp>
+                  </persName>
+            , and said to Taylor, how many have you carried; Taylor said, d - n you, I am taken into custody; Joyner said, for what ? for looking for the bitch my wife, said he; Joyner asked which wife; he said 
+               <persName id="t17500117-16-person146">
+                  Jenny 
+                  Joyner 
+               <interp inst="t17500117-16-person146" type="surname" value="Joyner"></interp>
+                     <interp inst="t17500117-16-person146" type="given" value="Jenny"></interp>
+                     <interp inst="t17500117-16-person146" type="gender" value="female"></interp>
+                  </persName>
+             said these deals were his, he had taken them up a-drift, and might have had as many more at Ratcliff, saying, he had sunk one boat in bringing them.</p>
+               <p>
+            
+                  <persName id="t17500117-16-person147">
+                  Richard 
+                  Herbert 
+               <interp inst="t17500117-16-person147" type="surname" value="Herbert"></interp>
+                     <interp inst="t17500117-16-person147" type="given" value="Richard"></interp>
+                     <interp inst="t17500117-16-person147" type="gender" value="male"></interp>
+                  </persName>
+            . The 5th of January, after 10 o'Clock, as I was going my Round, I saw some deals lying in George Alley; at the Hour of 11 I came again, there were 12 deals about 10 feet long, then I called to my brother watchman and desired he'd make haste round; then Mr. Lunn came out of his house, to whom I said all these were brought on shore since 10 o'Clock; he desired me to go to Mr. Ludwell ; when he and I came there, the two Prisoners were there; Mr. Lunn asked them whose Property they were, they said they took them up a drift, and that they had sunk a boat near Ratcliff, or they might have taken up many more.</p>
+               <p>Q. Were any of them wet?</p>
+               <p>Herbert. There were but two that was so.</p>
+               <p>Mr. Lunn deposed as the last witness.</p>
+               <p>
+            
+                  <persName id="t17500117-16-person148">
+                  John 
+                  Luddwell 
+               <interp inst="t17500117-16-person148" type="surname" value="Luddwell"></interp>
+                     <interp inst="t17500117-16-person148" type="given" value="John"></interp>
+                     <interp inst="t17500117-16-person148" type="gender" value="male"></interp>
+                  </persName>
+             the same, with this Addition, that the Prisoners said, they took them up near King and Queen stairs, which it was impossible to do at that time, the tide running to carry them the other way; the deals lay in a barge at Rotherhive Church, and they had got the deals in a position ready to carry them away when he came to them, and when the deals were taken out of the barge there wanted 22 of the number.</p>
+               <p>
+            
+                  <persName id="t17500117-16-person149">
+                  Thomas 
+                  Bedlington 
+               <interp inst="t17500117-16-person149" type="surname" value="Bedlington"></interp>
+                     <interp inst="t17500117-16-person149" type="given" value="Thomas"></interp>
+                     <interp inst="t17500117-16-person149" type="gender" value="male"></interp>
+                  </persName>
+            . I am mate of the William and Jane belonging to Whitby ; in the morning after these deals were landed at Shadwell, I found there were deals and battens gone from on board the barge. I hearing there were deals landed at Shadwell, I went to see them, and I found them to be Mr. Riggs's property, part of the cargo which I brought from Christiana in Norway ; I know them by the mark at the ends, which was with red, and several stroaks downwards, and by their thickness, and being yellow wood; the Prisoners could not take them up had they been over-board at that time in the place they mention, the tide then running the wrong way; they could not be taken out of the barge without the help of hands.</p>
+               <p>Both <rs id="t17500117-16-verdict69" type="verdictDescription">
+                     <interp inst="t17500117-16-verdict69" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-16-punish70" type="punishmentDescription">
+                     <interp inst="t17500117-16-punish70" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-16-defend138 t17500117-16-punish70"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-16-defend140 t17500117-16-punish70"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

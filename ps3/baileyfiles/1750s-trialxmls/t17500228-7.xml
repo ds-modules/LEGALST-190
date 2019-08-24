@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-7">
+               <interp inst="t17500228-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-7" type="year" value="1750"></interp>
+               <interp inst="t17500228-7" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-7" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-7-off25-c50" targOrder="Y" targets="t17500228-7-defend63 t17500228-7-off25 t17500228-7-verdict28"></join>
+         
+               <p>184. 
+               
+                  <persName id="t17500228-7-defend63" type="defendantName">
+                     William 
+                     Fry 
+                  <interp inst="t17500228-7-defend63" type="surname" value="Fry"></interp>
+                     <interp inst="t17500228-7-defend63" type="given" value="William"></interp>
+                     <interp inst="t17500228-7-defend63" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500228-7-off25" type="offenceDescription">
+                     <interp inst="t17500228-7-off25" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-7-off25" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing one Gelding, val. 11 s. 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17500228-7-victim65" type="victimName">
+                     Walter 
+                     Langton 
+                  <interp inst="t17500228-7-victim65" type="surname" value="Langton"></interp>
+                     <interp inst="t17500228-7-victim65" type="given" value="Walter"></interp>
+                     <interp inst="t17500228-7-victim65" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500228-7-off25 t17500228-7-victim65"></join>
+                  </persName>
+                
+            , <rs id="t17500228-7-cd26" type="crimeDate">Nov. 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-7-off25 t17500228-7-cd26"></join>.</p>
+               <p>
+            
+                  <persName id="t17500228-7-person66">
+                  Nathan 
+                  Gunnel 
+               <interp inst="t17500228-7-person66" type="surname" value="Gunnel"></interp>
+                     <interp inst="t17500228-7-person66" type="given" value="Nathan"></interp>
+                     <interp inst="t17500228-7-person66" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to Mr. Langton. This horse was stolen out of his stable at <placeName id="t17500228-7-crimeloc27">Cockham, in Berkshire</placeName>
+                  <interp inst="t17500228-7-crimeloc27" type="placeName" value="Cockham, in Berkshire"></interp>
+                  <interp inst="t17500228-7-crimeloc27" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500228-7-off25 t17500228-7-crimeloc27"></join>, Nov. 26. I came up to London to look for him, and found him at Knightsbridge, upon the road, in a team, on the 2d of December. Although he is blind, in his place, we value him at about 5 l.</p>
+               <p>
+            
+                  <persName id="t17500228-7-person67">
+                  William 
+                  Griffith 
+               <interp inst="t17500228-7-person67" type="surname" value="Griffith"></interp>
+                     <interp inst="t17500228-7-person67" type="given" value="William"></interp>
+                     <interp inst="t17500228-7-person67" type="gender" value="male"></interp>
+                  </persName>
+            . I am a Collar-maker; the prisoner at the bar sold me the horse without shoes, with a bridle, saddle, and collar, for 10 s. 6 d. and, as Mr. Mason lives near me. I begg'd the favour of him to let him stand in his stable till I had an opportunity to kill him, and also told him, he might work him if he pleas'd: So he was found under his cart by the former witness. He was a poor object indeed, blind, swell'd legs, and had had the pole-evil.</p>
+               <p>
+            
+                  <persName id="t17500228-7-person68">
+                  David 
+                  Morris 
+               <interp inst="t17500228-7-person68" type="surname" value="Morris"></interp>
+                     <interp inst="t17500228-7-person68" type="given" value="David"></interp>
+                     <interp inst="t17500228-7-person68" type="gender" value="male"></interp>
+                  </persName>
+            . I keep the coach and horses in Swan-yard, facing Somerset-house; the prisoner at the bar brought this horse to my stable about the 26th or 27th of November; he staid there two Nights. Mr. Griffith came to my house the 29th to buy him; the prisoner and he did not then agree; the prisoner seem'd to have no money; he went out, and at his return, said he had sold the horse for a guinea and a half; and said he had not money to pay me for his keeping; but if I would go with him, I should be paid, when he went to deliver the horse. When I came to Mr. Griffith, I then found he had sold the horse but for half a guinea; out of which he paid me about 8 s. for the horse and himself.</p>
+               <p>
+            
+                  <persName id="t17500228-7-person69">
+                  Sarah 
+                  Dent 
+               <interp inst="t17500228-7-person69" type="surname" value="Dent"></interp>
+                     <interp inst="t17500228-7-person69" type="given" value="Sarah"></interp>
+                     <interp inst="t17500228-7-person69" type="gender" value="female"></interp>
+                  </persName>
+             depos'd, she chang'd a guinea for Mr. Griffith, and saw him, out of the change, pay the prisoner 10 s. 6 d. for the horse.</p>
+               <p>
+                  <rs id="t17500228-7-verdict28" type="verdictDescription">
+                     <interp inst="t17500228-7-verdict28" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17500228-7-punish29" type="punishmentDescription">
+                     <interp inst="t17500228-7-punish29" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-7-defend63 t17500228-7-punish29"></join>
+               Death
+            </rs>.</p>
+            </div1>

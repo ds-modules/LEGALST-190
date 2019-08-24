@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-3">
+               <interp inst="t17500228-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-3" type="year" value="1750"></interp>
+               <interp inst="t17500228-3" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-3" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-3-off11-c40" targOrder="Y" targets="t17500228-3-defend45 t17500228-3-off11 t17500228-3-verdict13"></join>
+         
+               <p>180. 
+               
+                  <persName id="t17500228-3-defend45" type="defendantName">
+                     James 
+                     Burr 
+                  <interp inst="t17500228-3-defend45" type="surname" value="Burr"></interp>
+                     <interp inst="t17500228-3-defend45" type="given" value="James"></interp>
+                     <interp inst="t17500228-3-defend45" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500228-3-off11" type="offenceDescription">
+                     <interp inst="t17500228-3-off11" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-3-off11" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing four hempen Sacks, val. 8 s.
+            </rs> the goods of 
+               
+                  <persName id="t17500228-3-victim47" type="victimName">
+                     Michael 
+                     Colenet 
+                  <interp inst="t17500228-3-victim47" type="surname" value="Colenet"></interp>
+                     <interp inst="t17500228-3-victim47" type="given" value="Michael"></interp>
+                     <interp inst="t17500228-3-victim47" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500228-3-off11 t17500228-3-victim47"></join>
+                  </persName>
+                
+            , <rs id="t17500228-3-cd12" type="crimeDate">Feb. 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-3-off11 t17500228-3-cd12"></join>.</p>
+               <p>
+                  <rs id="t17500228-3-verdict13" type="verdictDescription">
+                     <interp inst="t17500228-3-verdict13" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500228-3-verdict13" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-3-punish14" type="punishmentDescription">
+                     <interp inst="t17500228-3-punish14" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17500228-3-punish14" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-3-defend45 t17500228-3-punish14"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

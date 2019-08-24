@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-31">
+               <interp inst="t17500228-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-31" type="year" value="1750"></interp>
+               <interp inst="t17500228-31" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-31" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-31-off129-c171" targOrder="Y" targets="t17500228-31-defend227 t17500228-31-off129 t17500228-31-verdict130"></join>
+         
+               <p>212. 
+               
+                  <persName id="t17500228-31-defend227" type="defendantName">
+                     John 
+                     Doe 
+                  <interp inst="t17500228-31-defend227" type="surname" value="Doe"></interp>
+                     <interp inst="t17500228-31-defend227" type="given" value="John"></interp>
+                     <interp inst="t17500228-31-defend227" type="gender" value="male"></interp>
+                  </persName>
+               
+            , <placeName id="t17500228-31-defloc128">late of Norwich</placeName>
+                  <interp inst="t17500228-31-defloc128" type="placeName" value="late of Norwich"></interp>
+                  <interp inst="t17500228-31-defloc128" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17500228-31-defend227 t17500228-31-defloc128"></join>, was indicted for <rs id="t17500228-31-off129" type="offenceDescription">
+                     <interp inst="t17500228-31-off129" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t17500228-31-off129" type="offenceSubcategory" value="other"></interp>
+               not surrendering himself according to the King's order in council
+            </rs>.</p>
+               <p>This was the same with the last, and that of 
+               <persName id="t17500228-31-person228">
+                  Cobold
+               <interp inst="t17500228-31-person228" type="given" value="Cobold"></interp>
+                     <interp inst="t17500228-31-person228" type="gender" value="indeterminate"></interp>
+                  </persName>
+            . <rs id="t17500228-31-verdict130" type="verdictDescription">
+                     <interp inst="t17500228-31-verdict130" type="verdictCategory" value="guilty"></interp>
+               The issues were found for the King
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-31-punish131" type="punishmentDescription">
+                     <interp inst="t17500228-31-punish131" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-31-defend227 t17500228-31-punish131"></join>
+               Death
+            </rs>.</p>
+            </div1>

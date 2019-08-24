@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500117-58">
+               <interp inst="t17500117-58" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500117-58" type="year" value="1750"></interp>
+               <interp inst="t17500117-58" type="uri" value="sessionsPapers/17500117"></interp>
+               <interp inst="t17500117-58" type="date" value="17500117"></interp>
+               <join result="criminalCharge" id="t17500117-58-off251-c312" targOrder="Y" targets="t17500117-58-defend423 t17500117-58-off251 t17500117-58-verdict254"></join>
+         
+               <p>175. 
+               
+                  <persName id="t17500117-58-defend423" type="defendantName">
+                     William 
+                     Turner 
+                  <interp inst="t17500117-58-defend423" type="surname" value="Turner"></interp>
+                     <interp inst="t17500117-58-defend423" type="given" value="William"></interp>
+                     <interp inst="t17500117-58-defend423" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500117-58-off251" type="offenceDescription">
+                     <interp inst="t17500117-58-off251" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500117-58-off251" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing one linnen handkerchief, val. 6 d. one yarn stocking, val. 2 d.
+            </rs> the goods of 
+               
+                  <persName id="t17500117-58-victim425" type="victimName">
+                     Richard 
+                     Wilding 
+                  <interp inst="t17500117-58-victim425" type="surname" value="Wilding"></interp>
+                     <interp inst="t17500117-58-victim425" type="given" value="Richard"></interp>
+                     <interp inst="t17500117-58-victim425" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500117-58-off251 t17500117-58-victim425"></join>
+                  </persName>
+                
+            , <rs id="t17500117-58-cd252" type="crimeDate">Jan. 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500117-58-off251 t17500117-58-cd252"></join>.</p>
+               <p>
+            
+                  <persName id="t17500117-58-person426">
+                  Richard 
+                  Wilding 
+               <interp inst="t17500117-58-person426" type="surname" value="Wilding"></interp>
+                     <interp inst="t17500117-58-person426" type="given" value="Richard"></interp>
+                     <interp inst="t17500117-58-person426" type="gender" value="male"></interp>
+                  </persName>
+            . On Monday night, the first of January, I was coming over London-bridge with a hamper on my shoulder, full of men's wearing apparel: At the corner of St. Magnus Church, there were the prisoner, two men, and a woman; he walked in the middle of them. I push'd by them; but had not got above <placeName id="t17500117-58-crimeloc253">10 yards over Thames street</placeName>
+                  <interp inst="t17500117-58-crimeloc253" type="placeName" value="10 yards over Thames street"></interp>
+                  <interp inst="t17500117-58-crimeloc253" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500117-58-off251 t17500117-58-crimeloc253"></join>, coming up the hill, before I heard my keys in my pocket chink, and putting my hand down, felt the prisoner's hand in my pocket. I had in that pocket with the keys, one stocking and a handkerchief. I held him fas the hand ; there was a light, over the way, at a fish monger's; I set my hamper down, and he desir'd to be searched. A gentleman coming<xptr type="pageFacsimile" doc="175001170020"></xptr> by, bade me carry him to a constable; I said, I was afraid of losing my hamper ; said he, I'll be security for that. I charged a Constable with him, and he was sent to the Compter ; and the next day he was examined before Sir 
+               <persName id="t17500117-58-person427">
+                  Joseph 
+                  Hankey 
+               <interp inst="t17500117-58-person427" type="surname" value="Hankey"></interp>
+                     <interp inst="t17500117-58-person427" type="given" value="Joseph"></interp>
+                     <interp inst="t17500117-58-person427" type="gender" value="male"></interp>
+                  </persName>
+            . None of the things have been found again.</p>
+               <p>
+                  <rs id="t17500117-58-verdict254" type="verdictDescription">
+                     <interp inst="t17500117-58-verdict254" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500117-58-punish255" type="punishmentDescription">
+                     <interp inst="t17500117-58-punish255" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500117-58-defend423 t17500117-58-punish255"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
